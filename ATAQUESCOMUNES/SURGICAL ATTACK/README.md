@@ -79,3 +79,18 @@ Un ejemplo destacado de ransomware es el ataque de **WannaCry** en 2017, que afe
 2.  **Keralty (Sanitas)**  
     A finales de 2022, la empresa de salud sufrió un ciberataque que comprometió sus sistemas, afectando la prestación de servicios médicos y exponiendo datos sensibles de pacientes.  
     Fuente: [Infobae](https://www.infobae.com/america/tecno/2023/01/02/las-34-empresas-que-fueron-hackeadas-en-colombia-durante-2022/?utm_source=chatgpt.com).
+
+    ##DENIAL OF SERVICE (DOS)
+
+    ![DENIAL OF SERVICE (DOS)](https://github.com/user-attachments/assets/c0c27979-1bf2-4608-aa36-727fd76996cc)
+
+    Fuente:file:///C:/Users/ivanf/Desktop/CURSO%20CEM-2025/MATERIAS/ANTICIPACI%C3%93N%20DE%20AMENAZAS%20CIBERN%C3%89TICAS/DENIAL%20OF%20SERVICE%20(DOS).png
+
+Un **ataque de Denegación de Servicio (DoS)** es un tipo de ataque cibernético diseñado para interrumpir o inhabilitar el funcionamiento normal de un sistema, servicio o red, haciéndolo inaccesible para los usuarios legítimos. El objetivo principal de un **ataque DoS** es saturar los recursos del sistema objetivo, como el ancho de banda de la red, la capacidad de procesamiento del servidor o la memoria del sistema.
+
+En un **ataque DoS** típico, el atacante envía una gran cantidad de solicitudes o tráfico malicioso al objetivo, sobrecargando su capacidad para responder. Esto puede resultar en una ralentización significativa del servicio o, en casos extremos, en su completa interrupción.
+
+Es importante destacar que existe una variante más sofisticada llamada ataque de **Denegación de Servicio Distribuido (DDoS)**, donde múltiples fuentes, a menudo una red de computadoras infectadas (botnet), se utilizan para lanzar el ataque de manera coordinada, amplificando así su impacto y dificultando su mitigación.
+
+Los **ataques DoS** pueden tener consecuencias graves, especialmente para empresas y organizaciones que dependen de la disponibilidad continua de sus servicios en línea, resultando en pérdidas financieras, daño a la reputación y problemas de seguridad.
+
