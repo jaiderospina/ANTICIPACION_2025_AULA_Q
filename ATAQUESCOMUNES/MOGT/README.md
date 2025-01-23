@@ -175,13 +175,68 @@ GoAccess: Análisis en tiempo real de logs.
 Graylog o ELK Stack (Elasticsearch, Logstash, Kibana): Para centralizar y analizar patrones de tráfico.
 
 
+## ZERO DAY EXPLOITS 7 (MY. OBANDO)
+
+### DESCRIPCIÓN GENERAL
+Un zero day exploits o vulnerabilidad de día cero es un fallo de seguridad informática que nunca se había visto antes. Por lo general, un atacante sondea a un sistema hasta que descubre una vulnerabilidad.
+MECANISMO DE ATAQUE
+Un ataque de día cero se produce cuando los agentes maliciosos obtienen acceso a un sistema o red aprovechando una vulnerabilidad o debilidad de seguridad en un programa de software que el fabricante de este no conoce, lo que le deja “cero días” para solucionar el problema.
+
+### IOC (INDICADOR DE COMPROMISO)
+1.	Presencia de archivos ejecutables desconocidos o recientemente creados.
+2.	Procesos en ejecución que no coinciden con los patrones normales del sistema.
+3.	Modificaciones en archivos del sistema o registros sin autorización.
+
+### ESTRATEGIAS DE MITIGACIÓN
+Segmentación de Red y Acceso Controlado
+1.	Microsegmentación: Divide la red en segmentos más pequeños para limitar la propagación de un ataque.
+2.	Control de Acceso: Implementa el principio de menor privilegio, asegurándote de que usuarios y aplicaciones solo tengan los permisos estrictamente necesarios.
+3.	Firewalls y ACLs: Configura reglas estrictas para controlar el tráfico entrante y saliente.
+
+### RECURSOS
+Sistemas de Monitoreo Avanzado
+1.	EDR (Endpoint Detection and Response): Herramientas como:
+2.	CrowdStrike Falcon
+3.	Microsoft Defender for Endpoint
+4.	Sentinel One Estas herramientas monitorizan el comportamiento de los endpoints en busca de actividades anómalas y técnicas de explotación
+
+## DNS SPOOFING 8 (MY. OBANDO)
+
+### DESCRIPCIÓN GENERAL
+El DNS spoofing, o suplantación de DNS, es el proceso de alterar entradas en un servidor de DNS para redirigir a un usuario específico a una web malintencionada que está bajo control del atacante.
+MECANISMO DE ATAQUE
+Consiste en manipular la resolución DNS para redirigir a los usuarios hacia sitios web fraudulentos. 
+
+### IOC (INDICADOR DE COMPROMISO)
+1.	Respuestas DNS con direcciones IP desconocidas o que no coinciden con los registros esperados (por ejemplo, direcciones IP fuera del rango legítimo del proveedor de servicios).
+2.	Múltiples respuestas a una consulta única (indicativo de posibles ataques de envenenamiento de caché).
+
+### ESTRATEGIAS DE MITIGACIÓN
+Implementar DNSSEC (Domain Name System Security Extensions)
+1.	Qué hace: DNSSEC utiliza firmas digitales para garantizar la autenticidad y la integridad de las respuestas DNS, previniendo manipulaciones.
+2.	Cómo implementarlo:
+
+•	Habilita DNSSEC en tu servidor DNS autoritativo.
+•	Asegúrate de que los clientes que consultan tu servidor soporten validación DNSSEC.
+
+### RECURSOS
+Estas herramientas te permiten analizar el tráfico DNS y detectar anomalías:
+1.	Wireshark:
+•	Captura y analiza el tráfico DNS en tiempo real.
+•	Busca discrepancias entre las solicitudes DNS enviadas y las respuestas recibidas (por ejemplo, direcciones IP que no corresponden con los dominios legítimos).
+2.	DNSQuerySniffer:
+•	Monitorea y muestra consultas DNS realizadas por tu sistema.
+•	Detecta consultas que devuelven IPs maliciosas o inesperadas.
+3.	Fiddler o Burp Suite:
+•	Analizan el tráfico de red y permiten inspeccionar si el tráfico está siendo redirigido a servidores no legítimos
 
 
-***
 
-## TÍTULO DE PRUEBA 4 (MY. OBANDO)
-ataque 1
-ataque 2
-atqye 3
 
-***
+
+
+
+
+
+
+
