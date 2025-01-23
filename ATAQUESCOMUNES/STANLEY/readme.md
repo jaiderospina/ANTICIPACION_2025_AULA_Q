@@ -1,4 +1,4 @@
-# **INTEGRANTES DEL GRUPO**
+****# **INTEGRANTES DEL GRUPO**
 ## **Manuel Ricardo Rey Rios**
 ## **Rubén Dario Contreras Caballero**
 ## **Fabian Esteban Cano Jaime**
@@ -77,7 +77,7 @@ El **phishing** es un tipo de ciberataque en el que los atacantes intentan enga�
 
 # ¿Qué es un Ransomware?
 
-<div style="background-color: #FF0000; padding: 10px; color: white; border-radius: 5px;">
+<div style="background-color: #e8f5e9; padding: 10px; color: white; border-radius: 5px;">
 Un **ransomware** es un tipo de software malicioso (malware) que cifra los archivos de una víctima y exige un pago (generalmente en criptomonedas) para restablecer el acceso a los datos. Los atacantes suelen usar este método para extorsionar a empresas y personas, causando pérdidas económicas y problemas operativos significativos.
 </div>
 
