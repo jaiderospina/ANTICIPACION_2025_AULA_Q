@@ -25,7 +25,7 @@ Las amenazas cibernéticas abarcan una amplia gama de actividades maliciosas, de
 </tbody>
 </table>
 
-**1. PHISHING**
+**1. PHISHING ATTACK**
 
 El phishing es un malware que cifra archivos o sistemas y exige un pago, generalmente en criptomonedas, para restaurar el acceso, causando graves pérdidas.
 
