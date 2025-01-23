@@ -20,7 +20,7 @@ ATAQUESCOMUNES/DRAGON/IMAGES/SQL.JPG
 
 # PHISHING ATTACK 
 
-![diagram-phishing-attack]
+![diagram-phishing-attack](/documentos/MAECI 2025/5. Amenazas Ciberneticas/TERCERPELOTON/diagram-phishing-attack.webp)
 <h1>PHISHING ATTACK</h1>
       <p1>ESPACIO para texto </p1>
 
