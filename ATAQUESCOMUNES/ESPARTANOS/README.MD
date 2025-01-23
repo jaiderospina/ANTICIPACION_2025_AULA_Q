@@ -25,14 +25,16 @@ Las amenazas cibernéticas abarcan una amplia gama de actividades maliciosas, de
 </tbody>
 </table>
 
+**1. PHISHING**
+
 El phishing es un malware que cifra archivos o sistemas y exige un pago, generalmente en criptomonedas, para restaurar el acceso, causando graves pérdidas.
 
 **Estrategias de mitigación contra phishing:**
 
 1.	Revisar URLs cuidadosamente antes de hacer clic.
 2.	No abrir archivos adjuntos de remitentes desconocidos.
-3.	Habilitar la autenticación multifactor (MFA) para proteger cuentas
-4.	Usar filtros de correo electrónico para identificar mensajes fraudulentos
+3.	Habilitar la autenticación multifactor (MFA) para proteger cuentas.
+4.	Usar filtros de correo electrónico para identificar mensajes fraudulentos.
 
 <p align="center">
   <img src="IMAGENES/DOS.jpg">
