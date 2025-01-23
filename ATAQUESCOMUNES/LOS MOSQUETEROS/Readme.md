@@ -46,7 +46,7 @@ Un ataque de phishing es un método de ciberataque utilizado para engañar a las
 
 # Ransomware Attack
 
-![Ransomware Attack]([https://via.placeholder.com/1000x200/FF0000/FFFFFF?text=Ransomware+Attack](https://www.incibe.es/sites/default/files/images/ransomware/cabecera-ransomeware.png)
+![enter image description here](https://www.globalsign.com/application/files/5516/6488/2151/Ransomware.png)
 
 ## ¿Qué es un ataque de ransomware?
 
