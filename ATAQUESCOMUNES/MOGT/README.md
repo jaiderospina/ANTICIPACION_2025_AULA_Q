@@ -1,5 +1,9 @@
 # **TOP 8 :imp: CIBERATAQUES 2025**
 Grupo MGOT 
+MY. MARIO GÓMEZ
+MY. LUIS MILLÁN
+MY. DANIEL TORRES
+MY. YEFERSON OBANDO
 
 ## 1. PHISHING (MY. GÓMEZ)
 Esto es un párrafo prueba, para escribir algo general introductorio.
