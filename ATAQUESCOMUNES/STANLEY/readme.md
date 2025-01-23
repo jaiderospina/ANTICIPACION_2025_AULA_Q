@@ -60,6 +60,10 @@ El **phishing** es un tipo de ciberataque en el que los atacantes intentan enga√
 **Recuerda:** La mejor defensa contra el phishing es estar informado y alerta.
 
 ---
+<p align="center">
+  <img src="IMAGENES STANLEY/1. phishing_Attack">
+</p>
+
 
 ### Recursos Adicionales
 
