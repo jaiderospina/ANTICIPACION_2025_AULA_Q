@@ -175,7 +175,7 @@ GoAccess: Análisis en tiempo real de logs.
 Graylog o ELK Stack (Elasticsearch, Logstash, Kibana): Para centralizar y analizar patrones de tráfico.
 
 
-## ZERO DAY EXPLOITS 7 (MY. OBANDO)
+## 7 ZERO DAY EXPLOITS (MY. OBANDO)
 
 ### DESCRIPCIÓN GENERAL
 Un zero day exploits o vulnerabilidad de día cero es un fallo de seguridad informática que nunca se había visto antes. Por lo general, un atacante sondea a un sistema hasta que descubre una vulnerabilidad.
@@ -200,7 +200,7 @@ Sistemas de Monitoreo Avanzado
 3.	Microsoft Defender for Endpoint
 4.	Sentinel One Estas herramientas monitorizan el comportamiento de los endpoints en busca de actividades anómalas y técnicas de explotación
 
-## DNS SPOOFING 8 (MY. OBANDO)
+## 8 DNS SPOOFING (MY. OBANDO)
 
 ### DESCRIPCIÓN GENERAL
 El DNS spoofing, o suplantación de DNS, es el proceso de alterar entradas en un servidor de DNS para redirigir a un usuario específico a una web malintencionada que está bajo control del atacante.
