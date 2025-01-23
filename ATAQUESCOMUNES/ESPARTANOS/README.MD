@@ -22,9 +22,9 @@
 </thead>
 <tbody>
 <tr>
-<td>5.</td>
-<td>6.</td>
-<td>7.</td>
+<th>5.</th>
+<th>6.</th>
+<th>7.</th>
 <td style="text-align: left">8.</td>
 </tr>
 </tbody>
