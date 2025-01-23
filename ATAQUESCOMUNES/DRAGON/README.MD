@@ -42,39 +42,25 @@ Existen tres tipos de XSS qué permiten que se lleve a cabo este ataque. A conti
 
 # PHISING 
 
-
-<h1>DENIAL OF SERVICE</h1>
-
 # DENEGACION DE SERVICIO 
 
-Un ataque de denegación de servicio (DoS) es un ciberataque que<br> 
-impide a los usuarios acceder a una red, servicio o sistema.<br> 
-Esto se hace abrumando al objetivo con solicitudes, lo que puede<br> 
-agotar sus recursos o bloquearlo.
+Un ataque de denegación de servicio (DoS) es un ciberataque que impide a los usuarios acceder a una red, servicio<br> o sistema. Esto se hace abrumando al objetivo con solicitudes, lo que puede agotar sus recursos o bloquearlo.
 
 ## Cómo funciona
 
-**Ataques de inundación** : envían una cantidad brumadora<br>
-de paquetes que exceden la capacidad del servidor.
+**Ataques de inundación** : envían una cantidad brumadora de paquetes que exceden la capacidad del servidor.<br> 
 
-**Ataques de agotamiento de recursos** : hacen que el<br>
-objetivo utilice todos sus recursos de memoria o<br>
+**Ataques de agotamiento de recursos** : hacen que el objetivo utilice todos sus recursos de memoria o<br>
 almacenamiento disponibles. 
 
-**SYN flood** : envía una solicitud para conectarse a un<br>
-servidor pero no completa la conexión. Esto hace que el<br>
+**SYN flood** : envía una solicitud para conectarse a un servidor pero no completa la conexión. Esto hace que el<br>
 puerto conectado no esté disponible para futuras solicitudes.
 
-**Inundación ICMP** : también conocido como ataque Smurf<br>
-o ping de la muerte, este ataque envía paquetes falsificados<br>
-que hacen ping a todas las computadoras de la red objetivo. 
+**Inundación ICMP** : también conocido como ataque Smurf o ping de la muerte, este ataque envía paquetes<br>  falsificados que hacen ping a todas las computadoras de la red objetivo. 
 
-Tiene como objetivo sitios web, correo electrónico, banca en línea<br>
-y cualquier otro servicio que dependa de una red o computadora<br>
-específica. 
+Tiene como objetivo sitios web, correo electrónico, banca en línea y cualquier otro servicio que dependa de una<br>  red o computadora específica. 
 
-**Consecuencias:** tiempos de inactividad, operaciones interrumpidas<br>
-y posibles pérdidas financieras o de reputación.
+**Consecuencias:** tiempos de inactividad, operaciones interrumpidas y posibles pérdidas financieras o de reputación.
 
 ![Imagen denegación de servicio](https://cdn.prod.website-files.com/62e153e41d6ee298cc9a98f7/672a1d51ce7b6b71d2b477d1_639f433abf3d71a94ef2e5fd_ataque-ddos.png)
 
