@@ -417,8 +417,3 @@ Los atacantes generalmente se colocan "en el medio" de la comunicación para int
 4. **Evita redes Wi-Fi públicas no seguras**.
 
 ---
-
-### Infografía de prevención
-
-![Medidas de prevención MitM](https://via.placeholder.com/600x300.png?text=Prevención+de+MitM)  
-*Un gráfico que ilustra las mejores prácticas para prevenir ataques MitM.*
