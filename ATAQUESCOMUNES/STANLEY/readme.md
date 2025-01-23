@@ -234,3 +234,63 @@ El **DNS Spoofing** (también conocido como envenenamiento de caché DNS) es un 
 </div>
 
 ---
+
+# Cross-Site Scripting (XSS): Qué es y cómo prevenirlo
+
+<div style="background-color: #e8f5e9; padding: 20px; border-radius: 10px;">
+
+El **Cross-Site Scripting (XSS)** es una vulnerabilidad de seguridad web que permite a los atacantes inyectar código malicioso (habitualmente JavaScript) en sitios web legítimos. Este código malicioso se ejecuta en el navegador de las víctimas y puede ser usado para robar información sensible, como cookies, datos de sesión o credenciales.
+
+---
+
+## Tipos de XSS
+
+1. **XSS Reflejado**: El código malicioso se incluye en la solicitud enviada al servidor y se refleja en la respuesta.
+2. **XSS Almacenado**: El código malicioso se almacena en el servidor y se ejecuta cada vez que los usuarios acceden al contenido comprometido.
+3. **XSS Basado en DOM**: El código malicioso manipula directamente el DOM del cliente sin interactuar con el servidor.
+
+---
+
+## Ejemplo Visual de un Ataque XSS
+
+### Etapa 1: Formulario Vulnerable
+<img src="https://example.com/xss-formulario.png" alt="Formulario vulnerable a XSS" width="600">
+
+> En este ejemplo, un atacante inyecta un script malicioso en un campo de texto de un formulario vulnerable.
+
+---
+
+### Etapa 2: Ejecución del Código Malicioso
+<img src="https://example.com/xss-ataque.png" alt="Ejecución del ataque XSS" width="600">
+
+> Cuando otros usuarios visualizan la página, el navegador ejecuta el código malicioso, permitiendo al atacante robar datos como cookies o credenciales.
+
+---
+
+## Consejos para Prevenir el XSS
+
+1. **Escapar y validar las entradas del usuario**:
+   - Escapa caracteres especiales (como `<`, `>`, `"` y `'`).
+   - Valida que los datos ingresados sean del tipo y formato esperados.
+2. **Usar encabezados HTTP de seguridad**:
+   - Configura el encabezado `Content-Security-Policy` (CSP) para limitar los scripts que pueden ejecutarse.
+3. **Sanitizar los datos almacenados**:
+   - Asegúrate de limpiar las entradas del usuario antes de guardarlas en la base de datos.
+4. **Evita el uso inseguro de `innerHTML` o `document.write`**:
+   - Utiliza métodos seguros como `textContent` o `setAttribute`.
+
+---
+
+## ¿Qué Hacer si Detectas una Vulnerabilidad XSS?
+
+1. **Corrige la vulnerabilidad**:
+   - Actualiza tu aplicación para validar y sanitizar todas las entradas de usuario.
+2. **Notifica a los usuarios afectados**:
+   - Si hubo robo de datos, informa a los usuarios para que tomen medidas como cambiar sus contraseñas.
+3. **Implementa pruebas de seguridad**:
+   - Realiza auditorías regulares para identificar y mitigar vulnerabilidades.
+
+</div>
+
+---
+
