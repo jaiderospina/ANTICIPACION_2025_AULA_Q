@@ -99,7 +99,7 @@ Un **ransomware** es un tipo de software malicioso (malware) que cifra los archi
 
 > **Nota:** Pagar el rescate no garantiza recuperar los archivos y puede alentar a los atacantes a seguir realizando estos actos.
 > 
-ATAQUESCOMUNES/STANLEY/IMAGENES STANLEY/2. ransomware_ Attack.png
+![ataques](ATAQUESCOMUNES/STANLEY/IMAGENES STANLEY/2. ransomware_ Attack.png)
 ---
 # Ataque de Denegación de Servicio (DoS)
 
