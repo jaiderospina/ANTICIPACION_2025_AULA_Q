@@ -66,3 +66,37 @@ El **phishing** es un tipo de ciberataque en el que los atacantes intentan enga�
 - [Cómo reconocer correos de phishing - Google](https://support.google.com)
 - [Guía para protegerse del phishing - Microsoft](https://www.microsoft.com)
 
+
+
+
+---
+
+# ¿Qué es un Ransomware?
+
+<div style="background-color: #FF0000; padding: 10px; color: white; border-radius: 5px;">
+Un **ransomware** es un tipo de software malicioso (malware) que cifra los archivos de una víctima y exige un pago (generalmente en criptomonedas) para restablecer el acceso a los datos. Los atacantes suelen usar este método para extorsionar a empresas y personas, causando pérdidas económicas y problemas operativos significativos.
+</div>
+
+## Características principales de un Ransomware:
+
+- **Cifrado de datos:** Bloquea los archivos de la víctima usando técnicas de encriptación avanzadas.
+- **Mensaje de rescate:** Muestra una notificación pidiendo un pago a cambio de la clave de descifrado.
+- **Propagación rápida:** Puede difundirse por redes locales, dispositivos conectados o mediante correos electrónicos maliciosos.
+
+### Ejemplo de un mensaje típico de ransomware:
+![Mensaje de ransomware](https://www.example.com/ransomware-example.png)
+
+## Cómo protegerse:
+
+1. Realizar **copias de seguridad periódicas** de los datos críticos.
+2. Mantener actualizado el sistema operativo y las aplicaciones.
+3. Utilizar software antivirus y firewalls confiables.
+4. No abrir enlaces o archivos sospechosos en correos electrónicos.
+
+### Representación visual del impacto del ransomware:
+![Impacto del ransomware](https://www.example.com/ransomware-impact.png)
+
+> **Nota:** Pagar el rescate no garantiza recuperar los archivos y puede alentar a los atacantes a seguir realizando estos actos.
+
+---
+
