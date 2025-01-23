@@ -42,6 +42,8 @@ El phishing es un tipo de ciberataque que utiliza correos electrónicos, mensaje
 3.	Habilitar la autenticación multifactor (MFA) para proteger cuentas.
 4.	Usar filtros de correo electrónico para identificar mensajes fraudulentos.
 
+**2. RAZOMWARE**
+
 <p align="center">
   <img src="IMAGENES/DOS.jpg">
 </p>
