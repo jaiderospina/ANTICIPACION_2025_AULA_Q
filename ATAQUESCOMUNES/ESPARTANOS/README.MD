@@ -14,9 +14,9 @@
 <table>
 <thead>
 <tr>
-<th>1. </th>
-<th>2.</th>
-<th>3.</th>
+<th>1. PHISHING ATTACK</th>
+<th>2. RANSOMWARE</th>
+<th>3. DENIAL OF SERVICE (DoS)</th>
 <th style="text-align: left">4.</th>
 </tr>
 </thead>
