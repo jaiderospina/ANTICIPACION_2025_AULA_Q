@@ -121,7 +121,6 @@ ELK Stack (Elasticsearch, Logstash, Kibana): Para analizar grandes volúmenes de
 
 ![Ejemplo de imagen desde un link externo]( https://www.linkedin.com/pulse/building-secure-websites-safeguarding-user-data-from-cross-site-baig) 
 
-
 ## 6. CROSS- SITE SCRIPTING  (XSS)  (MY. MILLAN)
 
 ### DESCRIPCIÓN GENERAL
