@@ -119,6 +119,8 @@ Herramientas útiles para analizar logs:
 GoAccess: Herramienta de análisis de logs en tiempo real.
 ELK Stack (Elasticsearch, Logstash, Kibana): Para analizar grandes volúmenes de logs.
 
+![Ejemplo de imagen desde un link externo]( https://www.linkedin.com/pulse/building-secure-websites-safeguarding-user-data-from-cross-site-baig) 
+
 
 ## 6. CROSS- SITE SCRIPTING  (XSS)  (MY. MILLAN)
 
