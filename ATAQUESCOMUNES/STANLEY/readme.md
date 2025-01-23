@@ -300,3 +300,67 @@ El **Cross-Site Scripting (XSS)** es una vulnerabilidad de seguridad web que per
 
 ---
 
+# SQL Injection: Qué es y cómo prevenirlo
+
+<div style="background-color: #000000; color: #ffffff; padding: 20px; border-radius: 10px;">
+
+La **SQL Injection (inyección de SQL)** es una vulnerabilidad crítica que permite a los atacantes manipular las consultas SQL de una aplicación web. Esto puede darles acceso a datos confidenciales, la capacidad de modificar o eliminar registros, e incluso el control completo de una base de datos.
+
+---
+
+## ¿Cómo Funciona la SQL Injection?
+
+1. **Formulario Vulnerable**: Una aplicación permite al usuario ingresar datos que son directamente usados en una consulta SQL sin validación.
+2. **Inyección de Código Malicioso**: El atacante introduce comandos SQL maliciosos en lugar de los datos esperados.
+3. **Manipulación de la Base de Datos**: La consulta alterada se ejecuta en el servidor, permitiendo comprometer datos o sistemas.
+
+---
+
+## Ejemplo Visual de un Ataque de SQL Injection
+
+### Etapa 1: Formulario de Inicio de Sesión Vulnerable
+<img src="https://example.com/sql-injection-form.png" alt="Formulario vulnerable a SQL Injection" width="600">
+
+> Un atacante puede inyectar una entrada como:  
+> `' OR '1'='1' --`  
+> Esto genera una consulta SQL válida que permite el acceso sin autenticación.
+
+---
+
+### Etapa 2: Ejecución de la Consulta Maliciosa
+<img src="https://example.com/sql-injection-query.png" alt="Consulta SQL comprometida" width="600">
+
+> La consulta modificada ejecuta el código malicioso directamente en la base de datos, permitiendo al atacante robar información o causar daño.
+
+---
+
+## Consejos para Prevenir la SQL Injection
+
+1. **Usar consultas preparadas**:
+   - Las consultas preparadas o parametrizadas separan los datos del código SQL, evitando inyecciones maliciosas.
+2. **Escapar entradas de usuario**:
+   - Escapa caracteres especiales, como comillas simples (`'`), comillas dobles (`"`), y barras invertidas (`\`).
+3. **Valida las entradas del usuario**:
+   - Asegúrate de que los datos ingresados cumplan con los formatos esperados, como números para campos numéricos.
+4. **Usar un ORM seguro**:
+   - Herramientas como Sequelize, Hibernate o Entity Framework ayudan a abstraer consultas SQL y prevenir errores.
+5. **Restringir permisos de la base de datos**:
+   - Asigna permisos mínimos necesarios a las cuentas de usuario que acceden a la base de datos.
+
+---
+
+## ¿Qué Hacer si Detectas una Vulnerabilidad?
+
+1. **Corrige el código afectado**:
+   - Revisa y valida todas las consultas SQL en tu aplicación.
+2. **Notifica a los usuarios**:
+   - Si datos confidenciales han sido comprometidos, informa a los usuarios para que puedan tomar medidas.
+3. **Auditorías regulares**:
+   - Implementa pruebas de seguridad y monitoreo para detectar nuevas vulnerabilidades.
+
+</div>
+
+---
+
+
+
