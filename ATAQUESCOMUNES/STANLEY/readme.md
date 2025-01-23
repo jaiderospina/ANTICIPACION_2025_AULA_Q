@@ -14,6 +14,8 @@ El **phishing** es un tipo de ciberataque en el que los atacantes intentan enga√
 
 ---
 
+![enter image description here](https://raw.githubusercontent.com/jaiderospina/ANTICIPACION_2025_AULA_Q/refs/heads/main/ATAQUESCOMUNES/STANLEY/IMAGENES%20STANLEY/1.%20phishing_Attack.webp)
+
 ## Ejemplo de Phishing: Correo Electr√≥nico Falso
 
 ![Ejemplo de phishing por correo electr√≥nico](https:[//example.com/imagen-phishing-correo.png](https://www.ibm.com/es-es/topics/phishing)
@@ -58,9 +60,6 @@ El **phishing** es un tipo de ciberataque en el que los atacantes intentan enga√
 ---
 
 **Recuerda:** La mejor defensa contra el phishing es estar informado y alerta.
-
----
-![enter image description here](https://raw.githubusercontent.com/jaiderospina/ANTICIPACION_2025_AULA_Q/refs/heads/main/ATAQUESCOMUNES/STANLEY/IMAGENES%20STANLEY/1.%20phishing_Attack.webp)
 
 ---
 
