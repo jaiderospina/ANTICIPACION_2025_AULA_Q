@@ -80,6 +80,8 @@ Un ataque de ransomware es un tipo de ciberataque en el que los atacantes cifran
 ---
 ## Denegación de Servicio (DoS)
 
+![enter image description here](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/7-mayores-ataques-ddos-historia-internet_2.jpg)
+
 Un ataque de denegación de servicio (DoS) es un intento malicioso de hacer que un servidor, servicio o red no esté disponible para los usuarios legítimos. Esto generalmente se logra inundando el objetivo con tráfico o enviando solicitudes maliciosas que causan que el objetivo se sobrecargue o se bloquee.
 
 **Tipos comunes de ataques DoS:**
