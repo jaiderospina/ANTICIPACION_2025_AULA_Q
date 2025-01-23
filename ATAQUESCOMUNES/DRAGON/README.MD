@@ -20,7 +20,7 @@ ATAQUESCOMUNES/DRAGON/IMAGES/SQL.JPG
 # PHISHING ATTACK 
 
 ![imagen phishing](https://www.cloudflare.com/img/learning/security/threats/phishing-attack/diagram-phishing-attack.png)
-<h1>PHISHING ATTACK</h1>
+
       <p1>ESPACIO para texto </p1>
 
 <h1>RAMSONWARE</h1>
