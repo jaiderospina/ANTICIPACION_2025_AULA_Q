@@ -93,5 +93,9 @@ Un zero-day exploit es un ataque cibernético que aprovecha una vulnerabilidad d
       <p1>ESPACIO para texto </p1>
 
 
-# GRUPO DRAGON
+
+**GRUPO DRAGON**
+![saludo militar](https://media.tenor.com/Pw-UTvrGMcMAAAAM/4th-of-july-salute.gif)
+![gracias](https://media.tenor.com/0MqQbvj3peYAAAAM/thinking-for-watching.gif)
+
 **CASALLAS TORRES-CALDERON ARIAS-CASTRO BEDOYA-CONTRERAS LOBATON**
