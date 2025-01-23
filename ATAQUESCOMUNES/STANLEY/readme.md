@@ -99,4 +99,37 @@ Un **ransomware** es un tipo de software malicioso (malware) que cifra los archi
 > **Nota:** Pagar el rescate no garantiza recuperar los archivos y puede alentar a los atacantes a seguir realizando estos actos.
 
 ---
+# Ataque de Denegación de Servicio (DoS)
 
+Un **ataque de denegación de servicio (DoS)** es un intento malicioso de hacer que un sistema, servicio o red sea inaccesible para los usuarios legítimos. Este tipo de ataque se lleva a cabo al inundar el objetivo con un volumen abrumador de tráfico o solicitudes, lo que impide que el sistema pueda procesar peticiones válidas.
+
+## Tipos de Ataques DoS
+
+### 1. Ataques DoS Clásicos
+- **Descripción**: Utilizan una única fuente para generar tráfico malicioso hacia el objetivo.
+- **Ejemplo**: Un atacante puede enviar una gran cantidad de solicitudes a un servidor hasta que este se sature y no pueda responder a usuarios legítimos.
+
+### 2. Ataques DDoS (Denegación de Servicio Distribuida)
+- **Descripción**: Involucran múltiples sistemas (a menudo parte de una botnet) que atacan simultáneamente un único objetivo.
+- **Ejemplo**: Un grupo de dispositivos comprometidos puede coordinarse para enviar millones de solicitudes al mismo tiempo, haciendo que sea mucho más difícil mitigar el ataque.
+
+## Métodos Comunes
+
+- **Inundación de paquetes**: Envía un gran volumen de paquetes al objetivo para saturar su capacidad.
+- **Explotación de vulnerabilidades**: Se aprovechan fallos en el software o hardware del sistema para causar fallos o ralentizaciones.
+- **Ataques "low and slow"**: Utilizan menos recursos pero son efectivos al mantener conexiones abiertas durante largos períodos, lo que consume recursos del servidor.
+
+## Consecuencias
+
+Los ataques DoS pueden tener un impacto significativo en las organizaciones, incluyendo:
+- **Pérdidas económicas**: La incapacidad para acceder a servicios puede resultar en pérdidas financieras considerables.
+- **Daño a la reputación**: Las interrupciones pueden afectar la confianza del cliente y la imagen de la marca.
+- **Costos operativos**: La recuperación y mitigación de ataques puede ser costosa y consumir tiempo.
+
+## Mitigación
+
+Para protegerse contra ataques DoS y DDoS, se pueden implementar varias estrategias:
+
+- **Filtrado de tráfico**: Utilizar herramientas que detecten y bloqueen tráfico malicioso antes de que llegue al servidor.
+- **Redundancia y escalabilidad**: Implementar arquitecturas que puedan manejar picos en el tráfico sin comprometer la disponibilidad.
+- **Servicios especializados**: Considerar el uso de servicios externos que se especialicen en la mitigación de DDoS.
