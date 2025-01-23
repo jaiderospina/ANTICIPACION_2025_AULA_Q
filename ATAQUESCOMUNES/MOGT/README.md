@@ -117,6 +117,10 @@ Los Indicadores de Compromiso (IoCs) de un ataque DoS (Denial of Service) son se
 5.3 Restricción de Recursos
 
 ### RECURSOS
+😁
+![GitHub](https://foundations.projectpythia.org/_images/GitHub-logo.png)
+
+https://github.com/thehackingsage/ddos/tree/master/Protection%20Tools
 
 ## 4. MAN IN THE MIDDLE (MitM) (MY. TORRES)
 ### Descripción General:
