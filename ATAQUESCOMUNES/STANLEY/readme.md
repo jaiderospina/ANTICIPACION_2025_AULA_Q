@@ -241,6 +241,7 @@ El **DNS Spoofing** (también conocido como envenenamiento de caché DNS) es un 
 
 El **Cross-Site Scripting (XSS)** es una vulnerabilidad de seguridad web que permite a los atacantes inyectar código malicioso (habitualmente JavaScript) en sitios web legítimos. Este código malicioso se ejecuta en el navegador de las víctimas y puede ser usado para robar información sensible, como cookies, datos de sesión o credenciales.
 
+![enter image description here](https://cdn.prod.website-files.com/5ff66329429d880392f6cba2/60b35cf8bf38cadc090a95bf_Cross-Site%20Scripting%20Work.png)
 ---
 
 ## Tipos de XSS
