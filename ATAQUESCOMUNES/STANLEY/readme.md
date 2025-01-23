@@ -412,4 +412,5 @@ Los atacantes generalmente se colocan "en el medio" de la comunicación para int
 3. **Certificados de autenticación**: Verifica las fuentes antes de enviar información sensible.
 4. **Evita redes Wi-Fi públicas no seguras**.
 
+![enter image description here]( https://github.com/jaiderospina/ANTICIPACION_2025_AULA_Q/blob/main/ATAQUESCOMUNES/STANLEY/IMAGENES%20STANLEY/4.%20mitm_Attack.png?raw=true)
 ---
