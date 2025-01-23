@@ -77,6 +77,7 @@ específica.
 y posibles pérdidas financieras o de reputación.
 
 [![Imagen denegación de servicio](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deltaprotect.com%2Fblog%2Fataques-ddos-que-son&psig=AOvVaw1ZktyI_MM0AoDouWQ1OBZ3&ust=1737748667251000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCdj8XQjIsDFQAAAAAdAAAAABAE)
+
 <h1>MAN IN THE MIDDLE</h1>
       <p1>ESPACIO para texto </p1>
 
