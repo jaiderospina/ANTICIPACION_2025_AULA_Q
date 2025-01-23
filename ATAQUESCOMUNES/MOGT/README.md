@@ -77,20 +77,11 @@ Aquí está el listado de códigos emojis: https://tutorialmarkdown.com/emojis
 ## 3. DENIAL OF SERVICE (DOS) (MY. TORRES)
 ![Ataque DOS](https://grupogaratu.com/wp-content/uploads/sites/4/2018/08/ataque-dos-ddos-seguridad-empresa-ciberseguridad-e1535478792912.jpg)
 
-
 ### DESCRIPCIÓN GENERAL
 Ataque cibernético diseñado para “interrumpir el funcionamiento normal de un servidor, servicio o red” haciéndolo inoperable para sus usuarios legítimos. El objetivo principal de este ataque es “sobrecargar los recursos” del sistema objetivo (como ancho de banda, memoria o capacidad de procesamiento), haciendo que deje de responder o funcione de forma extremadamente lenta.
 
 ### MECANISMO DE ATAQUE
-Aquí se escribe un párrafo de máximo 3 líneas. 
 El atacante envía “grandes volúmenes de tráfico o solicitudes maliciosas” al sistema objetivo, superando su capacidad para gestionarlas. Esto puede provocar:
-1.	Saturación de recursos: Como el ancho de banda o la CPU.
-2.	Interrupción del servicio: El sistema no puede procesar solicitudes legítimas.
-3.	Desconexión temporal: El sistema puede colapsar por completo.
-   
-### MECANISMO DE ATAQUE
-El atacante envía “grandes volúmenes de tráfico o solicitudes maliciosas” al sistema objetivo, superando su capacidad para gestionarlas. Esto puede provocar:
-
 1.	Saturación de recursos: Como el ancho de banda o la CPU.
 2.	Interrupción del servicio: El sistema no puede procesar solicitudes legítimas.
 3.	Desconexión temporal: El sistema puede colapsar por completo.
@@ -99,9 +90,31 @@ El atacante envía “grandes volúmenes de tráfico o solicitudes maliciosas”
 Los Indicadores de Compromiso (IoCs) de un ataque DoS (Denial of Service) son señales o evidencias que indican que un sistema está siendo víctima de un ataque de denegación de servicio. Estos indicadores pueden detectarse en registros de red, métricas del sistema o monitoreo de aplicaciones.
 
 ### ESTRATEGIAS DE MITIGACIÓN
+1. Estrategias Técnicas
+1.1 Uso de Firewalls y Sistemas de Detección
+1.2 Implementar Servicios Anti-DDoS
+1.3 Tasa de Limitación (Rate Limiting)
+1.4 Filtrado de Tráfico
+1.5 Balanceo de Carga
+1.6 Escalabilidad en la Infraestructura
+1.7 Validación de Solicitudes
 
+2. Estrategias Operativas
+2.1 Monitoreo Proactivo
+2.2 Respuesta Rápida a Incidentes
+2.3 Colaboración con Proveedores de Servicios
+2.4 Segmentación de Redes
+   
+4. Estrategias Preventivas
+3.1 Pruebas de Resiliencia
+3.2 Fortalecer la Infraestructura DNS
+3.3 Mantener el Software Actualizado
+3.4 Uso de Redes de Entrega de Contenidos (CDN)
 
-
+5. Estrategias a Nivel de Aplicación
+5.1 Validación de Entradas
+5.2 Configuración de Timeouts
+5.3 Restricción de Recursos
 
 ### RECURSOS
 
