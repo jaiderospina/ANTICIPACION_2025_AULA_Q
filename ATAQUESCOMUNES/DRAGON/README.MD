@@ -89,6 +89,8 @@ Los ataques de phishing son un medio común de entrada para los atacantes MITM. 
 
 Un zero-day exploit es un ataque cibernético que aprovecha una vulnerabilidad de seguridad desconocida en un sistema. Se le llama "día cero" porque los desarrolladores no han tenido tiempo para corregirla antes de que los atacantes la exploten. 
 
+![ataque](https://www.accuknox.com/wp-content/uploads/zerodayattacks_4-1024x545.png)
+
 <h1>DNS SPOOFING</h1>
 
 ## ESPACIO para texto
