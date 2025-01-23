@@ -30,4 +30,4 @@
 </tbody>
 </table>
 
-![Ejemplo de imagen](![Ejemplo de imagen](ATAQUESCOMUNES/ESPARTANOS/IMAGENES/DOS.jpg)
+[RANSOMWARE](ATAQUESCOMUNES/ESPARTANOS/IMAGENES/DOS.jpg)
