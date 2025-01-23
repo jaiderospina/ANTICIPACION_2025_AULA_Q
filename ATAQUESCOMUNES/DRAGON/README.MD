@@ -33,33 +33,35 @@
 
 <h1>DENIAL OF SERVICE</h1>
 
-# DENEGACION DE SERVICIO nivel 1
+# DENEGACION DE SERVICIO 
 
-Un ataque de denegación de servicio (DoS) es un ciberataque que<br>  
+Un ataque de denegación de servicio (DoS) es un ciberataque que<br> 
 impide a los usuarios acceder a una red, servicio o sistema.<br> 
 Esto se hace abrumando al objetivo con solicitudes, lo que puede<br> 
 agotar sus recursos o bloquearlo.
 
-## Cómo funciona nivel 2
+## Cómo funciona
 
-**Ataques de inundación** : envían una cantidad brumadora<br>   
-de paquetes que exceden la capacidad del servidor. 
-**Ataques de agotamiento de recursos** : hacen que el<br>  
-objetivo utilice todos sus recursos de memoria o<br>   
+**Ataques de inundación** : envían una cantidad brumadora<br>
+de paquetes que exceden la capacidad del servidor.
+**Ataques de agotamiento de recursos** : hacen que el<br>
+objetivo utilice todos sus recursos de memoria o<br>
 almacenamiento disponibles. 
-**SYN flood** : envía una solicitud para conectarse a un<br>   
-servidor pero no completa la conexión. Esto hace que el<br>   
+**SYN flood** : envía una solicitud para conectarse a un<br>
+servidor pero no completa la conexión. Esto hace que el<br>
 puerto conectado no esté disponible para futuras solicitudes.
-**Inundación ICMP** : también conocido como ataque Smurf<br>  
-o ping de la muerte, este ataque envía paquetes falsificados<br>   
+**Inundación ICMP** : también conocido como ataque Smurf<br>
+o ping de la muerte, este ataque envía paquetes falsificados<br>
 que hacen ping a todas las computadoras de la red objetivo. 
 
-Tiene como objetivo sitios web, correo electrónico, banca en línea<br>   
-y cualquier otro servicio que dependa de una red o computadora<br>   
+Tiene como objetivo sitios web, correo electrónico, banca en línea<br>
+y cualquier otro servicio que dependa de una red o computadora<br>
 específica. 
 
-**Consecuencias: tiempos de inactividad, operaciones interrumpidas<br>   
-y posibles pérdidas financieras o de reputación. 
+**Consecuencias: tiempos de inactividad, operaciones interrumpidas<br>
+y posibles pérdidas financieras o de reputación.
+ 
+
 
 
 <h1>MAN IN THE MIDDLE</h1>
