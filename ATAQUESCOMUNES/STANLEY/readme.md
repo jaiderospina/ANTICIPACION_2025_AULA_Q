@@ -18,8 +18,7 @@ El **phishing** es un tipo de ciberataque en el que los atacantes intentan enga�
 
 ## Ejemplo de Phishing: Correo Electrónico Falso
 
-![enter image description here]
-([https:[//example.com/imagen-phishing-correo.png](https://www.ibm.com/es-es/topics/phishing)
+![enter image description here]( https://raw.githubusercontent.com/jaiderospina/ANTICIPACION_2025_AULA_Q/refs/heads/main/ATAQUESCOMUNES/STANLEY/IMAGENES%20STANLEY/phising-email.webp)
 
 > En esta imagen, se muestra un correo falso que intenta parecerse a una entidad bancaria legítima. Típicamente:
 >
