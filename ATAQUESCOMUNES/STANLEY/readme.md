@@ -188,6 +188,7 @@ Un exploit de día cero recibe este nombre porque los desarrolladores tienen "ce
 - **Software de seguridad avanzado**: Usar antivirus y sistemas de detección de intrusos.
 - **Seguridad proactiva**: Emplear análisis de comportamiento y segmentación de redes.
 
+![enter image description here]( https://github.com/jaiderospina/ANTICIPACION_2025_AULA_Q/blob/main/ATAQUESCOMUNES/STANLEY/IMAGENES%20STANLEY/7.%20Zero-Day_Attack.png?raw=true)
 ---
 
 # DNS Spoofing: Qué es y cómo funciona
