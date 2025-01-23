@@ -75,6 +75,9 @@ Aquí está el listado de códigos emojis: https://tutorialmarkdown.com/emojis
 ***
 
 ## 3. DENIAL OF SERVICE (DOS) (MY. TORRES)
+![Ataque DOS](https://grupogaratu.com/wp-content/uploads/sites/4/2018/08/ataque-dos-ddos-seguridad-empresa-ciberseguridad-e1535478792912.jpg)
+
+
 ### DESCRIPCIÓN GENERAL
 Ataque cibernético diseñado para “interrumpir el funcionamiento normal de un servidor, servicio o red” haciéndolo inoperable para sus usuarios legítimos. El objetivo principal de este ataque es “sobrecargar los recursos” del sistema objetivo (como ancho de banda, memoria o capacidad de procesamiento), haciendo que deje de responder o funcione de forma extremadamente lenta.
 
