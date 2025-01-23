@@ -167,8 +167,7 @@ Un exploit de día cero recibe este nombre porque los desarrolladores tienen "ce
 
 ### Ejemplo gráfico
 
-![Zero-Day Exploit Gráfico](https://via.placeholder.com/600x300.png?text=Gráfico+de+Zero-Day+Exploit)  
-*Un diagrama que muestra cómo un atacante explota una vulnerabilidad antes de que sea descubierta y solucionada.*
+![enter image description here]( https://github.com/jaiderospina/ANTICIPACION_2025_AULA_Q/blob/main/ATAQUESCOMUNES/STANLEY/IMAGENES%20STANLEY/7.%20Zero-Day_Attack.png?raw=true)
 
 ---
 
@@ -180,7 +179,6 @@ Un exploit de día cero recibe este nombre porque los desarrolladores tienen "ce
 - **Software de seguridad avanzado**: Usar antivirus y sistemas de detección de intrusos.
 - **Seguridad proactiva**: Emplear análisis de comportamiento y segmentación de redes.
 
-![enter image description here]( https://github.com/jaiderospina/ANTICIPACION_2025_AULA_Q/blob/main/ATAQUESCOMUNES/STANLEY/IMAGENES%20STANLEY/7.%20Zero-Day_Attack.png?raw=true)
 ---
 
 # DNS Spoofing: Qué es y cómo funciona
