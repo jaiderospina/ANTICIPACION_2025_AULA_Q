@@ -28,7 +28,7 @@ Las amenazas cibernéticas abarcan una amplia gama de actividades maliciosas, de
 <p align="center">
   <img src="IMAGENES/DOS.jpg">
 </p>
-DENIAL OF SERVICE (DoS)
+<p align="center"> DoS </p>
 1. LL
 2. MMJJ
 3. BJBB
