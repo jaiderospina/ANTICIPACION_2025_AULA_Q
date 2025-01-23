@@ -14,6 +14,9 @@ _Es un ataque que se realiza a través de mensajes falsos para que la víctima d
 ![](https://digilopolis.com/blog/wp-content/uploads/2017/09/Phishing-1024x690.jpg)
 
 - **DDoS**
+
+- ![](https://img.freepik.com/vector-gratis/infografia-ransomware-diseno-plano_23-2149381248.jpg)
+- 
 - **Malware**
 - **Mintm**
 - **SQL**
