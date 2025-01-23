@@ -9,10 +9,6 @@
   <header>
   <h1>TIPOS</h1>
 
-  <span>NOTICIAS</span>
-  <span>DEPORTES</span>
-  <span>CLASIFICADOS</span>
-  <span>FARANDULA</span>
  </header>
 
  <main>
