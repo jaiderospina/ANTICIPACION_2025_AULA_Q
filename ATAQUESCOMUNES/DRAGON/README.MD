@@ -10,6 +10,9 @@
   <h1>CYBERDRAGON</h1>
 
  </header>
+
+![imagen crossite](https://i.gifer.com/7v54.gif)
+
 <h1>SQL INJECTION</h1>
 
 ![imagen SQL](https://www.avast.com/hs-fs/hubfs/New_Avast_Academy/SQL%20injection/SQL_injection-Hero.png?width=2400&name=SQL_injection-Hero.png)
@@ -21,9 +24,9 @@ La inyección de SQL es un tipo de ciberataque encubierto en el cual un hacker i
 
 <h1>CROSS SITE SCRIPTING</h1>
 
-![imagen crossite](ATAQUESCOMUNES/DRAGON/IMAGES/CROSSSITE.png)
+![imagen crossite](https://media.geeksforgeeks.org/wp-content/uploads/20190516152959/Cross-Site-ScriptingXSS.png)
 
-##DE QUE SE TRATA
+## DE QUE SE TRATA ESTE ATAQUE
 
 Se conoce como  XSS a un tipo de ataque en el cual actores maliciosos logran inyectar un script malicioso en un sitio web para luego ser procesado y ejecutado. Comúnmente, este proceso que se basa en la confianza que tiene el sitio sobre la entrada de los datos, consiste en enviar la URL con el payload precargado al usuario víctima con un objetivo determinado: robar datos personales del usuario, cookies de sesión, implementar técnicas de ingeniería social, entre otras.
 Existen tres tipos de XSS qué permiten que se lleve a cabo este ataque. A continuación, repasamos cuáles son y las medidas que deberíamos tomar para poder protegernos
