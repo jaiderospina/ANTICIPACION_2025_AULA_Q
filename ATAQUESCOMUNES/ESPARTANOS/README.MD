@@ -2,6 +2,9 @@
 **TOP 8 TYPES OF**
 **CYBER ATTACK**
 -------
+En la era digital actual, las amenazas cibernéticas se han convertido en una preocupación crítica para individuos, empresas y gobiernos. A medida que la tecnología avanza y la conectividad se expande, también lo hacen las tácticas y técnicas utilizadas por los ciberdelincuentes. Estas amenazas no solo comprometen la seguridad de la información, sino que también pueden tener repercusiones financieras, legales y reputacionales significativas.
+
+Las amenazas cibernéticas abarcan una amplia gama de actividades maliciosas, desde el robo de datos hasta ataques de ransomware, pasando por el phishing y el spoofing. Cada una de estas amenazas presenta desafíos únicos y requiere enfoques específicos para su mitigación. A continuación, se presenta el TOP 8 de amenazas cibernéticas más importantes que enfrentamos hoy en día:
 1. LL
 2. MMJJ
 3. BJBB
