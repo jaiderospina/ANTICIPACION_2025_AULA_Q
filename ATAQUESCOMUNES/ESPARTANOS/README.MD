@@ -31,5 +31,5 @@
 </table>
 
 <p align="center">
-  <img src="IMAGES/IMAG11.webp">
+  <img src="ATAQUESCOMUNES/ESPARTANOS/IMAGENES/DOS.jpg">
 </p>
