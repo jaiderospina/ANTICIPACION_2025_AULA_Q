@@ -200,6 +200,9 @@ Sistemas de Monitoreo Avanzado
 3.	Microsoft Defender for Endpoint
 4.	Sentinel One Estas herramientas monitorizan el comportamiento de los endpoints en busca de actividades anómalas y técnicas de explotación
 
+
+![Ejemplo de imagen desde un link externo]( https://www.pandasecurity.com/es/mediacenter/src/uploads/2015/10/zero-day-ataque-1024x413.jpg)
+
 ## 8 DNS SPOOFING (MY. OBANDO)
 
 ### DESCRIPCIÓN GENERAL
