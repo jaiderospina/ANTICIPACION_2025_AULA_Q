@@ -234,7 +234,7 @@ Estas herramientas te permiten analizar el tráfico DNS y detectar anomalías:
 •	Analizan el tráfico de red y permiten inspeccionar si el tráfico está siendo redirigido a servidores no legítimos
 
 
-
+![Ejemplo de imagen desde un link externo]( https://www.keyfactor.com/wp-content/uploads/HACKER-1.jpg)
 
 
 
