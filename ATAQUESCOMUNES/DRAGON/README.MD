@@ -76,7 +76,7 @@ específica.
 **Consecuencias:** tiempos de inactividad, operaciones interrumpidas<br>
 y posibles pérdidas financieras o de reputación.
 
-![Imagen denegación de servicio].( https://cdn.prod.website-files.com/62e153e41d6ee298cc9a98f7/672a1d51ce7b6b71d2b477d1_639f433abf3d71a94ef2e5fd_ataque-ddos.png)
+![Imagen denegación de servicio] (https://cdn.prod.website-files.com/62e153e41d6ee298cc9a98f7/672a1d51ce7b6b71d2b477d1_639f433abf3d71a94ef2e5fd_ataque-ddos.png)
 
 
 <h1>MAN IN THE MIDDLE</h1>
