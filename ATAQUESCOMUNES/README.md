@@ -8,4 +8,4 @@ En los grupos de trabajo  defina y explique mediante un ejemplo cada uno de los 
 - Haga uso de recursos visuales como imágenes, url, listas numeradas y negrilla entre otros.
 - Todos los integrantes deben realizar al menos un commit.
   
-![ataques]( /IMAGES/ataques.gif)HO
+![ataques]( /IMAGES/ataques.gif)
