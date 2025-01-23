@@ -30,7 +30,7 @@ El **phishing** es un tipo de ciberataque en el que los atacantes intentan enga�
 
 ## Ejemplo de Sitio Web Falso
 
-![Ejemplo de phishing por sitio web](https://example.com/imagen-phishing-web.png)
+![enter image description here]( https://github.com/jaiderospina/ANTICIPACION_2025_AULA_Q/blob/main/ATAQUESCOMUNES/STANLEY/IMAGENES%20STANLEY/c07258083eb201ae891faf4e959c0c2e.jpg?raw=true)
 
 > Este es un ejemplo de una página web que imita el inicio de sesión de una plataforma conocida (como un banco o una red social). 
 >
