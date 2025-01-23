@@ -21,25 +21,21 @@
      <h3>titulo de la seccion de deportes</h3>
       <p1>Los deportes son importantes para la vida</p1>
   
-</section>
-<hr />
-<section>
 
   <h4>Seccion de clasificados</h4>
-  <div>  
+
       <p>TEXTO TEXTO TEXTO</p>
        <p>se vende cosas</p>
        <p>Listado de elementos en venta</p>
-  </div>
 
-      <ol>
 
+  
 
         <li>PlayStation</li>
         <li>Xbox</li>
         <li>nintendo Switch</li>
-      </ol>
-  </article>
+  
+
 </section>
 
 <hr />
