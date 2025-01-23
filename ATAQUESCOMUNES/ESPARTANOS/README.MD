@@ -28,6 +28,7 @@
 <th style="text-align: left">8. DNS SPOOFING</th>
 </tr>
 </tbody>
+![Ejemplo de imagen](![Ejemplo de imagen](ejemplo.jpg).jpg)
 </table>
 ```> HGJHGDHAGDJHASGDJHSAGDHJSAGDJHAS
 > DSFFDSFSDFDS
