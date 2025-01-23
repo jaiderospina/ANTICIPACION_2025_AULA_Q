@@ -6,8 +6,6 @@ La **anticipación de amenazas cibernéticas** es una competencia esencial en el
   <img src="IMAGES/IMAG11.webp">
 </p>
 
-
-src="IMAGES/IMAG11.webb
 # Recursos:
 
  - **Uso de GIT**: https://github.com/jaiderospina/Gesti-n-de-Ciberseguridad_2024_2/tree/main/GIT
