@@ -1,5 +1,5 @@
 
-**<p align="center"> # TOP 8 TYPES OF CYBER ATTACK</p>**
+#**<p align="center">TOP 8 TYPES OF CYBER ATTACK</p>**
 
 -------
 En la era digital actual, las amenazas cibernéticas se han convertido en una preocupación crítica para individuos, empresas y gobiernos. A medida que la tecnología avanza y la conectividad se expande, también lo hacen las tácticas y técnicas utilizadas por los ciberdelincuentes. Estas amenazas no solo comprometen la seguridad de la información, sino que también pueden tener repercusiones financieras, legales y reputacionales significativas.
