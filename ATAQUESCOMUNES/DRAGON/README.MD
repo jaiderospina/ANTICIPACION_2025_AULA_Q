@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang=""es">
 <head>
-  <title>Mi Pagina Web</title>
+  <title>GRUPO DRAGON - ATAQUES COMUNES</title>
   <link rel="stylesheet" type="text/css" href="./estilos.css" />
 </head>
 <body>
   
   <header>
-  <h1>Este es el titulo principal de la Pagina Web</h1>
+  <h1>TIPOS</h1>
 
   <span>NOTICIAS</span>
   <span>DEPORTES</span>
