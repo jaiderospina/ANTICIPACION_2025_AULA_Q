@@ -31,5 +31,5 @@
 </table>
 
 <p align="center">
-  <img src="ATAQUESCOMUNES/ESPARTANOS/IMAGENES/DOS.jpg">
+  <img src="IMAGENES/DOS.jpg">
 </p>
