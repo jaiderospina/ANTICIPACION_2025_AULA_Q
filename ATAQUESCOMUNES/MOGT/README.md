@@ -123,7 +123,59 @@ Los Indicadores de Compromiso (IoCs) de un ataque DoS (Denial of Service) son se
 https://github.com/thehackingsage/ddos/tree/master/Protection%20Tools
 
 ## 4. MAN IN THE MIDDLE (MitM) (MY. TORRES)
-### Descripción General:
+
+### DESCRIPCIÓN GENERAL
+Un ataque Man-in-the-Middle (MitM) ocurre cuando un atacante intercepta, modifica o manipula la comunicación entre dos partes (por ejemplo, un usuario y un servidor) sin que estas lo sepan. Su objetivo principal es robar información sensible como contraseñas, datos financieros o identidades, o alterar los datos transmitidos.
+
+### MECANISMO DE ATAQUE
+
+Intercepción:
+•	El atacante se posiciona entre el usuario y el servidor.
+•	Métodos comunes: red Wi-Fi pública no segura, redirección de DNS o ARP Spoofing.
+
+Suplantación:
+•	El atacante finge ser una de las partes legítimas para capturar datos.
+
+Manipulación de datos:
+•	Puede alterar o inyectar contenido en la comunicación interceptada.
+
+### IOC (INDICADOR DE COMPROMISO)
+Conexiones inseguras:
+•	Comunicación a través de HTTP en lugar de HTTPS.
+•	Certificados SSL inválidos o inexistentes.
+
+Anomalías en la red:
+•	Direcciones IP desconocidas o sospechosas en las tablas ARP.
+•	Latencia inusual en las comunicaciones.
+
+Mensajes de advertencia:
+•	Alertas en navegadores sobre conexiones no seguras.
+•	Certificados digitales autofirmados o caducados.
+
+Tráfico inesperado:
+•	Paquetes de red con direcciones IP falsificadas o múltiples retransmisiones.
+
+### ESTRATEGIAS DE MITIGACIÓN
+1.	Uso de cifrado:
+o	Implementar HTTPS y TLS para proteger las comunicaciones.
+o	Configurar VPN para garantizar un canal seguro.
+2.	Concienciación del usuario:
+o	Evitar redes Wi-Fi públicas no seguras sin protección adicional.
+o	Verificar manualmente la legitimidad de los certificados digitales.
+3.	Implementación de autenticación robusta:
+o	Autenticación multifactor (MFA) para reducir el impacto del robo de credenciales.
+o	Firmas digitales para garantizar la integridad de los datos.
+4.	Seguridad de la red:
+o	Configurar detección de anomalías con sistemas IDS/IPS.
+o	Habilitar protocolos seguros como DNSSEC para evitar redirecciones maliciosas.
+5.	Monitoreo continuo:
+o	Analizar registros de tráfico y patrones anómalos.
+o	Revisar y actualizar certificados SSL regularmente.
+
+### RECURSOS
+😁
+![XXXXX](XXXXXXXX)
+
 
 ***
 
