@@ -66,7 +66,7 @@ Aquí está el listado de códigos emojis: https://tutorialmarkdown.com/emojis
 
 ***
 
-# TÍTULO 2 (MY. TORRES)
+## TÍTULO 2 (MY. TORRES)
 Esto es un párrafo prueba laskdjhasdfh
 asdf
 asdf
@@ -76,11 +76,11 @@ df
 
 ***
 
-# TÍTULO DE PRUEBA 3 (MY. MILLAN)
+## TÍTULO DE PRUEBA 3 (MY. MILLAN)
 
 ***
 
-# TÍTULO DE PRUEBA 4 (MY. OBANDO)
+## TÍTULO DE PRUEBA 4 (MY. OBANDO)
 ataque 1
 ataque 2
 atqye 3
