@@ -112,5 +112,54 @@ Un **ataque Man-in-the-Middle (MitM)**, también conocido como ataque de interme
 
 Este tipo de ataque es particularmente peligroso porque puede comprometer la confidencialidad e integridad de las comunicaciones sin que las víctimas lo noten, lo que lo hace difícil de detectar y prevenir completamente.
 
+## SQL INJECTION
+
+![DALL-E-2024-01-19-12 50 48---Create-a-photorealistic-illustration-representing-an-SQL-Injection-attack-in-a-digital-environment -The-image-should-show-a-computer-sc](https://github.com/user-attachments/assets/ac0fe662-ad64-4290-a744-308661a08bba)
+
+*Imagen tomada* https://ciberseguridad.comillas.edu/proteccion-contra-inyecciones-sql/
+
+**Las inyecciones** SQL son una de las amenazas de seguridad más graves en el desarrollo de aplicaciones web. Este tipo de ataque se produce cuando un atacante inserta una consulta SQL maliciosa en la entrada de una aplicación, lo que puede llevar a la manipulación de las bases de datos y a la exposición de información sensible.
+*Fuente de consulta*: https://ciberseguridad.comillas.edu/proteccion-contra-inyecciones-sql/
+
+**Caso sucedido a Yahoo!**
+Hace algunos días,  Virus_Hima, un informático de origen egipcio dio a conocer algunas vulnerabilidades críticas que detectó en Yahoo!. Según se puede apreciar, tuvo acceso total a los archivos de copia de respaldo de uno de los servidores de dominio de Yahoo! y a doce bases de datos. Los agujeros de seguridad que permitieron dichos ataques son la explotación de una vulnerabilidad de inyección SQL en uno de los dominios de la compañía y a otra del tipo Cross Site Scripting (XSS). De acuerdo al portal de noticias The Hacker News, los problemas fueron reportados por Virus_Hima hace algún tiempo sin conseguir ningún tipo de respuesta por parte de la empresa afectada. Asimismo, aseguró que su intención no es dañar a ninguna entidad en particular ni tampoco filtrar la información obtenida de Yahoo!. A continuación se muestra una captura de pantalla de la inyección de código SQL que ocurrió en un sitio web de Yahoo!:
+ 
+Este caso se suma a otro que afectó a la misma empresa y en cuya ocasión se vio vulnerado el servicio Yahoo! Voices. Una vulnerabilidad de inyección de código SQL también fue la causa de este ataque del cual se pudieron obtener 450.000 credenciales y algunos datos del servidor comprometido. En este sentido es importante considerar que ningún sistema informático es infalible, por lo tanto, la Seguridad de la Información es un aspecto que en ningún momento debe subestimarse, por lo tanto, saber brindar una respuesta eficiente ante una vulnerabilidad es vital para cualquier empresa que pudiera verse afectada por un problema como este.
+André Goujon
+Especialista de Awareness & Research
+*Fuente de información* https://www.welivesecurity.com/la-es/2012/12/17/datos-yahoo-expuestos-traves-inyeccion-sql/
+
+## CROSS-SITE SCRIPTING (XSS)
+
+![que-es-xss](https://github.com/user-attachments/assets/7bab4a30-73a5-41ec-8bd7-77050300cc88)
+
+Imagen tomada https://tirescue.com/cross-site-scripting-xss-una-vulnerabilidad-critica-en-la-seguridad-web/
+
+En este post vamos a hablar sobre Cross Site Scripting, también conocida como XSS, una de las vulnerabilidades más comunes desde 2014. De hecho, según OWASP, esta vulnerabilidad que a partir de este año será incluida dentro de la categoría de inyecciones, forma parte del top 10 de vulnerabilidades más frecuentes en aplicaciones web de 2021.
+Se trata de un tipo de ataque que aprovecha fallas de seguridad en sitios web y que permite a los atacantes implantar scripts maliciosos en un sitio web legítimo (también víctima del atacante) para ejecutar un script en el navegador de un usuario desprevenido que visita dicho sitio y afectarlo, ya sea robando credenciales, redirigiendo al usuario a otro sitio malicioso, o para realizar defacement en un sitio web.
+Hace algunos años explicamos en otro artículo de forma sencilla de qué se trata esta vulnerabilidad, pero en ese momento hablábamos de que podía ser explotada de dos maneras. En la actualidad, OWASP explica que son tres las formas de ataques de XSS más comunes que apuntan a los navegadores de los usuarios. Por eso, en este artículo actualizado repasamos cuáles son los vectores de ataque utilizados por los atacantes para explotar esta vulnerabilidad, qué puede realizar un atacante mediante Cross Site Scripting, y compartimos también algunos recursos que probablemente no conocías para identificar la vulnerabilidad o la explotación de la misma. Para tener una idea del impacto y el interés que los atacantes mantienen por esta vulnerabilidad, el último año más de 100.000 reportes de ataques de Cross Site Scripting según Vulners.
+**Qué es Cross-Site Scripting**
+Como adelantábamos más arriba, se conoce como  XSS a un tipo de ataque en el cual actores maliciosos logran inyectar un script malicioso en un sitio web para luego ser procesado y ejecutado. Comúnmente, este proceso que se basa en la confianza que tiene el sitio sobre la entrada de los datos, consiste en enviar la URL con el payload precargado al usuario víctima con un objetivo determinado: robar datos personales del usuario, cookies de sesión, implementar técnicas de ingeniería social, entre otras.
+Existen tres tipos de XSS qué permiten que se lleve a cabo este ataque. A continuación, repasamos cuáles son y las medidas que deberíamos tomar para poder protegernos:
+Reflected Cross-Site Scripting
+En un ataque de XSS reflejado el payload suele ser inyectado en un parámetro de la solicitud HTTP, para luego ser procesado por la aplicación web y finalmente desplegado en un punto determinado, sin algún tipo de validación o codificación de los caracteres. Se trata de la variedad de XSS más simple y el script malicioso que busca afectar el navegador de la víctima es fácilmente modificable, probablemente sin que el usuario note el ataque.
+Como se puede observar en el siguiente ejemplo, se crea un enlace de apariencia normal sin un parámetro marcado y se observa un vector de ataque delimitado por el control del número de página del sitio.
+**URL**https://insecure-site.example/blog/page/1/latest
+
+El punto vulnerable en este caso es un parámetro que no es detectable a simple vista, pero alguna aplicación podría estar utilizando el valor proveniente de la URL para poder utilizarlo en el sitio, y así dar origen a la vulnerabilidad Reflected Cross-Site Scripting.
+**URL** https://www.welivesecurity.com/la-es/2021/09/28/que-es-ataque-xss-cross-site-scripting/
+
+**Ejemplos reales de ataques de secuencias de comandos entre sitios**
+**Aerolíneas británicas**
+En 2018, British Airways fue atacada por Magecart, un grupo de hackers de alto perfil famoso por sus ataques de clonación de tarjetas de crédito. El grupo aprovechó una vulnerabilidad XSS en una biblioteca de JavaScript llamada Feedify, que se utilizaba en el sitio web de British Airways. 
+Los atacantes modificaron el script para enviar los datos de los clientes a un servidor malicioso, que utilizaba un nombre de dominio similar al de British Airways. El servidor falso tenía un certificado SSL, por lo que los usuarios creían que estaban comprando en un servidor seguro. Lograron realizar un clonado de tarjetas de crédito en 380.000 transacciones de reserva antes de que se descubriera la brecha.
+**Fortnite**
+En 2019, el popular juego multijugador sufrió una vulnerabilidad XSS que afectó a más de 200 millones de usuarios. Los desarrolladores de Fortnite no detectaron una página abandonada y sin protección. La página tenía una vulnerabilidad XSS que permitía a los atacantes obtener acceso no autorizado a los datos de todos los usuarios de Fortnite.
+Los atacantes podrían haber utilizado XSS, en combinación con una vulnerabilidad de inicio de sesión único (SSO) insegura, para redirigir a los usuarios a una página de inicio de sesión falsa. Esto les permitiría robar moneda virtual dentro del juego y grabar conversaciones de los jugadores, como reconocimiento para futuros ataques. Check Point descubrió el ataque y notificó a Fortnite, pero se desconoce si los atacantes aprovecharon la vulnerabilidad mientras tanto.
+**eBay**
+A finales de 2015 y principios de 2016, eBay sufrió una grave vulnerabilidad XSS. El sitio web utilizaba un parámetro “url” que redirigía a los usuarios a distintas páginas de la plataforma, pero el valor del parámetro no estaba validado. Esto permitía a los atacantes inyectar código malicioso en una página. 
+La vulnerabilidad permitió a los atacantes obtener acceso total a las cuentas de vendedores de eBay, vender productos con descuento y robar detalles de pago. Los atacantes la utilizaron activamente para manipular los listados de eBay de productos de alto valor, como vehículos. eBay finalmente solucionó la vulnerabilidad, pero los ataques posteriores continuaron hasta 2017.
+**URL** de consulta https://brightsec.com/blog/xss-attack/
+
 
 
