@@ -117,7 +117,6 @@ Los Indicadores de Compromiso (IoCs) de un ataque DoS (Denial of Service) son se
 5.3 Restricción de Recursos
 
 ### RECURSOS
-😁
 ![GitHub](https://foundations.projectpythia.org/_images/GitHub-logo.png)
 
 https://github.com/thehackingsage/ddos/tree/master/Protection%20Tools
@@ -177,9 +176,11 @@ o	Analizar registros de tráfico y patrones anómalos.
 o	Revisar y actualizar certificados SSL regularmente.
 
 ### RECURSOS
-😁
-![XXXXX](XXXXXXXX)
+![MITM]((https://img-c.udemycdn.com/course/750x422/1969416_1f51_7.jpg)
 
+https://github.com/byt3bl33d3r/MITMf
+https://github.com/jtesta/ssh-mitm
+https://github.com/LionSec/xerosploit
 
 ***
 
