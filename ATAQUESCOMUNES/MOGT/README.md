@@ -75,13 +75,33 @@ Aquí está el listado de códigos emojis: https://tutorialmarkdown.com/emojis
 ***
 
 ## 3. DENIAL OF SERVICE (DOS) (MY. TORRES)
-### Descripción General:
+### DESCRIPCIÓN GENERAL
 Ataque cibernético diseñado para “interrumpir el funcionamiento normal de un servidor, servicio o red” haciéndolo inoperable para sus usuarios legítimos. El objetivo principal de este ataque es “sobrecargar los recursos” del sistema objetivo (como ancho de banda, memoria o capacidad de procesamiento), haciendo que deje de responder o funcione de forma extremadamente lenta.
-Ejemplos de textos: 
-*Así es letra italic*  
-_Otro ejempli de italic_
-**Este texto estará en negrilla bold**  
-asdf
+
+### MECANISMO DE ATAQUE
+Aquí se escribe un párrafo de máximo 3 líneas. 
+El atacante envía “grandes volúmenes de tráfico o solicitudes maliciosas” al sistema objetivo, superando su capacidad para gestionarlas. Esto puede provocar:
+1.	Saturación de recursos: Como el ancho de banda o la CPU.
+2.	Interrupción del servicio: El sistema no puede procesar solicitudes legítimas.
+3.	Desconexión temporal: El sistema puede colapsar por completo.
+   
+### MECANISMO DE ATAQUE
+El atacante envía “grandes volúmenes de tráfico o solicitudes maliciosas” al sistema objetivo, superando su capacidad para gestionarlas. Esto puede provocar:
+
+1.	Saturación de recursos: Como el ancho de banda o la CPU.
+2.	Interrupción del servicio: El sistema no puede procesar solicitudes legítimas.
+3.	Desconexión temporal: El sistema puede colapsar por completo.
+
+### IOC (INDICADOR DE COMPROMISO)
+Los Indicadores de Compromiso (IoCs) de un ataque DoS (Denial of Service) son señales o evidencias que indican que un sistema está siendo víctima de un ataque de denegación de servicio. Estos indicadores pueden detectarse en registros de red, métricas del sistema o monitoreo de aplicaciones.
+
+### ESTRATEGIAS DE MITIGACIÓN
+
+
+
+
+### RECURSOS
+
 ## 4. MAN IN THE MIDDLE (MitM) (MY. TORRES)
 ### Descripción General:
 
