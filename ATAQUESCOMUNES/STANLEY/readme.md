@@ -108,6 +108,8 @@ Un **ataque de denegación de servicio (DoS)** es un intento malicioso de hacer 
 
 ## Tipos de Ataques DoS
 
+![3  DoS_Attack](https://github.com/user-attachments/assets/c4d88156-6743-4dfd-9884-1f4b0829d374)
+
 ### 1. Ataques DoS Clásicos
 - **Descripción**: Utilizan una única fuente para generar tráfico malicioso hacia el objetivo.
 - **Ejemplo**: Un atacante puede enviar una gran cantidad de solicitudes a un servidor hasta que este se sature y no pueda responder a usuarios legítimos.
