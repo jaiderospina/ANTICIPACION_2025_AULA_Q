@@ -54,3 +54,30 @@ Esta técnica se utiliza principalmente para engañar a usuarios y obtener infor
     
 
 Estos datos subrayan la importancia de mantenerse alerta y adoptar medidas de seguridad para protegerse de los crecientes intentos de phishing en el país.
+
+
+## RANSOMWARE  
+
+![IMG RANSOMWARE JK](https://github.com/user-attachments/assets/005ee7f2-d2c0-4794-87c0-649dfd20de1b)
+FUENTE: AUTORIA JOHN NOYA ILUSTRATIVA DEL RANSOMWARE
+
+Un **ciberataque de ransomware** es un tipo de ataque cibernético en el que los delincuentes infectan sistemas o redes con un programa malicioso diseñado para cifrar los datos de la víctima. Una vez que los archivos están encriptados, los atacantes exigen un pago, generalmente en criptomonedas, a cambio de proporcionar una clave de descifrado para recuperar el acceso.
+
+Los ataques de ransomware suelen distribuirse a través de correos electrónicos de phishing, descargas de software malicioso o la explotación de vulnerabilidades en sistemas desactualizados. Este tipo de ciberataque puede tener consecuencias devastadoras para empresas, instituciones y personas, ya que interrumpe operaciones y puede llevar a la pérdida permanente de datos si no se realiza el pago o no se cuenta con copias de seguridad.
+
+Un ejemplo destacado de ransomware es el ataque de **WannaCry** en 2017, que afectó a miles de sistemas en todo el mundo, incluyendo servicios críticos como hospitales.
+
+**URL:**
+
+-   Kaspersky - ¿Qué es el ransomware?
+-   INCIBE - Instituto Nacional de Ciberseguridad (España)
+
+**Casos destacados en Colombia**
+
+1.  **IFX Networks**  
+    En septiembre de 2023, un ataque de ransomware a este proveedor de servicios afectó a aproximadamente 762 empresas en América Latina, incluyendo entidades gubernamentales colombianas como el Ministerio de Salud y la Superintendencia de Salud.  
+    Fuente: [El País](https://www.elpais.com.co/judicial/cuatro-puntos-clave-para-entender-el-ataque-cibernetico-que-esta-atravesando-colombia-1459.html?utm_source=chatgpt.com).
+    
+2.  **Keralty (Sanitas)**  
+    A finales de 2022, la empresa de salud sufrió un ciberataque que comprometió sus sistemas, afectando la prestación de servicios médicos y exponiendo datos sensibles de pacientes.  
+    Fuente: [Infobae](https://www.infobae.com/america/tecno/2023/01/02/las-34-empresas-que-fueron-hackeadas-en-colombia-durante-2022/?utm_source=chatgpt.com).
