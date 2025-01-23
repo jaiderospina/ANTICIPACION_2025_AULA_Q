@@ -80,7 +80,7 @@ Un ejemplo destacado de ransomware es el ataque de **WannaCry** en 2017, que afe
     A finales de 2022, la empresa de salud sufrió un ciberataque que comprometió sus sistemas, afectando la prestación de servicios médicos y exponiendo datos sensibles de pacientes.  
     Fuente: [Infobae](https://www.infobae.com/america/tecno/2023/01/02/las-34-empresas-que-fueron-hackeadas-en-colombia-durante-2022/?utm_source=chatgpt.com).
 
-    ##DENIAL OF SERVICE (DOS)
+    ## DENIAL OF SERVICE (DOS)
 
     ![DENIAL OF SERVICE (DOS)](https://github.com/user-attachments/assets/c0c27979-1bf2-4608-aa36-727fd76996cc)
 
@@ -93,4 +93,24 @@ En un **ataque DoS** típico, el atacante envía una gran cantidad de solicitude
 Es importante destacar que existe una variante más sofisticada llamada ataque de **Denegación de Servicio Distribuido (DDoS)**, donde múltiples fuentes, a menudo una red de computadoras infectadas (botnet), se utilizan para lanzar el ataque de manera coordinada, amplificando así su impacto y dificultando su mitigación.
 
 Los **ataques DoS** pueden tener consecuencias graves, especialmente para empresas y organizaciones que dependen de la disponibilidad continua de sus servicios en línea, resultando en pérdidas financieras, daño a la reputación y problemas de seguridad.
+
+
+## MAN IN THE MIDDLE (MitM)
+
+![MAN IN THE MIDDLE (MitM)](https://github.com/user-attachments/assets/0af92314-2055-4853-bf70-4d6207aba12e)
+
+Un **ataque Man-in-the-Middle (MitM)**, también conocido como ataque de intermediario, es un tipo de ciberataque en el que un atacante se interpone secretamente entre dos partes que creen estar comunicándose directamente entre sí. El objetivo del atacante es interceptar, modificar o incluso inyectar nuevos datos en la comunicación sin que las víctimas lo detecten. Aquí tienes una descripción breve:
+
+1.  **Interceptación:** El atacante se posiciona entre dos puntos de comunicación legítimos.
+2.  **Escucha y captura:** Captura los datos que se transmiten entre las partes.
+3.  **Manipulación potencial:** Puede leer, modificar o incluso cambiar completamente los mensajes.
+4.  **Reenvío:** Transmite los datos (originales o modificados) al destinatario previsto.
+5.  **Invisibilidad:** Las partes legítimas no se dan cuenta de la presencia del intermediario.
+6.  **Objetivos comunes:** Robo de información sensible, credenciales, datos financieros, etc.
+7.  **Métodos:** Puede realizarse en redes Wi-Fi públicas, mediante spoofing de ARP o DNS, entre otros.
+8.  **Prevención:** El uso de encriptación fuerte (HTTPS), VPNs y autenticación de dos factores ayuda a mitigar estos ataques.
+
+Este tipo de ataque es particularmente peligroso porque puede comprometer la confidencialidad e integridad de las comunicaciones sin que las víctimas lo noten, lo que lo hace difícil de detectar y prevenir completamente.
+
+
 
