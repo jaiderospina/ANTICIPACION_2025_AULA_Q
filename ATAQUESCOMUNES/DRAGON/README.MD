@@ -84,10 +84,13 @@ y posibles pérdidas financieras o de reputación.
 
 
 <h1>ZERO DAYS XPLOITS</h1>
-      <p1>ESPACIO para texto </p1>
+## amenazas trasnacionales 
+
+las amenanzas nacionales son aquellas que conectan fronteras entre paises 
 
 <h1>DNS SPOOFING</h1>
       <p1>ESPACIO para texto </p1>
+
 
 # GRUPO DRAGON
 **CASALLAS TORRES-CALDERON ARIAS-CASTRO BEDOYA-CONTRERAS LOBATON**
