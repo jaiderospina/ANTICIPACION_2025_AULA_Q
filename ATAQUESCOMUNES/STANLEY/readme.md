@@ -363,6 +363,8 @@ La **SQL Injection (inyección de SQL)** es una vulnerabilidad crítica que perm
 
 </div>
 
+![enter image description here]( https://github.com/jaiderospina/ANTICIPACION_2025_AULA_Q/blob/main/ATAQUESCOMUNES/STANLEY/IMAGENES%20STANLEY/5.%20SQL-injection_Attack.png?raw=true)
+
 ---
 
 
