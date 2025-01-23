@@ -76,7 +76,8 @@ específica.
 **Consecuencias:** tiempos de inactividad, operaciones interrumpidas<br>
 y posibles pérdidas financieras o de reputación.
 
-![Imagen denegación de servicio](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deltaprotect.com%2Fblog%2Fataques-ddos-que-son&psig=AOvVaw1ZktyI_MM0AoDouWQ1OBZ3&ust=1737748667251000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCdj8XQjIsDFQAAAAAdAAAAABAE)
+![Imagen denegación de servicio].( https://cdn.prod.website-files.com/62e153e41d6ee298cc9a98f7/672a1d51ce7b6b71d2b477d1_639f433abf3d71a94ef2e5fd_ataque-ddos.png)
+
 
 <h1>MAN IN THE MIDDLE</h1>
       <p1>ESPACIO para texto </p1>
