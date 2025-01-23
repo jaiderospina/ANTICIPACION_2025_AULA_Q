@@ -20,7 +20,11 @@
 La inyección de SQL es un tipo de ciberataque encubierto en el cual un hacker inserta código propio en un sitio web con el fin de quebrantar las medidas de seguridad y acceder a datos protegidos. Una vez dentro, puede controlar la base de datos del sitio web y secuestrar la información de los usuarios. Le explicamos cómo funcionan los ataques de inyección de SQL, cómo combatirlos y cómo una herramienta antivirus potente lo puede proteger contra las consecuencias.
 
 <h1>CROSS SITE SCRIPTING</h1>
-      <p1>ESPACIO para texto </p1>
+
+##DE QUE SE TRATA
+
+      <p1>e conoce como  XSS a un tipo de ataque en el cual actores maliciosos logran inyectar un script malicioso en un sitio web para luego ser procesado y ejecutado. Comúnmente, este proceso que se basa en la confianza que tiene el sitio sobre la entrada de los datos, consiste en enviar la URL con el payload precargado al usuario víctima con un objetivo determinado: robar datos personales del usuario, cookies de sesión, implementar técnicas de ingeniería social, entre otras.
+Existen tres tipos de XSS qué permiten que se lleve a cabo este ataque. A continuación, repasamos cuáles son y las medidas que deberíamos tomar para poder protegernos:</p1>
 
 # PHISHING ATTACK 
 
