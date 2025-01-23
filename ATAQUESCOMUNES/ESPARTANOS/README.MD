@@ -14,7 +14,7 @@
 <table>
 <thead>
 <tr>
-<th>1.</th>
+<th>1. </th>
 <th>2.</th>
 <th>3.</th>
 <th style="text-align: left">4.</th>
@@ -25,7 +25,7 @@
 <th>5.</th>
 <th>6.</th>
 <th>7.</th>
-<td style="text-align: left">8.</td>
+<th style="text-align: left">8.</th>
 </tr>
 </tbody>
 </table>
