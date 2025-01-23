@@ -80,17 +80,17 @@ asdf
 ***
 
 ## 5. SQL INJECTION  (MY. MILLAN)
-## DESCRIPCIÓN GENERAL
+### DESCRIPCIÓN GENERAL
 La inyección de lenguaje de consulta estructurada (SQLi) es un ataque de inyección de código que permite al atacante recuperar, manipular o destruir información confidencial ubicada en bases de datos SQL. Estos ataques funcionan al insertar comandos especializados en campos de consulta SQL.
 Cuando se ejecutan, los comandos pueden permitir al atacante suplantar la identidad de usuarios legítimos, ver o recuperar datos protegidos e incluso obtener acceso root a servidores.
 
-## MECANISMO DE ATAQUE
+### MECANISMO DE ATAQUE
 1) Inyección SQL 
 La inyección SQL es una debilidad en la seguridad web que podría permitir a un atacante cambiar las consultas SQL que se ejecutan en la base de datos.
 2) Ataques de secuencias de comandos entre sitios (XSS)
 El ataque de secuencias de comandos entre sitios, también conocido como XSS, permite a un atacante tomar el control de la forma en que los usuarios interactúan con una aplicación que es vulnerable a él.
 
-## IOC (INDICADOR DE COMPROMISO)
+### IOC (INDICADOR DE COMPROMISO)
 Un indicador de compromiso (IoC) ante un ataque de SQL Injection puede manifestarse de diferentes formas, dependiendo del tipo de ataque y su propósito. Algunos ejemplos comunes incluyen:
 
 1. Errores de base de datos visibles
@@ -104,10 +104,10 @@ Respuestas inesperadas de la aplicación, como mostrar datos que no deberían se
 Salto de autenticación: un atacante puede acceder a cuentas sin credenciales válidas.
 Páginas con listados de datos no autorizados.
 
-## ESTRATEGIAS DE MITIGACIÓN
+### ESTRATEGIAS DE MITIGACIÓN
 Dentro de una aplicación, existen dos enfoques para la validación de entrada que pueden defenderse de los ataques de inyección SQL: listas negras y listas blancas. Con las listas negras, se eliminan o reemplazan caracteres maliciosos específicos y conocidos en la entrada del usuario.
 
-## RECURSOS
+### RECURSOS
 1. Análisis de Logs del Servidor Web
 Revisa los logs de tu servidor web (Apache, NGINX, IIS) para buscar patrones de ataque.
 Palabras clave sospechosas:
@@ -122,17 +122,17 @@ ELK Stack (Elasticsearch, Logstash, Kibana): Para analizar grandes volúmenes de
 
 ## 6. CROSS- SITE SCRIPTING  (XSS)  (MY. MILLAN)
 
-## DESCRIPCIÓN GENERAL
+### DESCRIPCIÓN GENERAL
 Cross-site scripting (XSS) es un ataque informático que consiste en inyectar código malicioso en una página web o aplicación. El objetivo de este ataque es que el navegador del usuario ejecute el código malicioso y así obtener información privada. 
 El XSS es uno de los ataques de seguridad más comunes en la web. Puede afectar a cualquier aplicación web, como sitios de comercio electrónico o redes sociales.
 
-## MECANISMO DE ATAQUE
+### MECANISMO DE ATAQUE
 Fases del Mecanismo de Ataque XSS
 Identificación de una vulnerabilidad XSS:
 El atacante busca un punto en la aplicación web donde las entradas del usuario no sean correctamente validadas o sanitizadas.
 Esto puede ocurrir en formularios, parámetros en URLs, cabeceras HTTP, comentarios, o cualquier otro punto donde se acepten datos del usuario.
 
-## IOC (INDICADOR DE COMPROMISO)
+### IOC (INDICADOR DE COMPROMISO)
 1. Comportamiento anómalo en la aplicación web
 Aparición de ventanas emergentes inesperadas
 Cambios visuales no autorizados en la interfaz de usuario (redirecciones, formularios alterados, etc.).
@@ -145,7 +145,7 @@ Uso de funciones como document.cookie, window.location, eval().
 URLs con caracteres o patrones maliciosos:
 %3Cscript%3E (versión codificada de <script>).
 
-## ESTRATEGIAS DE MITIGACIÓN
+### ESTRATEGIAS DE MITIGACIÓN
 Para mitigar un ataque Cross-Site Scripting (XSS) y prevenir futuras vulnerabilidades, se deben implementar estrategias robustas que abarcan la validación de entradas, codificación de salidas, uso de configuraciones de seguridad y herramientas especializadas.
 
 1. Validación y Saneamiento de Entradas
@@ -162,7 +162,7 @@ Escapa caracteres especiales que puedan interpretarse como código:
 ' → &#39;
 " → &quot;
 
-## RECURSOS
+### RECURSOS
 1. Análisis de Logs
 Los logs de tu servidor y aplicación son una de las primeras líneas para detectar ataques XSS.
 Qué buscar:
