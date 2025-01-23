@@ -66,15 +66,17 @@ Tiene como objetivo sitios web, correo electrónico, banca en línea y cualquier
 
 
 <h1>MAN IN THE MIDDLE</h1>
+
 # ¿Qué es un ataque de intermediario (MITM)?
 
-Un ataque de intermediario (MITM) es un ciberataque en el que un hackerroba información confidencial espiando<br>  las comunicaciones entre dos objetivos en línea, como un usuario y una aplicación web.
+Un ataque de intermediario (MITM) es un ciberataque en el que un hackerroba información confidencial espiando<br>
+las comunicaciones entre dos objetivos en línea, como un usuario y una aplicación web.
 
 **¿Cómo funciona un ataque de intermediario (man-in-the middle)?**
 
-Las vulnerabilidades en las redes, los navegadores web, las cuentas de correo electrónico, los comportamientos de<br> los usuarios y los protocolos de<br> seguridad son los puntos de partida de los ataques MITM. Los<br>  ciberdelincuentes explotan estas debilidades para insertarse entre los usuarios y las aplicaciones de confianza<br>  para poder controlar las<br> comunicaciones e interceptar datos en tiempo real.
+Las vulnerabilidades en las redes, los navegadores web, las cuentas de correo electrónico, los comportamientos de<br> los usuarios y los protocolos de seguridad son los puntos de partida de los ataques MITM. Los ciberdelincuentes<br> explotan estas debilidades para insertarse entre los usuarios y las aplicaciones de confianza para poder controlar<br> lascomunicaciones e interceptar datos en tiempo real.
 
-Los ataques de phishing son un medio común de entrada para los atacantes MITM. Al hacer clic en un enlace <br>  malicioso en un correo electrónico, un usuario puede lanzar sin saberlo un ataque man-in-the-browser. Los<br> atacantes MITM a menudo confían en esta táctica para infectar el navegador web  de un usuario con malware que<br>  les permite realizar cambios encubiertos en las páginas web, manipular transacciones y espiar la actividad del usuario.
+Los ataques de phishing son un medio común de entrada para los atacantes MITM. Al hacer clic en un enlace <br>  malicioso en un correo electrónico, un usuario puede lanzar sin saberlo un ataque man-in-the-browser. Los<br> atacantes MITM a menudo confían en esta táctica para infectar el navegador web  de un usuario con malware que les<br> permite realizar cambios encubiertos en las páginas web, manipular transacciones y espiar la actividad del usuario.
 
 
 ![Imagen denegación de servicio](https://web-assets.esetstatic.com/tn/-x700/wls/2021/09/ataques_man_in_the_middle.png)
