@@ -15,22 +15,19 @@
 
     <img src="./IMG_0582.JPG"">
   <section>
-    <article>
       <h2>Este es el titulo de una seccion Noticias</h2>
       <p1>Este parrafo describe la noticia OJO PUES</p1>
-    </article>
   
-    <article>
      <h3>titulo de la seccion de deportes</h3>
       <p1>Los deportes son importantes para la vida</p1>
-    </article>
+  
 </section>
 <hr />
 <section>
-  <article>
+
   <h4>Seccion de clasificados</h4>
   <div>  
-      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores voluptatum nesciunt quos blanditiis veritatis aspernatur molestiae modi reprehenderit debitis quod vitae, corrupti fugit quaerat. Aliquid minus laudantium corporis laborum cum!</p>
+      <p>TEXTO TEXTO TEXTO</p>
        <p>se vende cosas</p>
        <p>Listado de elementos en venta</p>
   </div>
