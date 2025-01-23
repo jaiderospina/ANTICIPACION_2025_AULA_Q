@@ -175,6 +175,8 @@ Herramientas recomendadas
 GoAccess: Análisis en tiempo real de logs.
 Graylog o ELK Stack (Elasticsearch, Logstash, Kibana): Para centralizar y analizar patrones de tráfico.
 
+![Ejemplo de imagen desde un link externo]( https://gogetsecure.com/wp-content/uploads/2023/03/cross-site-scripting-xss.jpg)
+
 
 ## 7 ZERO DAY EXPLOITS (MY. OBANDO)
 
