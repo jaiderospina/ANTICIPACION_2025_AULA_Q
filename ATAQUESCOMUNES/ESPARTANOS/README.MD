@@ -47,9 +47,9 @@ El phishing es un tipo de ciberataque que utiliza correos electrónicos, mensaje
 El ransomware es un malware que cifra archivos o sistemas y exige un pago, generalmente en criptomonedas, para restaurar el acceso, causando graves pérdidas.
 
 <p align="center">
-  <img src="IMAGENES/PHISHING.jpg">
+  <img src="IMAGENES/RANSOMWARE.jpg">
 </p>
-<p align="center"> PHISHING </p>
+<p align="center"> RASOMWARE </p>
 
 **Estrategias de mitigación contra RANSOMWARE:**
 
