@@ -184,3 +184,53 @@ Un exploit de día cero recibe este nombre porque los desarrolladores tienen "ce
 
 ---
 
+# DNS Spoofing: Qué es y cómo funciona
+
+<div style="background-color: #fff8dc; padding: 20px; border-radius: 10px;">
+
+El **DNS Spoofing** (también conocido como envenenamiento de caché DNS) es un ataque en el que los ciberatacantes manipulan las respuestas de los servidores DNS para redirigir a las víctimas a sitios web falsos o maliciosos. Esto puede usarse para robar credenciales, infectar dispositivos con malware, o simplemente espiar a las víctimas.
+
+---
+
+## ¿Cómo funciona el DNS Spoofing?
+
+1. **Manipulación del caché DNS**: Los atacantes inyectan entradas falsas en los servidores DNS.
+2. **Redirección a sitios falsos**: Cuando un usuario intenta acceder a un sitio legítimo, como `www.banco-ejemplo.com`, el servidor DNS comprometido responde con una dirección IP falsa, llevando al usuario a un sitio malicioso.
+
+---
+
+## Ejemplo Visual de DNS Spoofing
+
+### Etapa 1: Solicitud DNS legítima
+<img src="https://example.com/dns-legitimo.png" alt="Solicitud DNS legítima" width="600">
+
+> En condiciones normales, el servidor DNS traduce el dominio solicitado (`www.banco-ejemplo.com`) a la dirección IP legítima del sitio web.
+
+---
+
+### Etapa 2: Ataque de DNS Spoofing
+<img src="https://example.com/dns-spoofing.png" alt="DNS Spoofing en acción" width="600">
+
+> En un ataque de DNS Spoofing, el servidor DNS comprometido responde con una dirección IP falsa, llevando al usuario a un sitio web controlado por los atacantes.
+
+---
+
+## ¿Cómo Protegerse del DNS Spoofing?
+
+1. **Usa DNS seguros y confiables**: Configura tu red para usar servidores DNS con protección avanzada, como Google DNS o Cloudflare.
+2. **Habilita DNSSEC**: DNSSEC (Domain Name System Security Extensions) valida la autenticidad de las respuestas DNS.
+3. **Utiliza HTTPS**: Asegúrate de que los sitios web que visitas tienen conexiones HTTPS legítimas.
+4. **Mantén tus dispositivos actualizados**: Actualiza tus sistemas operativos y software para protegerte de vulnerabilidades conocidas.
+
+---
+
+## ¿Qué Hacer si Sospechas de DNS Spoofing?
+
+1. **Verifica la URL**: Asegúrate de que la dirección URL coincide con el sitio esperado.
+2. **Revisa el certificado SSL**: Haz clic en el candado del navegador para verificar si el certificado es legítimo.
+3. **Cambia la configuración DNS**: Si crees que tus servidores DNS han sido comprometidos, cambia la configuración por servidores DNS confiables.
+4. **Consulta a un experto**: Busca soporte técnico si no puedes resolver el problema.
+
+</div>
+
+---
