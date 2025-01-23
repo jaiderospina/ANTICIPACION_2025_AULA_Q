@@ -11,9 +11,8 @@
 
  </header>
 <h1>SQL INJECTION</h1>
-![Imagen DEL ATAQUE](ATAQUESCOMUNES/DRAGON/IMAGES/SQL.JPG)
 ATAQUESCOMUNES/DRAGON/IMAGES/SQL.JPG
-      <p1>ESPACIO para texto </p1>
+<p1>ESPACIO para texto </p1>
 
 <h1>CROSS SITE SCRIPTING</h1>
       <p1>ESPACIO para texto </p1>
