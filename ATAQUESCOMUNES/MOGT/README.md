@@ -66,13 +66,16 @@ Aquí está el listado de códigos emojis: https://tutorialmarkdown.com/emojis
 
 ***
 
-## TÍTULO 2 (MY. TORRES)
-Esto es un párrafo prueba laskdjhasdfh
+## 3. DENIAL OF SERVICE (DOS) (MY. TORRES)
+### Descripción General:
+Ataque cibernético diseñado para “interrumpir el funcionamiento normal de un servidor, servicio o red” haciéndolo inoperable para sus usuarios legítimos. El objetivo principal de este ataque es “sobrecargar los recursos” del sistema objetivo (como ancho de banda, memoria o capacidad de procesamiento), haciendo que deje de responder o funcione de forma extremadamente lenta.
+Ejemplos de textos: 
+*Así es letra italic*  
+_Otro ejempli de italic_
+**Este texto estará en negrilla bold**  
 asdf
-asdf
-lsad
-fs
-df
+## 4. MAN IN THE MIDDLE (MitM) (MY. TORRES)
+### Descripción General:
 
 ***
 
