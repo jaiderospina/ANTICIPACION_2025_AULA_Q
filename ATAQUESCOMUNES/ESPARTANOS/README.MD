@@ -30,4 +30,6 @@
 </tbody>
 </table>
 
-[RANSOMWARE](ATAQUESCOMUNES/ESPARTANOS/IMAGENES/DOS.jpg)
+<p align="center">
+  <img src="IMAGES/IMAG11.webp">
+</p>
