@@ -238,6 +238,8 @@ El **DNS Spoofing** (también conocido como envenenamiento de caché DNS) es un 
 3. **Cambia la configuración DNS**: Si crees que tus servidores DNS han sido comprometidos, cambia la configuración por servidores DNS confiables.
 4. **Consulta a un experto**: Busca soporte técnico si no puedes resolver el problema.
 
+![enter image description here]( https://github.com/jaiderospina/ANTICIPACION_2025_AULA_Q/blob/main/ATAQUESCOMUNES/STANLEY/IMAGENES%20STANLEY/8.%20DNS-spoofing-attack.jpg?raw=true)
+
 </div>
 
 ---
