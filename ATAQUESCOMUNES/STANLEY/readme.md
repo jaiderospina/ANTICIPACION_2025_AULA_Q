@@ -319,7 +319,7 @@ La **SQL Injection (inyección de SQL)** es una vulnerabilidad crítica que perm
 ## Ejemplo Visual de un Ataque de SQL Injection
 
 ### Etapa 1: Formulario de Inicio de Sesión Vulnerable
-<img src="https://example.com/sql-injection-form.png" alt="Formulario vulnerable a SQL Injection" width="600">
+<img src="[https://example.com/sql-injection-form.png](https://images.spiceworks.com/wp-content/uploads/2022/05/13064934/Functioning-of-an-SQL-Injection.png)" alt="Formulario vulnerable a SQL Injection" width="600">
 
 > Un atacante puede inyectar una entrada como:  
 > `' OR '1'='1' --`  
