@@ -122,7 +122,11 @@ Los Indicadores de Compromiso (IoCs) de un ataque DoS (Denial of Service) son se
 
 https://github.com/thehackingsage/ddos/tree/master/Protection%20Tools
 
+
+
 ## 4. MAN IN THE MIDDLE (MitM) (MY. TORRES)
+
+![MITM](https://beaglesecurity.com/blog/images/man-in-the-middle-attacks.webp)
 
 ### DESCRIPCIÓN GENERAL
 Un ataque Man-in-the-Middle (MitM) ocurre cuando un atacante intercepta, modifica o manipula la comunicación entre dos partes (por ejemplo, un usuario y un servidor) sin que estas lo sepan. Su objetivo principal es robar información sensible como contraseñas, datos financieros o identidades, o alterar los datos transmitidos.
