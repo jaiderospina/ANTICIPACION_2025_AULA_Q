@@ -12,6 +12,7 @@
  </header>
 <h1>SQL INJECTION</h1>
 ![Imagen DEL ATAQUE](ATAQUESCOMUNES/DRAGON/IMAGES/SQL.JPG)
+![Imagen DEL ATAQUE](https://github.com/jaiderospina/ANTICIPACION_2025_AULA_Q/blob/main/ATAQUESCOMUNES/DRAGON/IMAGES/SQL.JPG?raw=true)
 
       <p1>ESPACIO para texto </p1>
 
