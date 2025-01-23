@@ -15,6 +15,8 @@ _Es un ataque que se realiza a través de mensajes falsos para que la víctima d
 
 - **DDoS**
 
+- Un ataque de denegación de servicio distribuido (DDoS) es un ciberataque que intenta interrumpir los servicios de un sitio web, servidor o red. Se realiza mediante una red de robots (botnet) que envía un gran volumen de tráfico a un objetivo. 
+
 - ![](https://img.freepik.com/vector-gratis/infografia-ransomware-diseno-plano_23-2149381248.jpg)
 - 
 - **Malware**
