@@ -44,12 +44,15 @@ agotar sus recursos o bloquearlo.
 
 **Ataques de inundación** : envían una cantidad brumadora<br>
 de paquetes que exceden la capacidad del servidor.
+
 **Ataques de agotamiento de recursos** : hacen que el<br>
 objetivo utilice todos sus recursos de memoria o<br>
 almacenamiento disponibles. 
+
 **SYN flood** : envía una solicitud para conectarse a un<br>
 servidor pero no completa la conexión. Esto hace que el<br>
 puerto conectado no esté disponible para futuras solicitudes.
+
 **Inundación ICMP** : también conocido como ataque Smurf<br>
 o ping de la muerte, este ataque envía paquetes falsificados<br>
 que hacen ping a todas las computadoras de la red objetivo. 
@@ -58,12 +61,10 @@ Tiene como objetivo sitios web, correo electrónico, banca en línea<br>
 y cualquier otro servicio que dependa de una red o computadora<br>
 específica. 
 
-**Consecuencias: tiempos de inactividad, operaciones interrumpidas<br>
+**Consecuencias:** tiempos de inactividad, operaciones interrumpidas<br>
 y posibles pérdidas financieras o de reputación.
+
  
-
-
-
 <h1>MAN IN THE MIDDLE</h1>
       <p1>ESPACIO para texto </p1>
 
