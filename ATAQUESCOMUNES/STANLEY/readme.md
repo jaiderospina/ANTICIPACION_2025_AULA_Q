@@ -1,3 +1,3 @@
 # **Manuel Ricardo Rey Rios**
-# **Ruben Dario Contreras Caballero**
+# **Rubén Dario Contreras Caballero**
 # **Fabian Esteban Cano Jaime**
