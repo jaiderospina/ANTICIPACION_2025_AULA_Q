@@ -176,7 +176,7 @@ o	Analizar registros de tráfico y patrones anómalos.
 o	Revisar y actualizar certificados SSL regularmente.
 
 ### RECURSOS
-![MITM]((https://img-c.udemycdn.com/course/750x422/1969416_1f51_7.jpg)
+![MITM](https://img-c.udemycdn.com/course/750x422/1969416_1f51_7.jpg)
 
 https://github.com/byt3bl33d3r/MITMf
 https://github.com/jtesta/ssh-mitm
