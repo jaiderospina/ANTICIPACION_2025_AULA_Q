@@ -40,3 +40,40 @@ Un ataque de phishing es un método de ciberataque utilizado para engañar a las
 - No hagas clic en enlaces sospechosos en correos electrónicos o mensajes.
 - Habilita la autenticación en dos pasos en tus cuentas.
 - Mantén actualizado tu software de seguridad.
+
+----
+
+
+# Ransomware Attack
+
+![Ransomware Attack](https://via.placeholder.com/1000x200/FF0000/FFFFFF?text=Ransomware+Attack)
+
+## ¿Qué es un ataque de ransomware?
+
+Un ataque de ransomware es un tipo de ciberataque en el que los atacantes cifran los datos de una víctima y exigen un rescate ("ransom") a cambio de la clave para restaurar el acceso. Estos ataques pueden paralizar sistemas enteros y causar grandes pérdidas económicas.
+
+---
+
+## ¿Cómo funciona un ataque de ransomware?
+
+1. **Infección inicial**: El atacante introduce el ransomware a través de correos electrónicos maliciosos, descargas de software no confiables o vulnerabilidades del sistema.
+2. **Cifrado de datos**: Una vez en el sistema, el ransomware cifra los archivos importantes, haciéndolos inaccesibles para el usuario.
+3. **Demanda de rescate**: El atacante deja una nota exigiendo el pago de un rescate, generalmente en criptomonedas, para proporcionar la clave de descifrado.
+
+---
+
+## Ejemplo de ataque de ransomware
+
+> Un empleado descarga un archivo adjunto de un correo que parece provenir de un cliente. El archivo contiene un ransomware que se activa, cifrando todos los archivos de la empresa y dejando un mensaje pidiendo el pago de 5 bitcoins para recuperar el acceso.
+
+---
+
+## Cómo prevenir un ataque de ransomware
+
+- Realiza copias de seguridad de tus datos regularmente y almacénalas de forma segura.
+- No abras archivos adjuntos de remitentes desconocidos.
+- Mantén actualizado tu software y sistema operativo.
+- Utiliza herramientas de seguridad que detecten y bloqueen ransomware.
+- Capacita a tu equipo para identificar posibles amenazas.
+
+---
