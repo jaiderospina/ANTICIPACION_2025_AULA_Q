@@ -11,9 +11,10 @@
 
  </header>
 <h1>SQL INJECTION</h1>
+
 ![imagen SQL](https://www.avast.com/hs-fs/hubfs/New_Avast_Academy/SQL%20injection/SQL_injection-Hero.png?width=2400&name=SQL_injection-Hero.png)
 
-# QUE SIGNIFICA UN QSL INJECTION
+## QUE SIGNIFICA UN QSL INJECTION
 
 
 La inyección de SQL es un tipo de ciberataque encubierto en el cual un hacker inserta código propio en un sitio web con el fin de quebrantar las medidas de seguridad y acceder a datos protegidos. Una vez dentro, puede controlar la base de datos del sitio web y secuestrar la información de los usuarios. Le explicamos cómo funcionan los ataques de inyección de SQL, cómo combatirlos y cómo una herramienta antivirus potente lo puede proteger contra las consecuencias.
