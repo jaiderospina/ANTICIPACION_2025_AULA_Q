@@ -133,3 +133,54 @@ Para protegerse contra ataques DoS y DDoS, se pueden implementar varias estrateg
 - **Filtrado de tráfico**: Utilizar herramientas que detecten y bloqueen tráfico malicioso antes de que llegue al servidor.
 - **Redundancia y escalabilidad**: Implementar arquitecturas que puedan manejar picos en el tráfico sin comprometer la disponibilidad.
 - **Servicios especializados**: Considerar el uso de servicios externos que se especialicen en la mitigación de DDoS.
+
+---
+
+
+# Zero-Day Exploits
+
+<div style="background-color: #D2B48C; padding: 15px; border-radius: 8px;">
+
+## ¿Qué es un Zero-Day Exploit?
+
+Un **Zero-Day Exploit** (explotación de día cero) es una vulnerabilidad en software, hardware o firmware desconocida para los desarrolladores y no corregida al momento de ser descubierta. Los atacantes pueden usar esta brecha para ejecutar ataques antes de que el problema sea identificado y reparado.
+
+Un exploit de día cero recibe este nombre porque los desarrolladores tienen "cero días" para reaccionar o implementar una solución antes de que la vulnerabilidad sea explotada.
+
+</div>
+
+---
+
+### Características principales
+
+1. **Desconocido**: Nadie, excepto los atacantes, sabe que la vulnerabilidad existe.
+2. **Alta peligrosidad**: Puede ser utilizada para espionaje, robo de datos o ataques masivos.
+3. **Limitado tiempo de reacción**: Los desarrolladores deben corregirlo rápidamente una vez descubierto.
+
+---
+
+### Proceso de un Zero-Day Exploit
+
+1. Un atacante descubre una vulnerabilidad no conocida.
+2. Desarrolla un exploit para aprovechar esa vulnerabilidad.
+3. Usa el exploit para comprometer sistemas antes de que se publique un parche o solución.
+
+---
+
+### Ejemplo gráfico
+
+![Zero-Day Exploit Gráfico](https://via.placeholder.com/600x300.png?text=Gráfico+de+Zero-Day+Exploit)  
+*Un diagrama que muestra cómo un atacante explota una vulnerabilidad antes de que sea descubierta y solucionada.*
+
+---
+
+## Prevención y detección
+
+### ¿Cómo protegerse contra Zero-Day Exploits?
+
+- **Actualizaciones regulares**: Mantener todos los sistemas y programas actualizados.
+- **Software de seguridad avanzado**: Usar antivirus y sistemas de detección de intrusos.
+- **Seguridad proactiva**: Emplear análisis de comportamiento y segmentación de redes.
+
+---
+
