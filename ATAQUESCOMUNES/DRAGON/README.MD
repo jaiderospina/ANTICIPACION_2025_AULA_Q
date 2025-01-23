@@ -84,9 +84,10 @@ y posibles pérdidas financieras o de reputación.
 
 
 <h1>ZERO DAYS XPLOITS</h1>
+
 ## amenazas trasnacionales 
 
-las amenanzas nacionales son aquellas que conectan fronteras entre paises 
+Un zero-day exploit es un ataque cibernético que aprovecha una vulnerabilidad de seguridad desconocida en un sistema. Se le llama "día cero" porque los desarrolladores no han tenido tiempo para corregirla antes de que los atacantes la exploten. 
 
 <h1>DNS SPOOFING</h1>
       <p1>ESPACIO para texto </p1>
