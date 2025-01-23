@@ -33,3 +33,4 @@
 <p align="center">
   <img src="IMAGENES/DOS.jpg">
 </p>
+DENIAL OF SERVICE (DoS)
