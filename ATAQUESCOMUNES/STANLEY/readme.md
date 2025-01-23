@@ -363,4 +363,61 @@ La **SQL Injection (inyección de SQL)** es una vulnerabilidad crítica que perm
 ---
 
 
+# Man-in-the-Middle (MitM)
 
+<div style="background-color: #FFC0CB; padding: 15px; border-radius: 8px;">
+
+## ¿Qué es un ataque Man-in-the-Middle (MitM)?
+
+Un ataque **Man-in-the-Middle (MitM)** ocurre cuando un atacante intercepta y posiblemente altera la comunicación entre dos partes sin que estas se den cuenta. Este tipo de ataque permite al intruso espiar datos sensibles, modificar mensajes o incluso hacerse pasar por una de las partes involucradas.
+
+Los atacantes generalmente se colocan "en el medio" de la comunicación para interceptar datos como contraseñas, información bancaria o mensajes privados.
+
+</div>
+
+---
+
+## Características principales
+
+1. **Intercepción**: El atacante se posiciona entre dos partes que creen estar comunicándose directamente.
+2. **Suplantación**: Puede modificar mensajes o hacerse pasar por una de las partes.
+3. **Datos sensibles comprometidos**: Contraseñas, tarjetas de crédito y otros datos críticos están en riesgo.
+
+---
+
+### Proceso de un ataque MitM
+
+1. El atacante se sitúa en la red o entre los dispositivos de las víctimas.
+2. Intercepta y, opcionalmente, modifica los datos que se transfieren.
+3. La víctima no nota la intrusión porque el atacante replica la comunicación original.
+
+---
+
+### Ejemplo gráfico
+
+![Gráfico de ataque MitM](https://via.placeholder.com/600x300.png?text=Gráfico+de+MitM)  
+*Un diagrama que muestra cómo un atacante intercepta la comunicación entre dos dispositivos.*
+
+---
+
+## Tipos de ataques MitM
+
+- **Wi-Fi no seguro**: Redes públicas que permiten interceptar datos.
+- **Ataque de suplantación (Spoofing)**: Imitación de servidores o dispositivos legítimos.
+- **HTTPS Downgrade**: Interrupción de conexiones seguras HTTPS, forzando HTTP inseguro.
+
+---
+
+## Prevención contra ataques MitM
+
+1. **Usar HTTPS**: Asegúrate de que las conexiones sean seguras (candado en el navegador).
+2. **VPNs**: Navega usando redes privadas virtuales para cifrar tu tráfico.
+3. **Certificados de autenticación**: Verifica las fuentes antes de enviar información sensible.
+4. **Evita redes Wi-Fi públicas no seguras**.
+
+---
+
+### Infografía de prevención
+
+![Medidas de prevención MitM](https://via.placeholder.com/600x300.png?text=Prevención+de+MitM)  
+*Un gráfico que ilustra las mejores prácticas para prevenir ataques MitM.*
