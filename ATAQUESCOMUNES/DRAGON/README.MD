@@ -10,13 +10,8 @@
   <h1>CYBERDRAGON</h1>
 
  </header>
-
- <main>
-
-    <img src="./IMG_0582.JPG"">
-  <section>
-      <h2>Este es el titulo de una seccion Noticias</h2>
-      <p1>Este parrafo describe la noticia OJO PUES</p1>
+<h1>SQL INJECTION</h1>
+      <p1>ESPACIO para texto SQL</p1>
   
      <h3>titulo de la seccion de deportes</h3>
       <p1>Los deportes son importantes para la vida</p1>
