@@ -35,14 +35,29 @@ El phishing es un tipo de ciberataque que utiliza correos electrónicos, mensaje
 </p>
 <p align="center"> PHISHING </p>
 
-**Estrategias de mitigación contra phishing:**
+**Estrategias de mitigación contra PHISHING:**
 
 1.	Revisar URLs cuidadosamente antes de hacer clic.
 2.	No abrir archivos adjuntos de remitentes desconocidos.
 3.	Habilitar la autenticación multifactor (MFA) para proteger cuentas.
 4.	Usar filtros de correo electrónico para identificar mensajes fraudulentos.
 
-**2. RAZOMWARE**
+**2. RASOMWARE**
+
+El ransomware es un malware que cifra archivos o sistemas y exige un pago, generalmente en criptomonedas, para restaurar el acceso, causando graves pérdidas.
+
+<p align="center">
+  <img src="IMAGENES/PHISHING.jpg">
+</p>
+<p align="center"> PHISHING </p>
+
+**Estrategias de mitigación contra RANSOMWARE:**
+
+1. Realiza copias de seguridad periódicas:
+2. Mantén el software actualizado:
+3. Utiliza herramientas de seguridad robustas:
+4. No abras correos sospechosos:
+5. Habilita la protección contra ransomware:
 
 <p align="center">
   <img src="IMAGENES/DOS.jpg">
