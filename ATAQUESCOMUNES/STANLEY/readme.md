@@ -105,6 +105,8 @@ Un **ransomware** es un tipo de software malicioso (malware) que cifra los archi
 ---
 # Ataque de Denegación de Servicio (DoS)
 
+![enter image description here](https://www.revista.imef.org.mx/wp-content/uploads/2022/11/Que-hacer-en-caso-de-ataque-DDoS.jpg)
+
 Un **ataque de denegación de servicio (DoS)** es un intento malicioso de hacer que un sistema, servicio o red sea inaccesible para los usuarios legítimos. Este tipo de ataque se lleva a cabo al inundar el objetivo con un volumen abrumador de tráfico o solicitudes, lo que impide que el sistema pueda procesar peticiones válidas.
 
 ## Tipos de Ataques DoS
