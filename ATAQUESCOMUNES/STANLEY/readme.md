@@ -62,14 +62,6 @@ El **phishing** es un tipo de ciberataque en el que los atacantes intentan enga�
 ---
 ![enter image description here](https://raw.githubusercontent.com/jaiderospina/ANTICIPACION_2025_AULA_Q/refs/heads/main/ATAQUESCOMUNES/STANLEY/IMAGENES%20STANLEY/1.%20phishing_Attack.webp)
 
-### Recursos Adicionales
-
-- [Cómo reconocer correos de phishing - Google](https://support.google.com)
-- [Guía para protegerse del phishing - Microsoft](https://www.microsoft.com)
-
-
-
-
 ---
 
 # ¿Qué es un Ransomware?
