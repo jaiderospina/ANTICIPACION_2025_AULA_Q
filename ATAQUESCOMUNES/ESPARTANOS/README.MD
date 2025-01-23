@@ -25,9 +25,15 @@ Las amenazas cibernéticas abarcan una amplia gama de actividades maliciosas, de
 </tbody>
 </table>
 
+
 **1. PHISHING ATTACK**
 
 El phishing es un tipo de ciberataque que utiliza correos electrónicos, mensajes de texto, llamadas telefónicas o sitios web fraudulentos para engañar a las personas y hacer que compartan datos confidenciales, descarguen malware o se expongan de otro modo a la ciberdelincuencia.
+
+<p align="center">
+  <img src="IMAGENES/DOS.jpg">
+</p>
+<p align="center"> PHISHING </p>
 
 **Estrategias de mitigación contra phishing:**
 
