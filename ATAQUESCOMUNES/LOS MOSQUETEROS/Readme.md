@@ -171,6 +171,7 @@ Un ataque Man-in-the-Middle (MitM) ocurre cuando un atacante se interpone en la 
 * **Verificar certificados SSL/TLS:** Presta atención a las advertencias del navegador sobre certificados inválidos o sospechosos.
 * **Usar una VPN:** Una VPN cifra todo tu tráfico de Internet, haciéndolo más difícil de interceptar.
 
+----
 
 ## INYECCION DE SQL ##
 
