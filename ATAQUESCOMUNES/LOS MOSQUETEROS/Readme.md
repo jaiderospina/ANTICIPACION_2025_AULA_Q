@@ -137,41 +137,7 @@ Un ataque de denegación de servicio (DoS) es un intento malicioso de hacer que 
 * **Utilizar un proveedor de servicios de mitigación de DDoS:** Un proveedor de servicios de mitigación de DDoS puede ayudar a absorber el tráfico malicioso y proteger el objetivo.
 * **Implementar medidas de seguridad en la red:** Esto puede incluir el uso de listas de control de acceso (ACL) y la segmentación de la red.
 
-**Ejemplos de código:**
-
-* **Script de Python para simular una inundación SYN:**
-
-```python
-import socket
-import random
-
-def syn_flood(target_ip, target_port):
-  # Crea un socket TCP
-  s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-
-  # Genera un número de secuencia aleatorio
-  seq_num = random.randint(0, 4294967295)
-
-  # Crea un paquete SYN
-  ip_header = IP(dst=target_ip)
-  tcp_header = TCP(dport=target_port, flags='S', seq=seq_num)
-  packet = ip_header / tcp_header
-
-  # Envía el paquete
-  s.sendto(packet, (target_ip, target_port))
-
-# Dirección IP del objetivo
-target_ip = '192.168.1.100'
-
-# Puerto del objetivo
-target_port = 80
-
-# Número de paquetes a enviar
-num_packets = 1000
-
-# Envía los paquetes
-for i in range(num_packets):
-  syn_flood(target_ip, target_port)
+***
 
 # Ataque Man-in-the-Middle (MitM)
 ---
@@ -203,3 +169,5 @@ Un ataque Man-in-the-Middle (MitM) ocurre cuando un atacante se interpone en la 
 * **Usar conexiones HTTPS:** Asegúrate de que los sitios web que visitas utilicen HTTPS, lo que cifra la comunicación y dificulta la interceptación.
 * **Verificar certificados SSL/TLS:** Presta atención a las advertencias del navegador sobre certificados inválidos o sospechosos.
 * **Usar una VPN:** Una VPN cifra todo tu tráfico de Internet, haciéndolo más difícil de interceptar.
+
+
