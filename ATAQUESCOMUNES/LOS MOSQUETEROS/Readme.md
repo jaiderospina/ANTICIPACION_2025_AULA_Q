@@ -172,6 +172,6 @@ Un ataque Man-in-the-Middle (MitM) ocurre cuando un atacante se interpone en la 
 * **Usar una VPN:** Una VPN cifra todo tu tráfico de Internet, haciéndolo más difícil de interceptar.
 
 
-## inyección de SQL ##
+## INYECCION DE SQL ##
 
-* ** Es un lenguaje de consulta estructurado («Structured Query Language») que se ha convertido en el lenguaje estándar para la gestión de bases de datos. Cuando un sitio web necesita acceder a la base de datos que tiene en su servidor para buscar o editar información, utiliza SQL para procesar esa «consulta» o solicitud 
+** Es un lenguaje de consulta estructurado («Structured Query Language») que se ha convertido en el lenguaje estándar para la gestión de bases de datos. Cuando un sitio web necesita acceder a la base de datos que tiene en su servidor para buscar o editar información, utiliza SQL para procesar esa «consulta» o solicitud 
