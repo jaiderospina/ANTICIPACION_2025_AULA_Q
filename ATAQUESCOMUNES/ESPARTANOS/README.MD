@@ -94,6 +94,23 @@ Ataque en el que el atacante se intercepta entre dos partes que están intentand
 6. Mantener el software actualizado.
 7. Usar DNS seguro.
 
+**5. ATAQUE SQL INJECTION**
+
+Las aplicaciones web suelen interactuar con bases de datos a través de consultas SQL para recuperar o modificar datos. Si una aplicación no valida correctamente los datos de entrada (como los formularios que los usuarios llenan), un atacante puede manipular esos datos para que se conviertan en código SQL malicioso.
+
+<p align="center">
+  <img src="IMAGENES/MITM.png">
+</p>
+<p align="center"> MAN-IN-THE-MIDDLE </p>
+
+**Estrategias de mitigación contra Ataque SQL Injection:**
+
+1. Uso de consultas preparadas (Prepared Statements).
+2. Uso de ORM (Object-Relational Mapping).
+3. Validación y sanitización de entradas.
+4. Principio de menor privilegio.
+5. Uso de firewalls y herramientas de monitoreo.
+6. Error handling adecuado.
 
 <p align="center">
   <img src="IMAGENES/DOS.jpg">
