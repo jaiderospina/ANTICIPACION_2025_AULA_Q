@@ -242,23 +242,12 @@ El **Cross-Site Scripting (XSS)** es una vulnerabilidad de seguridad web que per
 2. **XSS Almacenado**: El código malicioso se almacena en el servidor y se ejecuta cada vez que los usuarios acceden al contenido comprometido.
 3. **XSS Basado en DOM**: El código malicioso manipula directamente el DOM del cliente sin interactuar con el servidor.
 
-![enter image description here](https://cdn.prod.website-files.com/5ff66329429d880392f6cba2/60b35cf8bf38cadc090a95bf_Cross-Site%20Scripting%20Work.png)
-
 ---
 
 ## Ejemplo Visual de un Ataque XSS
+![enter image description here](https://cdn.prod.website-files.com/5ff66329429d880392f6cba2/60b35cf8bf38cadc090a95bf_Cross-Site%20Scripting%20Work.png)
 
-### Etapa 1: Formulario Vulnerable
-<img src="https://example.com/xss-formulario.png" alt="Formulario vulnerable a XSS" width="600">
-
-> En este ejemplo, un atacante inyecta un script malicioso en un campo de texto de un formulario vulnerable.
-
----
-
-### Etapa 2: Ejecución del Código Malicioso
-<img src="https://example.com/xss-ataque.png" alt="Ejecución del ataque XSS" width="600">
-
-> Cuando otros usuarios visualizan la página, el navegador ejecuta el código malicioso, permitiendo al atacante robar datos como cookies o credenciales.
+Inicialmente el atacante inyecta un script malicioso en un campo de texto de un formulario vulnerable. Cuando otros usuarios visualizan la página, el navegador ejecuta el código malicioso, permitiendo al atacante robar datos como cookies o credenciales.
 
 ---
 
