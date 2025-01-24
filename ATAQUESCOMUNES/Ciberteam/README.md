@@ -48,7 +48,7 @@ _La función principal de la Red de Equipos de Respuesta a Incidentes Cibernéti
 ### **¿Qué es un Exploit?**
 _Un **exploit** es un código, programa o secuencia de comandos diseñado para aprovechar una vulnerabilidad o debilidad en un sistema informático, software o hardware con el fin de obtener acceso no autorizado, ejecutar código malicioso o provocar un mal funcionamiento del sistema.  
 
-
+![Exploit en acción](IMAGES/imagen-exploit.png.webp)
 
 ### **Tipos de Exploits**
 1. **Zero-Day Exploit**: Aprovecha vulnerabilidades desconocidas para los desarrolladores, sin parches disponibles.  
