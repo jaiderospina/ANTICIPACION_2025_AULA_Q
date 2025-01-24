@@ -35,9 +35,9 @@ Existen tres tipos de XSS qué permiten que se lleve a cabo este ataque. A conti
 
 ![imagen phishing](https://www.cloudflare.com/img/learning/security/threats/phishing-attack/diagram-phishing-attack.png)
 
-      Los ataques de phishing consisten en engañar a la víctima para que realice 
-      alguna acción que beneficie al atacante. Estos ataques pueden ser simples o complejos, 
-      y se pueden detectar con la vigilancia adecuada.
+      Los **ataques de phishing** consisten en engañar a la víctima para que realice 
+      alguna acción que beneficie al atacante. Estos ataques pueden ser simples o 
+      complejos, y se pueden detectar con la vigilancia adecuada.
 
 # RAMSONWARE
 
@@ -47,7 +47,7 @@ Es un tipo de **malware** que retiene como rehenes los datos confidenciales 
 
 # DENEGACION DE SERVICIO 
 
-Un ataque de denegación de servicio (DoS) es un ciberataque que impide a los usuarios acceder a una red, servicio<br> o sistema. Esto se hace abrumando al objetivo con solicitudes, lo que puede agotar sus recursos o bloquearlo.
+Un ataque de denegación de servicio (DoS) es un ciberataque que impide a los usuarios acceder a una red, servicio o sistema. Esto se hace abrumando al objetivo con solicitudes, lo que puede agotar sus recursos o bloquearlo.
 
 ## Cómo funciona
 
