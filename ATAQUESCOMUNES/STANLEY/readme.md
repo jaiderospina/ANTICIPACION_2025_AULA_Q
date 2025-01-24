@@ -1,8 +1,8 @@
 # **INTEGRANTES DEL GRUPO**
-## **Manuel Ricardo Rey Rios**
-## **Rubén Dario Contreras Caballero**
-## **Fabian Esteban Cano Jaime**
-## **Mahecha Virguez Arturo Alexander**
+## - **Manuel Ricardo Rey Rios**
+## - **Rubén Dario Contreras Caballero**
+## - **Fabian Esteban Cano Jaime**
+## - **Mahecha Virguez Arturo Alexander**
 
 <h4 align="center"> 
   :construction: PRINCIPALES ATAQUES CIBERNÉTICOS :construction:
