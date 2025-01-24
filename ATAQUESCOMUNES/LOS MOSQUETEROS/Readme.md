@@ -175,3 +175,7 @@ Un ataque Man-in-the-Middle (MitM) ocurre cuando un atacante se interpone en la 
 ## INYECCION DE SQL ##
 
 Es un lenguaje de consulta estructurado **(«Structured Query Language»)** que se ha convertido en el lenguaje estándar para la gestión de bases de datos. Cuando un sitio web necesita acceder a la base de datos que tiene en su servidor para buscar o editar información, utiliza SQL para procesar esa «consulta» o solicitud 
+
+## ¿Y dónde entra la parte de la inyección?
+
+se producen cuando el hacker introduce o inyecta en el sitio web código SQL malicioso, un tipo de malware que se conoce como la carga útil, y consigue subrepticiamente que envíe ese código a su base de datos como si de una consulta legítima se tratara
