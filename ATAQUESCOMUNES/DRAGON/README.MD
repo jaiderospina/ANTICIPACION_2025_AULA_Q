@@ -1,12 +1,6 @@
-<!DOCTYPE html>
-<html lang=""es">
-<head>
-  <title>GRUPO DRAGON - ATAQUES COMUNES</title>
-  <link rel="stylesheet" type="text/css" href="./estilos.css" />
-</head>
-<body>
-  
-  <header>
+
+### GRUPO DRAGON - ATAQUES COMUNES
+ 
   <h1>CYBERDRAGON</h1>
 
  </header>
@@ -39,11 +33,14 @@ Existen tres tipos de XSS qué permiten que se lleve a cabo este ataque. A conti
       alguna acción que beneficie al atacante. Estos ataques pueden ser simples o 
       complejos, y se pueden detectar con la vigilancia adecuada.
 
+
 # RAMSONWARE
 
 Es un tipo de **malware** que retiene como rehenes los datos confidenciales o el dispositivo de una víctima, amenazando con mantenerlos bloqueados, o algo peor, a menos que la víctima pague un rescate al atacante.
 
+
 ![video ransomware2](https://www.codastory.com/wp-content/uploads/2021/12/Header-1.gif)
+
 
 # DENEGACION DE SERVICIO 
 
@@ -72,14 +69,14 @@ Tiene como objetivo sitios web, correo electrónico, banca en línea y cualquier
 
 # ¿Qué es un ataque de intermediario (MITM)?
 
-Un ataque de intermediario (MITM) es un ciberataque en el que un hackerroba información confidencial espiando<br>
+Un ataque de intermediario (MITM) es un ciberataque en el que un hackerroba información confidencial espiando
 las comunicaciones entre dos objetivos en línea, como un usuario y una aplicación web.
 
 **¿Cómo funciona un ataque de intermediario (man-in-the middle)?**
 
-Las vulnerabilidades en las redes, los navegadores web, las cuentas de correo electrónico, los comportamientos de<br> los usuarios y los protocolos de seguridad son los puntos de partida de los ataques MITM. Los ciberdelincuentes<br> explotan estas debilidades para insertarse entre los usuarios y las aplicaciones de confianza para poder controlar<br> lascomunicaciones e interceptar datos en tiempo real.
+Las vulnerabilidades en las redes, los navegadores web, las cuentas de correo electrónico, los comportamientos de los usuarios y los protocolos de seguridad son los puntos de partida de los ataques MITM. Los ciberdelincuentes explotan estas debilidades para insertarse entre los usuarios y las aplicaciones de confianza para poder controlar lascomunicaciones e interceptar datos en tiempo real.
 
-Los ataques de phishing son un medio común de entrada para los atacantes MITM. Al hacer clic en un enlace <br>  malicioso en un correo electrónico, un usuario puede lanzar sin saberlo un ataque man-in-the-browser. Los<br> atacantes MITM a menudo confían en esta táctica para infectar el navegador web  de un usuario con malware que les<br> permite realizar cambios encubiertos en las páginas web, manipular transacciones y espiar la actividad del usuario.
+Los ataques de phishing son un medio común de entrada para los atacantes MITM. Al hacer clic en un enlace malicioso en un correo electrónico, un usuario puede lanzar sin saberlo un ataque man-in-the-browser. Los atacantes MITM a menudo confían en esta táctica para infectar el navegador web  de un usuario con malware que les permite realizar cambios encubiertos en las páginas web, manipular transacciones y espiar la actividad del usuario.
 
 
 ![Imagen denegación de servicio](https://web-assets.esetstatic.com/tn/-x700/wls/2021/09/ataques_man_in_the_middle.png)
