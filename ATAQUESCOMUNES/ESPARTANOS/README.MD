@@ -112,6 +112,24 @@ Las aplicaciones web suelen interactuar con bases de datos a través de consulta
 5. Uso de firewalls y herramientas de monitoreo.
 6. Error handling adecuado.
 
+**6. ATAQUE CROSS-SITE SCRIPTING (XSS)**
+
+Es un tipo de ataque en el que un atacante inyecta scripts maliciosos en páginas web vistas por otros usuarios. Este ataque explota la confianza que un sitio web tiene en el usuario y la falta de validación o sanitización adecuada de las entradas de datos en las aplicaciones web.
+
+<p align="center">
+  <img src="IMAGENES/SQL.png">
+</p>
+<p align="center"> SQL INJECTION </p>
+
+**Estrategias de mitigación contra XSS:**
+
+1. Escapado de entrada.
+2. Uso de políticas de seguridad (CSP - Content Security Policy).
+3. Validación y sanitización de entradas.
+4. Uso de atributos HTTPOnly y Secure en las cookies.
+5. Desactivación de JavaScript innecesario.
+6. Marcar entradas con contexto adecuado.
+
 <p align="center">
   <img src="IMAGENES/DOS.jpg">
 </p>
