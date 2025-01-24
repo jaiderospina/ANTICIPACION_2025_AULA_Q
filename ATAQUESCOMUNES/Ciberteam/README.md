@@ -8,7 +8,7 @@
 
 ## CIBER ATTACKS
 
-- #**Phishing**
+- **Phishing**
 _Es un ataque que se realiza a través de mensajes falsos para que la víctima descargue un programa malicioso o brinde información confidencial.
 
 ![](https://digilopolis.com/blog/wp-content/uploads/2017/09/Phishing-1024x690.jpg)
@@ -19,10 +19,10 @@ _Es un ataque que se realiza a través de mensajes falsos para que la víctima d
 
 - ![](https://img.freepik.com/vector-gratis/infografia-ransomware-diseno-plano_23-2149381248.jpg)
 - 
-- #**Malware**
+- **Malware**
 - El malware, o "software malicioso", es un término que engloba cualquier tipo de programa diseñado intencionalmente para causar daño a dispositivos y sistemas informáticos. Este software puede actuar sin el conocimiento del usuario, comprometiendo la seguridad y la funcionalidad de los equipos afectados.
   
-##**Tipos de Malware:**
+## **Tipos de Malware:**
 * Virus: Programas que se insertan en otros archivos y se propagan al ejecutarse, causando daños y replicándose.
 * Troyanos: Se disfrazan de software legítimo para engañar al usuario y facilitar el acceso no autorizado a un sistema.
 * Ransomware: Bloquea el acceso a los datos del usuario hasta que se pague un rescate, siendo uno de los tipos más dañinos y costosos.
