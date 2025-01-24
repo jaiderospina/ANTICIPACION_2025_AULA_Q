@@ -153,7 +153,7 @@ Se refiere al hecho de que la vulnerabilidad es explotada antes de que el creado
 DNS Spoofing, también conocido como DNS Cache Poisoning, es un tipo de ataque en el que un atacante manipula el sistema de nombres de dominio (DNS) para redirigir a los usuarios a sitios web maliciosos, en lugar de a los sitios legítimos que intentan visitar.
 
 <p align="center">
-  <img src="IMAGENES/ZERO.webp">
+  <img src="IMAGENES/DNS.webp">
 </p>
 <p align="center"> DNS SPOOFING </p>
 
