@@ -80,9 +80,9 @@ En un ataque DoS clásico, el atacante utiliza una única máquina para enviar u
 Ataque en el que el atacante se intercepta entre dos partes que están intentando comunicarse, generalmente con el objetivo de espiar, modificar o robar información sin que las partes involucradas lo noten.
 
 <p align="center">
-  <img src="IMAGENES/DoS.png">
+  <img src="IMAGENES/MITM.png">
 </p>
-<p align="center"> DENIAL OF SERVICE </p>
+<p align="center"> MAN-IN-THE-MIDDLE </p>
 
 **Estrategias de mitigación contra MITM:**
 
