@@ -35,7 +35,7 @@ Existen tres tipos de XSS qué permiten que se lleve a cabo este ataque. A conti
 
 ![imagen phishing](https://www.cloudflare.com/img/learning/security/threats/phishing-attack/diagram-phishing-attack.png)
 
-      Los **ataques de phishing** consisten en engañar a la víctima para que realice 
+      Los ataques de phishing consisten en engañar a la víctima para que realice 
       alguna acción que beneficie al atacante. Estos ataques pueden ser simples o 
       complejos, y se pueden detectar con la vigilancia adecuada.
 
