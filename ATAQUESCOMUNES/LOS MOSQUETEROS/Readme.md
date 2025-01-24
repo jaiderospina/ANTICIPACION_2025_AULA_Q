@@ -180,7 +180,6 @@ Es un lenguaje de consulta estructurado **(«Structured Query Language»)** que 
 
 se producen cuando el hacker introduce o inyecta en el sitio web código SQL malicioso, un tipo de malware que se conoce como la carga útil, y consigue subrepticiamente que envíe ese código a su base de datos como si de una consulta legítima se tratara.
 
-![inyeccion SQL](https://www.google.com/imgres?q=sql%20injection&imgurl)
 
 # ¿Qué efecto tienen los ataques de inyección de SQL?
 
@@ -195,6 +194,10 @@ Un hacker astuto puede meter sigilosamente código SQL en las solicitudes del na
 * **Mediante Herramientas de Hackeo Automáticas:** Hay herramientas automáticas de inyección de SQL, como SQLMAP, que detectan y aprovechan las vulnerabilidades en la inyección de SQL presentes en un sitio web determinado y en su base datos.  
 **SQLMAP** es una herramienta de código abierto muy popular entre los gestores de bases de datos y los desarrolladores de sitios web que quieren parchear sus sitios para protegerlos contra la inyección de SQL.
 
+
+**ATAQUES SQL DE SEGUNDO ORDEN**
+
+La inyección de SQL de segundo orden va un poco más lejos, ya que emplea un método mucho más sofisticado. Dado que muchos sitios web se sanean para evitar la introducción de datos directa por parte los usuarios, los hackers inyectan SQL diseñado para ejecutarse únicamente en las visitas posteriores. un ataque de inyección de SQL de segundo orden es una bomba de relojería.
 
 
 
