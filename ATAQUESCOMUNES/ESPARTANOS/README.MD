@@ -117,9 +117,9 @@ Las aplicaciones web suelen interactuar con bases de datos a través de consulta
 Es un tipo de ataque en el que un atacante inyecta scripts maliciosos en páginas web vistas por otros usuarios. Este ataque explota la confianza que un sitio web tiene en el usuario y la falta de validación o sanitización adecuada de las entradas de datos en las aplicaciones web.
 
 <p align="center">
-  <img src="IMAGENES/SQL.png">
+  <img src="IMAGENES/XSS.jpg">
 </p>
-<p align="center"> SQL INJECTION </p>
+<p align="center"> CROSS-SITE SCRIPTING </p>
 
 **Estrategias de mitigación contra XSS:**
 
