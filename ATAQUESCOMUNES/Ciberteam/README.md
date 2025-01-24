@@ -50,7 +50,12 @@ _Un **exploit** es un código, programa o secuencia de comandos diseñado para a
 
 
 
-
+### **Tipos de Exploits**
+1. **Zero-Day Exploit**: Aprovecha vulnerabilidades desconocidas para los desarrolladores, sin parches disponibles.  
+2. **Remote Exploit**: Permite atacar un sistema a través de una red sin acceso físico.  
+3. **Local Exploit**: Requiere acceso físico o credenciales previas para explotar una vulnerabilidad en el sistema.  
+4. **Privilege Escalation Exploit**: Eleva los privilegios de un usuario o proceso en un sistema.  
+5. **Web Exploit**: Ataca vulnerabilidades en aplicaciones web, como SQL Injection o Cross-Site Scripting (XSS).  
 
 
 
