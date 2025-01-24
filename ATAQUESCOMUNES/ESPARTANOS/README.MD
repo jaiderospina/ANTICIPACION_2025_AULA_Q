@@ -140,6 +140,8 @@ Es un tipo de ataque en el que un atacante inyecta scripts maliciosos en página
 5. Desactivación de JavaScript innecesario.
 6. Marcar entradas con contexto adecuado.
 
+[Ver video](https://www.youtube.com/watch?v=lG2XpAgy0Ns)
+
 **7. ATAQUE ZERO-DAY EXPLOIT**
 
 Se refiere al hecho de que la vulnerabilidad es explotada antes de que el creador del software tenga "cero días" para parchearla. Esto significa que el ataque se lleva a cabo en un periodo en el que no existe una solución oficial o protección disponible. Una vez que el proveedor del software descubre la vulnerabilidad y lanza un parche, la vulnerabilidad deja de ser "Zero-Day", pero mientras tanto, el exploit sigue siendo peligroso.
