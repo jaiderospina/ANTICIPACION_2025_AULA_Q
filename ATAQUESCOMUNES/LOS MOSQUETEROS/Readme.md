@@ -216,6 +216,8 @@ Los ataques de inyección de SQL pueden tener consecuencias graves para las pers
 Es un ataque de seguridad que permite a los ciberdelincuentes ejecutar códigos maliciosos en sitios web legítimos. El objetivo de este ataque es robar datos confidenciales o secuestrar sesiones de los usuarios.
 Para realizar un ataque XSS, los ciberdelincuentes inyectan secuencias de comandos maliciosas en el código de un sitio web. Esto se puede hacer de varias formas, por ejemplo, añadiendo el código al final de una URL o publicándolo en una página que muestre contenido generado por el usuario. 
 
+![enter image description here](https://www.avast.com/hs-fs/hubfs/New_Avast_Academy/SQL%20injection/What%20is%20a%20SQL%20injection.png?width=660&name=What%20is%20a%20SQL%20injection.png)
+
 **Qué es Cross-Site Scripting**
 
 se conoce como  XSS a un tipo de ataque en el cual actores maliciosos logran inyectar un script malicioso en un sitio web para luego ser procesado y ejecutado. Comúnmente, este proceso que se basa en la confianza que tiene el sitio sobre la entrada de los datos, consiste en enviar la URL con el payload precargado al usuario víctima con un objetivo determinado: robar datos personales del usuario, cookies de sesión, implementar técnicas de ingeniería social, entre otras.
