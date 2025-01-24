@@ -8,11 +8,7 @@
 
   ![enter image description here]( https://files.oaiusercontent.com/file-R9YinxdDQ8o46TELmtAWK4?se=2025-01-23T20%3A52%3A09Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D2bb00f64-af42-494e-b67d-89d02811e9fd.webp&sig=GtHq/kJK/%2Ba%2BOrCYKcCa%2BMFZrqh%2BVVW/n8rjaXgZZhk%3D)
 
-<h4 align="center"> 
-  # Phishing: Qué es y cómo evitarlo
-  </h4>
-  
-# Phishing: Qué es y cómo evitarlo
+# :one: Phishing: Qué es y cómo evitarlo
 
 El **phishing** es un tipo de ciberataque en el que los atacantes intentan engañar a las personas para que revelen información confidencial, como contraseñas, datos bancarios o información personal. Esto se logra a través de correos electrónicos, mensajes, sitios web falsos u otros métodos que imitan fuentes confiables.
 
