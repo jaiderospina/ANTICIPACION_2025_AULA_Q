@@ -99,9 +99,9 @@ Ataque en el que el atacante se intercepta entre dos partes que están intentand
 Las aplicaciones web suelen interactuar con bases de datos a través de consultas SQL para recuperar o modificar datos. Si una aplicación no valida correctamente los datos de entrada (como los formularios que los usuarios llenan), un atacante puede manipular esos datos para que se conviertan en código SQL malicioso.
 
 <p align="center">
-  <img src="IMAGENES/MITM.png">
+  <img src="IMAGENES/SQL.png">
 </p>
-<p align="center"> MAN-IN-THE-MIDDLE </p>
+<p align="center"> SQL INJECTION </p>
 
 **Estrategias de mitigación contra Ataque SQL Injection:**
 
