@@ -390,3 +390,99 @@ Los atacantes generalmente se colocan "en el medio" de la comunicación para int
 4. **Evita redes Wi-Fi públicas no seguras**.
 
 ---
+# :shipit:**Recomendaciones para avitar ciberataques**:shipit:
+
+Protegerse contra ciberataques requiere una combinación de buenas prácticas, herramientas de seguridad y conocimiento sobre las amenazas más comunes. Aquí tienes **recomendaciones clave** para evitar caer en ciberataques:
+
+----------
+
+### **:white_check_mark: Protección personal y buenas prácticas**
+
+-   **Contraseñas seguras y únicas**:
+    
+    -   Usa contraseñas largas (12+ caracteres) combinando letras, números y símbolos.
+    -   No repitas contraseñas en múltiples cuentas.
+    -   Utiliza un gestor de contraseñas confiable.
+-   **Autenticación en dos pasos (2FA)**:
+    
+    -   Activa la autenticación multifactor en todas las cuentas posibles (aplicaciones de autenticación como Google Authenticator son más seguras que los SMS).
+-   **Evita enlaces y archivos sospechosos**:
+    
+    -   No hagas clic en enlaces de correos o mensajes inesperados, incluso si parecen legítimos.
+    -   Descarga archivos solo de fuentes confiables.
+-   **Cuidado con correos electrónicos (Phishing)**:
+    
+    -   Verifica el remitente antes de abrir un correo.
+    -   Busca errores ortográficos o enlaces sospechosos en los correos.
+    -   No compartas información sensible por correo o teléfono sin verificar la legitimidad del contacto.
+
+----------
+
+### **:white_check_mark: Seguridad en dispositivos**
+
+-   **Mantén el software actualizado**:
+    
+    -   Instala actualizaciones de sistema operativo, navegadores y aplicaciones regularmente para corregir vulnerabilidades.
+-   **Usa antivirus y antimalware**:
+    
+    -   Instala software de seguridad confiable y manténlo actualizado.
+-   **Evita redes Wi-Fi públicas no seguras**:
+    
+    -   Si debes usar Wi-Fi público, conecta una VPN para cifrar tu tráfico.
+    -   No realices transacciones sensibles (como banca en línea) en redes públicas.
+-   **Cifrado de dispositivos**:
+    
+    -   Activa el cifrado de disco completo (como BitLocker en Windows o FileVault en macOS).
+-   **Cierra sesiones activas**:
+    
+    -   Al usar computadoras compartidas, asegúrate de cerrar sesión en tus cuentas.
+
+----------
+
+### **:white_check_mark: Seguridad en redes**
+
+-   **Protege tu red doméstica**:
+    
+    -   Cambia el nombre y la contraseña predeterminados de tu router.
+    -   Activa cifrado WPA3 (o WPA2 si no está disponible).
+    -   Desactiva WPS en el router.
+-   **Configura firewalls**:
+    
+    -   Activa un firewall tanto en tu router como en tus dispositivos.
+
+----------
+
+### **:white_check_mark: Educación y concienciación**
+
+-   **Aprende a reconocer ataques comunes**:
+    
+    -   Familiarízate con ejemplos de phishing, ransomware y otros métodos de ataque.
+-   **Duda de ofertas "demasiado buenas"**:
+    
+    -   Fraudes relacionados con premios, herencias o inversiones rápidas suelen ser ciberataques.
+-   **Desconfía de solicitudes urgentes**:
+    
+    -   Los atacantes buscan presionarte para actuar rápido. Tómate el tiempo para verificar.
+
+----------
+
+### **:white_check_mark: Gestión de cuentas y datos**
+
+-   **Minimiza la exposición de tus datos**:
+    
+    -   No compartas información personal innecesaria en redes sociales o sitios web.
+-   **Revisa permisos de aplicaciones**:
+    
+    -   No concedas permisos innecesarios en apps o software.
+-   **Crea copias de seguridad (backups)**:
+    
+    -   Haz respaldos regulares de tus datos más importantes y almacénalos en ubicaciones seguras (preferiblemente desconectadas).
+
+----------
+
+### **:white_check_mark: Herramientas y servicios recomendados**
+
+-   **Gestores de contraseñas**: LastPass, 1Password, Bitwarden.
+-   **VPNs confiables**: NordVPN, ExpressVPN, ProtonVPN.
+-   **Antivirus y antimalware**: Bitdefender, Norton, Malwarebytes.
+-   **Monitoreo de datos personales**: Configura alertas en tu correo (Google Alerts, por ejemplo) y servicios de monitoreo de brechas como "Have I Been Pwned".
