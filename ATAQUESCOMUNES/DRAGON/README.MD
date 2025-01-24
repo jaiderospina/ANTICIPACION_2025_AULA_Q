@@ -102,4 +102,7 @@ Un zero-day exploit es un ataque cibernético que aprovecha una vulnerabilidad d
 ![saludo militar](https://media.tenor.com/Pw-UTvrGMcMAAAAM/4th-of-july-salute.gif)
 ![gracias](https://media.tenor.com/0MqQbvj3peYAAAAM/thinking-for-watching.gif)
 
-**CASALLAS TORRES-CALDERON ARIAS-CASTRO BEDOYA-CONTRERAS LOBATON**
+1: **CASALLAS TORRES DIEGO**
+2: **CALDERON ARIAS JOSE**
+3: **CASTRO BEDOYA YULEWINSON**
+4: **CONTRERAS LOBATON JOAN**
