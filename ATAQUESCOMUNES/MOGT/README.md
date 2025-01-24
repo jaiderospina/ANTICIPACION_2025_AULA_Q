@@ -1,4 +1,6 @@
 # **TOP 8 :imp: CIBERATAQUES 2025**
+![EQUIPO DE HACKING ÉTICO MGOT](https://files.oaiusercontent.com/file-SGU3EmbjtgH4VqC4GC5LQk?se=2025-01-24T23%3A15%3A31Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D0f1dc602-7ab8-4eb6-80ad-26905f89b677.webp&sig=%2Bz4iHDxrnqFzB1rHPem0c/aQs6u9SwHlLLq%2B6pNG2Qk%3D)
+
 Grupo MGOT 
 
 MY. MARIO GÓMEZ
