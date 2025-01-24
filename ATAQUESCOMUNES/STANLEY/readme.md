@@ -194,16 +194,17 @@ El **DNS Spoofing** (también conocido como envenenamiento de caché DNS) es un 
 ---
 
 ## Ejemplo Visual de DNS Spoofing
+![enter image description here]( https://github.com/jaiderospina/ANTICIPACION_2025_AULA_Q/blob/main/ATAQUESCOMUNES/STANLEY/IMAGENES%20STANLEY/8.%20DNS-spoofing-attack.jpg?raw=true)
+
+---
 
 ### Etapa 1: Solicitud DNS legítima
-<img src="https://example.com/dns-legitimo.png" alt="Solicitud DNS legítima" width="600">
 
 > En condiciones normales, el servidor DNS traduce el dominio solicitado (`www.banco-ejemplo.com`) a la dirección IP legítima del sitio web.
 
 ---
 
 ### Etapa 2: Ataque de DNS Spoofing
-<img src="https://example.com/dns-spoofing.png" alt="DNS Spoofing en acción" width="600">
 
 > En un ataque de DNS Spoofing, el servidor DNS comprometido responde con una dirección IP falsa, llevando al usuario a un sitio web controlado por los atacantes.
 
@@ -224,8 +225,6 @@ El **DNS Spoofing** (también conocido como envenenamiento de caché DNS) es un 
 2. **Revisa el certificado SSL**: Haz clic en el candado del navegador para verificar si el certificado es legítimo.
 3. **Cambia la configuración DNS**: Si crees que tus servidores DNS han sido comprometidos, cambia la configuración por servidores DNS confiables.
 4. **Consulta a un experto**: Busca soporte técnico si no puedes resolver el problema.
-
-![enter image description here]( https://github.com/jaiderospina/ANTICIPACION_2025_AULA_Q/blob/main/ATAQUESCOMUNES/STANLEY/IMAGENES%20STANLEY/8.%20DNS-spoofing-attack.jpg?raw=true)
 
 </div>
 
