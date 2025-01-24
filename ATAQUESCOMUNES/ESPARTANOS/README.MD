@@ -100,6 +100,8 @@ Ataque en el que el atacante se intercepta entre dos partes que están intentand
 6. Mantener el software actualizado.
 7. Usar DNS seguro.
 
+[Ver video](https://www.youtube.com/watch?v=83LOa-dYi_A)
+
 **5. ATAQUE SQL INJECTION**
 
 Las aplicaciones web suelen interactuar con bases de datos a través de consultas SQL para recuperar o modificar datos. Si una aplicación no valida correctamente los datos de entrada (como los formularios que los usuarios llenan), un atacante puede manipular esos datos para que se conviertan en código SQL malicioso.
