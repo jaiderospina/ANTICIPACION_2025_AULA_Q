@@ -65,7 +65,7 @@ El **phishing** es un tipo de ciberataque en el que los atacantes intentan enga�
 
 ---
 
-# ¿Qué es un Ransomware?
+# :two: ¿Qué es un Ransomware?
 
 <div style="background-color: #e8f5e9; padding: 10px; color: white; border-radius: 5px;">
 Un **ransomware** es un tipo de software malicioso (malware) que cifra los archivos de una víctima y exige un pago (generalmente en criptomonedas) para restablecer el acceso a los datos. Los atacantes suelen usar este método para extorsionar a empresas y personas, causando pérdidas económicas y problemas operativos significativos.
@@ -94,7 +94,7 @@ Un **ransomware** es un tipo de software malicioso (malware) que cifra los archi
 > 
 ![enter image description here](https://github.com/jaiderospina/ANTICIPACION_2025_AULA_Q/blob/main/ATAQUESCOMUNES/STANLEY/IMAGENES%20STANLEY/2.%20ransomware_%20Attack.png?raw=true)
 ---
-# Ataque de Denegación de Servicio (DoS)
+# :three: Ataque de Denegación de Servicio (DoS)
 
 ![enter image description here](https://www.revista.imef.org.mx/wp-content/uploads/2022/11/Que-hacer-en-caso-de-ataque-DDoS.jpg)
 
@@ -136,7 +136,7 @@ Para protegerse contra ataques DoS y DDoS, se pueden implementar varias estrateg
 ---
 
 
-# Zero-Day Exploits
+# :four: Zero-Day Exploits
 
 <div style="background-color: #D2B48C; padding: 15px; border-radius: 8px;">
 
@@ -182,7 +182,7 @@ Un exploit de día cero recibe este nombre porque los desarrolladores tienen "ce
 
 ---
 
-# DNS Spoofing: Qué es y cómo funciona
+# :five: DNS Spoofing: Qué es y cómo funciona
 
 <div style="background-color: #fff8dc; padding: 20px; border-radius: 10px;">
 
@@ -235,7 +235,7 @@ El **DNS Spoofing** (también conocido como envenenamiento de caché DNS) es un 
 
 ---
 
-# Cross-Site Scripting (XSS): Qué es y cómo prevenirlo
+# :six: Cross-Site Scripting (XSS): Qué es y cómo prevenirlo
 
 <div style="background-color: #e8f5e9; padding: 20px; border-radius: 10px;">
 
@@ -294,7 +294,7 @@ El **Cross-Site Scripting (XSS)** es una vulnerabilidad de seguridad web que per
 
 ---
 
-# SQL Injection: Qué es y cómo prevenirlo
+# :seven: SQL Injection: Qué es y cómo prevenirlo
 
 <div style="background-color: #000000; color: #ffffff; padding: 20px; border-radius: 10px;">
 
@@ -359,7 +359,7 @@ La **SQL Injection (inyección de SQL)** es una vulnerabilidad crítica que perm
 ---
 
 
-# Man-in-the-Middle (MitM)
+# :eight: Man-in-the-Middle (MitM)
 
 <div style="background-color: #FFC0CB; padding: 15px; border-radius: 8px;">
 
