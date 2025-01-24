@@ -182,6 +182,26 @@ https://github.com/byt3bl33d3r/MITMf
 https://github.com/jtesta/ssh-mitm
 https://github.com/LionSec/xerosploit
 
+### :imp::imp::imp::imp::imp:CONOCE UN POCO MÁS SOBRE ATAQUES DDOS...............
+
+
+
+![PING DE LA MUERTE](https://www.ionos.mx/digitalguide/fileadmin/DigitalGuide/Schaubilder/ping-de-la-muerte.png)
+
+
+## ¿Qué es un ataque de ping de la muerte (PoD)?
+
+Un ataque de ping de muerte (PoD) es una forma de ataque DDoS en el que un atacante envía al equipo receptor solicitudes de ping simples como paquetes de IP fragmentados que son demasiado grandes o tienen un formato incorrecto. Estos paquetes no se adhieren al formato del paquete IP cuando se vuelven a ensamblar, lo que genera errores de almacenamiento dinámico/memoria y bloqueos del sistema.
+
+Las solicitudes de ping del protocolo de mensajes de control de Internet (ICMP) se utilizan para comprobar la conectividad y el estado de los equipos de red. En un ping ICMP legítimo, el equipo receptor responde a una solicitud de eco ICMP. La respuesta indica la salud del destinatario. Enviar una solicitud de ping con un encabezado mayor a 65,535 bytes viola el Protocolo de Internet.
+
+## ¿Cómo funciona un ataque de ping de muerte?
+
+Una vez que el equipo destinatario vuelve a ensamblar la solicitud de ping (con sus paquetes de IP fragmentados), esto puede dar como resultado un tamaño de solicitud de IP superior a 65,535 bytes, lo que puede provocar fallas en el sistema. Los bloqueos son causados por errores de almacenamiento dinámico/memoria debido al desbordamiento de los búferes asignados para volver a ensamblar los encabezados y el cuerpo de IP.
+
+Aunque PoD es un ataque DDoS heredado y los ataques de inundación ICMP se usan con más frecuencia, PoD aún puede afectar los sistemas sin parches. Se han descubierto vulnerabilidades a PoD recientemente en 2018 en equipos Apple que usaban un kernel XNU sin parches. Esto provocó desbordamientos de montículo y los hizo susceptibles a la ejecución remota de código.
+
+
 ***
 
 ## 5. SQL INJECTION  (MY. MILLAN)
