@@ -39,11 +39,17 @@ _Es un ataque que se realiza a través de mensajes falsos para que la víctima d
   
 [**Red de Equipos de Respuesta a Incidentes Cibernéticos del Gobierno (CSIRT) de los Estados Miembros de la Organización de Estados Americanos. **](https://csirtamericas.org/en)
 
-_La función principal de la Red de Equipos de Respuesta a Incidentes Cibernéticos (CSIRT) en las Américas es coordinar la respuesta a incidentes cibernéticos que afectan a los Estados miembros de la Organización de Estados Americanos (OEA).
+_La función principal de la Red de Equipos de Respuesta a Incidentes Cibernéticos (CSIRT) en las Américas es coordinar la respuesta a incidentes cibernéticos que aectan a los Estados miembros de la Organización de Estados Americanos 
 
-- **EXPLOITS**
+##**EXPLOITS**
 
-- "Añadiendo imagen de exploit"
-- ![Exploit en acción](imagen-exploit.png)
+#**DEFINICION**
+
+### **¿Qué es un Exploit?**
+_Un **exploit** es un código, programa o secuencia de comandos diseñado para aprovechar una vulnerabilidad o debilidad en un sistema informático, software o hardware con el fin de obtener acceso no autorizado, ejecutar código malicioso o provocar un mal funcionamiento del sistema.  
+
+
+
+
 
 
