@@ -295,10 +295,9 @@ La **SQL Injection (inyección de SQL)** es una vulnerabilidad crítica que perm
 ---
 
 ## Ejemplo Visual de un Ataque de SQL Injection
+![enter image description here]( https://github.com/jaiderospina/ANTICIPACION_2025_AULA_Q/blob/main/ATAQUESCOMUNES/STANLEY/IMAGENES%20STANLEY/5.%20SQL-injection_Attack.png?raw=true)
 
 ### Etapa 1: Formulario de Inicio de Sesión Vulnerable
-<img src="[https://example.com/sql-injection-form.png](https://images.spiceworks.com/wp-content/uploads/2022/05/13064934/Functioning-of-an-SQL-Injection.png)" alt="Formulario vulnerable a SQL Injection" width="600">
-
 > Un atacante puede inyectar una entrada como:  
 > `' OR '1'='1' --`  
 > Esto genera una consulta SQL válida que permite el acceso sin autenticación.
@@ -306,8 +305,6 @@ La **SQL Injection (inyección de SQL)** es una vulnerabilidad crítica que perm
 ---
 
 ### Etapa 2: Ejecución de la Consulta Maliciosa
-<img src="https://example.com/sql-injection-query.png" alt="Consulta SQL comprometida" width="600">
-
 > La consulta modificada ejecuta el código malicioso directamente en la base de datos, permitiendo al atacante robar información o causar daño.
 
 ---
@@ -338,10 +335,7 @@ La **SQL Injection (inyección de SQL)** es una vulnerabilidad crítica que perm
 
 </div>
 
-![enter image description here]( https://github.com/jaiderospina/ANTICIPACION_2025_AULA_Q/blob/main/ATAQUESCOMUNES/STANLEY/IMAGENES%20STANLEY/5.%20SQL-injection_Attack.png?raw=true)
-
 ---
-
 
 # :eight: Man-in-the-Middle (MitM)
 
