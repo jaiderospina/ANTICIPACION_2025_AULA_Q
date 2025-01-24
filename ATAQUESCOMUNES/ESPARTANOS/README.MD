@@ -42,6 +42,8 @@ El phishing es un tipo de ciberataque que utiliza correos electrónicos, mensaje
 3.	Habilitar la autenticación multifactor (MFA) para proteger cuentas.
 4.	Usar filtros de correo electrónico para identificar mensajes fraudulentos.
 
+[Ver video](https://www.youtube.com/watch?v=UuuAlP7ay6U)
+
 **2. ATAQUE RASOMWARE**
 
 El ransomware es un malware que cifra archivos o sistemas y exige un pago, generalmente en criptomonedas, para restaurar el acceso, causando graves pérdidas.
