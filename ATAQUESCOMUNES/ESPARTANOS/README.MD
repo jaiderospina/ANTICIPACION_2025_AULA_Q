@@ -53,20 +53,25 @@ El ransomware es un malware que cifra archivos o sistemas y exige un pago, gener
 
 **Estrategias de mitigación contra RANSOMWARE:**
 
-1. Realiza copias de seguridad periódicas:
-2. Mantén el software actualizado:
-3. Utiliza herramientas de seguridad robustas:
-4. No abras correos sospechosos:
-5. Habilita la protección contra ransomware:
+1. Realiza copias de seguridad periódicas.
+2. Mantén el software actualizado.
+3. Utiliza herramientas de seguridad robustas.
+4. No abras correos sospechosos.
+5. Habilita la protección contra ransomware.
 
 **3. DENIAL OF SERVICE (DoS)**
 
 En un ataque DoS clásico, el atacante utiliza una única máquina para enviar una gran cantidad de solicitudes o datos a un servidor, con el objetivo de sobrecargarlo. Esto agota los recursos del servidos, de modo que no puede responder a las solicitudes legítimas de los usuarios.
 
+<p align="center">
+  <img src="IMAGENES/RANSOMWARE.jpg">
+</p>
+<p align="center"> RASOMWARE </p>
+
 **Estrategias de mitigación contra DoS:**
 
-1.	Filtrado de tráfico: Usar firewalls o sistemas de prevención de intrusiones (IPS)
-2.	Redundancia: Distribuir los servicios a través de diferentes servidores 
+1.	Filtrado de tráfico: Usar firewalls o sistemas de prevención de intrusiones (IPS).
+2.	Redundancia: Distribuir los servicios a través de diferentes servidores.
 3.	Servicios de mitigación DDoS:  tecnologías para filtrar el tráfico malicioso antes de que llegue a la red de la víctima.
 4.	Limitación de tasa: Implementar restricciones en el número de solicitudes por segundo desde una misma dirección IP.
 
