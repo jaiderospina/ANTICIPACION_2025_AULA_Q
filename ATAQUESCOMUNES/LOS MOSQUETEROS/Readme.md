@@ -174,7 +174,9 @@ for i in range(num_packets):
   syn_flood(target_ip, target_port)
 
 # Ataque Man-in-the-Middle (MitM)
-
+---
+![enter image description here](https://aboutssl.org/wp-content/uploads/2020/03/man-in-the-middle-attack.svg)
+---
 Un ataque Man-in-the-Middle (MitM) ocurre cuando un atacante se interpone en la comunicación entre dos partes, interceptando y potencialmente manipulando el tráfico que fluye entre ellas. Las víctimas creen que están comunicándose directamente entre sí, sin saber que un tercero está espiando o alterando la conversación.
 
 ## ¿Cómo funciona un ataque MitM?
