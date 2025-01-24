@@ -40,8 +40,6 @@ Existen tres tipos de XSS qué permiten que se lleve a cabo este ataque. A conti
 <h1>RAMSONWARE</h1>
       <p1>ESPACIO para texto </p1>
 
-# PHISING 
-
 # DENEGACION DE SERVICIO 
 
 Un ataque de denegación de servicio (DoS) es un ciberataque que impide a los usuarios acceder a una red, servicio<br> o sistema. Esto se hace abrumando al objetivo con solicitudes, lo que puede agotar sus recursos o bloquearlo.
