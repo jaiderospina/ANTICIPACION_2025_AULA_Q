@@ -9,7 +9,7 @@ Las amenazas cibernéticas abarcan una amplia gama de actividades maliciosas, de
 <table>
 <thead>
 <tr>
-<th>1. PHISHING ATTACK</th>
+<th>1. PHISHING</th>
 <th>2. RANSOMWARE</th>
 <th>3. DENIAL OF SERVICE (DoS)</th>
 <th style="text-align: left">4. MAN N THE MIDDLE (MITM)</th>
@@ -26,7 +26,7 @@ Las amenazas cibernéticas abarcan una amplia gama de actividades maliciosas, de
 </table>
 
 
-**1. PHISHING ATTACK**
+**1. ATAQUE PHISHING**
 
 El phishing es un tipo de ciberataque que utiliza correos electrónicos, mensajes de texto, llamadas telefónicas o sitios web fraudulentos para engañar a las personas y hacer que compartan datos confidenciales, descarguen malware o se expongan de otro modo a la ciberdelincuencia.
 
@@ -42,7 +42,7 @@ El phishing es un tipo de ciberataque que utiliza correos electrónicos, mensaje
 3.	Habilitar la autenticación multifactor (MFA) para proteger cuentas.
 4.	Usar filtros de correo electrónico para identificar mensajes fraudulentos.
 
-**2. RASOMWARE**
+**2. ATAQUE RASOMWARE**
 
 El ransomware es un malware que cifra archivos o sistemas y exige un pago, generalmente en criptomonedas, para restaurar el acceso, causando graves pérdidas.
 
@@ -59,7 +59,7 @@ El ransomware es un malware que cifra archivos o sistemas y exige un pago, gener
 4. No abras correos sospechosos.
 5. Habilita la protección contra ransomware.
 
-**3. DENIAL OF SERVICE (DoS)**
+**3. ATAQUE DENIAL OF SERVICE (DoS)**
 
 En un ataque DoS clásico, el atacante utiliza una única máquina para enviar una gran cantidad de solicitudes o datos a un servidor, con el objetivo de sobrecargarlo. Esto agota los recursos del servidos, de modo que no puede responder a las solicitudes legítimas de los usuarios.
 
@@ -135,7 +135,7 @@ Es un tipo de ataque en el que un atacante inyecta scripts maliciosos en página
 Se refiere al hecho de que la vulnerabilidad es explotada antes de que el creador del software tenga "cero días" para parchearla. Esto significa que el ataque se lleva a cabo en un periodo en el que no existe una solución oficial o protección disponible. Una vez que el proveedor del software descubre la vulnerabilidad y lanza un parche, la vulnerabilidad deja de ser "Zero-Day", pero mientras tanto, el exploit sigue siendo peligroso.
 
 <p align="center">
-  <img src="IMAGENES/XSS.jpg">
+  <img src="IMAGENES/ZERO.webp">
 </p>
 <p align="center"> ZERO-DAY EXPLOIT </p>
 
