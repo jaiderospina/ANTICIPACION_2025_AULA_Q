@@ -164,3 +164,30 @@ Se refiere al hecho de que la vulnerabilidad es explotada antes de que el creado
 6. Defensas de múltiples capas.
 
 [Ver video](https://www.youtube.com/watch?v=w5MV1Jeo76g)
+
+**8. ATAQUE DNS SPOOFING**
+
+DNS Spoofing, también conocido como DNS Cache Poisoning, es un tipo de ataque en el que un atacante manipula el sistema de nombres de dominio (DNS) para redirigir a los usuarios a sitios web maliciosos, en lugar de a los sitios legítimos que intentan visitar.
+
+<p align="center">
+  <img src="IMAGENES/DNS.webp">
+</p>
+<p align="center"> DNS SPOOFING </p>
+
+**Estrategias de mitigación contra DNS SPOOFING:**
+
+1. Uso de DNSSEC (DNS Security Extensions)
+2. Validación de respuestas DNS
+3. Uso de servidores DNS confiables
+4. Monitoreo de tráfico de red
+5. Configuración adecuada de servidores DNS
+6. Uso de listas negras de dominios
+
+[Ver video](https://www.youtube.com/watch?v=BoxeL5ybOXI)
+
+-------
+-------
+**<p align="center">GRUPO ESPARTANOS</p>**
+<p align="center">
+  <img src="IMAGENES/300.png">
+</p>
