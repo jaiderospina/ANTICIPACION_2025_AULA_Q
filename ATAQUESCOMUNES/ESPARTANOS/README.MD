@@ -64,9 +64,9 @@ El ransomware es un malware que cifra archivos o sistemas y exige un pago, gener
 En un ataque DoS clásico, el atacante utiliza una única máquina para enviar una gran cantidad de solicitudes o datos a un servidor, con el objetivo de sobrecargarlo. Esto agota los recursos del servidos, de modo que no puede responder a las solicitudes legítimas de los usuarios.
 
 <p align="center">
-  <img src="IMAGENES/RANSOMWARE.jpg">
+  <img src="IMAGENES/DoS.png">
 </p>
-<p align="center"> RASOMWARE </p>
+<p align="center"> DENIAL OF SERVICE </p>
 
 **Estrategias de mitigación contra DoS:**
 
