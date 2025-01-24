@@ -18,8 +18,8 @@ _Es un ataque que se realiza a través de mensajes falsos para que la víctima d
 - Un ataque de denegación de servicio distribuido (DDoS) es un ciberataque que intenta interrumpir los servicios de un sitio web, servidor o red. Se realiza mediante una red de robots (botnet) que envía un gran volumen de tráfico a un objetivo. 
 
 - ![](https://img.freepik.com/vector-gratis/infografia-ransomware-diseno-plano_23-2149381248.jpg)
-- 
-- **Malware**
+  
+ **Malware**
 - El malware, o "software malicioso", es un término que engloba cualquier tipo de programa diseñado intencionalmente para causar daño a dispositivos y sistemas informáticos. Este software puede actuar sin el conocimiento del usuario, comprometiendo la seguridad y la funcionalidad de los equipos afectados.
   
 ## **Tipos de Malware:**
@@ -28,6 +28,8 @@ _Es un ataque que se realiza a través de mensajes falsos para que la víctima d
 * Ransomware: Bloquea el acceso a los datos del usuario hasta que se pague un rescate, siendo uno de los tipos más dañinos y costosos.
 * Spyware: Recopila información del usuario sin su consentimiento, como contraseñas y datos personales.
 * Adware: Genera anuncios no deseados, afectando la experiencia del usuario.
+  
+ ![](https://incop.go.cr/wp-content/uploads/2019/10/08-Infografia-Que-es-un-Malware-scaled.jpg)
   
 - **Mintm**
 - **SQL**
