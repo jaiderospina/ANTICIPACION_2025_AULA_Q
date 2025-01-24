@@ -187,6 +187,7 @@ DNS Spoofing, también conocido como DNS Cache Poisoning, es un tipo de ataque e
 <p align="center">
   <img src="IMAGENES/300.png">
 </p>
+
 **MY. URIBE VERGARA CARLOS AUGUSTO** FAC
 
 
