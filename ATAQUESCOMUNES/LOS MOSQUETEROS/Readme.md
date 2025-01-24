@@ -206,7 +206,7 @@ Los ataques de inyección de SQL pueden tener consecuencias graves para las pers
 * **Pérdida de Dinero:** un hacker puede usar una SQLI en la página de una entidad bancaria u otra institución financiera a fin de transferir dinero desde la cuenta de un usuario.
 * **Robo de Identidad:** cuando un hacker controla una base de datos, puede hacerse con la información que contiene y venderla en la red oscura. Otros ciberdelincuentes pueden comprar estos datos y utilizarlos para robar identidades.
 
-![enter image description here](https://www.google.com/imgres?q=sql%20injection&imgurl)
+![Inyeccion SQL](https://www.google.com/imgres?q=sql%20injection&imgurl)
 
 # **EL CROSS-SITE SCRIPTING** 
 
