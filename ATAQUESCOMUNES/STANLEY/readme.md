@@ -77,9 +77,6 @@ Un **ransomware** es un tipo de software malicioso (malware) que cifra los archi
 - **Mensaje de rescate:** Muestra una notificación pidiendo un pago a cambio de la clave de descifrado.
 - **Propagación rápida:** Puede difundirse por redes locales, dispositivos conectados o mediante correos electrónicos maliciosos.
 
-### Ejemplo de un mensaje típico de ransomware:
-![Mensaje de ransomware](https://www.example.com/ransomware-example.png)
-
 ## Cómo protegerse:
 
 1. Realizar **copias de seguridad periódicas** de los datos críticos.
@@ -88,11 +85,10 @@ Un **ransomware** es un tipo de software malicioso (malware) que cifra los archi
 4. No abrir enlaces o archivos sospechosos en correos electrónicos.
 
 ### Representación visual del impacto del ransomware:
-![Impacto del ransomware](https://www.example.com/ransomware-impact.png)
+![enter image description here](https://github.com/jaiderospina/ANTICIPACION_2025_AULA_Q/blob/main/ATAQUESCOMUNES/STANLEY/IMAGENES%20STANLEY/2.%20ransomware_%20Attack.png?raw=true)
 
 > **Nota:** Pagar el rescate no garantiza recuperar los archivos y puede alentar a los atacantes a seguir realizando estos actos.
-> 
-![enter image description here](https://github.com/jaiderospina/ANTICIPACION_2025_AULA_Q/blob/main/ATAQUESCOMUNES/STANLEY/IMAGENES%20STANLEY/2.%20ransomware_%20Attack.png?raw=true)
+
 ---
 # :three: Ataque de Denegación de Servicio (DoS)
 
