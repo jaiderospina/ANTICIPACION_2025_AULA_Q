@@ -179,3 +179,5 @@ DNS Spoofing, también conocido como DNS Cache Poisoning, es un tipo de ataque e
 4. Monitoreo de tráfico de red
 5. Configuración adecuada de servidores DNS
 6. Uso de listas negras de dominios
+
+[Ver video](https://www.youtube.com/watch?v=BoxeL5ybOXI)
