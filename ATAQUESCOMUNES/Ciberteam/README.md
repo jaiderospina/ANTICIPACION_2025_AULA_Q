@@ -43,3 +43,5 @@ _La función principal de la Red de Equipos de Respuesta a Incidentes Cibernéti
 
 - **EXPLOITS**
 
+- "Añadiendo imagen de exploit"
+
