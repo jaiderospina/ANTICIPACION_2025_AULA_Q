@@ -61,6 +61,8 @@ El ransomware es un malware que cifra archivos o sistemas y exige un pago, gener
 4. No abras correos sospechosos.
 5. Habilita la protección contra ransomware.
 
+[Ver video](https://www.youtube.com/watch?v=HG_cvjRT5Ms)
+
 **3. ATAQUE DENIAL OF SERVICE (DoS)**
 
 En un ataque DoS clásico, el atacante utiliza una única máquina para enviar una gran cantidad de solicitudes o datos a un servidor, con el objetivo de sobrecargarlo. Esto agota los recursos del servidos, de modo que no puede responder a las solicitudes legítimas de los usuarios.
