@@ -175,7 +175,7 @@ for i in range(num_packets):
 
 # Ataque Man-in-the-Middle (MitM)
 ---
-![enter image description here](https://aboutssl.org/wp-content/uploads/2020/03/man-in-the-middle-attack.svg)
+![enter image description here]([https://www.usd.de/wp-content/uploads/usd-ag-news-phishing-angriffe](https://aboutssl.org/wp-content/uploads/2020/03/man-in-the-middle-attack.jpg)
 ---
 Un ataque Man-in-the-Middle (MitM) ocurre cuando un atacante se interpone en la comunicación entre dos partes, interceptando y potencialmente manipulando el tráfico que fluye entre ellas. Las víctimas creen que están comunicándose directamente entre sí, sin saber que un tercero está espiando o alterando la conversación.
 
