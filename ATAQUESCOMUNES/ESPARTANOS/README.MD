@@ -79,6 +79,8 @@ En un ataque DoS clásico, el atacante utiliza una única máquina para enviar u
 3.	Servicios de mitigación DDoS:  tecnologías para filtrar el tráfico malicioso antes de que llegue a la red de la víctima.
 4.	Limitación de tasa: Implementar restricciones en el número de solicitudes por segundo desde una misma dirección IP.
 
+[Ver video](https://www.youtube.com/watch?v=bDAY-oUP0DQ)
+
 **4. ATAQUE MAN-IN-THE-MIDDLE (MITM)**
 
 Ataque en el que el atacante se intercepta entre dos partes que están intentando comunicarse, generalmente con el objetivo de espiar, modificar o robar información sin que las partes involucradas lo noten.
