@@ -105,10 +105,3 @@ Ataque en el que el atacante se intercepta entre dos partes que están intentand
 
 [Ver video](https://www.youtube.com/watch?v=83LOa-dYi_A)
 
-**MY. URIBE VERGARA CARLOS AUGUSTO** FAC
-
-
-**CC. SÁNCHEZ ROPERO DANNY LEOMAR** ARC
-
-
-**CC. MARTÍNEZ ROJAS JOSÉ JOHAN** ARC
