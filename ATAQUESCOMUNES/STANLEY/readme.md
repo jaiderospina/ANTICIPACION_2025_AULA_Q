@@ -390,7 +390,7 @@ Los atacantes generalmente se colocan "en el medio" de la comunicación para int
 4. **Evita redes Wi-Fi públicas no seguras**.
 
 ---
-# :closed_lock_with_key::computer:**Recomendaciones para evitar ciberataques**:computer::closed_lock_with_key:
+# :computer:**Recomendaciones para evitar ciberataques**:closed_lock_with_key:
 
 Protegerse contra ciberataques requiere una combinación de buenas prácticas, herramientas de seguridad y conocimiento sobre las amenazas más comunes. Aquí tienes **recomendaciones clave** para evitar caer en ciberataques:
 
