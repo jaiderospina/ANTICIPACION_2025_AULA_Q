@@ -180,7 +180,7 @@ Es un lenguaje de consulta estructurado **(«Structured Query Language»)** que 
 
 se producen cuando el hacker introduce o inyecta en el sitio web código SQL malicioso, un tipo de malware que se conoce como la carga útil, y consigue subrepticiamente que envíe ese código a su base de datos como si de una consulta legítima se tratara.
 
-![enter image description here](https://www.google.com/imgres?q=sql%20injection&imgurl)
+![inyeccion SQL](https://www.google.com/imgres?q=sql%20injection&imgurl)
 
 # ¿Qué efecto tienen los ataques de inyección de SQL?
 
