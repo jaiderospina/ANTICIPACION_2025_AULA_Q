@@ -5,7 +5,7 @@
 ## - **Mahecha Virguez Arturo Alexander**
 
 <h4 align="center"> 
-  :skull: PRINCIPALES ATAQUES CIBERNÉTICOS :skull:
+  :rotating_light::skull: PRINCIPALES ATAQUES CIBERNÉTICOS :skull::rotating_light:
   </h4>
 
   ![enter image description here]( https://files.oaiusercontent.com/file-R9YinxdDQ8o46TELmtAWK4?se=2025-01-23T20%3A52%3A09Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D2bb00f64-af42-494e-b67d-89d02811e9fd.webp&sig=GtHq/kJK/%2Ba%2BOrCYKcCa%2BMFZrqh%2BVVW/n8rjaXgZZhk%3D)
