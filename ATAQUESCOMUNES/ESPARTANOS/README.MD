@@ -185,7 +185,10 @@ DNS Spoofing, también conocido como DNS Cache Poisoning, es un tipo de ataque e
 
 [Ver video](https://www.youtube.com/watch?v=BoxeL5ybOXI)
 
+-------
+
 ** CONCLUSION **
+
 La diversidad de tipos de ciberataques refleja la creciente sofisticación y alcance de las amenazas en el entorno digital actual. Estos ataques no solo varían en su método de ejecución, como el uso de malware, ingeniería social o inyecciones de código, sino también en sus objetivos, desde obtener datos confidenciales hasta interrumpir servicios críticos. Esto subraya la importancia de adoptar un enfoque integral de ciberseguridad, que incluya la implementación de tecnologías avanzadas de protección, la educación de los usuarios para prevenir manipulaciones psicológicas y la rápida respuesta a vulnerabilidades, especialmente ante amenazas emergentes como los ataques de día cero y los basados en IoT. En un mundo cada vez más interconectado, la anticipación, la detección y la mitigación de ciberataques son esenciales para garantizar la continuidad operativa y la protección de los datos sensibles.
 
 -------
