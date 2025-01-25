@@ -47,14 +47,14 @@ El phishing es un tipo de ciberataque que utiliza correos electrónicos, mensaje
 
 [Ver video](https://www.youtube.com/watch?v=UuuAlP7ay6U)
 
-**2. ATAQUE RASOMWARE**
+**2. ATAQUE RANSOMWARE**
 
 El ransomware es un malware que cifra archivos o sistemas y exige un pago, generalmente en criptomonedas, para restaurar el acceso, causando graves pérdidas.
 
 <p align="center">
   <img src="IMAGENES/RANSOMWARE.jpg">
 </p>
-<p align="center"> RASOMWARE </p>
+<p align="center"> RANSOMWARE </p>
 
 **Estrategias de mitigación contra RANSOMWARE:**
 
@@ -192,4 +192,5 @@ DNS Spoofing, también conocido como DNS Cache Poisoning, es un tipo de ataque e
   <img src="IMAGENES/300.png">
 </p>
 
-**MY CARLOS AUGUSTO URIBE VERGARA** -- **CC DANNY LEOMAR SÁNCHEZ ROPERO** -- **CC JOSÉ JOHAN MARTÍNEZ ROJAS**
+**<p align="center">MY CARLOS AUGUSTO URIBE VERGARA -- CC DANNY LEOMAR SÁNCHEZ ROPERO -- CC JOSÉ JOHAN MARTÍNEZ ROJAS
+</p>**
