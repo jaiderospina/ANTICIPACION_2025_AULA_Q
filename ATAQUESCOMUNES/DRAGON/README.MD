@@ -93,9 +93,13 @@ Un zero-day exploit es un ataque cibernético que aprovecha una vulnerabilidad d
 
 <h1>DNS SPOOFING</h1>
 
-## ESPACIO para texto
+## COmo funciona
 
+Es el proceso de alterar entradas en un servidor de DNS para redirigir a un usuario específico a una web malintencionada que está bajo control del atacante.
 
+El DNS (Sistema de Nombres de Dominio) es el encargado de traducir los nombres de dominio en direcciones IP, que son las que utilizan los navegadores para cargar las páginas web.
+
+![ESTRUCTURA](https://www.google.com/search?sca_esv=d645707ffb8e0e1d&rlz=1C1UUXU_es&sxsrf=AHTn8zpOpUrP1HyJeuMsI2XWV0zTj-n6kw:1737830387650&q=COMO+FUNCIONA+EL+DNS+SPOOFING&udm=2&fbs=ABzOT_BnMAgCWdhr5zilP5f1cnRvhVqkzbxc5Zr8mhp6edC0Xd1yYyq4nceAhGAA8JHiBShi-ykwj67uVBfRQT8UT5CI4vAOjSnbWx69aaAI8R3-TowRDTAzmlVsWpvPRErwVWYSa9zgVJPS0anNDGXzH67WTUxEYfIeIm1dlMS5k7ImDHurWL9LiskE4GRt_mjN7aE_g-Sf3oDJ-43tLoYaPklNNktENg&sa=X&ved=2ahUKEwij5r3XwpGLAxUWhYkEHSsnMBwQtKgLegQIEBAB&biw=1366&bih=679&dpr=1#vhid=vqycs2BAGx9YQM&vssid=mosaic)
 
 **GRUPO DRAGON**
 
