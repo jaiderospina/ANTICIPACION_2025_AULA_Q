@@ -56,7 +56,35 @@ _Un **exploit** es un código, programa o secuencia de comandos diseñado para a
 2. **Remote Exploit**: Permite atacar un sistema a través de una red sin acceso físico.  
 3. **Local Exploit**: Requiere acceso físico o credenciales previas para explotar una vulnerabilidad en el sistema.  
 4. **Privilege Escalation Exploit**: Eleva los privilegios de un usuario o proceso en un sistema.  
-5. **Web Exploit**: Ataca vulnerabilidades en aplicaciones web, como SQL Injection o Cross-Site Scripting (XSS).  
+5. **Web Exploit**: Ataca vulnerabilidades en aplicaciones web, como SQL Injection o Cross-Site Scripting (XSS).
+
+
+##  DNS spoofing
+
+##### ¿QUE ES?
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwv4OrT3UKr_2c7H2BfKpvmM9cY-Hk42tWLw&s)
+
+<p> El DNS spoofing, o suplantación de DNS, es el proceso de alterar entradas en un servidor de DNS para redirigir a un usuario específico a una web malintencionada que está bajo control del atacante. El ataque de DNS spoofing, (acrónimo de Domain Name Service, en español, servicio de nombres de dominio) típicamente ocurre en un entorno de red Wi-Fi pública, pero también puede darse en cualquier situación en que el atacante pueda alterar las tablas del ARP (Address Resolution Protocol) y obligar a los dispositivos del usuario objetivo a usar el equipo controlado por el atacante como servidor para una página web específica. Es el primer paso en un sofisticado ataque de phishing sobre una red Wi-Fi pública, y también puede terminar por engañar a los usuarios para que instalen malware en sus dispositivos o para que divulguen información delicada. </p>
+
+### CARACTERISTICAS
+                    
+| OBJETIVOS | METODOS DE ATAQUE  | PREVENCIÓN |
+| :-------- |:---------------:| --------------:|
+| - Redirigir a los usuarios a sitios falsos para robar credenciales o información personal.      |  * El atacante envía paquetes DNS falsos a la red para engañar a los servidores o clientes. | Implementar DNSSEC ayuda a autenticar las respuestas DNS y prevenir el envenenamiento de caché. |
+| -Llevar a los usuarios a sitios que descargan software malicioso.      | *Aprovechar fallos en el software de los servidores DNS o en la configuración de la red.       |   Asegurarse de que los servidores DNS estén correctamente configurados y actualizados.|
+| -Capturar datos sensibles transmitidos por los usuarios. | -------        |    Asegurarse de que los sitios web utilicen HTTPS puede ayudar a proteger la información del usuario, incluso si se produce un ataque de DNS spoofing. |
+
+![](https://www.akamai.com/site/es/images/article/2023/what-are-dns-attack-vectors.png)
+
+
+
+
+
+
+
+
+
 
 
 
