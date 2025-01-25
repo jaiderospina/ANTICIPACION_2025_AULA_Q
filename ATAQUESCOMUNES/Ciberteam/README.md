@@ -75,7 +75,7 @@ _Un **exploit** es un código, programa o secuencia de comandos diseñado para a
 | -Llevar a los usuarios a sitios que descargan software malicioso.      | *Aprovechar fallos en el software de los servidores DNS o en la configuración de la red.       |   Asegurarse de que los servidores DNS estén correctamente configurados y actualizados.|
 | -Capturar datos sensibles transmitidos por los usuarios. | -------        |    Asegurarse de que los sitios web utilicen HTTPS puede ayudar a proteger la información del usuario, incluso si se produce un ataque de DNS spoofing. |
 
-![](https://www.akamai.com/site/es/images/article/2023/what-are-dns-attack-vectors.png)
+![](https://www.indusface.com/wp-content/uploads/2024/10/DNS-Spoofing-.png)
 
 
 
