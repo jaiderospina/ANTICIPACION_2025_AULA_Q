@@ -1,31 +1,33 @@
 # **TOP 8 :imp: CIBERATAQUES 2025**
 ![EQUIPO DE HACKING ÉTICO MGOT](https://files.oaiusercontent.com/file-SGU3EmbjtgH4VqC4GC5LQk?se=2025-01-24T23%3A15%3A31Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D0f1dc602-7ab8-4eb6-80ad-26905f89b677.webp&sig=%2Bz4iHDxrnqFzB1rHPem0c/aQs6u9SwHlLLq%2B6pNG2Qk%3D)
 
-Grupo *MGOT* Aula "Q" 
+Grupo *MGOT* Aula "Q".
 
-MY. MARIO GÓMEZ
-MY. LUIS MILLÁN
-MY. DANIEL TORRES
-MY. YEFERSON OBANDO
+En el siguiente ejercicio se destacarán los 8 principales ciberataques según el SISAP*, para lo cual se tratará cada uno en particular, destacando en cada uno su descripción general, mecanismo de ataque, indicador de compromiso IOC, estrategia de mitigación y recursos.
 
+- [X] MY. MARIO GÓMEZ
+- [X] MY. DANIEL TORRES
+- [X] MY. LUIS MILLÁN
+- [X] MY. YEFERSON OBANDO
 
 ***
 
 ## 1. PHISHING
-Esto es un párrafo prueba, para escribir algo general introductorio.
-Ejemplos de listas de opciones con chulito:
-- [x] Primera tarea
-- [ ] Segunda tarea
-- [ ] Tercera tarea
+_El phishing es un tipo de ciberataque que utiliza correos electrónicos, mensajes de texto, llamadas telefónicas o sitios web fraudulentos para engañar a las personas y hacer que compartan datos confidenciales, descarguen malware o se expongan de otro modo a la ciberdelincuencia_
 
-### DESCRIPCIÓN GENERAL:
-Aquí se escribe un párrafo de máximo 3 líneas.
+### 1.1 DESCRIPCIÓN GENERAL:
+Los ataques de phishing son una forma de ingeniería social. A diferencia de otros ciberataques que se dirigen directamente a redes y recursos, los ataques de ingeniería social utilizan errores humanos, historias falsas y tácticas de presión para manipular a las víctimas para que se perjudiquen involuntariamente a sí mismas o a sus organizaciones. 
+
+En un intento típico de phishing, un hacker se hace pasar por alguien en quien la víctima confía, como un compañero, jefe, figura de autoridad o representante de una marca conocida. El hacker envía un mensaje a la víctima para que pague una factura, abra un archivo adjunto, haga clic en un enlace o realice cualquier otra acción.
+
+Al confiar en la supuesta fuente del mensaje, el usuario sigue las instrucciones y cae de lleno en la trampa del estafador. Esa "factura" puede llevar directamente a la cuenta de un hacker. Ese archivo adjunto podría instalar ransomware en el dispositivo del usuario. Ese enlace podría llevar al usuario a un sitio web que roba números de tarjetas de crédito, números de cuentas bancarias, credenciales de inicio de sesión u otros datos personales.
+
 Ejemplos de textos: 
 *Así es letra italic*  
 _Otro ejempli de italic_
 **Este texto estará en negrilla bold**  
 
-### MECANISMO DE ATAQUE:
+### 1.2 MECANISMO DE ATAQUE:
 Aquí se escribe un párrafo de máximo 3 líneas.
 Ejemplo de código para tener en cuenta:
 ## Blocks of code
@@ -35,7 +37,7 @@ let message = 'PRUEBA DE CÓDIGO APACHE';
 alert(message);
 ```
 
-### IOC (INDICADOR DE COMPROMISO)
+### 1.3 IOC (INDICADOR DE COMPROMISO)
 Aquí se escribe un párrafo de máximo 3 líneas.
 Ejemplo de tabla:
 ## Tables
@@ -46,7 +48,7 @@ Ejemplo de tabla:
 | left bar      | right bar     |
 | left baz      | right baz     |
 
-### ESTRATEGIA DE MITIGACIÓN:
+### 1.4 ESTRATEGIA DE MITIGACIÓN:
 Aquí se escribe un párrafo de máximo 3 líneas.
 * Item 1
 * Item 2
@@ -55,7 +57,7 @@ Aquí se escribe un párrafo de máximo 3 líneas.
     * Item 3a
     * Item 3b
 
-### RECURSOS:
+### 1.5 RECURSOS:
 Aquí se escribe un párrafo de máximo 3 líneas.
 Ejemplo: Así se pueden poner links de internet así [Título de la noticia o página](https://www.eltiempo.com/tecnosfera/novedades-tecnologia/ciberataques-en-colombia-han-estado-aumentando-en-comparacion-con-el-2022-827595/).
 
