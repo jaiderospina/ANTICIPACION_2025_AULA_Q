@@ -87,10 +87,10 @@ Cumplir con estándares de seguridad como ISO 27001, GDPR, o NIST para gestionar
 El ransomware es un tipo de malware que retiene como rehenes los datos confidenciales o el dispositivo de una víctima, amenazando con mantenerlos bloqueados, o algo peor, a menos que la víctima pague un rescate al atacante.
 ![Ramsomeware](https://www.redseguridad.com/wp-content/uploads/sites/2/2021/09/pago-ransomware-malware-.jpg)
 
-### DESCRIPCIÓN GENERAL:
+### 2.1 DESCRIPCIÓN GENERAL:
 El ransomware es un tipo de malware que cifra los archivos de una víctima o bloquea el acceso a su sistema, exigiendo un pago (usualmente en criptomonedas) a cambio de restaurar el acceso a los datos. Es una de las amenazas más destructivas y de rápido crecimiento en la ciberseguridad, ya que no solo afecta a individuos, sino también a organizaciones, gobiernos y servicios críticos. A menudo, los atacantes envían un mensaje de rescate que incluye instrucciones para pagar el "rescate", mientras advierten de las consecuencias de no hacerlo.
 
-### MECANISMOS DE ATAQUE:
+### 2.2 MECANISMOS DE ATAQUE:
 * Phishing:
 El ransomware suele distribuirse a través de correos electrónicos de phishing que contienen enlaces maliciosos o archivos adjuntos infectados, como documentos de Office con macros maliciosas o archivos comprimidos que ejecutan el ransomware al abrirlos.
 * Exploits de vulnerabilidades:
@@ -105,7 +105,7 @@ Plataformas en línea donde los cibercriminales pueden alquilar ransomware preem
 Después de infectar un sistema, los atacantes a menudo se desplazan por la red para infectar más dispositivos, lo que permite un mayor alcance y la oportunidad de cifrar más datos.
 
 
-### IOC (INDICADORES DE COMPROMISO)
+### 2.3 IOC (INDICADORES DE COMPROMISO)
 
 | IOC  | Descripción |
 | ------------- |:-------------:|
@@ -116,7 +116,7 @@ Después de infectar un sistema, los atacantes a menudo se desplazan por la red 
 | 5. Fallas de acceso al sistema      | Sistemas que muestran mensajes de "acceso denegado" o muestran información sobre el cifrado de archivos, así como cambios inesperados en permisos de archivos y configuraciones del sistema.     |
 | 6. Archivos de registros anómalos      | Registros de eventos que indican la ejecución de scripts, ejecución de comandos inusuales o cambios de permisos en los sistemas de archivos.     |
 
-### ESTRATEGIAS DE MITIGACIÓN:
+### 2.4 ESTRATEGIAS DE MITIGACIÓN:
 * Respaldo regular de datos.
 * Parches y actualizaciones constantes:
 * Segmentación de redes.
@@ -128,7 +128,7 @@ Después de infectar un sistema, los atacantes a menudo se desplazan por la red 
 * Deshabilitar SMBv1.
 * Plan de respuesta a incidentes (IR).
 
-### RECURSOS:
+### 2. 5 RECURSOS:
 1. Herramientas de desencriptación:
   * No More Ransom es una iniciativa que ofrece herramientas de desencriptación gratuitas para varias familias de ransomware.
   * ID Ransomware permite identificar el tipo de ransomware y proporcionar recursos de desencriptación.
