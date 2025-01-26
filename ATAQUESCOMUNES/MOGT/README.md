@@ -14,6 +14,7 @@ En el siguiente ejercicio se destacarán los 8 principales ciberataques según e
 
 ## 1. PHISHING
 _El phishing es un tipo de ciberataque que utiliza correos electrónicos, mensajes de texto, llamadas telefónicas o sitios web fraudulentos para engañar a las personas y hacer que compartan datos confidenciales, descarguen malware o se expongan de otro modo a la ciberdelincuencia_
+![Phising](https://imagenes.eltiempo.com/files/image_1200_535/files/fp/uploads/2023/10/19/65314b395be1f.r_d.1143-406.jpeg)
 
 ### 1.1 DESCRIPCIÓN GENERAL:
 Los ataques de phishing son una forma de ingeniería social. A diferencia de otros ciberataques que se dirigen directamente a redes y recursos, los ataques de ingeniería social utilizan errores humanos, historias falsas y tácticas de presión para manipular a las víctimas para que se perjudiquen involuntariamente a sí mismas o a sus organizaciones. 
@@ -22,50 +23,62 @@ En un intento típico de phishing, un hacker se hace pasar por alguien en quien 
 
 *Al confiar en la supuesta fuente del mensaje, el usuario sigue las instrucciones y cae de lleno en la trampa del estafador. Esa "factura" puede llevar directamente a la cuenta de un hacker. Ese archivo adjunto podría instalar ransomware en el dispositivo del usuario. Ese enlace podría llevar al usuario a un sitio web que roba números de tarjetas de crédito, números de cuentas bancarias, credenciales de inicio de sesión u otros datos personales.*
 
-### 1.2 MECANISMO DE ATAQUE:
-Aquí se escribe un párrafo de máximo 3 líneas.
-Ejemplo de código para tener en cuenta:
-## Blocks of code
+### 1.2 MECANISMOS DE ATAQUE:
 
-```
-let message = 'PRUEBA DE CÓDIGO APACHE';
-alert(message);
-```
+   * Correos electrónicos fraudulentos:
+Los atacantes envían correos con enlaces o archivos adjuntos maliciosos diseñados para robar información o instalar malware.
+   * Páginas web falsas:
+Sitios que imitan páginas legítimas para capturar credenciales o datos confidenciales.
+   * Mensajes de texto y llamadas (smishing y vishing):
+En el caso de smishing, mensajes de texto engañosos; vishing implica llamadas telefónicas para obtener datos personales.
+   * Ataques dirigidos (spear phishing):
+Personalización de mensajes para atacar objetivos específicos, como empleados de alto nivel o departamentos clave.
+   * Pharming:
+Manipulación del sistema DNS o del dispositivo de la víctima para redirigirla a un sitio falso sin que lo perciba.
+   * Uso de ingeniería social:
+Aprovechan el comportamiento humano, como la confianza o el miedo, para persuadir a las víctimas a actuar de forma apresurada.
 
-### 1.3 IOC (INDICADOR DE COMPROMISO)
-Aquí se escribe un párrafo de máximo 3 líneas.
-Ejemplo de tabla:
-## Tables
+### 1.3 IOC (INDICADORES DE COMPROMISO)
 
-| Left columns  | Right columns |
+| IOC  | Explicación |
 | ------------- |:-------------:|
-| left foo      | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |
+| 1. Correos electrónicos sospechosos      | Errores gramaticales, direcciones de remitente inusuales, nombres de dominio similares pero no exactos (ejemplo @ seguro-banco.com en lugar de ejemplo @ banco.com)     |
+| 2. URLs maliciosas      | Enlaces acortados o que no coinciden con la URL oficial de la entidad legítima.     |
+| 3. Archivos adjuntos      | Documentos o archivos con extensiones dobles (documento.pdf.exe) o inusuales.     |
+| 4. Redirecciones no autorizadas      | Navegadores que llevan a sitios desconocidos sin intervención del usuario.     |
+| 5. Actividad inusual      | Inicios de sesión desde ubicaciones o dispositivos no reconocidos.     |
+| 6. Anomalías en sistemas      | Instalación de malware, cambios no autorizados en la configuración o comunicaciones inusuales hacia servidores externos.     |
 
-### 1.4 ESTRATEGIA DE MITIGACIÓN:
-Aquí se escribe un párrafo de máximo 3 líneas.
-* Item 1
-* Item 2
-* Item 2a
-* Item 2b
-    * Item 3a
-    * Item 3b
+### 1.4 ESTRATEGIAS DE MITIGACIÓN:
+
+   * Concienciación y capacitación:
+Entrenar a los empleados para reconocer correos electrónicos sospechosos, verificar enlaces y no compartir información confidencial sin validar la autenticidad.
+   * Autenticación multifactor (MFA):
+Añadir una capa adicional de seguridad para impedir accesos no autorizados incluso si las credenciales son comprometidas.
+   * Filtrado de correo electrónico:
+Implementar herramientas de detección de spam y análisis de enlaces y archivos adjuntos maliciosos.
+   * Análisis de tráfico de red:
+Supervisar el tráfico en busca de conexiones hacia dominios conocidos como maliciosos.
+   * Políticas de acceso restrictivas:
+Limitar privilegios y aplicar el principio de menor privilegio (PoLP) en sistemas y aplicaciones.
+   * Simulaciones de phishing:
+Realizar pruebas periódicas para medir la resiliencia de los empleados frente a ataques.
+   * Actualización de software y parches:
+Mantener sistemas actualizados para proteger contra vulnerabilidades conocidas.
+   * Seguridad en DNS:
+Implementar DNS seguro y autenticación de correo como SPF, DKIM y DMARC.
 
 ### 1.5 RECURSOS:
-Aquí se escribe un párrafo de máximo 3 líneas.
-Ejemplo: Así se pueden poner links de internet así [Título de la noticia o página](https://www.eltiempo.com/tecnosfera/novedades-tecnologia/ciberataques-en-colombia-han-estado-aumentando-en-comparacion-con-el-2022-827595/).
-
-Ejemplo de emojis así:
-Me encanta tu sonrisa :smile:, pero eres más lento que una tortuga :turtle:
-:satisfied:
-:grin:
-:cold_sweat:
-:scream:
-
-Aquí está el listado de códigos emojis: https://tutorialmarkdown.com/emojis
-
-![Ejemplo de imagen desde un link externo](https://imagenes.eltiempo.com/files/image_1200_535/files/fp/uploads/2023/10/19/65314b395be1f.r_d.1143-406.jpeg)
+* Herramientas de análisis de phishing:
+   * PhishTank para verificar URLs sospechosas.
+   * VirusTotal para analizar enlaces y archivos adjuntos.
+* Informes de incidentes:
+Contactar a equipos de respuesta a incidentes como CERTs (Computer Emergency Response Teams) nacionales.
+* Políticas y normativas:
+Cumplir con estándares de seguridad como ISO 27001, GDPR, o NIST para gestionar riesgos de phishing.
+* Soluciones tecnológicas:
+   * SIEM (Security Information and Event Management): Para correlacionar eventos relacionados con phishing.
+   * EDR (Endpoint Detection and Response): Para responder a incidentes en dispositivos afectados.
 
 
 ***
