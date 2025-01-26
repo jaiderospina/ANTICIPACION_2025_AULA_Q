@@ -3,7 +3,7 @@
 
 Grupo **MGOT** Aula "Q".
 
-En el siguiente ejercicio se destacarán los 8 principales ciberataques según el SISAP*, para lo cual se tratará cada uno en particular, destacando en cada uno su descripción general, mecanismo de ataque, indicador de compromiso IOC, estrategia de mitigación y recursos.
+En el siguiente ejercicio se destacarán los 8 principales ciberataques según el SISAP*, para lo cual se tratará cada uno en particular, su descripción general, mecanismo de ataque, indicador de compromiso IOC, estrategia de mitigación y recursos.
 
 - [X] MY. MARIO GÓMEZ
 - [X] MY. DANIEL TORRES
@@ -84,64 +84,64 @@ Cumplir con estándares de seguridad como ISO 27001, GDPR, o NIST para gestionar
 ***
 
 ## 2. RAMSOMWARE
-
-Esto es un párrafo prueba, para escribir algo general introductorio.
-Ejemplos de listas de opciones con chulito:
-- [x] Primera tarea
-- [ ] Segunda tarea
-- [ ] Tercera tarea
+El ransomware es un tipo de malware que retiene como rehenes los datos confidenciales o el dispositivo de una víctima, amenazando con mantenerlos bloqueados, o algo peor, a menos que la víctima pague un rescate al atacante.
+![Ramsomeware](https://www.redseguridad.com/wp-content/uploads/sites/2/2021/09/pago-ransomware-malware-.jpg)
 
 ### DESCRIPCIÓN GENERAL:
-Aquí se escribe un párrafo de máximo 3 líneas.
-Ejemplos de textos: 
-*Así es letra italic*  
-_Otro ejempli de italic_
-**Este texto estará en negrilla bold**  
+El ransomware es un tipo de malware que cifra los archivos de una víctima o bloquea el acceso a su sistema, exigiendo un pago (usualmente en criptomonedas) a cambio de restaurar el acceso a los datos. Es una de las amenazas más destructivas y de rápido crecimiento en la ciberseguridad, ya que no solo afecta a individuos, sino también a organizaciones, gobiernos y servicios críticos. A menudo, los atacantes envían un mensaje de rescate que incluye instrucciones para pagar el "rescate", mientras advierten de las consecuencias de no hacerlo.
 
-### MECANISMO DE ATAQUE:
-Aquí se escribe un párrafo de máximo 3 líneas.
-Ejemplo de código para tener en cuenta:
-## Blocks of code
+### MECANISMOS DE ATAQUE:
+* Phishing:
+El ransomware suele distribuirse a través de correos electrónicos de phishing que contienen enlaces maliciosos o archivos adjuntos infectados, como documentos de Office con macros maliciosas o archivos comprimidos que ejecutan el ransomware al abrirlos.
+* Exploits de vulnerabilidades:
+Los atacantes aprovechan vulnerabilidades no parcheadas en sistemas operativos, software de terceros o aplicaciones, como los famosos ataques de EternalBlue (exploitable en SMB de Windows) que fueron utilizados en el ataque de WannaCry.
+* Redirección de tráfico y sitios comprometidos:
+Algunos tipos de ransomware utilizan sitios web comprometidos o anuncios maliciosos (malvertising) para infectar a los usuarios al visitar una página legítima.
+* Acceso remoto:
+Uso de credenciales robadas o fuerza bruta para obtener acceso a servidores y dispositivos, lo que permite a los atacantes ejecutar el ransomware manualmente o de manera automatizada.
+* Ransomware como servicio (RaaS):
+Plataformas en línea donde los cibercriminales pueden alquilar ransomware preempaquetado y usarlo para lanzar ataques sin tener que ser expertos técnicos. El ataque se comparte entre el creador del ransomware y el atacante.
+* Movimiento lateral:
+Después de infectar un sistema, los atacantes a menudo se desplazan por la red para infectar más dispositivos, lo que permite un mayor alcance y la oportunidad de cifrar más datos.
 
-```
-let message = 'PRUEBA DE CÓDIGO APACHE';
-alert(message);
-```
 
-### IOC (INDICADOR DE COMPROMISO)
-Aquí se escribe un párrafo de máximo 3 líneas.
-Ejemplo de tabla:
-## Tables
+### IOC (INDICADORES DE COMPROMISO)
 
-| Left columns  | Right columns |
+| IOC  | Descripción |
 | ------------- |:-------------:|
-| left foo      | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |
+| 1. Archivos cifrados      | Archivos con extensiones desconocidas o de una extensión característica de ransomware, como .locked, .encrypted, .crypt, .zip, entre otras.     |
+| 2. Comportamientos de cifrado      | Actividad en el sistema como procesos que intentan cifrar una gran cantidad de archivos, especialmente aquellos de alto valor como documentos y bases de datos.     |
+| 3. Archivos de rescate      | Archivos que contienen mensajes de rescate como "README.txt", "DECRYPT_INSTRUCTION.txt", o archivos con el nombre de los atacantes y cómo contactar para el pago.     |
+| 4. Comunicaciones maliciosas      | Rastrear tráfico hacia servidores de comando y control (C&C) del atacante o direcciones IP relacionadas con las demandas de rescate o pagos.     |
+| 5. Fallas de acceso al sistema      | Sistemas que muestran mensajes de "acceso denegado" o muestran información sobre el cifrado de archivos, así como cambios inesperados en permisos de archivos y configuraciones del sistema.     |
+| 6. Archivos de registros anómalos      | Registros de eventos que indican la ejecución de scripts, ejecución de comandos inusuales o cambios de permisos en los sistemas de archivos.     |
 
-### ESTRATEGIA DE MITIGACIÓN:
-Aquí se escribe un párrafo de máximo 3 líneas.
-* Item 1
-* Item 2
-* Item 2a
-* Item 2b
-    * Item 3a
-    * Item 3b
+### ESTRATEGIAS DE MITIGACIÓN:
+* Respaldo regular de datos.
+* Parches y actualizaciones constantes:
+* Segmentación de redes.
+* Autenticación multifactor (MFA).
+* Filtrado de correos electrónicos y URLs.
+* Educación y concienciación del personal.
+* Monitoreo continuo y análisis forense.
+* Restricción de privilegios de ejecución.
+* Deshabilitar SMBv1.
+* Plan de respuesta a incidentes (IR).
 
 ### RECURSOS:
-Aquí se escribe un párrafo de máximo 3 líneas.
-Ejemplo: Así se pueden poner links de internet así [Título de la noticia o página](https://www.eltiempo.com/tecnosfera/novedades-tecnologia/ciberataques-en-colombia-han-estado-aumentando-en-comparacion-con-el-2022-827595/).
+1. Herramientas de desencriptación:
+  * No More Ransom es una iniciativa que ofrece herramientas de desencriptación gratuitas para varias familias de ransomware.
+  * ID Ransomware permite identificar el tipo de ransomware y proporcionar recursos de desencriptación.
+2. Antivirus y soluciones EDR (Endpoint Detection and Response):
+  * Soluciones como CrowdStrike, Sophos, Bitdefender, y Kaspersky ofrecen protección contra ransomware mediante la detección proactiva y la remediación de los sistemas comprometidos.
+3. Plataformas de respaldo en la nube:
+  * Usar servicios de almacenamiento en la nube como Google Drive, Dropbox o soluciones especializadas como Veeam o Acronis para mantener copias de seguridad de los datos de forma segura.
+4. Plataformas de monitoreo y SIEM:
+  * Herramientas como Splunk, LogRhythm, o AlienVault proporcionan capacidades avanzadas de monitoreo y análisis de seguridad, lo que facilita la detección temprana de ransomware.
+5. Certificados de seguridad:
+  * Mantener certificados SSL/TLS válidos y configurar servidores web de manera segura, así como verificar los protocolos de autenticación y encriptación en todas las comunicaciones.
 
-Ejemplo de emojis así:
-Me encanta tu sonrisa :smile:, pero eres más lento que una tortuga :turtle:
-:satisfied:
-:grin:
-:cold_sweat:
-:scream:
-
-Aquí está el listado de códigos emojis: https://tutorialmarkdown.com/emojis
-
-![Ejemplo de imagen desde un link externo](https://imagenes.eltiempo.com/files/image_1200_535/files/fp/uploads/2023/10/19/65314b395be1f.r_d.1143-406.jpeg)
+![Ejemplo de imagen desde un link externo](https://upload.wikimedia.org/wikipedia/commons/d/d9/Goldeneye-ransomware-161212.jpg)
 
 
 ***
@@ -149,19 +149,20 @@ Aquí está el listado de códigos emojis: https://tutorialmarkdown.com/emojis
 ## 3. DENIAL OF SERVICE (DOS)
 ![Ataque DOS](https://grupogaratu.com/wp-content/uploads/sites/4/2018/08/ataque-dos-ddos-seguridad-empresa-ciberseguridad-e1535478792912.jpg)
 
-### DESCRIPCIÓN GENERAL
+### 3.1 DESCRIPCIÓN GENERAL:
 Ataque cibernético diseñado para “interrumpir el funcionamiento normal de un servidor, servicio o red” haciéndolo inoperable para sus usuarios legítimos. El objetivo principal de este ataque es “sobrecargar los recursos” del sistema objetivo (como ancho de banda, memoria o capacidad de procesamiento), haciendo que deje de responder o funcione de forma extremadamente lenta.
 
-### MECANISMO DE ATAQUE
+### 3.2 MECANISMOS DE ATAQUE
 El atacante envía “grandes volúmenes de tráfico o solicitudes maliciosas” al sistema objetivo, superando su capacidad para gestionarlas. Esto puede provocar:
 1.	Saturación de recursos: Como el ancho de banda o la CPU.
 2.	Interrupción del servicio: El sistema no puede procesar solicitudes legítimas.
 3.	Desconexión temporal: El sistema puede colapsar por completo.
 
-### IOC (INDICADOR DE COMPROMISO)
+### 3.3 IOC (INDICADORES DE COMPROMISO)
 Los Indicadores de Compromiso (IoCs) de un ataque DoS (Denial of Service) son señales o evidencias que indican que un sistema está siendo víctima de un ataque de denegación de servicio. Estos indicadores pueden detectarse en registros de red, métricas del sistema o monitoreo de aplicaciones.
 
-### ESTRATEGIAS DE MITIGACIÓN
+### 3.4 ESTRATEGIAS DE MITIGACIÓN:
+
 1. Estrategias Técnicas
 1.1 Uso de Firewalls y Sistemas de Detección
 1.2 Implementar Servicios Anti-DDoS
@@ -177,18 +178,18 @@ Los Indicadores de Compromiso (IoCs) de un ataque DoS (Denial of Service) son se
 2.3 Colaboración con Proveedores de Servicios
 2.4 Segmentación de Redes
    
-4. Estrategias Preventivas
+3. Estrategias Preventivas
 3.1 Pruebas de Resiliencia
 3.2 Fortalecer la Infraestructura DNS
 3.3 Mantener el Software Actualizado
 3.4 Uso de Redes de Entrega de Contenidos (CDN)
 
-5. Estrategias a Nivel de Aplicación
-5.1 Validación de Entradas
-5.2 Configuración de Timeouts
-5.3 Restricción de Recursos
+4. Estrategias a Nivel de Aplicación
+4.1 Validación de Entradas
+4.2 Configuración de Timeouts
+4.3 Restricción de Recursos
 
-### RECURSOS
+### 3.5 RECURSOS
 ![GitHub](https://foundations.projectpythia.org/_images/GitHub-logo.png)
 
 https://github.com/thehackingsage/ddos/tree/master/Protection%20Tools
@@ -198,10 +199,10 @@ https://github.com/thehackingsage/ddos/tree/master/Protection%20Tools
 
 ![MITM](https://beaglesecurity.com/blog/images/man-in-the-middle-attacks.webp)
 
-### DESCRIPCIÓN GENERAL
+### 4.1 DESCRIPCIÓN GENERAL
 Un ataque Man-in-the-Middle (MitM) ocurre cuando un atacante intercepta, modifica o manipula la comunicación entre dos partes (por ejemplo, un usuario y un servidor) sin que estas lo sepan. Su objetivo principal es robar información sensible como contraseñas, datos financieros o identidades, o alterar los datos transmitidos.
 
-### MECANISMO DE ATAQUE
+### 4.2 MECANISMOS DE ATAQUE
 
 Intercepción:
 •	El atacante se posiciona entre el usuario y el servidor.
@@ -213,7 +214,7 @@ Suplantación:
 Manipulación de datos:
 •	Puede alterar o inyectar contenido en la comunicación interceptada.
 
-### IOC (INDICADOR DE COMPROMISO)
+### 4.3 IOC (INDICADORES DE COMPROMISO)
 Conexiones inseguras:
 •	Comunicación a través de HTTP en lugar de HTTPS.
 •	Certificados SSL inválidos o inexistentes.
@@ -229,7 +230,7 @@ Mensajes de advertencia:
 Tráfico inesperado:
 •	Paquetes de red con direcciones IP falsificadas o múltiples retransmisiones.
 
-### ESTRATEGIAS DE MITIGACIÓN
+### 4.4 ESTRATEGIAS DE MITIGACIÓN
 1.	Uso de cifrado:
 o	Implementar HTTPS y TLS para proteger las comunicaciones.
 o	Configurar VPN para garantizar un canal seguro.
@@ -246,7 +247,7 @@ o	Habilitar protocolos seguros como DNSSEC para evitar redirecciones maliciosas.
 o	Analizar registros de tráfico y patrones anómalos.
 o	Revisar y actualizar certificados SSL regularmente.
 
-### RECURSOS
+### 4.5 RECURSOS
 ![MITM](https://img-c.udemycdn.com/course/750x422/1969416_1f51_7.jpg)
 
 https://github.com/byt3bl33d3r/MITMf
@@ -274,17 +275,17 @@ Aunque PoD es un ataque DDoS heredado y los ataques de inundación ICMP se usan 
 
 ## 5. SQL INJECTION
 
-### DESCRIPCIÓN GENERAL
+### 5.1 DESCRIPCIÓN GENERAL
 La inyección de lenguaje de consulta estructurada (SQLi) es un ataque de inyección de código que permite al atacante recuperar, manipular o destruir información confidencial ubicada en bases de datos SQL. Estos ataques funcionan al insertar comandos especializados en campos de consulta SQL.
 Cuando se ejecutan, los comandos pueden permitir al atacante suplantar la identidad de usuarios legítimos, ver o recuperar datos protegidos e incluso obtener acceso root a servidores.
 
-### MECANISMO DE ATAQUE
+### 5.2 MECANISMOS DE ATAQUE
 1) Inyección SQL 
 La inyección SQL es una debilidad en la seguridad web que podría permitir a un atacante cambiar las consultas SQL que se ejecutan en la base de datos.
 2) Ataques de secuencias de comandos entre sitios (XSS)
 El ataque de secuencias de comandos entre sitios, también conocido como XSS, permite a un atacante tomar el control de la forma en que los usuarios interactúan con una aplicación que es vulnerable a él.
 
-### IOC (INDICADOR DE COMPROMISO)
+### 5.3 IOC (INDICADORES DE COMPROMISO)
 Un indicador de compromiso (IoC) ante un ataque de SQL Injection puede manifestarse de diferentes formas, dependiendo del tipo de ataque y su propósito. Algunos ejemplos comunes incluyen:
 
 1. Errores de base de datos visibles
@@ -298,17 +299,19 @@ Respuestas inesperadas de la aplicación, como mostrar datos que no deberían se
 Salto de autenticación: un atacante puede acceder a cuentas sin credenciales válidas.
 Páginas con listados de datos no autorizados.
 
-### ESTRATEGIAS DE MITIGACIÓN
+### 5.4 ESTRATEGIAS DE MITIGACIÓN
 Dentro de una aplicación, existen dos enfoques para la validación de entrada que pueden defenderse de los ataques de inyección SQL: listas negras y listas blancas. Con las listas negras, se eliminan o reemplazan caracteres maliciosos específicos y conocidos en la entrada del usuario.
 
-### RECURSOS
-1. Análisis de Logs del Servidor Web
+### 5.5 RECURSOS
+Análisis de Logs del Servidor Web
 Revisa los logs de tu servidor web (Apache, NGINX, IIS) para buscar patrones de ataque.
 Palabras clave sospechosas:
+```
 ' OR 1=1 --
 UNION SELECT
 DROP TABLE
 INSERT INTO
+```
 Herramientas útiles para analizar logs:
 GoAccess: Herramienta de análisis de logs en tiempo real.
 ELK Stack (Elasticsearch, Logstash, Kibana): Para analizar grandes volúmenes de logs.
@@ -320,17 +323,17 @@ ELK Stack (Elasticsearch, Logstash, Kibana): Para analizar grandes volúmenes de
 
 ## 6. CROSS - SITE SCRIPTING  (XSS)
 
-### DESCRIPCIÓN GENERAL
+### 6.1 DESCRIPCIÓN GENERAL
 Cross-site scripting (XSS) es un ataque informático que consiste en inyectar código malicioso en una página web o aplicación. El objetivo de este ataque es que el navegador del usuario ejecute el código malicioso y así obtener información privada. 
 El XSS es uno de los ataques de seguridad más comunes en la web. Puede afectar a cualquier aplicación web, como sitios de comercio electrónico o redes sociales.
 
-### MECANISMO DE ATAQUE
+### 6.2 MECANISMOS DE ATAQUE
 Fases del Mecanismo de Ataque XSS
 Identificación de una vulnerabilidad XSS:
 El atacante busca un punto en la aplicación web donde las entradas del usuario no sean correctamente validadas o sanitizadas.
 Esto puede ocurrir en formularios, parámetros en URLs, cabeceras HTTP, comentarios, o cualquier otro punto donde se acepten datos del usuario.
 
-### IOC (INDICADOR DE COMPROMISO)
+### 6.3 IOC (INDICADORES DE COMPROMISO)
 1. Comportamiento anómalo en la aplicación web
 Aparición de ventanas emergentes inesperadas
 Cambios visuales no autorizados en la interfaz de usuario (redirecciones, formularios alterados, etc.).
@@ -338,12 +341,22 @@ Contenido inesperado cargado en la página, como scripts externos, imágenes o a
 
 2. Actividades sospechosas en los logs del servidor
 Parámetros de entrada con contenido sospechoso:
-Scripts inyectados: <script>alert('XSS')</script>
-Uso de funciones como document.cookie, window.location, eval().
+Scripts inyectados:
+```
+<script>alert('XSS')</script>
+```
+Uso de funciones como 
+```
+document.cookie
+window.location
+eval()
+```
 URLs con caracteres o patrones maliciosos:
+```
 %3Cscript%3E (versión codificada de <script>).
+```
 
-### ESTRATEGIAS DE MITIGACIÓN
+### 6.4 ESTRATEGIAS DE MITIGACIÓN
 Para mitigar un ataque Cross-Site Scripting (XSS) y prevenir futuras vulnerabilidades, se deben implementar estrategias robustas que abarcan la validación de entradas, codificación de salidas, uso de configuraciones de seguridad y herramientas especializadas.
 
 1. Validación y Saneamiento de Entradas
@@ -354,72 +367,82 @@ Define reglas estrictas para los datos aceptados (tamaño, tipo, formato).
 
 2. Saneamiento de datos (Sanitization):
 Escapa caracteres especiales que puedan interpretarse como código:
+```
 < → &lt;
 > → &gt;
 & → &amp;
 ' → &#39;
 " → &quot;
+```
 
-### RECURSOS
+### 6.5 RECURSOS
 1. Análisis de Logs
 Los logs de tu servidor y aplicación son una de las primeras líneas para detectar ataques XSS.
-Qué buscar:
-Solicitudes HTTP sospechosas:
-URLs con patrones maliciosos como <script>, document.cookie, window.location.
-Parámetros codificados como %3Cscript%3E.
+Qué buscar: Solicitudes HTTP sospechosas:
+URLs con patrones maliciosos como:
+```
+<script>
+document.cookie
+window.location
+```
+2. Parámetros codificados como 
+```
+%3Cscript%3E
+```
 
-2. Herramientas recomendadas
+3. Herramientas recomendadas
 GoAccess: Análisis en tiempo real de logs.
 Graylog o ELK Stack (Elasticsearch, Logstash, Kibana): Para centralizar y analizar patrones de tráfico.
 
-![Ejemplo de imagen desde un link externo]( https://gogetsecure.com/wp-content/uploads/2023/03/cross-site-scripting-xss.jpg)
+![XSS imagen]( https://gogetsecure.com/wp-content/uploads/2023/03/cross-site-scripting-xss.jpg)
 
 
 ***
 
 ## 7. ZERO DAY EXPLOITS
 
-### DESCRIPCIÓN GENERAL
+### 7.1 DESCRIPCIÓN GENERAL
 Un zero day exploits o vulnerabilidad de día cero es un fallo de seguridad informática que nunca se había visto antes. Por lo general, un atacante sondea a un sistema hasta que descubre una vulnerabilidad.
 
-### MECANISMO DE ATAQUE
+### 7.2 MECANISMOS DE ATAQUE
 Un ataque de día cero se produce cuando los agentes maliciosos obtienen acceso a un sistema o red aprovechando una vulnerabilidad o debilidad de seguridad en un programa de software que el fabricante de este no conoce, lo que le deja “cero días” para solucionar el problema.
 
-### IOC (INDICADOR DE COMPROMISO)
+### 7.3 IOC (INDICADORES DE COMPROMISO)
 1.	Presencia de archivos ejecutables desconocidos o recientemente creados.
 2.	Procesos en ejecución que no coinciden con los patrones normales del sistema.
 3.	Modificaciones en archivos del sistema o registros sin autorización.
 
-### ESTRATEGIAS DE MITIGACIÓN
+### 7.4 ESTRATEGIAS DE MITIGACIÓN
 Segmentación de Red y Acceso Controlado
 1.	Microsegmentación: Divide la red en segmentos más pequeños para limitar la propagación de un ataque.
 2.	Control de Acceso: Implementa el principio de menor privilegio, asegurándote de que usuarios y aplicaciones solo tengan los permisos estrictamente necesarios.
 3.	Firewalls y ACLs: Configura reglas estrictas para controlar el tráfico entrante y saliente.
 
-### RECURSOS
+### 7.5 RECURSOS
 Sistemas de Monitoreo Avanzado
 1.	EDR (Endpoint Detection and Response): Herramientas como:
 2.	CrowdStrike Falcon
 3.	Microsoft Defender for Endpoint
 4.	Sentinel One Estas herramientas monitorizan el comportamiento de los endpoints en busca de actividades anómalas y técnicas de explotación
 
-![Ejemplo de imagen desde un link externo]( https://www.pandasecurity.com/es/mediacenter/src/uploads/2015/10/zero-day-ataque-1024x413.jpg)
+![Zero Day Exploit imagen]( https://www.pandasecurity.com/es/mediacenter/src/uploads/2015/10/zero-day-ataque-1024x413.jpg)
 
 
 ***
 
 ## 8. DNS SPOOFING
 
-### DESCRIPCIÓN GENERAL
+### 8.1 DESCRIPCIÓN GENERAL
 El DNS spoofing, o suplantación de DNS, es el proceso de alterar entradas en un servidor de DNS para redirigir a un usuario específico a una web malintencionada que está bajo control del atacante.
-MECANISMO DE ATAQUE
+
+### 8.2 MECANISMO DE ATAQUE
 Consiste en manipular la resolución DNS para redirigir a los usuarios hacia sitios web fraudulentos. 
 
-### IOC (INDICADOR DE COMPROMISO)
+### 8.3 IOC (INDICADORES DE COMPROMISO)
 1.	Respuestas DNS con direcciones IP desconocidas o que no coinciden con los registros esperados (por ejemplo, direcciones IP fuera del rango legítimo del proveedor de servicios).
 2.	Múltiples respuestas a una consulta única (indicativo de posibles ataques de envenenamiento de caché).
 
-### ESTRATEGIAS DE MITIGACIÓN
+### 8.4 ESTRATEGIAS DE MITIGACIÓN
 Implementar DNSSEC (Domain Name System Security Extensions)
 1.	Qué hace: DNSSEC utiliza firmas digitales para garantizar la autenticidad y la integridad de las respuestas DNS, previniendo manipulaciones.
 2.	Cómo implementarlo:
@@ -427,7 +450,7 @@ Implementar DNSSEC (Domain Name System Security Extensions)
 •	Habilita DNSSEC en tu servidor DNS autoritativo.
 •	Asegúrate de que los clientes que consultan tu servidor soporten validación DNSSEC.
 
-### RECURSOS
+### 8.5 RECURSOS
 Estas herramientas te permiten analizar el tráfico DNS y detectar anomalías:
 1.	Wireshark:
 •	Captura y analiza el tráfico DNS en tiempo real.
@@ -438,4 +461,4 @@ Estas herramientas te permiten analizar el tráfico DNS y detectar anomalías:
 3.	Fiddler o Burp Suite:
 •	Analizan el tráfico de red y permiten inspeccionar si el tráfico está siendo redirigido a servidores no legítimos
 
-![Ejemplo de imagen desde un link externo]( https://www.keyfactor.com/wp-content/uploads/HACKER-1.jpg)
+![DNS spoofing imagen]( https://www.keyfactor.com/wp-content/uploads/HACKER-1.jpg)
