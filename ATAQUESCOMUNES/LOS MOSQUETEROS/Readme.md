@@ -241,4 +241,15 @@ El Document Object Model (DOM) es una interfaz de programación para representar
 
 ![enter image description here](https://www.fortinet.com/content/dam/fortinet/images/cyberglossary/zero-day-threat.jpg)
 
+En ciberseguridad, "Zero" suele ser una abreviatura para Zero-Day, que se refiere a una vulnerabilidad desconocida para los desarrolladores de software o los equipos de seguridad antes de que sea explotada por atacantes.
+
+**Zero-Day Vulnerability** Una falla en el software o hardware que no ha sido descubierta ni parcheada.
+**Zero-Day Exploit** Es un ataque que utiliza esta vulnerabilidad antes de que se haya publicado un parche.
+**Amenaza clave** Dado que estas vulnerabilidades son desconocidas, las defensas tradicionales como antivirus o firewalls suelen ser ineficaces frente a los ataques Zero-Day.
+**Defensa** Sistemas como la detección de anomalías, análisis de comportamiento, y el uso de inteligencia artificial son cruciales para identificar patrones que podrían ser indicativos de estos ataques.
+
+**DNS (Domain Name System)**
+![enter image description here](https://www.fortinet.com/content/dam/fortinet/images/cyberglossary/zero-day-threat.jpg)
+
+
 
