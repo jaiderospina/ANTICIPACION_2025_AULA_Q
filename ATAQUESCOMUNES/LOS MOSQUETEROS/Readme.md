@@ -249,7 +249,18 @@ En ciberseguridad, "Zero" suele ser una abreviatura para Zero-Day, que se refier
 **Defensa** Sistemas como la detección de anomalías, análisis de comportamiento, y el uso de inteligencia artificial son cruciales para identificar patrones que podrían ser indicativos de estos ataques.
 
 **DNS (Domain Name System)**
-![enter image description here](https://www.akamai.com/site/es/images/article/2023/what-is-dns-ddos.png)
 
+El **DNS** (Sistema de Nombres de Dominio) es un protocolo fundamental de Internet que traduce nombres de dominio fáciles de recordar (como google.com) a direcciones IP que los ordenadores utilizan para comunicarse (como 142.250.190.14).
 
+**En ciberseguridad, el DNS es crítico porque:**
+
+**Ataques basados en DNS**
+DNS Spoofing o Poisoning: Manipulación de la caché de DNS para redirigir a los usuarios a sitios maliciosos.
+o	Ataques DDoS a DNS: Los servidores DNS pueden ser objetivo de ataques para deshabilitar el acceso a sitios web.
+o	Tunneling DNS: Uso de peticiones DNS para transmitir datos (generalmente para exfiltración de información o comunicación C2 en malware).
+
+**Defensas relacionadas con DNS**
+o	DNSSEC (DNS Security Extensions): Asegura la integridad de las respuestas DNS mediante firmas criptográficas.
+o	Firewalls de DNS: Bloquean accesos a dominios maliciosos conocidos.
+o	Monitorización DNS: Detectar actividad sospechosa como consultas a dominios extraños (indicadores de malware o C2).
 
