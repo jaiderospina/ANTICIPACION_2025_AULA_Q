@@ -249,7 +249,7 @@ En ciberseguridad, "Zero" suele ser una abreviatura para Zero-Day, que se refier
 **Defensa** Sistemas como la detección de anomalías, análisis de comportamiento, y el uso de inteligencia artificial son cruciales para identificar patrones que podrían ser indicativos de estos ataques.
 
 **DNS (Domain Name System)**
-![enter image description here](https://www.incibe.es/sites/default/files/blog/2021/DrDoS_DNS/dns.png)
+![enter image description here](https://www.akamai.com/site/es/images/article/2023/what-is-dns-ddos.png)
 
 
 
