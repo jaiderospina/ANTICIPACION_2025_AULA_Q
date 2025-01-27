@@ -29,7 +29,7 @@ El **phishing** es un tipo de ciberataque en el que los atacantes intentan enga�
 
 ---
 
-## Ejemplo de Sitio Web Falso
+## Ejemplo de sitio Web Falso
 
 ![enter image description here]( https://github.com/jaiderospina/ANTICIPACION_2025_AULA_Q/blob/main/ATAQUESCOMUNES/STANLEY/IMAGENES%20STANLEY/c07258083eb201ae891faf4e959c0c2e.jpg?raw=true)
 
@@ -42,7 +42,7 @@ El **phishing** es un tipo de ciberataque en el que los atacantes intentan enga�
 
 ---
 
-## Consejos para Evitar el Phishing
+## Consejos para evitar el Phishing
 
 1. **Verifica las URLs**: Antes de hacer clic, asegúrate de que el enlace lleva al dominio oficial.
 2. **Desconfía de mensajes urgentes**: La mayoría de las empresas legítimas no te presionarán para actuar de inmediato.
@@ -51,7 +51,7 @@ El **phishing** es un tipo de ciberataque en el que los atacantes intentan enga�
 
 ---
 
-## ¿Qué Hacer si Caíste en un Ataque de Phishing?
+## ¿Qué Hacer si caíste en un Ataque de Phishing?
 
 1. Cambia tus contraseñas inmediatamente.
 2. Comunica el incidente a la empresa implicada (banco, proveedor de correo, etc.).
@@ -193,7 +193,7 @@ El **DNS Spoofing** (también conocido como envenenamiento de caché DNS) es un 
 
 ---
 
-## Ejemplo Visual de DNS Spoofing
+## Ejemplo visual de DNS Spoofing
 ![enter image description here]( https://github.com/jaiderospina/ANTICIPACION_2025_AULA_Q/blob/main/ATAQUESCOMUNES/STANLEY/IMAGENES%20STANLEY/8.%20DNS-spoofing-attack.jpg?raw=true)
 
 ---
@@ -265,7 +265,7 @@ Inicialmente el atacante inyecta un script malicioso en un campo de texto de un 
 
 ---
 
-## ¿Qué Hacer si Detectas una Vulnerabilidad XSS?
+## ¿Qué Hacer si detectas una vulnerabilidad XSS?
 
 1. **Corrige la vulnerabilidad**:
    - Actualiza tu aplicación para validar y sanitizar todas las entradas de usuario.
@@ -309,7 +309,7 @@ La **SQL Injection (inyección de SQL)** es una vulnerabilidad crítica que perm
 
 ---
 
-## Consejos para Prevenir la SQL Injection
+## Consejos para prevenir la SQL Injection
 
 1. **Usar consultas preparadas**:
    - Las consultas preparadas o parametrizadas separan los datos del código SQL, evitando inyecciones maliciosas.
@@ -324,7 +324,7 @@ La **SQL Injection (inyección de SQL)** es una vulnerabilidad crítica que perm
 
 ---
 
-## ¿Qué Hacer si Detectas una Vulnerabilidad?
+## ¿Qué Hacer si detectas una vulnerabilidad?
 
 1. **Corrige el código afectado**:
    - Revisa y valida todas las consultas SQL en tu aplicación.
