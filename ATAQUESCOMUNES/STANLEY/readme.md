@@ -212,10 +212,10 @@ El **DNS Spoofing** (también conocido como envenenamiento de caché DNS) es un 
 
 ## ¿Cómo Protegerse del DNS Spoofing?
 
-1. **Usa DNS seguros y confiables**: Configura tu red para usar servidores DNS con protección avanzada, como Google DNS o Cloudflare.
-2. **Habilita DNSSEC**: DNSSEC (Domain Name System Security Extensions) valida la autenticidad de las respuestas DNS.
-3. **Utiliza HTTPS**: Asegúrate de que los sitios web que visitas tienen conexiones HTTPS legítimas.
-4. **Mantén tus dispositivos actualizados**: Actualiza tus sistemas operativos y software para protegerte de vulnerabilidades conocidas.
+1. **:white_check_mark:Usa DNS seguros y confiables**: Configura tu red para usar servidores DNS con protección avanzada, como Google DNS o Cloudflare.
+2. **:white_check_mark:Habilita DNSSEC**: DNSSEC (Domain Name System Security Extensions) valida la autenticidad de las respuestas DNS.
+3. **:white_check_mark:Utiliza HTTPS**: Asegúrate de que los sitios web que visitas tienen conexiones HTTPS legítimas.
+4. **:white_check_mark:Mantén tus dispositivos actualizados**: Actualiza tus sistemas operativos y software para protegerte de vulnerabilidades conocidas.
 
 ---
 
