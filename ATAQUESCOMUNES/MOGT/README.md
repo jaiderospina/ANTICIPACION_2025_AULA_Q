@@ -10,6 +10,8 @@ En el siguiente ejercicio se destacarán los 8 principales ciberataques según e
 - [X] MY. LUIS MILLÁN
 - [X] MY. YEFERSON OBANDO
 
+
+https://i.gifer.com/origin/91/9152bb748a33392db9312e689ba62e1a_w200.webp
 ***
 
 ## 1. PHISHING
