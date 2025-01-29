@@ -10,7 +10,9 @@ En el siguiente ejercicio se destacarán los 8 principales ciberataques según e
 - [X] MY. LUIS MILLÁN
 - [X] MY. YEFERSON OBANDO
 
-![Cyber](https://i.gifer.com/origin/91/9152bb748a33392db9312e689ba62e1a_w200.webp)
+![Cyber](https://i.gifer.com/origin/91/9152bb748a33392db9312e689ba62e1a_w200.webp) 
+
+
 
 ***
 
@@ -150,7 +152,7 @@ Después de infectar un sistema, los atacantes a menudo se desplazan por la red 
 
 ## 3. DENIAL OF SERVICE (DOS)
 ![Ataque DOS](https://grupogaratu.com/wp-content/uploads/sites/4/2018/08/ataque-dos-ddos-seguridad-empresa-ciberseguridad-e1535478792912.jpg)
-
+![Cyber](https://i.gifer.com/origin/27/275e201408f92d0486d8b747a9242f8a_w200.webp) 
 ### 3.1 DESCRIPCIÓN GENERAL:
 Ataque cibernético diseñado para “interrumpir el funcionamiento normal de un servidor, servicio o red” haciéndolo inoperable para sus usuarios legítimos. El objetivo principal de este ataque es “sobrecargar los recursos” del sistema objetivo (como ancho de banda, memoria o capacidad de procesamiento), haciendo que deje de responder o funcione de forma extremadamente lenta.
 
