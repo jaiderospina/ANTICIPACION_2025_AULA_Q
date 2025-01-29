@@ -11,7 +11,7 @@ En el siguiente ejercicio se destacarán los 8 principales ciberataques según e
 - [X] MY. YEFERSON OBANDO
 
 ![Cyber](https://i.gifer.com/origin/91/9152bb748a33392db9312e689ba62e1a_w200.webp) 
-
+https://i.gifer.com/origin/46/46400cbacaf8eb1b36a89cdcd7da6740_w200.webp
 
 
 ***
@@ -202,6 +202,9 @@ https://github.com/thehackingsage/ddos/tree/master/Protection%20Tools
 ## 4. MAN IN THE MIDDLE (MitM)
 
 ![MITM](https://beaglesecurity.com/blog/images/man-in-the-middle-attacks.webp)
+
+![Cyber](https://i.gifer.com/origin/46/46400cbacaf8eb1b36a89cdcd7da6740_w200.webp)
+
 
 ### 4.1 DESCRIPCIÓN GENERAL
 Un ataque Man-in-the-Middle (MitM) ocurre cuando un atacante intercepta, modifica o manipula la comunicación entre dos partes (por ejemplo, un usuario y un servidor) sin que estas lo sepan. Su objetivo principal es robar información sensible como contraseñas, datos financieros o identidades, o alterar los datos transmitidos.
