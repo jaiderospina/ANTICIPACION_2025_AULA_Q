@@ -440,6 +440,7 @@ Sistemas de Monitoreo Avanzado
 ***
 
 ## 8. DNS SPOOFING
+![Imagen de DNS Spoofing](https://media.giphy.com/media/mwOein9vVjBLO/giphy.gif?response_id=591f21fc082f7139de5a6050) 
 
 ### 8.1 DESCRIPCIÓN GENERAL
 El DNS spoofing, o suplantación de DNS, es el proceso de alterar entradas en un servidor de DNS para redirigir a un usuario específico a una web malintencionada que está bajo control del atacante.
