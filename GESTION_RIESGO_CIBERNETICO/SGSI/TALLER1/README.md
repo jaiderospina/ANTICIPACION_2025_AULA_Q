@@ -9,3 +9,10 @@
 - Subir en este espacio la hoja de cálculo identificada como  GrupoN.
 
 **NOTA**  Ingresar la totalidad de los integrantes en la hoja de cálculo. 
+
+## GRUPO No. 6
+
+1. MY CHRISTIAN PLUTARCO CACERES
+2. MY JULIAN ANDRES QUINTERO
+3. MY LUIS ALEJANDRO NARANJO
+4. CC EDUARDO ANDRES OTERO
