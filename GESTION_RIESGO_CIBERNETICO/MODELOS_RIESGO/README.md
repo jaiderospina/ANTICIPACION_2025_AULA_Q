@@ -48,6 +48,7 @@ Ambos métodos son valiosos para el modelado de amenazas, pero su elección depe
 Learn more:
 1. [Software Secured | Comparison of STRIDE, DREAD & PASTA | USA](https://www.softwaresecured.com/post/comparison-of-stride-dread-pasta)
 2. [STRIDE vs PASTA - A Comparison of Threat Modeling Methodologies](https://aptori.dev/blog/stride-vs-pasta-a-comparison-of-threat-modeling-methodologies)
+3. [Modelo de Amenazas STRIDE](https://www.datasunrise.com/es/centro-de-conocimiento/modelo-de-amenazas-stride/)
 
 ## Estudio de Caso: Modelamiento de Amenazas Cibernéticas con STRIDE y Zabbix
 
@@ -126,4 +127,3 @@ Este ejercicio permitirá desarrollar habilidades en:
 
 
 
-##3. [Modelo de Amenazas STRIDE](https://www.datasunrise.com/es/centro-de-conocimiento/modelo-de-amenazas-stride/)
