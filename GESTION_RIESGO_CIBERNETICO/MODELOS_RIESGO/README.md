@@ -124,6 +124,42 @@ Este ejercicio permitirá desarrollar habilidades en:
 * Diseño de soluciones de seguridad
 * Aplicación de marcos de trabajo de seguridad
 
+**Desarrollo del Taller:**
+
+1. **Formación de equipos:**
+2. **Definición del escenario:** Cada equipo seleccionará un caso práctico de una organización que ha implementado un modelo de trabajo híbrido (por ejemplo, una empresa de tecnología, una institución educativa, etc.).
+3. **Análisis de riesgos:** Utilizando el modelo STRIDE los equipos identificarán las principales vulnerabilidades y amenazas a las que se enfrenta la organización en este nuevo entorno de trabajo.
+4. **Diseño de controles de seguridad:** Los equipos propondrán controles de seguridad técnicos, administrativos y físicos para mitigar los riesgos identificados  (anaexo A 27001).
+5. **Elaboración del informe:** Los equipos elaborarán un informe escrito que incluya:
+   * Introducción
+   * Descripción del escenario
+   * Análisis de riesgos
+   * Diseño de controles de seguridad
+   * Conclusiones y recomendaciones
+   * Referencias bibliográficas
+
+**Condiciones de Entrega:**
+
+* **Formato:** Documento en formato Word o PDF, siguiendo las normas APA 7.
+* **Extensión:** Mínimo 1000 palabras, máximo 2000 palabras.
+* **Fecha de entrega:** [Fecha límite]
+* **Presentación:** Los equipos deberán realizar una presentación oral de 15-20 minutos para exponer sus hallazgos y recomendaciones.
+
+**Rúbrica de Evaluación (Escala del 1 al 5)**
+
+| Criterio | 1 (Insuficiente) | 2 (Suficiente) | 3 (Bueno) | 4 (Muy Bueno) | 5 (Excelente) |
+|---|---|---|---|---|---|
+| Comprensión del tema | No demuestra comprensión | Comprensión básica | Comprensión adecuada | Demuestra un profundo conocimiento | Demuestra un conocimiento experto |
+| Identificación de riesgos | Identifica pocos riesgos | Identifica algunos riesgos relevantes | Identifica la mayoría de los riesgos | Identifica todos los riesgos relevantes y prioriza | Realiza un análisis de riesgos exhaustivo |
+| Diseño de controles | Controles propuestos son poco realistas | Controles propuestos son básicos | Controles propuestos son adecuados | Controles propuestos son sólidos y bien justificados | Controles propuestos son innovadores y altamente efectivos |
+| Calidad del informe | Informe mal estructurado, con errores gramaticales y ortográficos | Informe estructurado, pero con algunos errores | Informe bien estructurado y conciso | Informe muy bien estructurado, con un lenguaje claro y conciso | Informe excepcional, con un análisis profundo y original |
+| Presentación oral | Presentación pobre, falta de claridad | Presentación aceptable, pero con algunas deficiencias | Presentación clara y organizada | Presentación muy buena, con uso efectivo de ayudas visuales | Presentación sobresaliente, con una comunicación clara y persuasiva |
+| Cumplimiento de las normas APA | Numerosas faltas de formato | Algunas faltas de formato | Formato generalmente correcto | Formato correcto, pero con algunas pequeñas inconsistencias | Formato impecable, siguiendo estrictamente las normas APA |
+
+**Consideraciones Adicionales:**
+
+* **Herramientas:** Los estudiantes pueden utilizar herramientas como MindMeister para la creación de mapas mentales, Visio para diagramas de flujo y herramientas de análisis de riesgos para facilitar su trabajo.
+
 
 
 
