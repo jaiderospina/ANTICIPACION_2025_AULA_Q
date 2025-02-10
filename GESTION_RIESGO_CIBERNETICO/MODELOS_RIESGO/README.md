@@ -117,7 +117,7 @@ Tomar un componente (sistema de información, componente de red, etc) considerad
 * Diagramas de arquitectura de seguridad.
 * Políticas de seguridad propuestas.
 
-**Onbejtivo**.
+**ObjEtivo**.
 
 Este ejercicio permitirá desarrollar habilidades en:
 * Análisis de riesgos
