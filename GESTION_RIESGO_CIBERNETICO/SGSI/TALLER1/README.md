@@ -16,3 +16,21 @@
 2. MY JULIAN ANDRES QUINTERO
 3. MY LUIS ALEJANDRO NARANJO
 4. CC EDUARDO ANDRES OTERO
+
+
+
+# **Matríz DAFO Grupo :imp: MOGT**
+
+Grupo **MGOT** Aula "Q".
+
+En realizó el cargue del archivo .xls del análisis de la matríz DAFO realizado en clases. Gracias.
+
+- [X] MY. MARIO GÓMEZ
+- [X] MY. DANIEL TORRES
+- [X] MY. LUIS MILLÁN
+- [X] MY. YEFERSON OBANDO
+
+![Cyber](https://i.gifer.com/origin/91/9152bb748a33392db9312e689ba62e1a_w200.webp) 
+![Cyber](https://i.gifer.com/origin/46/46400cbacaf8eb1b36a89cdcd7da6740_w200.webp)
+![Cyber](https://i.gifer.com/origin/5a/5ab98406cc6c8fbba9ddb014c2bcdb80_w200.webp)
+![Cyber](https://i.gifer.com/origin/ec/ece24da41372e155a576707cf1492f63_w200.webp) 
