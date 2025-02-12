@@ -38,9 +38,9 @@ En realizó el cargue del archivo .xls del análisis de la matríz DAFO realizad
 # :rotating_light::skull: GRUPO STANLEY :skull::rotating_light: 
 
 # **Integrantes**
-## - **Manuel Ricardo Rey Rios**
-## - **Rubén Dario Contreras Caballero**
-## - **Fabian Esteban Cano Jaime**
-## - **Mahecha Virguez Arturo Alexander**
+## - **MY. Manuel Ricardo Rey Rios**
+## - **MY. Mahecha Virguez Arturo Alexander**
+## - **MY. Fabian Esteban Cano Jaime**
+## - **CC. Rubén Dario Contreras Caballero**
 
  
