@@ -34,3 +34,13 @@ En realizó el cargue del archivo .xls del análisis de la matríz DAFO realizad
 ![Cyber](https://i.gifer.com/origin/46/46400cbacaf8eb1b36a89cdcd7da6740_w200.webp)
 ![Cyber](https://i.gifer.com/origin/5a/5ab98406cc6c8fbba9ddb014c2bcdb80_w200.webp)
 ![Cyber](https://i.gifer.com/origin/ec/ece24da41372e155a576707cf1492f63_w200.webp) 
+
+# :rotating_light::skull: GRUPO STANLEY :skull::rotating_light: 
+
+# **Integrantes**
+## - **Manuel Ricardo Rey Rios**
+## - **Rubén Dario Contreras Caballero**
+## - **Fabian Esteban Cano Jaime**
+## - **Mahecha Virguez Arturo Alexander**
+
+ 
