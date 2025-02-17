@@ -209,11 +209,9 @@ La elección del modelo depende del contexto y de los objetivos del análisis de
 
 **En la práctica, es común combinar varios modelos** para obtener una visión más completa de las amenazas y vulnerabilidades. Por ejemplo, se puede utilizar STRIDE para identificar las categorías de amenazas y luego aplicar DREAD para evaluar el riesgo asociado a cada una.
 
-**¿Tienes alguna otra pregunta sobre estos modelos o sobre el análisis de amenazas en general?**
-
 **Ejemplo de aplicación:**
 
-Imagina que estás evaluando la seguridad de una aplicación web. Podrías utilizar STRIDE para identificar posibles amenazas como inyección SQL (tampering), falsificación de solicitudes entre sitios (cross-site request forgery) o denegación de servicio (DoS). Luego, utilizarías DREAD para evaluar el riesgo asociado a cada una de estas amenazas y priorizar las acciones de mitigación.
+Imagine que se está evaluando la seguridad de una aplicación web. Podrías utilizar STRIDE para identificar posibles amenazas como inyección SQL (tampering), falsificación de solicitudes entre sitios (cross-site request forgery) o denegación de servicio (DoS). Luego, emplee DREAD para evaluar el riesgo asociado a cada una de estas amenazas y priorizar las acciones de mitigación.
 
 
 
