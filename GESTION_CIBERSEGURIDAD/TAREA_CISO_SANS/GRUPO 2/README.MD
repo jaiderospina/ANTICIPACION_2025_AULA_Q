@@ -29,7 +29,7 @@ Ley de EE.UU. para la seguridad de la información financiera de empresas públi
 
 Regulaciones para bancos y entidades financieras en EE.UU, Obligan a las instituciones financieras a tener controles de seguridad contra fraudes y ciberataques
 
-[![Image](https://github.com/user-attachments/assets/98a46594-5ca4-4938-8876-2506f123f3ee)](https://static.wixstatic.com/media/b6ea2b_6a49a5e805d546a79e56cf3d733e993e~mv2.png/v1/fill/w_980,h_980,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/b6ea2b_6a49a5e805d546a79e56cf3d733e993e~mv2.png)
+![Image](https://github.com/user-attachments/assets/2d0bf31f-a2af-4a5b-b4db-d19657aa720b)
 
 
 **Cómo funciona (controles preventivos):**
