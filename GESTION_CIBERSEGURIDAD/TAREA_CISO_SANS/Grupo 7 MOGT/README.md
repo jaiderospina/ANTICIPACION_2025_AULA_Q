@@ -1,9 +1,9 @@
-# **CISO :imp: RISK MANAGMENT**
+# **PARTE I. CISO :imp: RISK MANAGMENT**
 ![GRUPO NO. 7 MGOT](https://media.licdn.com/dms/image/v2/D4E12AQGtgZUaecTDtg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1704959664316?e=2147483647&v=beta&t=PovZR5gg6Mznz1sZ-ErCfzXwaOfQl0qAr_ZpUeM_YBM)
 
-Grupo **MGOT** Aula "Q".
+Grupo **MOGT** Aula "Q".
 
-En el siguiente ejercicio se destacarán trece 13 subespecialidades para la gestión del riesgo de un CISO, de acuerdo al poster de SANS Security Leadership
+En el siguiente ejercicio se destacarán las trece 13 subespecialidades para la gestión del riesgo que debe tener un CISO, de acuerdo al poster de SANS Security Leadership
 
 - [X] MY. MARIO GÓMEZ
 - [X] MY. DANIEL TORRES
@@ -51,8 +51,6 @@ _bla bla bla_
 ![Ataque DOS](https://grupogaratu.com/wp-content/uploads/sites/4/2018/08/ataque-dos-ddos-seguridad-empresa-ciberseguridad-e1535478792912.jpg)
 
 ![Cyber](https://i.gifer.com/origin/27/275e201408f92d0486d8b747a9242f8a_w200.webp) 
-
-![GitHub](https://foundations.projectpythia.org/_images/GitHub-logo.png)
 
 ***
 
@@ -155,5 +153,49 @@ ASDF GFDASD
 ### 13.2 REMEDIATION, CYBER INSURANCE
 
 BLA BLA BLA
+
+***
+***
+***
+***
+***
+
+# **PARTE II. BUILDING A SOC :imp: PROS Vs CONS**
+_What do you need to consider when utilizing a
+Managed Security Service Provider (MSSP) vs. building a SOC in-house?_
+![GRUPO NO. 7 MOGT](https://media.licdn.com/dms/image/v2/D4E12AQGtgZUaecTDtg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1704959664316?e=2147483647&v=beta&t=PovZR5gg6Mznz1sZ-ErCfzXwaOfQl0qAr_ZpUeM_YBM)
+
+## 1. OUTSOURCING PROS
+_bla bla bla_
+![Imagen de DNS Spoofing](https://media.giphy.com/media/mwOein9vVjBLO/giphy.gif?response_id=591f21fc082f7139de5a6050) 
+
+• Potential cost savings – building a SOC is expensive
+• Fully trained and qualified staff
+• Experience handling stressful situations
+• Experience handling all types of security events effectively and efficiently
+• Augments existing staff/fills gaps in hiring skills professionals
+• Threat Intelligence – keeps you current on emerging threats
+• Helps you leverage security intelligence across industries
+• Industry information sharing
+• Enables organizations to focus on core tasks
+• Breaks down barriers in organizations where silos exist
+• Enables 24x7x365 requirement
+• Provides SLAs on how service will be provided 
+• Well-defined run book
+
+## 2. OUTSOURCING CONS
+_bla bla bla_
+![Imagen de DNS Spoofing](https://media.giphy.com/media/mwOein9vVjBLO/giphy.gif?response_id=591f21fc082f7139de5a6050) 
+
+• Unfamiliar with organization’s business drivers/industry
+• Limited on depth of service and capabilities
+• Optimizes its systems to scale and services a large volume of customers
+• Large customer base, lacks intimate knowledge
+• Lack of dedicated resources & support for your organization
+• Focused on maximizing profits
+• Lack of specialization, excels at providing standard security services vs. customized
+• Minimal opportunities for correlation unless all data are sent to the MSSP
+• Outsourced threat intelligence has a short lifespan • No incentive to help improve your operations
+• Limited ability to store data
 
 ***
