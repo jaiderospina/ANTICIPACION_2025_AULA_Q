@@ -32,6 +32,8 @@ Se enfoca en la protección de dispositivos y aplicaciones móviles:
 ### **Emerging Technologies (Tecnologías Emergentes)**
 Evalúa los riesgos y medidas de seguridad para nuevas tecnologías que las empresas están adoptando:
 
+  ![Image](https://github.com/user-attachments/assets/feddbc53-3341-41a7-8378-49ce49b62695)
+
 1.	**Internet of Things (IoT)**: Seguridad en dispositivos conectados a internet.
 2.	**Augmented Reality (AR)**: Protección en entornos de realidad aumentada.
 3.	**Virtual Reality (VR)**: Seguridad en entornos de realidad virtual.
