@@ -31,7 +31,7 @@ Regulaciones para bancos y entidades financieras en EE.UU, Obligan a las institu
 
 ![Image](https://github.com/user-attachments/assets/2d0bf31f-a2af-4a5b-b4db-d19657aa720b)
 
-
+![Image](https://github.com/user-attachments/assets/8d008cf0-3f91-4038-bf9f-a936b710603c)
 **Cómo funciona (controles preventivos):**
 
 * **Firewall, IDS/IPS, Proxy Filtering:** Estas son tecnologías de seguridad de red que actúan como barreras. Los firewalls controlan el tráfico de red según reglas predefinidas, los sistemas de detección/prevención de intrusiones (IDS/IPS) identifican y bloquean actividades maliciosas en la red, y los filtros proxy controlan el acceso a sitios web, evitando conexiones a fuentes maliciosas.
