@@ -1,4 +1,4 @@
-# **PARTE I. CISO :imp: RISK MANAGMENT**
+# **PARTE I  -  CISO :imp: RISK MANAGMENT**
 ![GRUPO NO. 7 MGOT](https://goliathsec.com/wp-content/uploads/2023/07/seccybersecurity_risk_management_social-e1691730898844.webp)
 
 Grupo **MOGT** Aula "Q".
@@ -29,23 +29,24 @@ Construye una base para desarrollar un enfoque sólido para la gestión de riesg
 ### 1.2 NIST RFM:
 ![NIST RFM](https://csrc.nist.gov/CSRC/media/Projects/risk-management/images-media/RMF%20Logos/PNG%20Format/NIST%20RMF%20Graphc.png)
 
-Un marco de gestión de riesgos (RMF- Risk Framework Management) es un conjunto de prácticas, procesos y tecnologías que permiten a una organización identificar, evaluar y analizar los riesgos para gestionarlos dentro de su organización.
-Un marco de gestión de riesgos es un elemento fundamental para cualquier programa de cumplimiento sólido y generalmente sigue estos pasos:
-•	Identificar
-•	Evaluar
-•	Analizar
-•	Determinar la tolerancia al riesgo
-•	Implementar controles
-•	Monitorear y actualizar
+Un marco de gestión de riesgos (RMF- Risk Framework Management) es un conjunto de prácticas, procesos y tecnologías que permiten a una organización identificar, evaluar y analizar los riesgos para gestionarlos dentro de su organización. Un marco de gestión de riesgos es un elemento fundamental para cualquier programa de cumplimiento sólido y generalmente sigue estos pasos:
+
+*	Identificar
+*	Evaluar
+*	Analizar
+*	Determinar la tolerancia al riesgo
+*	Implementar controles
+*	Monitorear y actualizar
 
 El Marco de Gestión de Riesgos del Instituto Nacional de Estándares y Tecnología (NIST) establece un enfoque basado en riesgos para la gestión de la seguridad, la privacidad y los riesgos cibernéticos en la cadena de suministro. El Marco de Gestión de Riesgos del NIST consta de los siguientes siete pasos:
-•	Preparar : actividades que preparan el terreno para gestionar los riesgos de seguridad y privacidad
-•	Categorizar: utilizar un análisis de impacto para organizar los sistemas y la información que procesan, almacenan y transmiten
-•	Seleccionar : determinar los controles que protegerán los sistemas y los datos
-•	Implementar : implementar controles y documentar actividades
-•	Evaluar : determinar si los controles implementados funcionan según lo previsto y producen los resultados deseados
-•	Autorizar : que un funcionario superior autorice el funcionamiento del sistema.
-•	Monitorear : revisar los controles para garantizar que sigan mitigando los riesgos según lo previsto
+
+*	Preparar : actividades que preparan el terreno para gestionar los riesgos de seguridad y privacidad
+*	Categorizar: utilizar un análisis de impacto para organizar los sistemas y la información que procesan, almacenan y transmiten
+*	Seleccionar : determinar los controles que protegerán los sistemas y los datos
+*	Implementar : implementar controles y documentar actividades
+*	Evaluar : determinar si los controles implementados funcionan según lo previsto y producen los resultados deseados
+*	Autorizar : que un funcionario superior autorice el funcionamiento del sistema.
+*	Monitorear : revisar los controles para garantizar que sigan mitigando los riesgos según lo previsto
 
 ### 1.3 OCTAVE:
 ![OCTAVE](https://www.securityartwork.es/wp-content/uploads/2012/03/1.jpg)
@@ -60,14 +61,15 @@ El Marco de Gestión de Riesgos del Instituto Nacional de Estándares y Tecnolog
 ![TARA](https://www.consuunt.com/wp-content/uploads/2021/04/TARA-Framework-Template.gif)
 
 El marco TARA es una herramienta que ayuda a evaluar los riesgos y cómo gestionarlos. Para ello, propone clasificar los Riesgos según 2 variables:
-•	La probabilidad de que ocurran estos riesgos.
-•	El impacto que tendrían estos riesgos.
+
+*	La probabilidad de que ocurran estos riesgos.
+*	El impacto que tendrían estos riesgos.
 
 Este modelo define entonces 4 escenarios dependiendo de si estas variables tienen valores Altos o Bajos. Su nombre es un acrónimo de las Estrategias propuestas en cada escenario:
-•	Transferir el riesgo.
-•	Evite el riesgo.
-•	Reducir el riesgo.
-•	Acepte el riesgo.
+*	Transferir el riesgo.
+*	Evite el riesgo.
+*	Reducir el riesgo.
+*	Acepte el riesgo.
 
 ***
 
@@ -110,7 +112,9 @@ PASOS DEL PROCESO BIA
 ## 4. RISK ASSESSMENT PROCESS
 ![rISK ASSM PROC](https://facilitiesmanagementadvisor.blr.com/app/uploads/sites/8/2018/07/FMDA_RiskAssessment.jpg)
 
-Proceso de evaluación de riesgos de ciberseguridad método para identificar, evaluar y priorizar amenazas y vulnerabilidades a los sistemas de información de una organización. Objetivo es mejorar las medidas de seguridad y mitigar los riesgos.
+Proceso de evaluación de riesgos de ciberseguridad método para identificar, evaluar y priorizar amenazas y vulnerabilidades a los sistemas de información de una organización. 
+
+El Objetivo es mejorar las medidas de seguridad y mitigar los riesgos.
 
 
 ***
@@ -130,20 +134,21 @@ Es una estrategia que busca educar a las personas sobre la importancia de la cib
 ***
 
 ## 7. VULNERABILITY MANAGEMENT
-![Vulenr Manag](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/images/ds-what-is-pages/2-What-is-Vulnerability-Mngmt-A.jpg)
+![Vulenr Manag](https://lh4.googleusercontent.com/2RFl9qnrS5jQoZvZn7JRM4ngqHWJ70TOslFCQC1T1A1yQ8xGUDox7P6WQYT-zLakY3ibMkb7B_JtWLfuouBprohEgvgFUxK3-Rstf762EUUhHnJ6mfm_mXNki4pJ3ulGclCaWe9Z)
 
 Proceso de encontrar, clasificar, corregir y reportar vulnerabilidades. A menudo, las vulnerabilidades se solucionan mediante la aplicación de actualizaciones.
 
 ***
 
 ## 8. VENDOR RISK MANAGEMENT
-![Vendor risk msgsm](https://www.incibe.es/sites/default/files/blog/2024_PTE/13.02.24_Decálogo_empresas/INCIBE_decálogo_ciberseguridad_empresas.png) 
+![Vendor risk msgsm](https://ciberseguridad.comillas.edu/content/images/size/w2000/2023/03/Analisis-de-Riesgos-1.png) 
 
 La gestión de riesgos de proveedores en ciberseguridad es el proceso de identificar, evaluar y reducir los riesgos de seguridad de los proveedores externos para Garantizar la calidad, la seguridad y la disponibilidad de los recursos y servicios vitales para el éxito empresarial.
 
+***
 
 ## 9. PHYSICAL SECURITY
-![Physical Sectyu](https://www.incibe.es/sites/default/files/blog/Seguridad_fisica_logica/circulo_esp.png)
+![Physical Sectyu](https://fastercapital.com/es/i-es/Seguridad-fisica--la-sinergia-del-PIC-y-las-medidas-de-seguridad-fisica--La-sinergia-de-las-medidas-de-seguridad-f-sica-y-CIP.webp)
 
 Protección instalaciones, hardware, software, redes y datos frente a acciones y eventos físicos que pueden causar pérdidas o daños graves a una empresa, organismo o institución.
 
@@ -181,15 +186,12 @@ En qué consiste?
 Consiste en identificar las actividades prioritarias, y el impacto que su paralización podría tener, para poder decidir qué estrategia seguir en caso de que esos riesgos se materialicen.
 Lo que buscan las políticas de continuidad de negocio es reducir esta paralización y ofrecer un nivel de producción mínimo de cara a mitigar algunas de las consecuencias que se agravan con el tiempo.
 
- 
- 
-Principales normas:
--ISO 22301:2020 y su familia.
+Principales normas: ISO 22301:2020 y su familia.
 
 ***
 
 ## 12. POLICIES AND PROCEDURES
-![Polis an Prcod](https://www.incibe.es/sites/default/files/blog/GRC/BLOG_GRC_v2.png)
+![Polis an Prcod](https://web-material3.yokogawa.com/1/30035/overview/pp.png)
 
 Políticas y Procedimientos en la Gestión de Riesgos en Ciberseguridad
 
@@ -207,7 +209,6 @@ Componentes:
 6.	Política de Respaldo y Recuperación ante Desastres
 7.	Política de Protección de Datos
 8.	Política de Concienciación en Seguridad
-
 
 ***
 
@@ -228,23 +229,19 @@ Definición: Corrección y eliminación de vulnerabilidades que representan un r
 4. Cyber Insurance (Seguro Cibernético)
 Definición: Transferencia del riesgo financiero a una aseguradora para cubrir costos asociados a incidentes de ciberseguridad.
 
-
-BLA BLA BLA
-
 ***
 ***
 ***
 ***
 ***
 
-# **PARTE II. BUILDING A SOC :imp: PROS Vs CONS**
+# **PARTE II.  BUILDING A SOC - PROS Vs CONS**
 _What do you need to consider when utilizing a
 Managed Security Service Provider (MSSP) vs. building a SOC in-house?_
-![GRUPO NO. 7 MOGT](https://media.licdn.com/dms/image/v2/D4E12AQGtgZUaecTDtg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1704959664316?e=2147483647&v=beta&t=PovZR5gg6Mznz1sZ-ErCfzXwaOfQl0qAr_ZpUeM_YBM)
+
+![parte 2 building a SOC](https://www.nxtkey.com/wp-content/uploads/2020/04/NXTKey-SOC-800x445.jpg)
 
 ## 1. OUTSOURCING PROS
-_bla bla bla_
-![Imagen de DNS Spoofing](https://media.giphy.com/media/mwOein9vVjBLO/giphy.gif?response_id=591f21fc082f7139de5a6050) 
 
 * Potential cost savings – building a SOC is expensive.
 * Fully trained and qualified staff.
@@ -261,7 +258,6 @@ _bla bla bla_
 * Well-defined run book.
 
 ## 2. OUTSOURCING CONS
-_bla bla bla_
 ![Imagen de DNS Spoofing](https://media.giphy.com/media/mwOein9vVjBLO/giphy.gif?response_id=591f21fc082f7139de5a6050) 
 
 * Unfamiliar with organization’s business drivers/industry
@@ -275,6 +271,5 @@ _bla bla bla_
 * Outsourced threat intelligence has a short lifespan • No incentive to help improve your operations
 • Limited ability to store data
 
-
-### :imp::imp::imp::imp::imp: best Master...............
+### :imp::imp::imp::imp::imp: best Cyber's Master...............
 ***
