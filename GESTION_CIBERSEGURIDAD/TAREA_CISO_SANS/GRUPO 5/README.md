@@ -56,8 +56,115 @@ Estas habilidades abarcan diversas áreas clave para el liderazgo efectivo en en
 <tbody>
 <th> Planificación estratégica </th>
 <th> Diseño de acciones para cumplir objetivos.</th>
-<th> Establecer planes de seguridad a largo plazo..</th>
-
+<th> Establecer planes de seguridad a largo plazo.</th>
+</tr>
+</thead>
+<tbody>
+<th> Liderazgo técnico </th>
+<th> Capacidad para dirigir equipos especializados.</th>
+<th> Guiar equipos en la implementación de seguridad.</th>
+</tr>
+</thead>
+<tbody>
+<th> Consultoría en seguridad </th>
+<th> Asesoría en riesgos y soluciones de seguridad.</th>
+<th> Asesorar sobre riesgos emergentes.</th>
+</tr>
+</thead>
+<tbody>
+<th> Gestión de partes interesadas </th>
+<th> Coordinación con actores clave en la empresa.</th>
+<th> Coordinar con directivos y proveedores claves.</th>
+</tr>
+</thead>
+<tbody>
+<th> Negociaciones </th>
+<th> Proceso para obtener acuerdos favorables.</th>
+<th> Obtener recursos y acuerdos de seguridad adecuados.</th>
+</tr>
+</thead>
+<tbody>
+<th> Misión y visión </th>
+<th> Propósito y proyección a futuro.</th>
+<th> Definir el rol de la seguridad en la organización.</th>
+</tr>
+</thead>
+<tbody>
+<th> Valores y cultura </th>
+<th> Principios que rigen el ambiente organizacional.</th>
+<th> Fomentar una cultura organizacional de ciberseguridad.</th>
+</tr>
+</thead>
+<tbody>
+<th> Desarrollo de hoja de ruta </th>
+<th> Plan detallado con pasos específicos.</th>
+<th> Establecer pasos concretos para la seguridad.</th>
+</tr>
+</thead>
+<tbody>
+<th> Desarrollo de casos de negocio </th>
+<th> Justificación financiera de proyectos.</th>
+<th> Justificar proyectos de seguridad ante la dirección.</th>
+</tr>
+</thead>
+<tbody>
+<th> Gestión de proyectos </th>
+<th> Planificación y ejecución de iniciativas.</th>
+<th> Garantizar la ejecución eficiente de estrategias.</th>
+</tr>
+</thead>
+<tbody>
+<th> Desarrollo de empleados </th>
+<th> Formación y crecimiento del talento humano.</th>
+<th> Capacitar y retener talento en seguridad.</th>
+</tr>
+</thead>
+<tbody>
+<th> Desarrollo de empleados </th>
+<th> Formación y crecimiento del talento humano.</th>
+<th> Capacitar y retener talento en seguridad.</th>
+</tr>
+</thead>
+<tbody>
+<th> Planificación financiera </th>
+<th> Organización de recursos económicos.</th>
+<th> Optimizar la inversión en ciberseguridad.</th>
+</tr>
+</thead>
+<tbody>
+<th> Presupuesto </th>
+<th> Asignación de fondos y costos.</th>
+<th> Asignar recursos estratégicamente.</th>
+</tr>
+</thead>
+<tbody>
+<th> Innovación </th>
+<th> Aplicación de nuevas ideas y tecnologías.</th>
+<th> Adaptarse a nuevas amenazas y tecnologías.</th>
+</tr>
+</thead>
+<tbody>
+<th> Mercadeo </th>
+<th> Promoción de productos y servicios.</th>
+<th> Posicionar la seguridad como ventaja competitiva.</th>
+</tr>
+</thead>
+<tbody>
+<th> Liderar el cambio </th>
+<th> Implementación de nuevas estrategias.</th>
+<th> Implementar nuevas políticas sin fricción.</th>
+</tr>
+</thead>
+<tbody>
+<th> Relaciones con clientes </th>
+<th> Gestión de la experiencia del cliente.</th>
+<th> Fortalecer la confianza con medidas de seguridad.</th>
+</tr>
+</thead>
+<tbody>
+<th> Trabajo en equipo </th>
+<th> Colaboración para alcanzar metas.</th>
+<th> Colaborar con todas las áreas de la empresa.</th>
 
 
 </p>
