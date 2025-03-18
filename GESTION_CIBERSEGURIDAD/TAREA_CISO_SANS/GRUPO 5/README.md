@@ -31,7 +31,12 @@ Estas habilidades abarcan diversas áreas clave para el liderazgo efectivo en en
 <th> Conocimiento de la industria (MITM)</th>
 <th> Entender tendencias, regulaciones y riesgos.</th>
 <th> Anticipar amenazas y regulaciones del sector. (XSS)</th>
-
+</tr>
+</thead>
+<tbody>
+<th> Perspicacia empresarial (MITM)</th>
+<th> Habilidad para tomar decisiones estratégicas.</th>
+<th> Equilibrar seguridad con rentabilidad y crecimiento. (XSS)</th>
 
 # <p align="center"> SOC - COMMAND CENTER </p>
 El Command Center es un componente clave dentro del Security Operations Center (SOC) y tiene un rol esencial en la gestión y coordinación de incidentes de seguridad.
