@@ -52,6 +52,21 @@ Soporte tecnico, aplicacion de la ley, el publico. </p>
 ## 1. Soporte tecnico:
 Centraliza la comunicación durante incidentes críticos, incluyendo manejo de crisis y coordinación con stakeholders externos (por ejemplo, entes regulatorios, clientes, proveedores, autoridades).</p>
 
+a.	Primer Punto de Contacto:
+•	Los usuarios finales (empleados, clientes, proveedores) y el Help Desk (mesa de ayuda) actúan como la primera línea de defensa.
+•	Son los que normalmente notan y reportan comportamientos anómalos como: Problemas de acceso (indicativo de ataques a cuentas), correos sospechosos (phishing, malware), rendimiento inusual de sistemas (posible malware, DDoS, etc.).
+
+b.	Reporte de Incidentes:
+•	El Help Desk recopila la información básica y, si identifica un posible problema de seguridad, escalan el caso al SOC.
+•	Este flujo permite una detección temprana y respuesta rápida.
+
+c.	Integración en el Proceso de Respuesta a Incidentes:
+•	Informa a los usuarios sobre los pasos a seguir durante incidentes (cambio de contraseñas, desconexión de dispositivos, etc.).
+•	Actúa como intermediario entre el SOC y los usuarios afectados.
+
+d.	Soporte Continuo y Concienciación:
+•	Además de soporte técnico, ayudan a educar a los usuarios sobre buenas prácticas de seguridad (parte de los programas de awareness).
+
 ## 2. Aplicacion de la ley:
 El término Law Enforcement (Aplicación de la Ley o Autoridades Policiales) aparece como una parte clave dentro de las funciones del Security Operations Center (SOC), específicamente relacionado con la gestión de incidentes y respuesta a eventos de seguridad graves.</p>
 a.	Reporte de Actividad Ilegal:
