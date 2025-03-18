@@ -54,6 +54,8 @@ Proceso de obtención de datos de diversas fuentes públicas para identificar po
 ### Retain Adversary Characteristics (Retener Características del Adversario)
 Proceso de almacenar y analizar patrones, tácticas, técnicas y procedimientos (TTPs) utilizados por los atacantes para mejorar la detección y prevención de futuras amenazas.
 
+![Image](https://github.com/user-attachments/assets/11752e71-6156-43c1-a0f6-50afdb38f1ab)
+
 ### Attribution Info (Información de Atribución)
 Datos utilizados para identificar y caracterizar actores de amenazas cibernéticas. Esto puede incluir información sobre su origen, motivaciones, herramientas utilizadas y posibles vínculos con grupos organizados o estatales.
 
