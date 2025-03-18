@@ -125,7 +125,7 @@ Las ciberamenazas se presentan de diversas formas, desde infecciones de malware 
 * **Ataques de denegación de servicio (DoS)**
 •	Sobrecargar los sistemas para interrumpir las operaciones normales.
 
-### 3. Componentes de un plan de respuesta a incidentes eficaz
+### 4. Componentes de un plan de respuesta a incidentes eficaz
 
 Un plan de respuesta a incidentes eficaz contiene pasos claramente definidos que guían a la organización en la identificación, contención, erradicación y recuperación. Establecer un enfoque estructurado permite a los equipos de seguridad mitigar las amenazas y, al mismo tiempo, mejorar continuamente sus capacidades.
 Un plan de respuesta a incidentes eficaz consta de varios componentes clave:
@@ -159,5 +159,8 @@ Un plan de respuesta a incidentes eficaz consta de varios componentes clave:
 •	Realizar revisiones posteriores a los incidentes para identificar áreas de mejora y documentar qué salió bien y qué se podría mejorar para futuras respuestas.
 •	Actualizar políticas, procedimientos, planes de comunicación y tecnologías en función de los conocimientos adquiridos.
 
+### 5. Respuesta a incidentes (Incident Response) dentro de un Centro de Operaciones de Seguridad (SOC)
+
 ![Image](https://github.com/user-attachments/assets/3bc1c7b9-7833-445b-9403-39d01b4b3d71)
 
+Esta imagen representa un diagrama de respuesta a incidentes en ciberseguridad, donde se muestra cómo la función de **Incident Response** interactúa con diferentes áreas de una organización, incluyendo unidades de negocio, comité directivo, gestión, sistemas internos y externos. También menciona procesos clave como contención de activos, eliminación de problemas y retorno al servicio dentro del contexto de un **SOC** (Security Operations Center).
