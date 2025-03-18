@@ -143,14 +143,37 @@ Proceso de encontrar, clasificar, corregir y reportar vulnerabilidades. A menudo
 ## 8. VENDOR RISK MANAGEMENT
 ![Vendor risk msgsm](https://ciberseguridad.comillas.edu/content/images/size/w2000/2023/03/Analisis-de-Riesgos-1.png) 
 
-La gestión de riesgos de proveedores en ciberseguridad es el proceso de identificar, evaluar y reducir los riesgos de seguridad de los proveedores externos para Garantizar la calidad, la seguridad y la disponibilidad de los recursos y servicios vitales para el éxito empresarial.
+El propósito es identificar, evaluar, y gestionar los riesgos de los proveedores de una organización. Este proceso se realiza en cada etapa del ciclo de vida del proveedor, desde su incorporación hasta su baja. 
+
+Etapas de la gestión de riesgos de proveedores son:
+
+*	Identificar y registrar a todos los proveedores actuales y potenciales
+*	Evaluar y seleccionar a los proveedores
+*	Negociar y formalizar los contratos
+*	Establecer controles para mitigar los riesgos
+*	Establecer procedimientos de monitoreo
+*	Establecer planes de contingencia
+
+Beneficios de la gestión de riesgos de proveedores son:
+
+*	Evitar interrupciones operativas
+*	Evitar pérdidas financieras
+*	Evitar daños a la reputación
+*	Garantizar la calidad, la seguridad y la disponibilidad de los recursos y servicios
 
 ***
 
 ## 9. PHYSICAL SECURITY
 ![Physical Sectyu](https://fastercapital.com/es/i-es/Seguridad-fisica--la-sinergia-del-PIC-y-las-medidas-de-seguridad-fisica--La-sinergia-de-las-medidas-de-seguridad-f-sica-y-CIP.webp)
 
-Protección instalaciones, hardware, software, redes y datos frente a acciones y eventos físicos que pueden causar pérdidas o daños graves a una empresa, organismo o institución.
+Protección a instalaciones físicas, hardware, software, redes y datos frente a acciones y eventos físicos que pueden causar pérdidas o daños graves a una empresa, organismo o institución.
+
+Los objetivos son:
+
+*	Prevenir, dificultar o limitar los resultados de posibles acciones dañinas.
+*	Proteger a los sistemas cibernéticos de daños físicos causados por catástrofes naturales.
+*	Organizaciones pueden fusionar la ciberseguridad y la seguridad física adoptando políticas de seguridad compartidas.
+*	Utilizar tecnología que integre el monitoreo y la gestión de amenazas físicas y cibernéticas.
 
 ***
 
