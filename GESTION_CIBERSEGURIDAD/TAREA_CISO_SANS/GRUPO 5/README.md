@@ -1,6 +1,6 @@
 # <p align="center"> LEADERSHIP SKILLS </p>
 
-<h2 style="color: blue; text-align: center;">Integrantes Grupo 5</h2>
+**<p align="center">INTEGRANTES GRUPO 5</p>**
 
 **<p align="center"> MY. CARLOS AUGUSTO URIBE VERGARA -- CC. DANNY LEOMAR SÁNCHEZ ROPERO -- CC. JOSÉ JOHAN MARTÍNEZ ROJAS</p>**
 
@@ -156,34 +156,93 @@ Estas habilidades abarcan diversas áreas clave para el liderazgo efectivo en en
   La combinación de liderazgo, visión estratégica y conocimiento técnico permite gestionar riesgos, 
   comunicar prioridades y fortalecer una cultura de seguridad.</p>**
 
+-------
 # <p align="center"> SOC - COMMAND CENTER </p>
 El Command Center es un componente clave dentro del Security Operations Center (SOC) y tiene un rol esencial en la gestión y coordinación de incidentes de seguridad.
-</p>
+
 El Command Center actúa como el cerebro operativo durante las operaciones de seguridad y, sobre todo, en la respuesta a incidentes.
 Se subdivide o se representa a traves de tres lineas:
 </p>
 Soporte tecnico, aplicacion de la ley, el publico. </p>
-<p align="center">
-  <img src="IMAGES/C2.png">
-</p>
 
-## 1. Soporte tecnico:
-Centraliza la comunicación durante incidentes críticos, incluyendo manejo de crisis y coordinación con stakeholders externos (por ejemplo, entes regulatorios, clientes, proveedores, autoridades).</p>
+<table align="center" border="1">
+  <tr>
+    <th>COMMAND CENTER</th>
+      </tr>
+  <tr>
+    <td align="center">
+      <img src="IMAGES/C2.png" width="700">
+    </td>
+      </tr>
+</table>
 
-**a.	Primer Punto de Contacto:**
-•	Los usuarios finales (empleados, clientes, proveedores) y el Help Desk (mesa de ayuda) actúan como la primera línea de defensa.
-•	Son los que normalmente notan y reportan comportamientos anómalos como: Problemas de acceso (indicativo de ataques a cuentas), correos sospechosos (phishing, malware), rendimiento inusual de sistemas (posible malware, DDoS, etc.).
+<table border="1" style="width:100%; border-collapse: collapse; text-align: left; font-family: Arial, sans-serif;">
+  <thead>
+    <tr style="background-color: #f2f2f2; text-align: center; font-weight: bold;">
+      <th style="padding: 12px; width: 25%;">SECCIÖN</th>
+      <th style="padding: 12px; width: 75%;">DESCRIPCIÓN</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="font-weight: bold; padding: 12px; background-color: #e6f7ff;">Soporte Técnico</td>
+      <td style="padding: 12px;">
+        Es el primer nivel de respuesta ante incidentes críticos. Su función principal es gestionar la comunicación con stakeholders clave, como entes regulatorios, clientes, proveedores y autoridades.
+      </td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; padding: 12px; background-color: #e6f7ff;">Primer Punto de Contacto</td>
+      <td style="padding: 12px;">
+        <ul>
+          <li><strong>Usuarios finales:</strong> Empleados, clientes y proveedores detectan irregularidades.</li>
+          <li><strong>Help Desk:</strong> Actúa como primera línea de defensa y registra incidentes.</li>
+          <li><strong>Posibles amenazas:</strong>
+            <ul>
+              <li>Problemas de acceso (posibles ataques a cuentas).</li>
+              <li>Correos sospechosos (phishing, malware).</li>
+              <li>Rendimiento anómalo de sistemas (posible malware, DDoS).</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; padding: 12px; background-color: #e6f7ff;">Reporte de Incidentes</td>
+      <td style="padding: 12px;">
+        <ul>
+          <li>El <strong>Help Desk</strong> recopila la información inicial del incidente.</li>
+          <li>Si se detecta un problema de seguridad, el caso es escalado al <strong>SOC</strong>.</li>
+          <li>Este flujo permite una <strong>detección temprana y respuesta rápida</strong>.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; padding: 12px; background-color: #e6f7ff;">Integración en la Respuesta a Incidentes</td>
+      <td style="padding: 12px;">
+        <ul>
+          <li>Se informa a los usuarios sobre pasos clave durante un incidente:
+            <ul>
+              <li>Cambio inmediato de contraseñas.</li>
+              <li>Desconexión de dispositivos comprometidos.</li>
+            </ul>
+          </li>
+          <li>Funciona como intermediario entre el <strong>SOC</strong> y los usuarios afectados.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; padding: 12px; background-color: #e6f7ff;">Soporte Continuo y Concienciación</td>
+      <td style="padding: 12px;">
+        <ul>
+          <li>El equipo de soporte <strong>educa a los usuarios</strong> sobre buenas prácticas de seguridad.</li>
+          <li>Participa en programas de <strong>awareness</strong> para reforzar la cultura de ciberseguridad.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-**b.	Reporte de Incidentes:**
-•	El Help Desk recopila la información básica y, si identifica un posible problema de seguridad, escalan el caso al SOC.
-•	Este flujo permite una detección temprana y respuesta rápida.
 
-**c.	Integración en el Proceso de Respuesta a Incidentes:**
-•	Informa a los usuarios sobre los pasos a seguir durante incidentes (cambio de contraseñas, desconexión de dispositivos, etc.).
-•	Actúa como intermediario entre el SOC y los usuarios afectados.
-
-**d.	Soporte Continuo y Concienciación:**
-•	Además de soporte técnico, ayudan a educar a los usuarios sobre buenas prácticas de seguridad (parte de los programas de awareness).
 
 ## 2. Aplicacion de la ley:
 El término Law Enforcement (Aplicación de la Ley o Autoridades Policiales) aparece como una parte clave dentro de las funciones del Security Operations Center (SOC), específicamente relacionado con la gestión de incidentes y respuesta a eventos de seguridad graves.</p>
