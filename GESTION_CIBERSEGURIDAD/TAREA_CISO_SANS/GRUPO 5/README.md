@@ -19,10 +19,10 @@ Estas habilidades abarcan diversas áreas clave para el liderazgo efectivo en en
 <th> HABILIDAD</th>
 <th>DEFINICIÓN</th>
 <th>IMPORTANCIA PARA UN CISO (DoS)</th>
-<th>Estrategia empresarial (MITM)</th>
 </tr>
 </thead>
 <tbody>
+<th>Estrategia empresarial (MITM)</th>
 <th> Plan para alcanzar objetivos organizacionales.</th>
 <th> Alinear ciberseguridad con los objetivos de negocio. (XSS)</th>
 
