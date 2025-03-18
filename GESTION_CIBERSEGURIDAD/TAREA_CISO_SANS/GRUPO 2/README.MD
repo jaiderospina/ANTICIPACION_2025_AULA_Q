@@ -8,7 +8,7 @@
 
 --------------------------
 
-## Operaciones de Seguridad
+## INTRODUCCION
 
 Según el póster, la sección de "Security Operations" (Operaciones de Seguridad) dentro del "CISO Mind Map" (Mapa Mental del CISO) abarca una serie de puntos interconectados que son cruciales para mantener la seguridad de una organización. A continuación, se detalla qué son y cómo funcionan estos puntos, según la información proporcionada:
 
