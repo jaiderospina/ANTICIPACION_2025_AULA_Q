@@ -60,11 +60,12 @@ Proceso de supervisar y gestionar las configuraciones de sistemas y redes para d
 
 Establecer un punto de referencia para la configuración del sistema y sus componentes. Esto implica documentar la configuración actual y aceptable de los recursos IT, para poder identificar cualquier desviación futura que pueda indicar un problema de seguridad.
 
-Identificar cambios de configuracion
+### ***Identificar cambios de configuracion***
 
 La práctica de revisar y supervisar las configuraciones de los sistemas y redes para detectar cualquier modificación. Esta actividad es crucial para la seguridad, ya que los cambios no autorizados pueden ser indicativos de un ataque o de una violación de la política de seguridad.
 
-Mantener sistemas
+### ***Mantener sistemas***
+
 Consiste en asegurar que los sistemas estén al día, aplicando actualizaciones necesarias y configuraciones de seguridad para proteger los activos organizacionales. Esto incluye la gestión de parches, actualizaciones de software y la revisión de configuraciones para garantizar que sigan alineadas con las políticas de seguridad.
 
 
@@ -74,16 +75,20 @@ Consiste en asegurar que los sistemas estén al día, aplicando actualizaciones 
 
 Evaluación de seguridad que simula un ataque real en un sistema para identificar vulnerabilidades. Propósito: Probar la efectividad de las defensas de seguridad y ayudar a fortalecer los sistemas contra ataques reales.
 
-Escenario modelo de atacantes
+### ***Escenario modelo de atacantes***
+
 El desarrollo de un escenario que simula las tácticas, técnicas y procedimientos (TTP) que un atacante real podría usar para comprometer un sistema. Esto ayuda a preparar a los defensores mediante la identificación de debilidades en la seguridad.
 
-Sistema de explotacion
+### ***Sistema de explotacion***
+
 Se refiere a la fase en la que se utilizan técnicas específicas para explotar las vulnerabilidades identificadas en un sistema durante una prueba de penetración, con el objetivo de determinar el nivel de acceso que puede obtener un atacante.
 
-Reconocimiento, inteligencia organizacional
+### ***Reconocimiento, inteligencia organizacional***
+
 La recopilación de información sobre la organización y sus sistemas para identificar posibles vectores de ataque. Esto puede incluir la pesquisa de infraestructura tecnológica, personal, procedimientos administrativos y cualquier dato que pueda ayudar a los atacantes.
 
-Desconfliccion
+### ***Desconfliccion***
+
 Se refiere a la actividad de resolver conflictos de interés sobre la ejecución de pruebas de penetración y su impacto potencial en los sistemas y operaciones de la organización. Esto implica coordinar esfuerzos para asegurar que las pruebas no interrumpan el funcionamiento normal del negocio.
 
 ## EVALUACION DE LA VULNERABILIDAD
@@ -92,13 +97,16 @@ Se refiere a la actividad de resolver conflictos de interés sobre la ejecución
 
 Proceso que identifica y analiza vulnerabilidades en sistemas y redes. Propósito: Determinar el riesgo y exponer debilidades para priorizar acciones correctivas y proteger infraestructuras críticas.
 
-Identificar el riesgo y la exposición
+### ***Identificar el riesgo y la exposición***
+
 Se trata de detectar amenazas y vulnerabilidades en los sistemas que puedan ser aprovechadas y evaluar las posibles consecuencias de dichas brechas en la seguridad, considerando el rol crítico de los activos involucrados.
 
-Escanear sistemas en busca de vulnerabilidades conocidas
+### ***Escanear sistemas en busca de vulnerabilidades conocidas***
+
 La práctica de realizar escaneos automáticos en los sistemas para detectar vulnerabilidades que sean reconocidas y documentadas públicamente. Esto ayuda a identificar áreas que necesiten atención para mitigar riesgos.
 
-Impacto de nuevas vulnerabilidades
+### ***Impacto de nuevas vulnerabilidades***
+
 Evaluar y analizar cómo las nuevas vulnerabilidades descubiertas pueden afectar la organización en términos de riesgo, exposición y posibles daños. Esto implica priorizar la remediación de dichas vulnerabilidades en función de su gravedad y el contexto organizacional.
 
 ## EJERCICIOS 
@@ -107,13 +115,16 @@ Evaluar y analizar cómo las nuevas vulnerabilidades descubiertas pueden afectar
 
 Simulaciones estructuradas, como escenarios de mesa, diseñadas para practicar la respuesta a incidentes de seguridad. Propósito: Mejorar la preparación y respuesta del personal ante situaciones de amenaza reales y asegurar que los planes de respuesta sean efectivos.
 
-Escenarios de mesa
+### ***Escenarios de mesa***
+
 Actividades de simulación que permiten a los equipos discutir y trabajar a través de situaciones hipotéticas de incidentes de seguridad para evaluar planes de respuesta y la efectividad de los procesos existentes.
 
-Amenazas y eventos modelos
+### ***Amenazas y eventos modelos***
+
 Construcción de ejercicios que simulan amenazas específicas y posibles eventos de seguridad para ayudar a los equipos de seguridad a prepararse para incidentes reales, mejorando su capacidad de respuesta y sus estrategias de mitigación.
 
-Capacitacion y evaluacion del personal
+### ***Capacitacion y evaluacion del personal***
+
 Procesos en los que se entrena a los empleados sobre procedimientos de seguridad y se evalúa su comprensión y preparación frente a amenazas cibernéticas. Esto es fundamental para fortalecer la cultura de seguridad y asegurar que todos estén alineados con las políticas y procedimientos establecidos.
 
 Es un proceso fundamental que permite a las organizaciones medir su nivel de preparación y madurez en la gestión y respuesta a riesgos de seguridad. Las empresas pueden identificar áreas de mejora, fortalecer sus defensas y fomentar una cultura de seguridad proactiva. Este enfoque no solo ayuda a mitigar posibles amenazas, sino que también garantiza que el personal esté capacitado y alineado con las mejores prácticas de seguridad. Al implementar un programa efectivo de autoevaluación, las organizaciones pueden mejorar continuamente su postura de seguridad y responder de manera más efectiva a los desafíos que plantea el entorno digital actual.
