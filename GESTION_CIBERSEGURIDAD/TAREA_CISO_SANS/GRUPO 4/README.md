@@ -2,14 +2,15 @@
 ![titulo del tema del primer slash](https://github.com/user-attachments/assets/cb0385c2-fa5b-4316-b258-b67d96e51daf)
 
 ## GESTION DE IDENTIDAD Y ACCESO
-
 Se refiere a las políticas, tecnologías y prácticas que aseguran que las personas adecuadas tengan acceso a los recursos adecuados en el momento adecuado y por las razones correctas.
 
-Aprovisionamiento / Desaprovisionamiento
+***Aprovisionamiento / Desaprovisionamiento***
+![tema 1 Provissioning](https://github.com/user-attachments/assets/271246bc-a26d-4197-8682-3bf937915f18)
+
 Provisioning: Es el proceso de crear, configurar y habilitar cuentas de usuario dentro de un sistema o aplicación. Esto implica asignar roles y permisos específicos a los usuarios para que puedan acceder a los recursos necesarios. 
 Deprovisioning: Es el proceso de eliminar o desactivar cuentas de usuario que ya no son necesarias, lo que ayuda a prevenir accesos no autorizados después de que un empleado deja la organización o cambia de rol.
 
-Inicio de sesion único (SSO)
+***Inicio de sesion único (SSO)***
 SSO es un sistema que permite a un usuario acceder a múltiples aplicaciones y servicios con una sola sesión de inicio. Los usuarios ingresan sus credenciales una sola vez y obtienen acceso a todas las aplicaciones autorizadas sin necesidad de volver a ingresar sus credenciales.
 
 Inicio de sesión único federado (FSSO)
