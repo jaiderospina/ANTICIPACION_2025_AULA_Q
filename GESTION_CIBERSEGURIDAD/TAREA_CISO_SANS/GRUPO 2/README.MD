@@ -13,9 +13,6 @@
 
 En un mundo digital lleno de amenazas y regulaciones, el CISO (Chief Information Security Officer) tiene la tarea de proteger la información y garantizar que las empresas cumplan con las normativas. Este documento resume los principales estándares de seguridad, leyes de privacidad y auditorías que deben seguirse para evitar sanciones y riesgos legales. Desde proteger datos financieros y médicos hasta garantizar la seguridad en bancos y empresas tecnológicas, el cumplimiento normativo es clave para operar con confianza en el mundo digital.
 
-![enter image description here]([enter link description here](https://www.google.com/url?sa=i&url=https://pii-tools.com/the-basics-of-the-pci-what-makes-it-different/&psig=AOvVaw0Jvo2kQBKqetZolqF1Os2B&ust=1742417528476000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOj5h6vBlIwDFQAAAAAdAAAAABAJ))
-***
-
 ### 1.PCI: (Payment Card Industry Data Security Standard) 
 
 Es un estándar de seguridad contractual impuesto por las principales marcas de tarjetas de pago, Obliga a bancos, tiendas y empresas que procesan pagos a proteger los datos de clientes.
