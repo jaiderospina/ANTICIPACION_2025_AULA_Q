@@ -38,6 +38,7 @@ Evalúa los riesgos y medidas de seguridad para nuevas tecnologías que las empr
 2.	**Augmented Reality (AR)**: Protección en entornos de realidad aumentada.
 3.	**Virtual Reality (VR)**: Seguridad en entornos de realidad virtual.
 ### **Mergers and Acquisitions (Fusiones y Adquisiciones)**
+![Image](https://github.com/user-attachments/assets/fb79881b-9bb1-40a7-9427-fea059d8ceb8)
 Analiza el riesgo en procesos de compra o fusión de empresas:
 
 1.	**Security Due Diligence**: Evaluación de la seguridad de la empresa objetivo antes de una adquisición.
