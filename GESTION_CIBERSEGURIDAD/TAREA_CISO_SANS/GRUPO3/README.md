@@ -78,5 +78,7 @@ Son los registros y datos generados dentro de una organización, como logs de se
 ### Collect Internal Adversary Info / Threat Hunting (Recopilar Información Interna del Adversario / Caza de Amenazas)
 La caza de amenazas (Threat Hunting) es una estrategia proactiva en la que los analistas de seguridad buscan signos de actividad maliciosa dentro de la red organizacional antes de que una alerta tradicional lo detecte.
 
+![Image](https://github.com/user-attachments/assets/4a1ecb1b-2eeb-454c-b9d6-4bcd10e08c08)
+
 ### Correlate Events to Threat Actors (Correlacionar Eventos con Actores de Amenaza)
 Proceso de análisis en el que se asocian incidentes de seguridad con actores maliciosos conocidos, utilizando técnicas de inteligencia para entender el alcance y la intención del ataque.
