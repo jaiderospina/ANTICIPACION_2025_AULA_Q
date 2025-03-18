@@ -4,4 +4,4 @@
 ##  **Garnica Torres Miguel**
 ##  **Rincon Soloano Ruben**
 
-# :rotating_light::skull:LEGAL AND REGULATORY  :skull::rotating_light: 
+# **LEGAL AND REGULATORY** 
