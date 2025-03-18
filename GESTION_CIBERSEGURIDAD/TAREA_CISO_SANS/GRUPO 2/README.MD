@@ -2,6 +2,6 @@
 ##  **Jhon Alexander Vargas**
 ##  **Gomez Guzman Victor**
 ##  **Garnica Torres Miguel**
-##  **Rincon Soloano Ruben**
+##  **Rincon Solano Ruben**
 
 # **LEGAL AND REGULATORY** 
