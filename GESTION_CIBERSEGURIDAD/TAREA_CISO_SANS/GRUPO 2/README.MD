@@ -19,6 +19,15 @@ Es un estándar de seguridad contractual impuesto por las principales marcas de 
 
 ![Image](https://github.com/user-attachments/assets/914dd9b7-6296-405a-a2ec-893a6095dbfc)
 
+### 2	SOX: (Sarbanes-Oxley Act)
+
+
+
+
+
+
+
+
 **Cómo funciona (controles preventivos):**
 
 * **Firewall, IDS/IPS, Proxy Filtering:** Estas son tecnologías de seguridad de red que actúan como barreras. Los firewalls controlan el tráfico de red según reglas predefinidas, los sistemas de detección/prevención de intrusiones (IDS/IPS) identifican y bloquean actividades maliciosas en la red, y los filtros proxy controlan el acceso a sitios web, evitando conexiones a fuentes maliciosas.
