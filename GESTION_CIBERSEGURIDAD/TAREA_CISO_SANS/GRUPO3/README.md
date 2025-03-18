@@ -7,6 +7,7 @@ Cada área representa aspectos donde la seguridad es fundamental para apoyar el 
 Se enfoca en asegurar que los productos y servicios desarrollados por la empresa sean seguros desde su diseño hasta su implementación. Incluye:
 
 1.	**Secure DevOps**: Integrar seguridad en las prácticas de desarrollo y operaciones (DevOps).
+![Image](https://github.com/user-attachments/assets/cb3f40d2-d21f-464e-8561-0a1777068b69)
 2.	**Secure Development Lifecycle (SDLC)**: Aplicar medidas de seguridad en cada fase del ciclo de vida del software.
 3.	**Bug Bounties**: Programas donde se recompensa a hackers éticos por encontrar vulnerabilidades.
 4.	**Web, Mobile, Cloud AppSec**: Asegurar aplicaciones web, móviles y en la nube.
