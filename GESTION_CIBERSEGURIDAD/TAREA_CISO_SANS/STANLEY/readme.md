@@ -91,7 +91,7 @@ Es importante tener en cuenta que estos puntos están interconectados y trabajan
 
  ![enter image description here](https://wirexsystems.com/wp-content/uploads/2023/01/unnamed-768x512.jpg)
 
-**¿Qué es la respuesta a incidentes?**
+### 2. ¿Qué es la respuesta a incidentes?
 
 La respuesta a incidentes es el proceso estructurado quw trabaja con otras funciones del SOC para obtener apoyo y análisis, así como para informar sobre el estado y los resultados, a su vez, pemite: 
 
