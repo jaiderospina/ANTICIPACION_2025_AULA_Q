@@ -101,6 +101,12 @@ La respuesta a incidentes es el proceso estructurado quw trabaja con otras funci
 
 Efectos de los incidentes de ciberseguridad **para minimizar los daños, recuperar las operaciones y prevenir futuros incidentes**. A su vez, es un componente fundamental de la estrategia de ciberseguridad de una organización, permitiendo una respuesta rápida y eficiente ante brechas de seguridad, ataques de malware, robo de datos y otras amenazas. La respuesta a incidentes implica la coordinación de esfuerzos de equipos especializados y el uso de marcos, herramientas y procesos diseñados para abordar eficazmente los eventos de seguridad.
 
+La importancia de la respuesta a incidentes radica en su capacidad para:
+* **Minimizar el tiempo de inactividad :** La contención y resolución rápidas reducen las interrupciones operativas.
+* **Limite las pérdidas financieras :** Evita daños monetarios extensos por robo de datos, demandas de ransomware o multas regulatorias.
+* **Preservar la reputación :** Demuestra un compromiso con la seguridad y fomenta la confianza entre las partes interesadas.
+* **Garantizar el cumplimiento :** Satisface los requisitos reglamentarios como GDPR, HIPAA o PCI DSS.
+* **Mejorar la preparación :** Ayuda a las organizaciones a adaptarse a las amenazas cambiantes identificando debilidades y mejorando las defensas.
 
 
 
