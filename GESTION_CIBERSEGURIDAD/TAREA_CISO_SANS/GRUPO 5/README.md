@@ -50,3 +50,19 @@ Soporte tecnico, aplicacion de la ley, el publico. </p>
 </p>
 
 **1. Soporte tecnico:** Centraliza la comunicación durante incidentes críticos, incluyendo manejo de crisis y coordinación con stakeholders externos (por ejemplo, entes regulatorios, clientes, proveedores, autoridades).</p>
+a.	Reporte de Actividad Ilegal:
+•	Reportar actividades sospechosas o ilegales detectadas en la red o sistemas.
+•	Coordinar con la policía o agencias gubernamentales para compartir pruebas.
+
+b.	Preservación de Evidencia:
+•	Preservar la cadena de custodia de los activos afectados.
+•	Asegurar la integridad de la evidencia digital (forense) para que sea válida ante procesos legales.
+
+c.	Comunicación Controlada:
+•	La interacción con Law Enforcement debe ser cuidadosamente planificada y aprobada por la dirección y el equipo legal.
+•	En muchos casos, también involucra la comunicación con clientes o el público, especialmente si el incidente tiene un impacto significativo.
+
+d.	¿Qué Agencias de Law Enforcement suelen participar?
+Dependiendo del país, pueden incluir:
+•	Policía Nacional o Local (Delitos tecnológicos).
+•	Agencias especializadas como: FBI Cyber Division (EE. UU.), Europol EC3 (Europa), INTERPOL, Organismos regulatorios en casos de incumplimiento (como GDPR, PCI DSS, etc.).
