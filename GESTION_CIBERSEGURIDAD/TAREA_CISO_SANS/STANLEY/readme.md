@@ -163,4 +163,39 @@ Un plan de respuesta a incidentes eficaz consta de varios componentes clave:
 
 ![Image](https://github.com/user-attachments/assets/3bc1c7b9-7833-445b-9403-39d01b4b3d71)
 
-Esta imagen representa un diagrama de respuesta a incidentes en ciberseguridad, donde se muestra cómo la función de **Incident Response** interactúa con diferentes áreas de una organización, incluyendo unidades de negocio, comité directivo, gestión, sistemas internos y externos. También menciona procesos clave como contención de activos, eliminación de problemas y retorno al servicio dentro del contexto de un **SOC** (Security Operations Center).
+Esta imagen representa un diagrama de respuesta a incidentes en ciberseguridad, donde se muestra cómo la función de **Incident Response** interactúa con diferentes áreas de una organización, incluyendo unidades de negocio, comité directivo, gestión, sistemas internos y externos. También menciona procesos clave como contención de activos, eliminación de problemas y retorno al servicio dentro del contexto de un **SOC** (Security Operations Center). A continuacion se explicas los elementos relacionados dentro del proceso de Respuesta a Incidentes: 
+
+**Business Units (Unidades de Negocio)**
+• Representan las áreas operativas afectadas por un incidente de ciberseguridad.
+• Pueden reportar incidentes y recibir información sobre su impacto.
+
+**Steering Committee (Comité Directivo)**
+•	Grupo de liderazgo que toma decisiones estratégicas sobre ciberseguridad.
+•	Apoya en la gestión de riesgos y toma decisiones sobre escalamiento del incidente.
+
+**Management (Gestión o Dirección Ejecutiva)**
+•	Supervisa y proporciona recursos para la respuesta a incidentes.
+•	Se encarga de reportar el impacto del incidente a nivel organizacional.
+
+**External Systems (Sistemas Externos)**
+•	Representa la conectividad con sistemas fuera de la organización.
+•	Se menciona la acción de aislar y contener activos lógicamente y físicamente para evitar la propagación del incidente.
+
+**Internal Systems (Sistemas Internos)**
+•	Son los servidores, bases de datos y otros sistemas tecnológicos afectados.
+• Se siguen pasos para: 
+     * Identificar y erradicar los problemas.
+     * Retornar los sistemas a su estado normal.
+     
+**Sweep Enterprise (Barrido en la empresa)**
+•	Se realiza un análisis a nivel empresarial para identificar la extensión del incidente.
+
+**Isolate and Contain Assets (Aislamiento y contención de activos)**
+•	Se aplican medidas para limitar la propagación del ataque.
+
+**Eradicate Issues (Erradicación de problemas)**
+•	Se eliminan amenazas como malware, accesos no autorizados, etc.
+
+**Return to Service (Retorno al servicio)**
+•	Los sistemas se restauran para continuar con la operación normal.
+
