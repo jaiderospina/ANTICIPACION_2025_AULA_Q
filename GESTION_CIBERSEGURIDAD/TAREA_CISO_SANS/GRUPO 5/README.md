@@ -70,3 +70,23 @@ d.	¿Qué Agencias de Law Enforcement suelen participar?
 Dependiendo del país, pueden incluir:
 •	Policía Nacional o Local (Delitos tecnológicos).
 •	Agencias especializadas como: FBI Cyber Division (EE. UU.), Europol EC3 (Europa), INTERPOL, Organismos regulatorios en casos de incumplimiento (como GDPR, PCI DSS, etc.).
+
+## 3. El publico:
+Aunque el público general no es parte activa de la operación técnica del SOC, sí es un actor clave en la gestión de comunicación y percepción externa en casos de incidentes importantes (por ejemplo, brechas de datos, ataques mediáticos, interrupciones de servicio, etc.).
+
+Las funciones del SOC relacionadas con el Público son:
+
+a.	Comunicación y Transparencia:
+•	Emisión de comunicados públicos en caso de incidentes que afecten a clientes, usuarios o stakeholders externos.
+•	Publicación de status reports, avisos de seguridad, y actualizaciones.
+•	Control de crisis comunicacional para preservar la reputación de la organización.
+
+b.	Concienciación y Educación:
+•	Programas de concienciación pública sobre ciberseguridad (por ejemplo, alertas de phishing, mejores prácticas para contraseñas, etc.).
+•	Participación en campañas públicas para aumentar la seguridad general (muy relacionado con el área de Security Awareness).
+
+c.	Relación con Clientes y Socios:
+•	Brindar atención al público afectado por incidentes: 
+o	Notificación de brechas que involucren datos personales.
+o	Proporcionar canales de soporte y preguntas frecuentes.
+o	Informar sobre pasos preventivos o correctivos.
