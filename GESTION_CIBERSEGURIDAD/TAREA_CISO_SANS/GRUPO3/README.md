@@ -64,6 +64,8 @@ Datos utilizados para identificar y caracterizar actores de amenazas cibernétic
 ### Internal Threat Actor Attribution and Characteristics (Atribución Interna de Actores de Amenaza y Características)
 Proceso mediante el cual una organización analiza eventos de seguridad internos para identificar patrones y determinar si una amenaza proviene de un atacante específico, un grupo o un empleado malintencionado.
 
+
+
 ### Internal Information Sources (Fuentes de Información Internas)
 Son los registros y datos generados dentro de una organización, como logs de servidores, análisis de tráfico de red y registros de autenticación, utilizados para detectar actividades sospechosas o amenazas potenciales.
 
