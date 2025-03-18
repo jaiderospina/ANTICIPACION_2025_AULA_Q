@@ -15,6 +15,7 @@ Se enfoca en asegurar que los productos y servicios desarrollados por la empresa
 ![Image](https://github.com/user-attachments/assets/b0773266-22e6-49e8-b964-2073d012cb84)
 
 4.	**Web, Mobile, Cloud AppSec**: Asegurar aplicaciones web, móviles y en la nube.
+   
   ![Image](https://github.com/user-attachments/assets/4a473f24-9b48-4fe4-830a-bbcd7043eeff)
 ### **Cloud Computing (Computación en la Nube)**
 Trata sobre cómo asegurar la infraestructura y los servicios que se ejecutan en la nube:
