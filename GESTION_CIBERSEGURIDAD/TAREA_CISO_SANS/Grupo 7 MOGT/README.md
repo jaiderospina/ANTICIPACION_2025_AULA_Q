@@ -18,7 +18,6 @@ En el siguiente ejercicio se destacarán las trece 13 subespecialidades para la 
 ***
 
 ## 1. RISK FRAMEWORKS
-_bla bla bla_
 
 ### 1.1 FAIR:
 ![FAIR](https://www.fairinstitute.org/hs-fs/hubfs/Group%2034.jpg?width=832&height=812&name=Group%2034.jpg)
@@ -73,10 +72,17 @@ Este modelo define entonces 4 escenarios dependiendo de si estas variables tiene
 ***
 
 ## 2. RISK ASSESMENT METHODOLOGY
-_bla bla bla_
-![IMAGEN 2](https://www.redseguridad.com/wp-content/uploads/sites/2/2021/09/pago-ransomware-malware-.jpg)
+![Risk Assemt Metholy](https://isbl.eu/wp-content/uploads/2022/10/Proceso-Gestion-Riesgo.jpg)
 
-texto texto
+El Risk Assessment Methodology (RAM) es un enfoque sistemático para identificar, analizar y evaluar los riesgos asociados a activos digitales, procesos y sistemas dentro de una organización. Su objetivo es proporcionar una visión clara de las amenazas, vulnerabilidades y el impacto potencial de los incidentes de seguridad.
+¿En qué consiste?
+El proceso de evaluación de riesgos sigue una serie de pasos estructurados:
+1.	Identificación de activos
+2.	Identificación de amenazas y vulnerabilidades
+3.	Análisis del impacto
+4.	Cálculo del riesgo
+5.	Gestión y mitigación del riesgo
+6.	Monitoreo y revisión
 
 ***
 
@@ -93,64 +99,38 @@ _bla bla bla_
 
 Proceso de evaluación de riesgos de ciberseguridad método para identificar, evaluar y priorizar amenazas y vulnerabilidades a los sistemas de información de una organización. Objetivo es mejorar las medidas de seguridad y mitigar los riesgos
 
-![MITM](https://beaglesecurity.com/blog/images/man-in-the-middle-attacks.webp)
-
 ### :imp::imp::imp::imp::imp:CONOCE UN POCO MÁS SOBRE ATAQUES DDOS...............
-
-![PING DE LA MUERTE](https://www.ionos.mx/digitalguide/fileadmin/DigitalGuide/Schaubilder/ping-de-la-muerte.png)
 
 ***
 
 ## 5. RISK ANALYSIS AND QUANTIFICATION
-_bla bla bla_
-
+![quant riesgo ciber](https://www.gti.co.cr/images/tendencias/Riesgo_1000.jpg)
 Palabras clave sospechosas:
 ```
-' OR 1=1 --
-UNION SELECT
-DROP TABLE
-INSERT INTO
+La Cuantificación del Riesgo Cibernético (CRQ) calcula la exposición al riesgo y su posible impacto financiero en una organización en términos relevantes para el negocio, lo que permite a las organizaciones coordinar su estrategia de seguridad con los objetivos empresariales.
 ```
-
-![Ejemplo de imagen desde un link externo]( https://miro.medium.com/v2/resize:fit:720/format:webp/1*rVA-dKOa7omxIQLYxRc1sw.gif) 
 
 ***
 
 ## 6. SECURITY AWARENESS
-_bla bla bla_
+![SEC AWRESS](https://www.slideteam.net/media/catalog/product/cache/1280x720/c/y/cybersecurity_awareness_training_powerpoint_presentation_slides_slide01.jpg)
 
-Scripts inyectados:
 ```
-<script>alert('XSS')</script>
+Es una estrategia que busca educar a las personas sobre la importancia de la ciberseguridad. Su objetivo es reducir el riesgo de ataques cibernéticos y proteger a la organización.
 ```
-![XSS imagen]( https://gogetsecure.com/wp-content/uploads/2023/03/cross-site-scripting-xss.jpg)
-
 ***
 
 ## 7. VULNERABILITY MANAGEMENT
-_bla bla bla_
+![Vulenr Manag](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/images/ds-what-is-pages/2-What-is-Vulnerability-Mngmt-A.jpg)
 
-![Zero Day Exploit imagen]( https://www.pandasecurity.com/es/mediacenter/src/uploads/2015/10/zero-day-ataque-1024x413.jpg)
+Proceso de encontrar, clasificar, corregir y reportar vulnerabilidades. A menudo, las vulnerabilidades se solucionan mediante la aplicación de actualizaciones.
 
 ***
 
 ## 8. VENDOR RISK MANAGEMENT
-_bla bla bla_
+![Vendor risk msgsm](https://blog.grupomicronet.com/hubfs/BLOG_-_AGOSTO_8_-_2023_Mesa_de_trabajo_1_copia_11.jpg) 
 
-![Imagen de DNS Spoofing](https://media.giphy.com/media/mwOein9vVjBLO/giphy.gif?response_id=591f21fc082f7139de5a6050) 
-
-### 8.1 EJEMPLO MULTINIVEL
-ADSFASDFS
-
-### 8.2 ASDFAFD
-SADFADSF
-
-### 8.4 ESDFASDF
-IASDFADF
-1.	SDFASDF
-2.	CASDFSDF
-  •	FASDFASD
-  •	SDFASDFASDNSSEC.
+La gestión de riesgos de proveedores en ciberseguridad es el proceso de identificar, evaluar y reducir los riesgos de seguridad de los proveedores externos para Garantizar la calidad, la seguridad y la disponibilidad de los recursos y servicios vitales para el éxito empresarial.
 
 ![DNS spoofing imagen]( https://www.keyfactor.com/wp-content/uploads/HACKER-1.jpg)
 
