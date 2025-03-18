@@ -101,6 +101,8 @@ La respuesta a incidentes es el proceso estructurado quw trabaja con otras funci
 
 Efectos de los incidentes de ciberseguridad **para minimizar los daños, recuperar las operaciones y prevenir futuros incidentes**. A su vez, es un componente fundamental de la estrategia de ciberseguridad de una organización, permitiendo una respuesta rápida y eficiente ante brechas de seguridad, ataques de malware, robo de datos y otras amenazas. La respuesta a incidentes implica la coordinación de esfuerzos de equipos especializados y el uso de marcos, herramientas y procesos diseñados para abordar eficazmente los eventos de seguridad.
 
+---
+
 ### 2. La importancia de la respuesta a incidentes radica en su capacidad para:
 
 * **Minimizar el tiempo de inactividad :** La contención y resolución rápidas reducen las interrupciones operativas.
@@ -108,6 +110,8 @@ Efectos de los incidentes de ciberseguridad **para minimizar los daños, recuper
 * **Preservar la reputación :** Demuestra un compromiso con la seguridad y fomenta la confianza entre las partes interesadas.
 * **Garantizar el cumplimiento :** Satisface los requisitos reglamentarios como GDPR, HIPAA o PCI DSS.
 * **Mejorar la preparación :** Ayuda a las organizaciones a adaptarse a las amenazas cambiantes identificando debilidades y mejorando las defensas.
+
+---
 
 ### 3. Tipos de incidentes de seguridad
 
@@ -124,6 +128,8 @@ Las ciberamenazas se presentan de diversas formas, desde infecciones de malware 
 
 * **Ataques de denegación de servicio (DoS)**
 •	Sobrecargar los sistemas para interrumpir las operaciones normales.
+
+---
 
 ### 4. Componentes de un plan de respuesta a incidentes eficaz
 
@@ -174,37 +180,39 @@ Un plan de respuesta a incidentes eficaz consta de varios componentes clave:
 
 •	Actualizar políticas, procedimientos, planes de comunicación y tecnologías en función de los conocimientos adquiridos.
 
+---
+
 ### 5. Respuesta a incidentes (Incident Response) dentro de un Centro de Operaciones de Seguridad (SOC)
 
 ![Image](https://github.com/user-attachments/assets/3bc1c7b9-7833-445b-9403-39d01b4b3d71)
 
 Esta imagen representa un diagrama de respuesta a incidentes en ciberseguridad, donde se muestra cómo la función de **Incident Response** interactúa con diferentes áreas de una organización, incluyendo unidades de negocio, comité directivo, gestión, sistemas internos y externos. También menciona procesos clave como contención de activos, eliminación de problemas y retorno al servicio dentro del contexto de un **SOC** (Security Operations Center). A continuacion se explicas los elementos relacionados dentro del proceso de Respuesta a Incidentes: 
 
-**Business Units (Unidades de Negocio)**
+* **Business Units (Unidades de Negocio)**
 
 • Representan las áreas operativas afectadas por un incidente de ciberseguridad.
 
 • Pueden reportar incidentes y recibir información sobre su impacto.
 
-**Steering Committee (Comité Directivo)**
+* **Steering Committee (Comité Directivo)**
 
 •	Grupo de liderazgo que toma decisiones estratégicas sobre ciberseguridad.
 
 •	Apoya en la gestión de riesgos y toma decisiones sobre escalamiento del incidente.
 
-**Management (Gestión o Dirección Ejecutiva)**
+* **Management (Gestión o Dirección Ejecutiva)**
 
 •	Supervisa y proporciona recursos para la respuesta a incidentes.
 
 •	Se encarga de reportar el impacto del incidente a nivel organizacional.
 
-**External Systems (Sistemas Externos)**
+* **External Systems (Sistemas Externos)**
 
 •	Representa la conectividad con sistemas fuera de la organización.
 
 •	Se menciona la acción de aislar y contener activos lógicamente y físicamente para evitar la propagación del incidente.
 
-**Internal Systems (Sistemas Internos)**
+* **Internal Systems (Sistemas Internos)**
 
 •	Son los servidores, bases de datos y otros sistemas tecnológicos afectados.
 
@@ -213,19 +221,19 @@ Esta imagen representa un diagrama de respuesta a incidentes en ciberseguridad, 
      * Identificar y erradicar los problemas.
      * Retornar los sistemas a su estado normal.
      
-**Sweep Enterprise (Barrido en la empresa)**
+* **Sweep Enterprise (Barrido en la empresa)**
 
 •	Se realiza un análisis a nivel empresarial para identificar la extensión del incidente.
 
-**Isolate and Contain Assets (Aislamiento y contención de activos)**
+* **Isolate and Contain Assets (Aislamiento y contención de activos)**
 
 •	Se aplican medidas para limitar la propagación del ataque.
 
-**Eradicate Issues (Erradicación de problemas)**
+* **Eradicate Issues (Erradicación de problemas)**
 
 •	Se eliminan amenazas como malware, accesos no autorizados, etc.
 
-**Return to Service (Retorno al servicio)**
+* **Return to Service (Retorno al servicio)**
 
 •	Los sistemas se restauran para continuar con la operación normal.
 
