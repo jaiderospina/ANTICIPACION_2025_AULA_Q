@@ -84,3 +84,8 @@ Según el póster, la sección de "Security Operations" (Operaciones de Segurida
 * **Crisis Management:** La gestión de crisis implica la coordinación de la respuesta de una organización a un evento adverso, como un incidente de seguridad, que podría dañar su reputación o interrumpir sus operaciones.
 
 Es importante tener en cuenta que estos puntos están interconectados y trabajan juntos para proporcionar una postura de seguridad sólida. La prevención reduce la probabilidad de incidentes, la detección permite identificarlos rápidamente, el cumplimiento garantiza que se sigan las reglas y regulaciones, y la respuesta permite gestionar eficazmente los incidentes cuando ocurren.
+
+# Incident Response
+
+ ![enter image description here](https://wirexsystems.com/wp-content/uploads/2023/01/unnamed-768x512.jpg)
+
