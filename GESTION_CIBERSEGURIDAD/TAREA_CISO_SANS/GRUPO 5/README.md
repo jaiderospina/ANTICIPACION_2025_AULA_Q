@@ -1,7 +1,7 @@
 # <p align="center"> LEADERSHIP SKILLS </p>
 
 <p align="center">
-  <img src="IMAGES/Imagen1.png">
+  <img src="IMAGES/imagen2.png">
 </p>
 
 **<p align="center"> Habilidades de liderazgo (Leadership Skills)</p>**
