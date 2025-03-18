@@ -31,7 +31,11 @@ Regulaciones para bancos y entidades financieras en EE.UU, Obligan a las institu
 
 ![Image](https://github.com/user-attachments/assets/2d0bf31f-a2af-4a5b-b4db-d19657aa720b)
 
-**Cómo funciona (controles preventivos):**
+### ***4	FERPA: (Family Educational Rights and Privacy Act)***
+
+•	FERPA: (Family Educational Rights and Privacy Act) 
+
+Protege la privacidad de los registros educativos de estudiantes en EE.UU, Impide que escuelas y universidades compartan datos sin el consentimiento de los estudiantes o sus padres.
 
 ![Image](https://github.com/user-attachments/assets/8d008cf0-3f91-4038-bf9f-a936b710603c)
 
