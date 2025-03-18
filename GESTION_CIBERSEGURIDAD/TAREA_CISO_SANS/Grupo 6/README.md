@@ -2,6 +2,8 @@
 Se refiere al sistema de reglas, prácticas y procesos mediante los cuales se dirige y controla una organización en relación con la seguridad de la información. Implica la definición de responsabilidades, la toma de decisiones y la rendición de cuentas para asegurar que los objetivos de seguridad se cumplan.
 La gobernanza es un pilar fundamental de la responsabilidad del CISO, se utiliza para establecer la dirección estratégica de la seguridad, supervisar la implementación de los programas de seguridad, asegurar el cumplimiento normativo y legal, y comunicar el estado de la seguridad a las partes interesadas.
 
+![Governance](https://mnasserlaw.com/wp-content/uploads/2023/11/corporate-Governance.jpg)
+
 ## Strategy (Estrategia):
 Implica la formulación de objetivos de seguridad a largo plazo y la planificación de las acciones necesarias para alcanzar esos objetivos, considerando el contexto del negocio y los riesgos.
 La estrategia es otro pilar fundamental de la responsabilidad del CISO. Se utiliza para alinear la seguridad de la información con los objetivos del negocio, identificar y priorizar los riesgos, y desarrollar una hoja de ruta (Roadmap Development) para mejorar la postura de seguridad de la organización.
