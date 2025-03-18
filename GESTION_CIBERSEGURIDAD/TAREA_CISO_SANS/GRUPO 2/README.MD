@@ -12,7 +12,7 @@
 
 Según el póster, la sección de "Security Operations" (Operaciones de Seguridad) dentro del "CISO Mind Map" (Mapa Mental del CISO) abarca una serie de puntos interconectados que son cruciales para mantener la seguridad de una organización. A continuación, se detalla qué son y cómo funcionan estos puntos, según la información proporcionada:
 
-![enter image description here](https://www.usd.de/wp-content/uploads/usd-ag-news-phishing-angriffe.jpg)
+![enter image description here]([enter link description here](https://www.google.com/url?sa=i&url=https://pii-tools.com/the-basics-of-the-pci-what-makes-it-different/&psig=AOvVaw0Jvo2kQBKqetZolqF1Os2B&ust=1742417528476000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOj5h6vBlIwDFQAAAAAdAAAAABAJ))
 ***
 
 ### 1. Prevención
