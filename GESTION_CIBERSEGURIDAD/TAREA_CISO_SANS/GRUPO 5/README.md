@@ -49,7 +49,8 @@ Soporte tecnico, aplicacion de la ley, el publico. </p>
   <img src="IMAGES/C2.png">
 </p>
 
-**1. Soporte tecnico:** Centraliza la comunicación durante incidentes críticos, incluyendo manejo de crisis y coordinación con stakeholders externos (por ejemplo, entes regulatorios, clientes, proveedores, autoridades).</p>
+## 1. Soporte tecnico:
+Centraliza la comunicación durante incidentes críticos, incluyendo manejo de crisis y coordinación con stakeholders externos (por ejemplo, entes regulatorios, clientes, proveedores, autoridades).</p>
 a.	Reporte de Actividad Ilegal:
 •	Reportar actividades sospechosas o ilegales detectadas en la red o sistemas.
 •	Coordinar con la policía o agencias gubernamentales para compartir pruebas.
