@@ -9,7 +9,9 @@
 Estas habilidades abarcan diversas áreas clave para el liderazgo efectivo en entornos empresariales y estratégicos.
 
 **1. Estrategia empresarial** – Plan a largo plazo para alcanzar objetivos.
+</p>
 **2. Conocimiento de la industria** – Comprensión del sector y sus dinámicas.
+
 **3. Perspicacia empresarial** – Capacidad para tomar decisiones estratégicas.
 **4. Habilidades de comunicación** – Expresar ideas de forma clara y efectiva.
 **5. Habilidades de presentación** – Transmitir información de manera impactante.
