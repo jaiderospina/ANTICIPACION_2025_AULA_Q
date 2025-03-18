@@ -91,7 +91,7 @@ Es importante tener en cuenta que estos puntos están interconectados y trabajan
 
  ![enter image description here](https://wirexsystems.com/wp-content/uploads/2023/01/unnamed-768x512.jpg)
 
-### 2. ¿Qué es la respuesta a incidentes?
+### 1. ¿Qué es la respuesta a incidentes?
 
 La respuesta a incidentes es el proceso estructurado quw trabaja con otras funciones del SOC para obtener apoyo y análisis, así como para informar sobre el estado y los resultados, a su vez, pemite: 
 
@@ -132,30 +132,30 @@ Un plan de respuesta a incidentes eficaz consta de varios componentes clave:
 
 ![enter image description here](https://wirexsystems.com/wp-content/uploads/2023/01/unnamed-20-768x432.png)
 
-**1. Preparación**
+**a. Preparación**
 •	Establecer un equipo de respuesta a incidentes y definir sus roles.
 •	Desarrollar políticas, manuales y protocolos para distintos tipos de incidentes.
 •	Realizar capacitaciones y simulaciones.
 
-**2. Identificación**
+**b. Identificación**
 •	Detectar posibles anomalías mediante herramientas de monitorización e informes de usuarios.
 •	Analizar alertas, registros y otros datos para determinar si ocurrió un incidente de seguridad y clasificar su gravedad.
 •	Determinar el alcance, el impacto y la naturaleza de la amenaza.
 
-**3. Contención**
+**c. Contención**
 •	Limite la propagación de la amenaza aislando los sistemas afectados.
 •	Implementar estrategias de contención a corto y largo plazo.
 •	Minimizar los daños ocasionados por la infracción.
 
-**4. Erradicación**
+**d. Erradicación**
 •	Elimine elementos maliciosos, restablezca cuentas comprometidas y corrija vulnerabilidades en sistemas y redes afectados.
 •	Realizar un análisis de causa raíz para evitar que vuelva a ocurrir.
 
-**5. Recuperación**
+**e. Recuperación**
 •	Restaure los sistemas, datos, archivos y configuraciones afectados al funcionamiento normal mediante copias de seguridad.
 •	Monitorizar si hay señales de amenazas o vulnerabilidades residuales.
 
-**6. Lecciones aprendidas**
+**f. Lecciones aprendidas**
 •	Realizar revisiones posteriores a los incidentes para identificar áreas de mejora y documentar qué salió bien y qué se podría mejorar para futuras respuestas.
 •	Actualizar políticas, procedimientos, planes de comunicación y tecnologías en función de los conocimientos adquiridos.
 
@@ -166,36 +166,45 @@ Un plan de respuesta a incidentes eficaz consta de varios componentes clave:
 Esta imagen representa un diagrama de respuesta a incidentes en ciberseguridad, donde se muestra cómo la función de **Incident Response** interactúa con diferentes áreas de una organización, incluyendo unidades de negocio, comité directivo, gestión, sistemas internos y externos. También menciona procesos clave como contención de activos, eliminación de problemas y retorno al servicio dentro del contexto de un **SOC** (Security Operations Center). A continuacion se explicas los elementos relacionados dentro del proceso de Respuesta a Incidentes: 
 
 **Business Units (Unidades de Negocio)**
+
 • Representan las áreas operativas afectadas por un incidente de ciberseguridad.
 • Pueden reportar incidentes y recibir información sobre su impacto.
 
 **Steering Committee (Comité Directivo)**
+
 •	Grupo de liderazgo que toma decisiones estratégicas sobre ciberseguridad.
 •	Apoya en la gestión de riesgos y toma decisiones sobre escalamiento del incidente.
 
 **Management (Gestión o Dirección Ejecutiva)**
+
 •	Supervisa y proporciona recursos para la respuesta a incidentes.
 •	Se encarga de reportar el impacto del incidente a nivel organizacional.
 
 **External Systems (Sistemas Externos)**
+
 •	Representa la conectividad con sistemas fuera de la organización.
 •	Se menciona la acción de aislar y contener activos lógicamente y físicamente para evitar la propagación del incidente.
 
 **Internal Systems (Sistemas Internos)**
+
 •	Son los servidores, bases de datos y otros sistemas tecnológicos afectados.
 • Se siguen pasos para: 
      * Identificar y erradicar los problemas.
      * Retornar los sistemas a su estado normal.
      
 **Sweep Enterprise (Barrido en la empresa)**
+
 •	Se realiza un análisis a nivel empresarial para identificar la extensión del incidente.
 
 **Isolate and Contain Assets (Aislamiento y contención de activos)**
+
 •	Se aplican medidas para limitar la propagación del ataque.
 
 **Eradicate Issues (Erradicación de problemas)**
+
 •	Se eliminan amenazas como malware, accesos no autorizados, etc.
 
 **Return to Service (Retorno al servicio)**
+
 •	Los sistemas se restauran para continuar con la operación normal.
 
