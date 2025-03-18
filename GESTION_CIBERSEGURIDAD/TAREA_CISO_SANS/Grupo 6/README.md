@@ -9,7 +9,7 @@ Implica la formulación de objetivos de seguridad a largo plazo y la planificaci
 La estrategia es otro pilar fundamental de la responsabilidad del CISO. Se utiliza para alinear la seguridad de la información con los objetivos del negocio, identificar y priorizar los riesgos, y desarrollar una hoja de ruta (Roadmap Development) para mejorar la postura de seguridad de la organización.
 
 <p align="center">
-    ![strategic]([http://if-institute.org/wp-content/uploads/2017/01/servicestrategy-300x200.jpg](https://github.com/jaiderospina/ANTICIPACION_2025_AULA_Q/blob/main/GESTION_CIBERSEGURIDAD/TAREA_CISO_SANS/Grupo%206/Imagenes/strategic.jpeg?raw=true))
+![strategic](http://if-institute.org/wp-content/uploads/2017/01/servicestrategy-300x200.jpg)
 </p>
 
 ## Business Alignment (Alineación con el Negocio):
