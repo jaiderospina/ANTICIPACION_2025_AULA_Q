@@ -1,4 +1,4 @@
-<p align="center"> # LEADERSHIP SKILLS </p>
+# <p align="center"> LEADERSHIP SKILLS </p>
 
 <p align="center">
   <img src="IMAGES/Imagen1.png">
