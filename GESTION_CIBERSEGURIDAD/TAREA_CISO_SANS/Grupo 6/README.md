@@ -9,21 +9,14 @@ Implica la formulación de objetivos de seguridad a largo plazo y la planificaci
 La estrategia es otro pilar fundamental de la responsabilidad del CISO. Se utiliza para alinear la seguridad de la información con los objetivos del negocio, identificar y priorizar los riesgos, y desarrollar una hoja de ruta (Roadmap Development) para mejorar la postura de seguridad de la organización.
 
 <p align="center">
-![strategic](http://if-institute.org/wp-content/uploads/2017/01/servicestrategy-300x200.jpg)
-</p>
-
-
-<p align="center">
   <img src="Imagenes/strategic.jpeg">
-</p>
-
-<p align="center">
-  <img src="(http://if-institute.org/wp-content/uploads/2017/01/servicestrategy-300x200.jpg)">
 </p>
 
 ## Business Alignment (Alineación con el Negocio):
 Implica asegurar que las iniciativas y los objetivos de seguridad de la información estén en consonancia y apoyen las metas y prioridades generales del negocio.
 Dentro del pilar de Estrategia, la alineación con el negocio es esencial para que la seguridad no se perciba como un obstáculo, sino como un habilitador que protege los activos y la continuidad del negocio.
+
+
 
 ## Risk Management (Gestión de Riesgos):
 Es el proceso de identificar, evaluar, tratar y monitorear los riesgos de seguridad de la información para minimizar su impacto en la organización.
