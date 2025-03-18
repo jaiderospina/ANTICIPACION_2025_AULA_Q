@@ -1,36 +1,36 @@
-•Governance (Gobernanza):
+# GOVERNANCE (Gobernanza):
 Se refiere al sistema de reglas, prácticas y procesos mediante los cuales se dirige y controla una organización en relación con la seguridad de la información. Implica la definición de responsabilidades, la toma de decisiones y la rendición de cuentas para asegurar que los objetivos de seguridad se cumplan.
 La gobernanza es un pilar fundamental de la responsabilidad del CISO, se utiliza para establecer la dirección estratégica de la seguridad, supervisar la implementación de los programas de seguridad, asegurar el cumplimiento normativo y legal, y comunicar el estado de la seguridad a las partes interesadas.
 
-• Strategy (Estrategia):
+## Strategy (Estrategia):
 Implica la formulación de objetivos de seguridad a largo plazo y la planificación de las acciones necesarias para alcanzar esos objetivos, considerando el contexto del negocio y los riesgos.
 La estrategia es otro pilar fundamental de la responsabilidad del CISO. Se utiliza para alinear la seguridad de la información con los objetivos del negocio, identificar y priorizar los riesgos, y desarrollar una hoja de ruta (Roadmap Development) para mejorar la postura de seguridad de la organización.
 
-• Business Alignment (Alineación con el Negocio):
+## Business Alignment (Alineación con el Negocio):
 Implica asegurar que las iniciativas y los objetivos de seguridad de la información estén en consonancia y apoyen las metas y prioridades generales del negocio.
 Dentro del pilar de Estrategia, la alineación con el negocio es esencial para que la seguridad no se perciba como un obstáculo, sino como un habilitador que protege los activos y la continuidad del negocio.
 
-• Risk Management (Gestión de Riesgos):
+## Risk Management (Gestión de Riesgos):
 Es el proceso de identificar, evaluar, tratar y monitorear los riesgos de seguridad de la información para minimizar su impacto en la organización.
 La gestión de riesgos es un elemento central del pilar de Estrategia  y se utiliza en todas las áreas de la seguridad para tomar decisiones informadas sobre las inversiones y las acciones a seguir. Incluye metodologías como FAIR, NIST RMF, OCTAVE y TARA.
 
-• Program Frameworks (Marcos de Programas):
+## Program Frameworks (Marcos de Programas):
 Son estructuras o conjuntos de directrices que ayudan a las organizaciones a establecer, implementar y mejorar sus programas de seguridad de la información.
 Dentro del pilar de Estrategia, los marcos de programas como NIST CSF e ISO 27000 proporcionan una base estructurada para la gestión de la seguridad.
-    • NIST CSF (National Institute of Standards and Technology Cybersecurity Framework): Un marco voluntario que consiste en estándares, directrices y mejores prácticas para gestionar los riesgos de ciberseguridad. Se utiliza para comprender, comunicar y gestionar el riesgo cibernético.
-    • ISO 27000: Una familia de estándares internacionales que abordan la seguridad de la información. Incluye el ISO 27001, que especifica los requisitos para un sistema de gestión de la seguridad de la información (SGSI).
+    • **NIST CSF (National Institute of Standards and Technology Cybersecurity Framework)**: Un marco voluntario que consiste en estándares, directrices y mejores prácticas para gestionar los riesgos de ciberseguridad. Se utiliza para comprender, comunicar y gestionar el riesgo cibernético.
+    • **ISO 27000**: Una familia de estándares internacionales que abordan la seguridad de la información. Incluye el ISO 27001, que especifica los requisitos para un sistema de gestión de la seguridad de la información (SGSI).
 
-• Control Frameworks (Marcos de Control):
+## Control Frameworks (Marcos de Control):
 Son conjuntos estructurados de controles de seguridad que una organización puede implementar para mitigar riesgos específicos y cumplir con requisitos regulatorios.
 Dentro del pilar de Gobernanza, los marcos de control como NIST 800-53 y CIS Controls proporcionan listas detalladas de controles recomendados.
-    • NIST 800-53: Un catálogo de controles de seguridad y privacidad que las agencias federales de EE. UU. y otras organizaciones pueden seleccionar e implementar para proteger sus sistemas de información y datos. También se utiliza ampliamente en el sector privado.
-    • CIS Controls (Center for Internet Security Controls): Un conjunto de acciones de seguridad prioritarias y probadas que las organizaciones pueden implementar para mejorar su postura de ciberseguridad. Están organizados por orden de efectividad para mitigar los ataques más comunes.
+    • **NIST 800-53**: Un catálogo de controles de seguridad y privacidad que las agencias federales de EE. UU. y otras organizaciones pueden seleccionar e implementar para proteger sus sistemas de información y datos. También se utiliza ampliamente en el sector privado.
+    • **CIS Controls (Center for Internet Security Controls)**: Un conjunto de acciones de seguridad prioritarias y probadas que las organizaciones pueden implementar para mejorar su postura de ciberseguridad. Están organizados por orden de efectividad para mitigar los ataques más comunes.
 
-• Program Structure (Estructura del Programa):
+## Program Structure (Estructura del Programa):
 Se refiere a la organización y los componentes clave del programa de seguridad de la información, incluyendo sus diferentes áreas, proyectos e iniciativas.
 Dentro del pilar de Gobernanza, definir una estructura clara del programa ayuda a gestionar la complejidad y asegurar que todos los aspectos de la seguridad estén cubiertos de manera organizada.
 
-• Program Management (Gestión de Programas):
+## Program Management (Gestión de Programas):
 Se refiere a la planificación, ejecución, seguimiento y control de los múltiples proyectos e iniciativas que componen el programa de seguridad de la información, asegurando que se cumplan los objetivos y se gestionen los riesgos.
 Dentro del pilar de Gobernanza, la gestión de programas es crucial para coordinar las diferentes actividades de seguridad y asegurar su coherencia y eficacia.
 
