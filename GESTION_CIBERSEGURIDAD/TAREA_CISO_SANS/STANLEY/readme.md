@@ -19,7 +19,7 @@ Según el póster, la sección de "Security Operations" (Operaciones de Segurida
 ![Image](https://github.com/user-attachments/assets/1f1cf03a-7703-4b42-8370-e834a1dd5dc6)
 
 **Qué es:** La prevención se refiere a las medidas proactivas que se implementan para evitar que ocurran incidentes de seguridad. El objetivo es reducir la probabilidad de que las amenazas se materialicen y causen daño.
-
+![Image](https://github.com/user-attachments/assets/88ae8934-32f8-4f80-ab87-65971aae6c36)
 **Cómo funciona (controles preventivos):**
 
 * **Firewall, IDS/IPS, Proxy Filtering:** Estas son tecnologías de seguridad de red que actúan como barreras. Los firewalls controlan el tráfico de red según reglas predefinidas, los sistemas de detección/prevención de intrusiones (IDS/IPS) identifican y bloquean actividades maliciosas en la red, y los filtros proxy controlan el acceso a sitios web, evitando conexiones a fuentes maliciosas.
