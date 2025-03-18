@@ -1,3 +1,5 @@
+LEADERSHIP SKILLS
+
 <p align="center">
   <img src="IMAGES/Imagen1.png">
 </p>
