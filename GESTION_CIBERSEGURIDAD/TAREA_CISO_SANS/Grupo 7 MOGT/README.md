@@ -19,18 +19,43 @@ En el siguiente ejercicio se destacarán las trece 13 subespecialidades para la 
 
 ## 1. RISK FRAMEWORKS
 _bla bla bla_
-![Phising](https://imagenes.eltiempo.com/files/image_1200_535/files/fp/uploads/2023/10/19/65314b395be1f.r_d.1143-406.jpeg)
 
 ### 1.1 FAIR:
-(Factor Analysis of Information Risk) es un marco para cuantificar el riesgo cibernético en términos financieros. Proporciona un enfoque estructurado para evaluar amenazas, vulnerabilidades y el impacto potencial en una organización, permitiendo una mejor toma de decisiones basada en riesgos medibles.
+![FAIR](https://www.fairinstitute.org/hs-fs/hubfs/Group%2034.jpg?width=832&height=812&name=Group%2034.jpg)
+(Factor Analysis of Information Risk) El Análisis Factorial del Riesgo de la Información (FAIR™) es un modelo cuantitativo estándar internacional para la seguridad de la información y el riesgo operacional.
+FAIR proporciona un modelo para comprender, analizar y cuantificar el riesgo cibernético y el riesgo operacional en términos financieros.
+Es diferente a los marcos de evaluación de riesgos que centran sus resultados en gráficos de colores cualitativos o escalas numéricas ponderadas.
+Construye una base para desarrollar un enfoque sólido para la gestión de riesgos de la información.
 
 ### 1.2 NIST RFM:
+![FAIR](https://csrc.nist.gov/CSRC/media/Projects/risk-management/images-media/RMF%20Logos/PNG%20Format/NIST%20RMF%20Graphc.png)
 
-BLA BLA BLA
+Un marco de gestión de riesgos (RMF- Risk Framework Management) es un conjunto de prácticas, procesos y tecnologías que permiten a una organización identificar, evaluar y analizar los riesgos para gestionarlos dentro de su organización.
+Un marco de gestión de riesgos es un elemento fundamental para cualquier programa de cumplimiento sólido y generalmente sigue estos pasos:
+•	Identificar
+•	Evaluar
+•	Analizar
+•	Determinar la tolerancia al riesgo
+•	Implementar controles
+•	Monitorear y actualizar
+
+El Marco de Gestión de Riesgos del Instituto Nacional de Estándares y Tecnología (NIST) establece un enfoque basado en riesgos para la gestión de la seguridad, la privacidad y los riesgos cibernéticos en la cadena de suministro. El Marco de Gestión de Riesgos del NIST consta de los siguientes siete pasos:
+•	Preparar : actividades que preparan el terreno para gestionar los riesgos de seguridad y privacidad
+•	Categorizar: utilizar un análisis de impacto para organizar los sistemas y la información que procesan, almacenan y transmiten
+•	Seleccionar : determinar los controles que protegerán los sistemas y los datos
+•	Implementar : implementar controles y documentar actividades
+•	Evaluar : determinar si los controles implementados funcionan según lo previsto y producen los resultados deseados
+•	Autorizar : que un funcionario superior autorice el funcionamiento del sistema.
+•	Monitorear : revisar los controles para garantizar que sigan mitigando los riesgos según lo previsto
 
 ### 1.3 OCTAVE:
+![FAIR](https://www.securityartwork.es/wp-content/uploads/2012/03/1.jpg)
 
-BLA BLA BLA
+(OCTAVE - Operative Critical Treat Active Vulnerabilities Evaluation)
+(Evaluación operativa crítica, de amenazas, de activos y de vulnerabilidad). Metodología de análisis y gestión de riesgos. Objetivo garantizar los sistemas informáticos en el interior de una empresa u organización.
+1. Fase: Engloba los activos, las amenazas, las vulnerabilidades de la empresa u organización, las exigencias de seguridad y las normas existentes. Esta fase, a su vez, está compuesta por cuatro procesos diferenciados.
+2. Fase: Abarca los componentes claves y las vulnerabilidades técnicas
+3. Fase: Contiene la evaluación de los riesgos y la ponderación de los mismos, la estrategia de protección y el plano de reducción de los riesgos.
 
 ### 1.4 TARA:
 
@@ -102,6 +127,7 @@ _bla bla bla_
 
 ## 8. VENDOR RISK MANAGEMENT
 _bla bla bla_
+
 ![Imagen de DNS Spoofing](https://media.giphy.com/media/mwOein9vVjBLO/giphy.gif?response_id=591f21fc082f7139de5a6050) 
 
 ### 8.1 EJEMPLO MULTINIVEL
@@ -169,33 +195,33 @@ Managed Security Service Provider (MSSP) vs. building a SOC in-house?_
 _bla bla bla_
 ![Imagen de DNS Spoofing](https://media.giphy.com/media/mwOein9vVjBLO/giphy.gif?response_id=591f21fc082f7139de5a6050) 
 
-• Potential cost savings – building a SOC is expensive
-• Fully trained and qualified staff
-• Experience handling stressful situations
-• Experience handling all types of security events effectively and efficiently
-• Augments existing staff/fills gaps in hiring skills professionals
-• Threat Intelligence – keeps you current on emerging threats
-• Helps you leverage security intelligence across industries
-• Industry information sharing
-• Enables organizations to focus on core tasks
-• Breaks down barriers in organizations where silos exist
-• Enables 24x7x365 requirement
-• Provides SLAs on how service will be provided 
-• Well-defined run book
+* Potential cost savings – building a SOC is expensive.
+* Fully trained and qualified staff.
+* Experience handling stressful situations.
+* Experience handling all types of security events effectively and efficiently.
+* Augments existing staff/fills gaps in hiring skills professionals.
+* Threat Intelligence – keeps you current on emerging threats.
+* Helps you leverage security intelligence across industries.
+* Industry information sharing.
+* Enables organizations to focus on core tasks.
+* Breaks down barriers in organizations where silos exist.
+* Enables 24x7x365 requirement.
+* Provides SLAs on how service will be provided.
+* Well-defined run book.
 
 ## 2. OUTSOURCING CONS
 _bla bla bla_
 ![Imagen de DNS Spoofing](https://media.giphy.com/media/mwOein9vVjBLO/giphy.gif?response_id=591f21fc082f7139de5a6050) 
 
-• Unfamiliar with organization’s business drivers/industry
-• Limited on depth of service and capabilities
-• Optimizes its systems to scale and services a large volume of customers
-• Large customer base, lacks intimate knowledge
-• Lack of dedicated resources & support for your organization
-• Focused on maximizing profits
-• Lack of specialization, excels at providing standard security services vs. customized
-• Minimal opportunities for correlation unless all data are sent to the MSSP
-• Outsourced threat intelligence has a short lifespan • No incentive to help improve your operations
+* Unfamiliar with organization’s business drivers/industry
+* Limited on depth of service and capabilities
+* Optimizes its systems to scale and services a large volume of customers
+* Large customer base, lacks intimate knowledge
+* Lack of dedicated resources & support for your organization
+* Focused on maximizing profits
+* Lack of specialization, excels at providing standard security services vs. customized
+* Minimal opportunities for correlation unless all data are sent to the MSSP
+* Outsourced threat intelligence has a short lifespan • No incentive to help improve your operations
 • Limited ability to store data
 
 ***
