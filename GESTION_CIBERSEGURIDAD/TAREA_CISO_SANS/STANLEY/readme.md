@@ -16,7 +16,7 @@ Según el póster, la sección de "Security Operations" (Operaciones de Segurida
 
 ***
 
-### 1. Prevención
+### 1. Prevención ![Image](https://github.com/user-attachments/assets/9c424814-e04c-4467-88b9-a22b961cda35)
 
 **Qué es:** La prevención se refiere a las medidas proactivas que se implementan para evitar que ocurran incidentes de seguridad. El objetivo es reducir la probabilidad de que las amenazas se materialicen y causen daño.
 
