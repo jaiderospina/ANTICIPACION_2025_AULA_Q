@@ -48,7 +48,10 @@ Cada uno de estos componentes es fundamental para asegurar el acceso adecuado a 
 AUTOEVALUEACION
 Es un proceso interno que permite a una organización evaluar sus propias políticas, procedimientos y controles de seguridad. Este proceso ayuda a identificar áreas de mejora y a garantizar que se están cumpliendo las mejores prácticas.
 
-MONITOREO DE CONFIGURACION
+## MONITOREO DE CONFIGURACION
+
+![Configuration Monitoring](https://github.com/user-attachments/assets/55175106-2544-438a-92a7-651d9d2a5ba2)
+
 Proceso de supervisar y gestionar las configuraciones de sistemas y redes para detectar y registrar cambios. Propósito: Asegurar que las configuraciones se mantengan dentro de los estándares de seguridad y para identificar posibles amenazas o desviacione
 
 Crear lineas de base
@@ -61,7 +64,10 @@ Mantener sistemas
 Consiste en asegurar que los sistemas estén al día, aplicando actualizaciones necesarias y configuraciones de seguridad para proteger los activos organizacionales. Esto incluye la gestión de parches, actualizaciones de software y la revisión de configuraciones para garantizar que sigan alineadas con las políticas de seguridad.
 
 
-PRUEBAS DE PENETRACION
+## PRUEBAS DE PENETRACION
+
+![Penetration testing](https://github.com/user-attachments/assets/285ca1eb-4a83-4e53-aec9-111ec96491ef)
+
 Evaluación de seguridad que simula un ataque real en un sistema para identificar vulnerabilidades. Propósito: Probar la efectividad de las defensas de seguridad y ayudar a fortalecer los sistemas contra ataques reales.
 
 Escenario modelo de atacantes
@@ -76,7 +82,10 @@ La recopilación de información sobre la organización y sus sistemas para iden
 Desconfliccion
 Se refiere a la actividad de resolver conflictos de interés sobre la ejecución de pruebas de penetración y su impacto potencial en los sistemas y operaciones de la organización. Esto implica coordinar esfuerzos para asegurar que las pruebas no interrumpan el funcionamiento normal del negocio.
 
-EVALUACION DE LA VULNERABILIDAD
+## EVALUACION DE LA VULNERABILIDAD
+
+![Vulnerability Assessment](https://github.com/user-attachments/assets/1d481537-e9ba-4e81-8c76-353260797716)
+
 Proceso que identifica y analiza vulnerabilidades en sistemas y redes. Propósito: Determinar el riesgo y exponer debilidades para priorizar acciones correctivas y proteger infraestructuras críticas.
 
 Identificar el riesgo y la exposición
@@ -88,7 +97,10 @@ La práctica de realizar escaneos automáticos en los sistemas para detectar vul
 Impacto de nuevas vulnerabilidades
 Evaluar y analizar cómo las nuevas vulnerabilidades descubiertas pueden afectar la organización en términos de riesgo, exposición y posibles daños. Esto implica priorizar la remediación de dichas vulnerabilidades en función de su gravedad y el contexto organizacional.
 
-EJERCICIOS
+## EJERCICIOS 
+
+![Exercises](https://github.com/user-attachments/assets/20ff6fd0-9634-4e16-8be6-44b38829bdc8)
+
 Simulaciones estructuradas, como escenarios de mesa, diseñadas para practicar la respuesta a incidentes de seguridad. Propósito: Mejorar la preparación y respuesta del personal ante situaciones de amenaza reales y asegurar que los planes de respuesta sean efectivos.
 
 Escenarios de mesa
