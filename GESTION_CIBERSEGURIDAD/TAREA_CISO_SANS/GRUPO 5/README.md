@@ -16,6 +16,7 @@ Estas habilidades abarcan diversas áreas clave para el liderazgo efectivo en en
 
 **3. Perspicacia empresarial** – Capacidad para tomar decisiones estratégicas.
 </p>
+
 **4. Habilidades de comunicación** – Expresar ideas de forma clara y efectiva.
 </p>
 
