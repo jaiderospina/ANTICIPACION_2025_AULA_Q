@@ -4,7 +4,8 @@
 ## GESTION DE IDENTIDAD Y ACCESO
 Se refiere a las políticas, tecnologías y prácticas que aseguran que las personas adecuadas tengan acceso a los recursos adecuados en el momento adecuado y por las razones correctas.
 
-***Aprovisionamiento / Desaprovisionamiento***
+### ***Aprovisionamiento / Desaprovisionamiento***
+
 ![tema 1 Provissioning](https://github.com/user-attachments/assets/271246bc-a26d-4197-8682-3bf937915f18)
 
 Provisioning: Es el proceso de crear, configurar y habilitar cuentas de usuario dentro de un sistema o aplicación. Esto implica asignar roles y permisos específicos a los usuarios para que puedan acceder a los recursos necesarios. 
