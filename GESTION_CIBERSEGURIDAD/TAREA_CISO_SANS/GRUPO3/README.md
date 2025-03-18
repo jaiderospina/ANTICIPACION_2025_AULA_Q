@@ -59,6 +59,8 @@ Proceso de almacenar y analizar patrones, tácticas, técnicas y procedimientos 
 ### Attribution Info (Información de Atribución)
 Datos utilizados para identificar y caracterizar actores de amenazas cibernéticas. Esto puede incluir información sobre su origen, motivaciones, herramientas utilizadas y posibles vínculos con grupos organizados o estatales.
 
+![Image](https://github.com/user-attachments/assets/fe989365-7918-4864-8842-6e0c1f4d95a8)
+
 ### Internal Threat Actor Attribution and Characteristics (Atribución Interna de Actores de Amenaza y Características)
 Proceso mediante el cual una organización analiza eventos de seguridad internos para identificar patrones y determinar si una amenaza proviene de un atacante específico, un grupo o un empleado malintencionado.
 
