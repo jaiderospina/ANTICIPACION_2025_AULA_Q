@@ -69,9 +69,10 @@ Proceso mediante el cual una organización analiza eventos de seguridad internos
 ![Image](https://github.com/user-attachments/assets/da2a70d0-cda9-47be-bbe6-851c11474435)
 
 
-
 ### Internal Information Sources (Fuentes de Información Internas)
 Son los registros y datos generados dentro de una organización, como logs de servidores, análisis de tráfico de red y registros de autenticación, utilizados para detectar actividades sospechosas o amenazas potenciales.
+
+![Image](https://github.com/user-attachments/assets/caa610a9-d3e5-4e89-a9ba-1f0998864686)
 
 ### Collect Internal Adversary Info / Threat Hunting (Recopilar Información Interna del Adversario / Caza de Amenazas)
 La caza de amenazas (Threat Hunting) es una estrategia proactiva en la que los analistas de seguridad buscan signos de actividad maliciosa dentro de la red organizacional antes de que una alerta tradicional lo detecte.
