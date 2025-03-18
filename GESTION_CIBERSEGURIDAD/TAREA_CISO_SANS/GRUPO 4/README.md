@@ -1,4 +1,4 @@
-# GRUPO # 4 – SIRURGICAL ATTACK – CISO MIND MAP
+![tema 5 RBAC](https://github.com/user-attachments/assets/d6b31fec-0bb9-46da-b937-2927c945d92f)# GRUPO # 4 – SIRURGICAL ATTACK – CISO MIND MAP
 ![titulo del tema del primer slash](https://github.com/user-attachments/assets/cb0385c2-fa5b-4316-b258-b67d96e51daf)
 
 ## GESTION DE IDENTIDAD Y ACCESO
@@ -10,25 +10,40 @@ Se refiere a las políticas, tecnologías y prácticas que aseguran que las pers
 
 Provisioning: Es el proceso de crear, configurar y habilitar cuentas de usuario dentro de un sistema o aplicación. Esto implica asignar roles y permisos específicos a los usuarios para que puedan acceder a los recursos necesarios. 
 Deprovisioning: Es el proceso de eliminar o desactivar cuentas de usuario que ya no son necesarias, lo que ayuda a prevenir accesos no autorizados después de que un empleado deja la organización o cambia de rol.
+ 
+### ***Inicio de sesion único (SSO)***
 
-***Inicio de sesion único (SSO)***
+![tema 2 SSO](https://github.com/user-attachments/assets/ec88f0cd-13ba-4b29-b8ba-46b22942e26b)
+
 SSO es un sistema que permite a un usuario acceder a múltiples aplicaciones y servicios con una sola sesión de inicio. Los usuarios ingresan sus credenciales una sola vez y obtienen acceso a todas las aplicaciones autorizadas sin necesidad de volver a ingresar sus credenciales.
 
-Inicio de sesión único federado (FSSO)
+### ***Inicio de sesión único federado (FSSO)***
+
+![tema 3 FSSO](https://github.com/user-attachments/assets/ba8b1631-a97a-4b60-9a92-c843dbdc9415)
+
 FSSO permite la autenticación de usuarios a través de diferentes dominios o empresas mediante la utilización de estándares de federación. Esto significa que los usuarios pueden iniciar sesión en diferentes aplicaciones y servicios usando un conjunto común de credenciales, incluso si pertenecen a diferentes organizaciones.
 
-Autenticacion multifactor (MFA)
+### ***Autenticacion multifactor (MFA)***
+
+![tema 4 multifactor](https://github.com/user-attachments/assets/bf95626e-d5b1-4e25-9c0d-de7eca0ea0ce)
+
 MFA es un enfoque de seguridad que requiere que los usuarios presenten múltiples métodos de verificación (factores) para confirmar su identidad antes de acceder a recursos sensibles. Esto puede incluir algo que saben (como una contraseña), algo que tienen (como un teléfono móvil) y algo que son (como una huella dactilar).
 
-Control de acceso basado en roles (RBAC)
+### ***Control de acceso basado en roles (RBAC)***
+
+![tema 5 RBAC](https://github.com/user-attachments/assets/6af38359-3e4f-4adc-bcd3-3261ffca0970)
+
 RBAC es un método de administración de acceso que asigna permisos basados en los roles de los usuarios dentro de una organización. Cada rol tiene ciertos permisos asociados, y los usuarios son asignados a roles específicos según sus responsabilidades laborales.
 
-Almacen de identidades (LDAP, Active Directory)
+### ***Almacen de identidades (LDAP, Active Directory)***
+
+![tema 6 LDAP](https://github.com/user-attachments/assets/92435693-3a3a-4066-b736-a0dff58b17b8)
+
 Un Identity Store es un repositorio donde se almacenan las identidades de los usuarios y sus atributos. LDAP (Lightweight Directory Access Protocol) y Active Directory son ejemplos de servicios que permiten gestionar usuarios, grupos y otros recursos de identidad en una red.
 
 Cada uno de estos componentes es fundamental para asegurar el acceso adecuado a los sistemas y proteger los datos sensibles de una organización, reduciendo así el riesgo de accesos no autorizados y mejores prácticas de ciberseguridad. Si necesitas más detalles sobre alguno de estos temas o elementos, no dudes en preguntar.
 
-Security Operations Center (SOC) Essential Functions
+# Security Operations Center (SOC) Essential Functions
 AUTOEVALUEACION
 Es un proceso interno que permite a una organización evaluar sus propias políticas, procedimientos y controles de seguridad. Este proceso ayuda a identificar áreas de mejora y a garantizar que se están cumpliendo las mejores prácticas.
 
