@@ -26,6 +26,7 @@ Trata sobre cómo asegurar la infraestructura y los servicios que se ejecutan en
 Se enfoca en la protección de dispositivos y aplicaciones móviles:
 
 1.	**Bring Your Own Device (BYOD)**: Políticas para permitir que los empleados usen sus propios dispositivos de forma segura.
+   ![Image](https://github.com/user-attachments/assets/46588ae6-4d9c-4ed0-adb0-a027487011fa)
 2.	**Mobile Policy**: Reglas y controles específicos para la seguridad en dispositivos móviles.
 ### **Emerging Technologies (Tecnologías Emergentes)**
 Evalúa los riesgos y medidas de seguridad para nuevas tecnologías que las empresas están adoptando:
