@@ -159,5 +159,5 @@ Un plan de respuesta a incidentes eficaz consta de varios componentes clave:
 •	Realizar revisiones posteriores a los incidentes para identificar áreas de mejora y documentar qué salió bien y qué se podría mejorar para futuras respuestas.
 •	Actualizar políticas, procedimientos, planes de comunicación y tecnologías en función de los conocimientos adquiridos.
 
-
+![Image](https://github.com/user-attachments/assets/3bc1c7b9-7833-445b-9403-39d01b4b3d71)
 
