@@ -12,161 +12,132 @@
 
 Estas habilidades abarcan diversas áreas clave para el liderazgo efectivo en entornos empresariales y estratégicos.
 
-
-
-<table>
-<thead>
-<tr>
-<th> HABILIDAD</th>
-<th>DEFINICIÓN</th>
-<th>IMPORTANCIA PARA UN CISO </th>
-</tr>
-</thead>
-<tbody>
-<th>Estrategia empresarial </th>
-<th> Plan para alcanzar objetivos organizacionales.</th>
-<th> Alinear ciberseguridad con los objetivos de negocio. </th>
-</tr>
-</thead>
-<tbody>
-<th> Conocimiento de la industria </th>
-<th> Entender tendencias, regulaciones y riesgos.</th>
-<th> Anticipar amenazas y regulaciones del sector. </th>
-</tr>
-</thead>
-<tbody>
-<th> Perspicacia empresarial </th>
-<th> Habilidad para tomar decisiones estratégicas.</th>
-<th> Equilibrar seguridad con rentabilidad y crecimiento.</th>
-</tr>
-</thead>
-<tbody>
-<th> Habilidades de comunicación </th>
-<th> Transmitir información de manera efectiva.</th>
-<th> Explicar riesgos técnicos a la alta dirección.</th>
-</tr>
-</thead>
-<tbody>
-<th> Habilidades de presentación </th>
-<th> Exponer ideas de forma clara y persuasiva.</th>
-<th> Justificar inversiones en seguridad de manera clara.</th>
-</tr>
-</thead>
-<tbody>
-<th> Planificación estratégica </th>
-<th> Diseño de acciones para cumplir objetivos.</th>
-<th> Establecer planes de seguridad a largo plazo.</th>
-</tr>
-</thead>
-<tbody>
-<th> Liderazgo técnico </th>
-<th> Capacidad para dirigir equipos especializados.</th>
-<th> Guiar equipos en la implementación de seguridad.</th>
-</tr>
-</thead>
-<tbody>
-<th> Consultoría en seguridad </th>
-<th> Asesoría en riesgos y soluciones de seguridad.</th>
-<th> Asesorar sobre riesgos emergentes.</th>
-</tr>
-</thead>
-<tbody>
-<th> Gestión de partes interesadas </th>
-<th> Coordinación con actores clave en la empresa.</th>
-<th> Coordinar con directivos y proveedores claves.</th>
-</tr>
-</thead>
-<tbody>
-<th> Negociaciones </th>
-<th> Proceso para obtener acuerdos favorables.</th>
-<th> Obtener recursos y acuerdos de seguridad adecuados.</th>
-</tr>
-</thead>
-<tbody>
-<th> Misión y visión </th>
-<th> Propósito y proyección a futuro.</th>
-<th> Definir el rol de la seguridad en la organización.</th>
-</tr>
-</thead>
-<tbody>
-<th> Valores y cultura </th>
-<th> Principios que rigen el ambiente organizacional.</th>
-<th> Fomentar una cultura organizacional de ciberseguridad.</th>
-</tr>
-</thead>
-<tbody>
-<th> Desarrollo de hoja de ruta </th>
-<th> Plan detallado con pasos específicos.</th>
-<th> Establecer pasos concretos para la seguridad.</th>
-</tr>
-</thead>
-<tbody>
-<th> Desarrollo de casos de negocio </th>
-<th> Justificación financiera de proyectos.</th>
-<th> Justificar proyectos de seguridad ante la dirección.</th>
-</tr>
-</thead>
-<tbody>
-<th> Gestión de proyectos </th>
-<th> Planificación y ejecución de iniciativas.</th>
-<th> Garantizar la ejecución eficiente de estrategias.</th>
-</tr>
-</thead>
-<tbody>
-<th> Desarrollo de empleados </th>
-<th> Formación y crecimiento del talento humano.</th>
-<th> Capacitar y retener talento en seguridad.</th>
-</tr>
-</thead>
-<tbody>
-<th> Desarrollo de empleados </th>
-<th> Formación y crecimiento del talento humano.</th>
-<th> Capacitar y retener talento en seguridad.</th>
-</tr>
-</thead>
-<tbody>
-<th> Planificación financiera </th>
-<th> Organización de recursos económicos.</th>
-<th> Optimizar la inversión en ciberseguridad.</th>
-</tr>
-</thead>
-<tbody>
-<th> Presupuesto </th>
-<th> Asignación de fondos y costos.</th>
-<th> Asignar recursos estratégicamente.</th>
-</tr>
-</thead>
-<tbody>
-<th> Innovación </th>
-<th> Aplicación de nuevas ideas y tecnologías.</th>
-<th> Adaptarse a nuevas amenazas y tecnologías.</th>
-</tr>
-</thead>
-<tbody>
-<th> Mercadeo </th>
-<th> Promoción de productos y servicios.</th>
-<th> Posicionar la seguridad como ventaja competitiva.</th>
-</tr>
-</thead>
-<tbody>
-<th> Liderar el cambio </th>
-<th> Implementación de nuevas estrategias.</th>
-<th> Implementar nuevas políticas sin fricción.</th>
-</tr>
-</thead>
-<tbody>
-<th> Relaciones con clientes </th>
-<th> Gestión de la experiencia del cliente.</th>
-<th> Fortalecer la confianza con medidas de seguridad.</th>
-</tr>
-</thead>
-<tbody>
-<th> Trabajo en equipo </th>
-<th> Colaboración para alcanzar metas.</th>
-<th> Colaborar con todas las áreas de la empresa.</th>
-</tr>
-</thead>
-<tbody>
+<table border="1" style="width: 100%; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th style="font-size: 20px; text-align: center;">HABILIDAD</th>
+            <th style="font-size: 20px; text-align: center;">DEFINICIÓN</th>
+            <th style="font-size: 20px; text-align: center;">IMPORTANCIA PARA UN CISO</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Estrategia empresarial</strong></td>
+            <td style="text-align: justify;">Plan para alcanzar objetivos organizacionales.</td>
+            <td style="text-align: justify;">Alinear ciberseguridad con los objetivos de negocio.</td>
+        </tr>
+        <tr>
+            <td><strong>Conocimiento de la industria</strong></td>
+            <td style="text-align: justify;">Entender tendencias, regulaciones y riesgos.</td>
+            <td style="text-align: justify;">Anticipar amenazas y regulaciones del sector.</td>
+        </tr>
+        <tr>
+            <td><strong>Perspicacia empresarial</strong></td>
+            <td style="text-align: justify;">Habilidad para tomar decisiones estratégicas.</td>
+            <td style="text-align: justify;">Equilibrar seguridad con rentabilidad y crecimiento.</td>
+        </tr>
+        <tr>
+            <td><strong>Habilidades de comunicación</strong></td>
+            <td style="text-align: justify;">Transmitir información de manera efectiva.</td>
+            <td style="text-align: justify;">Explicar riesgos técnicos a la alta dirección.</td>
+        </tr>
+        <tr>
+            <td><strong>Habilidades de presentación</strong></td>
+            <td style="text-align: justify;">Exponer ideas de forma clara y persuasiva.</td>
+            <td style="text-align: justify;">Justificar inversiones en seguridad de manera clara.</td>
+        </tr>
+        <tr>
+            <td><strong>Planificación estratégica</strong></td>
+            <td style="text-align: justify;">Diseño de acciones para cumplir objetivos.</td>
+            <td style="text-align: justify;">Establecer planes de seguridad a largo plazo.</td>
+        </tr>
+        <tr>
+            <td><strong>Liderazgo técnico</strong></td>
+            <td style="text-align: justify;">Capacidad para dirigir equipos especializados.</td>
+            <td style="text-align: justify;">Guiar equipos en la implementación de seguridad.</td>
+        </tr>
+        <tr>
+            <td><strong>Consultoría en seguridad</strong></td>
+            <td style="text-align: justify;">Asesoría en riesgos y soluciones de seguridad.</td>
+            <td style="text-align: justify;">Asesorar sobre riesgos emergentes.</td>
+        </tr>
+        <tr>
+            <td><strong>Gestión de partes interesadas</strong></td>
+            <td style="text-align: justify;">Coordinación con actores clave en la empresa.</td>
+            <td style="text-align: justify;">Coordinar con directivos y proveedores clave.</td>
+        </tr>
+        <tr>
+            <td><strong>Negociaciones</strong></td>
+            <td style="text-align: justify;">Proceso para obtener acuerdos favorables.</td>
+            <td style="text-align: justify;">Obtener recursos y acuerdos de seguridad adecuados.</td>
+        </tr>
+        <tr>
+            <td><strong>Misión y visión</strong></td>
+            <td style="text-align: justify;">Propósito y proyección a futuro.</td>
+            <td style="text-align: justify;">Definir el rol de la seguridad en la organización.</td>
+        </tr>
+        <tr>
+            <td><strong>Valores y cultura</strong></td>
+            <td style="text-align: justify;">Principios que rigen el ambiente organizacional.</td>
+            <td style="text-align: justify;">Fomentar una cultura organizacional de ciberseguridad.</td>
+        </tr>
+        <tr>
+            <td><strong>Desarrollo de hoja de ruta</strong></td>
+            <td style="text-align: justify;">Plan detallado con pasos específicos.</td>
+            <td style="text-align: justify;">Establecer pasos concretos para la seguridad.</td>
+        </tr>
+        <tr>
+            <td><strong>Desarrollo de casos de negocio</strong></td>
+            <td style="text-align: justify;">Justificación financiera de proyectos.</td>
+            <td style="text-align: justify;">Justificar proyectos de seguridad ante la dirección.</td>
+        </tr>
+        <tr>
+            <td><strong>Gestión de proyectos</strong></td>
+            <td style="text-align: justify;">Planificación y ejecución de iniciativas.</td>
+            <td style="text-align: justify;">Garantizar la ejecución eficiente de estrategias.</td>
+        </tr>
+        <tr>
+            <td><strong>Desarrollo de empleados</strong></td>
+            <td style="text-align: justify;">Formación y crecimiento del talento humano.</td>
+            <td style="text-align: justify;">Capacitar y retener talento en seguridad.</td>
+        </tr>
+        <tr>
+            <td><strong>Planificación financiera</strong></td>
+            <td style="text-align: justify;">Organización de recursos económicos.</td>
+            <td style="text-align: justify;">Optimizar la inversión en ciberseguridad.</td>
+        </tr>
+        <tr>
+            <td><strong>Presupuesto</strong></td>
+            <td style="text-align: justify;">Asignación de fondos y costos.</td>
+            <td style="text-align: justify;">Asignar recursos estratégicamente.</td>
+        </tr>
+        <tr>
+            <td><strong>Innovación</strong></td>
+            <td style="text-align: justify;">Aplicación de nuevas ideas y tecnologías.</td>
+            <td style="text-align: justify;">Adaptarse a nuevas amenazas y tecnologías.</td>
+        </tr>
+        <tr>
+            <td><strong>Mercadeo</strong></td>
+            <td style="text-align: justify;">Promoción de productos y servicios.</td>
+            <td style="text-align: justify;">Posicionar la seguridad como ventaja competitiva.</td>
+        </tr>
+        <tr>
+            <td><strong>Liderar el cambio</strong></td>
+            <td style="text-align: justify;">Implementación de nuevas estrategias.</td>
+            <td style="text-align: justify;">Implementar nuevas políticas sin fricción.</td>
+        </tr>
+        <tr>
+            <td><strong>Relaciones con clientes</strong></td>
+            <td style="text-align: justify;">Gestión de la experiencia del cliente.</td>
+            <td style="text-align: justify;">Fortalecer la confianza con medidas de seguridad.</td>
+        </tr>
+        <tr>
+            <td><strong>Trabajo en equipo</strong></td>
+            <td style="text-align: justify;">Colaboración para alcanzar metas.</td>
+            <td style="text-align: justify;">Colaborar con todas las áreas de la empresa.</td>
+        </tr>
+    </tbody>
+</table>
 
 
 # <p align="center"> SOC - COMMAND CENTER </p>
