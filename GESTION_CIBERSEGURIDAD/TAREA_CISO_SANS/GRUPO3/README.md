@@ -1,5 +1,6 @@
 ### **Business Enablement (Habilitación del Negocio)**
 ![Image](https://github.com/user-attachments/assets/c9f5a59e-1e0b-4204-ae22-0281cc461fd5)
+
 Cada área representa aspectos donde la seguridad es fundamental para apoyar el crecimiento y operación de la empresa de forma segura.
 
 ### **Product Security (Seguridad de Producto)**
