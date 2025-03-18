@@ -28,7 +28,7 @@ Es diferente a los marcos de evaluación de riesgos que centran sus resultados e
 Construye una base para desarrollar un enfoque sólido para la gestión de riesgos de la información.
 
 ### 1.2 NIST RFM:
-![FAIR](https://csrc.nist.gov/CSRC/media/Projects/risk-management/images-media/RMF%20Logos/PNG%20Format/NIST%20RMF%20Graphc.png)
+![NIST RFM](https://csrc.nist.gov/CSRC/media/Projects/risk-management/images-media/RMF%20Logos/PNG%20Format/NIST%20RMF%20Graphc.png)
 
 Un marco de gestión de riesgos (RMF- Risk Framework Management) es un conjunto de prácticas, procesos y tecnologías que permiten a una organización identificar, evaluar y analizar los riesgos para gestionarlos dentro de su organización.
 Un marco de gestión de riesgos es un elemento fundamental para cualquier programa de cumplimiento sólido y generalmente sigue estos pasos:
@@ -49,7 +49,7 @@ El Marco de Gestión de Riesgos del Instituto Nacional de Estándares y Tecnolog
 •	Monitorear : revisar los controles para garantizar que sigan mitigando los riesgos según lo previsto
 
 ### 1.3 OCTAVE:
-![FAIR](https://www.securityartwork.es/wp-content/uploads/2012/03/1.jpg)
+![OCTAVE](https://www.securityartwork.es/wp-content/uploads/2012/03/1.jpg)
 
 (OCTAVE - Operative Critical Treat Active Vulnerabilities Evaluation)
 (Evaluación operativa crítica, de amenazas, de activos y de vulnerabilidad). Metodología de análisis y gestión de riesgos. Objetivo garantizar los sistemas informáticos en el interior de una empresa u organización.
@@ -58,8 +58,17 @@ El Marco de Gestión de Riesgos del Instituto Nacional de Estándares y Tecnolog
 3. Fase: Contiene la evaluación de los riesgos y la ponderación de los mismos, la estrategia de protección y el plano de reducción de los riesgos.
 
 ### 1.4 TARA:
+![TARA](https://www.consuunt.com/wp-content/uploads/2021/04/TARA-Framework-Template.gif)
 
-BLA BLA BLA
+El marco TARA es una herramienta que ayuda a evaluar los riesgos y cómo gestionarlos. Para ello, propone clasificar los Riesgos según 2 variables:
+•	La probabilidad de que ocurran estos riesgos.
+•	El impacto que tendrían estos riesgos.
+
+Este modelo define entonces 4 escenarios dependiendo de si estas variables tienen valores Altos o Bajos. Su nombre es un acrónimo de las Estrategias propuestas en cada escenario:
+•	Transferir el riesgo.
+•	Evite el riesgo.
+•	Reducir el riesgo.
+•	Acepte el riesgo.
 
 ***
 
@@ -80,11 +89,11 @@ _bla bla bla_
 ***
 
 ## 4. RISK ASSESSMENT PROCESS
-_bla bla bla_
+![rISK ASSM PROC](https://web-material3.yokogawa.com/1/30040/overview/risk%20asses.png)
+
+Proceso de evaluación de riesgos de ciberseguridad método para identificar, evaluar y priorizar amenazas y vulnerabilidades a los sistemas de información de una organización. Objetivo es mejorar las medidas de seguridad y mitigar los riesgos
+
 ![MITM](https://beaglesecurity.com/blog/images/man-in-the-middle-attacks.webp)
-
-![Cyber](https://i.gifer.com/origin/46/46400cbacaf8eb1b36a89cdcd7da6740_w200.webp)
-
 
 ### :imp::imp::imp::imp::imp:CONOCE UN POCO MÁS SOBRE ATAQUES DDOS...............
 
