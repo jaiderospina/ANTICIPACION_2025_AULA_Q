@@ -82,3 +82,5 @@ La caza de amenazas (Threat Hunting) es una estrategia proactiva en la que los a
 
 ### Correlate Events to Threat Actors (Correlacionar Eventos con Actores de Amenaza)
 Proceso de análisis en el que se asocian incidentes de seguridad con actores maliciosos conocidos, utilizando técnicas de inteligencia para entender el alcance y la intención del ataque.
+
+![Image](https://github.com/user-attachments/assets/9fd36624-ada8-4100-91c6-2a3ea9709dbf)
