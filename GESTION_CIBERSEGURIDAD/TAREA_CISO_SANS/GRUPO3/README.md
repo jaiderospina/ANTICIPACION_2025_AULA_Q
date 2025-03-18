@@ -65,6 +65,9 @@ Datos utilizados para identificar y caracterizar actores de amenazas cibernétic
 Proceso mediante el cual una organización analiza eventos de seguridad internos para identificar patrones y determinar si una amenaza proviene de un atacante específico, un grupo o un empleado malintencionado.
 
 
+![Image](https://github.com/user-attachments/assets/da2a70d0-cda9-47be-bbe6-851c11474435)
+
+
 
 ### Internal Information Sources (Fuentes de Información Internas)
 Son los registros y datos generados dentro de una organización, como logs de servidores, análisis de tráfico de red y registros de autenticación, utilizados para detectar actividades sospechosas o amenazas potenciales.
