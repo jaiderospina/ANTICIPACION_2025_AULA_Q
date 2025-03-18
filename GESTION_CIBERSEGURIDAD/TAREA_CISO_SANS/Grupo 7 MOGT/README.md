@@ -96,14 +96,14 @@ Su objetivo es determinar el impacto financiero, operativo y reputacional de una
 
 PASOS DEL PROCESO BIA
 
-•  Identificación de procesos críticos 
-•  Evaluación del impacto 
-•  Determinación de tiempos de recuperación: Establecer métricas clave como: 
-•	RTO (Recovery Time Objective)
-•	RPO (Recovery Point Objective)
-•  Identificación de dependencias y recursos
-•  Desarrollo de estrategias de mitigación 
-•  Revisión y actualización
+*  Identificación de procesos críticos 
+*  Evaluación del impacto 
+*  Determinación de tiempos de recuperación: Establecer métricas clave como: 
+*	 RTO (Recovery Time Objective)
+*	 RPO (Recovery Point Objective)
+*  Identificación de dependencias y recursos
+*  Desarrollo de estrategias de mitigación 
+*  Revisión y actualización
 
 ***
 
@@ -116,7 +116,7 @@ Proceso de evaluación de riesgos de ciberseguridad método para identificar, ev
 ***
 
 ## 5. RISK ANALYSIS AND QUANTIFICATION
-![quant riesgo ciber](https://www.gti.co.cr/images/tendencias/Riesgo_1000.jpg)
+![quant riesgo ciber](https://enredandoproyectos.com/wp-content/uploads/2019/11/La-Matriz-de-Riesgos_w-1536x864.png)
 
 La Cuantificación del Riesgo Cibernético (CRQ) calcula la exposición al riesgo y su posible impacto financiero en una organización en términos relevantes para el negocio, lo que permite a las organizaciones coordinar su estrategia de seguridad con los objetivos empresariales.
 
@@ -141,7 +141,6 @@ Proceso de encontrar, clasificar, corregir y reportar vulnerabilidades. A menudo
 
 La gestión de riesgos de proveedores en ciberseguridad es el proceso de identificar, evaluar y reducir los riesgos de seguridad de los proveedores externos para Garantizar la calidad, la seguridad y la disponibilidad de los recursos y servicios vitales para el éxito empresarial.
 
-![DNS spoofing imagen]( https://www.keyfactor.com/wp-content/uploads/HACKER-1.jpg)
 
 ## 9. PHYSICAL SECURITY
 ![Physical Sectyu](https://www.incibe.es/sites/default/files/blog/Seguridad_fisica_logica/circulo_esp.png)
