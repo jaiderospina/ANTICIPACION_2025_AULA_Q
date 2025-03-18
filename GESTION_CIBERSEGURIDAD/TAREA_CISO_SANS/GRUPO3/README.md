@@ -46,6 +46,9 @@ Se refiere a fuentes de información accesibles públicamente que pueden ser uti
 ### Collect Open-Source Info (Recopilar Información de Código Abierto)
 Proceso de obtención de datos de diversas fuentes públicas para identificar posibles amenazas, vulnerabilidades o patrones de ataque utilizados por actores malintencionados.
 
+
+![](        https://github.com/jaiderospina/ANTICIPACION_2025_AULA_Q/blob/main/GESTION_CIBERSEGURIDAD/TAREA_CISO_SANS/GRUPO3/Imagenes/Imagen%203.png)
+
 ### Retain Adversary Characteristics (Retener Características del Adversario)
 Proceso de almacenar y analizar patrones, tácticas, técnicas y procedimientos (TTPs) utilizados por los atacantes para mejorar la detección y prevención de futuras amenazas.
 
