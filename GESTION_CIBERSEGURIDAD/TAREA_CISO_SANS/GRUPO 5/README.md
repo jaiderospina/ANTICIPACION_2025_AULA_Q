@@ -151,11 +151,10 @@ Estas habilidades abarcan diversas áreas clave para el liderazgo efectivo en en
     </tbody>
 </table>
 
-<p style="color: red; text-align: center; font-weight: bold;">
-  Para un CISO, estas habilidades son clave para proteger la organización y fomentar su crecimiento. 
+**<p style="color: red; text-align: center; font-weight: bold;">**
+  **Para un CISO, estas habilidades son clave para proteger la organización y fomentar su crecimiento. 
   La combinación de liderazgo, visión estratégica y conocimiento técnico permite gestionar riesgos, 
-  comunicar prioridades y fortalecer una cultura de seguridad.
-</p>
+  comunicar prioridades y fortalecer una cultura de seguridad.</p>**
 
 # <p align="center"> SOC - COMMAND CENTER </p>
 El Command Center es un componente clave dentro del Security Operations Center (SOC) y tiene un rol esencial en la gestión y coordinación de incidentes de seguridad.
