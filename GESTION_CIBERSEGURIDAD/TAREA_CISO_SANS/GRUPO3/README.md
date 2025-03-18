@@ -11,6 +11,7 @@ Se enfoca en asegurar que los productos y servicios desarrollados por la empresa
 2.	**Secure Development Lifecycle (SDLC)**: Aplicar medidas de seguridad en cada fase del ciclo de vida del software.
 ![Image](https://github.com/user-attachments/assets/f27d9e41-c3b1-48e1-929b-4258a7001a89)
 3.	**Bug Bounties**: Programas donde se recompensa a hackers éticos por encontrar vulnerabilidades.
+![Image](https://github.com/user-attachments/assets/b0773266-22e6-49e8-b964-2073d012cb84)
 4.	**Web, Mobile, Cloud AppSec**: Asegurar aplicaciones web, móviles y en la nube.
 ### **Cloud Computing (Computación en la Nube)**
 Trata sobre cómo asegurar la infraestructura y los servicios que se ejecutan en la nube:
