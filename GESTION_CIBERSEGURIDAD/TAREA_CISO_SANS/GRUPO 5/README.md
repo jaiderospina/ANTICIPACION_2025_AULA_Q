@@ -1,5 +1,9 @@
 # <p align="center"> LEADERSHIP SKILLS </p>
 
+</p>
+
+**<p align="center">MY. CARLOS AUGUSTO URIBE VERGARA -- CC. DANNY LEOMAR SÁNCHEZ ROPERO -- CC. JOSÉ JOHAN MARTÍNEZ ROJAS</p>**
+
 <p align="center">
   <img src="IMAGES/imagen2.png">
 </p>
