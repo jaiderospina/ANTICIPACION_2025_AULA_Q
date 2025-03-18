@@ -1,5 +1,5 @@
 # - **INTEGRANTES DEL GRUPO**
-## - **Jhon Alexander Vargas*
+## - **Jhon Alexander Vargas**
 ## - **Gomez Guzman Victor**
 ## - **Garnica Torres Miguel**
 ## - **Rincon Soloano Ruben**
