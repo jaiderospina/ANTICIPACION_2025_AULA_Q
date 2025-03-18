@@ -1,3 +1,10 @@
+### **GRUPO 3**
+1. **MY JULIAN QUINTERO**
+2. **MY LUIS NARANJO**
+3. **MY CRISTIAN CACERES**
+4. **CC EDUARDO OTERO**
+
+
 ### **Business Enablement (Habilitación del Negocio)**
     ![Image](https://github.com/user-attachments/assets/c9f5a59e-1e0b-4204-ae22-0281cc461fd5)
 
