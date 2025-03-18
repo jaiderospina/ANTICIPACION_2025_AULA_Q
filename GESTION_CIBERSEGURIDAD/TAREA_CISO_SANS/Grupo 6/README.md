@@ -13,7 +13,7 @@ La estrategia es otro pilar fundamental de la responsabilidad del CISO. Se utili
 </p>
 
 <p align="center">
-  <img src="IMAGES/imagen2.png">
+  <img src="(http://if-institute.org/wp-content/uploads/2017/01/servicestrategy-300x200.jpg)">
 </p>
 
 ## Business Alignment (Alineación con el Negocio):
