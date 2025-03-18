@@ -12,8 +12,6 @@
 
 Estas habilidades abarcan diversas áreas clave para el liderazgo efectivo en entornos empresariales y estratégicos.
 
-</p>
-
 
 <table>
 <thead>
