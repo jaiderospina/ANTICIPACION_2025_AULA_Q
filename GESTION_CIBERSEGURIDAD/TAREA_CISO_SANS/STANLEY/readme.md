@@ -7,7 +7,6 @@
 # :rotating_light::skull: SANS MANAGEMENT CYBER LEADER  :skull::rotating_light: 
  ![enter image description here](https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/sans-institute-sees-its-breach-as-teachable-moment-showcase_image-2-a-14818.jpg)
 
-![Image](https://github.com/user-attachments/assets/9c424814-e04c-4467-88b9-a22b961cda35)
 ___
 
 ## Operaciones de Seguridad
@@ -16,7 +15,7 @@ Según el póster, la sección de "Security Operations" (Operaciones de Segurida
 
 ***
 
-### 1. Prevención ![Image](https://github.com/user-attachments/assets/9c424814-e04c-4467-88b9-a22b961cda35)
+### 1. Prevención 
 
 **Qué es:** La prevención se refiere a las medidas proactivas que se implementan para evitar que ocurran incidentes de seguridad. El objetivo es reducir la probabilidad de que las amenazas se materialicen y causen daño.
 
