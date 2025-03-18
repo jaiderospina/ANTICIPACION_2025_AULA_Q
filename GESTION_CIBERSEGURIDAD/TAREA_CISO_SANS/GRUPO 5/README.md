@@ -12,6 +12,8 @@
 
 Estas habilidades abarcan diversas áreas clave para el liderazgo efectivo en entornos empresariales y estratégicos.
 
+
+
 <table>
 <thead>
 <tr>
@@ -162,9 +164,10 @@ Estas habilidades abarcan diversas áreas clave para el liderazgo efectivo en en
 <th> Trabajo en equipo </th>
 <th> Colaboración para alcanzar metas.</th>
 <th> Colaborar con todas las áreas de la empresa.</th>
+</tr>
+</thead>
+<tbody>
 
-
-</p>
 
 # <p align="center"> SOC - COMMAND CENTER </p>
 El Command Center es un componente clave dentro del Security Operations Center (SOC) y tiene un rol esencial en la gestión y coordinación de incidentes de seguridad.
