@@ -12,6 +12,10 @@ La estrategia es otro pilar fundamental de la responsabilidad del CISO. Se utili
 ![strategic](http://if-institute.org/wp-content/uploads/2017/01/servicestrategy-300x200.jpg)
 </p>
 
+<p align="center">
+  <img src="IMAGES/imagen2.png">
+</p>
+
 ## Business Alignment (Alineación con el Negocio):
 Implica asegurar que las iniciativas y los objetivos de seguridad de la información estén en consonancia y apoyen las metas y prioridades generales del negocio.
 Dentro del pilar de Estrategia, la alineación con el negocio es esencial para que la seguridad no se perciba como un obstáculo, sino como un habilitador que protege los activos y la continuidad del negocio.
