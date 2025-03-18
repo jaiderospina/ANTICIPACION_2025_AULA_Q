@@ -10,6 +10,7 @@
 ![Image](https://github.com/user-attachments/assets/349e7d5d-a905-4f65-a705-619c8ff35c50)
 ## INTRODUCCION
 ![Image](https://github.com/user-attachments/assets/914dd9b7-6296-405a-a2ec-893a6095dbfc)
+
 Según el póster, la sección de "Security Operations" (Operaciones de Seguridad) dentro del "CISO Mind Map" (Mapa Mental del CISO) abarca una serie de puntos interconectados que son cruciales para mantener la seguridad de una organización. A continuación, se detalla qué son y cómo funcionan estos puntos, según la información proporcionada:
 
 ![enter image description here]([enter link description here](https://www.google.com/url?sa=i&url=https://pii-tools.com/the-basics-of-the-pci-what-makes-it-different/&psig=AOvVaw0Jvo2kQBKqetZolqF1Os2B&ust=1742417528476000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOj5h6vBlIwDFQAAAAAdAAAAABAJ))
@@ -17,7 +18,7 @@ Según el póster, la sección de "Security Operations" (Operaciones de Segurida
 
 ### 1.PCI: (Payment Card Industry Data Security Standard) 
 
-**Qué es:** La prevención se refiere a las medidas proactivas que se implementan para evitar que ocurran incidentes de seguridad. El objetivo es reducir la probabilidad de que las amenazas se materialicen y causen daño.
+Es un estándar de seguridad contractual impuesto por las principales marcas de tarjetas de pago, Obliga a bancos, tiendas y empresas que procesan pagos a proteger los datos de clientes.
 
 **Cómo funciona (controles preventivos):**
 
