@@ -22,12 +22,14 @@ Se enfoca en la protección de dispositivos y aplicaciones móviles:
 Evalúa los riesgos y medidas de seguridad para nuevas tecnologías que las empresas están adoptando:
 
 1.	**Internet of Things (IoT)**: Seguridad en dispositivos conectados a internet.
-2.	**Augmented Reality (AR)++: Protección en entornos de realidad aumentada.
+2.	**Augmented Reality (AR)**: Protección en entornos de realidad aumentada.
 3.	**Virtual Reality (VR)**: Seguridad en entornos de realidad virtual.
 ### **Mergers and Acquisitions (Fusiones y Adquisiciones)**
 Analiza el riesgo en procesos de compra o fusión de empresas:
 
 1.	**Security Due Diligence**: Evaluación de la seguridad de la empresa objetivo antes de una adquisición.
+
+
 
 
 ### Threat Intelligence (Inteligencia de Amenazas)
