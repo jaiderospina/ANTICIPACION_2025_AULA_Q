@@ -1,5 +1,5 @@
 ### **Business Enablement (Habilitación del Negocio)**
-![Image](https://github.com/user-attachments/assets/c9f5a59e-1e0b-4204-ae22-0281cc461fd5)
+ ![Image](https://github.com/user-attachments/assets/c9f5a59e-1e0b-4204-ae22-0281cc461fd5)
 
 Cada área representa aspectos donde la seguridad es fundamental para apoyar el crecimiento y operación de la empresa de forma segura.
 
@@ -7,14 +7,15 @@ Cada área representa aspectos donde la seguridad es fundamental para apoyar el 
 Se enfoca en asegurar que los productos y servicios desarrollados por la empresa sean seguros desde su diseño hasta su implementación. Incluye:
 
 1.	**Secure DevOps**: Integrar seguridad en las prácticas de desarrollo y operaciones (DevOps).
-![Image](https://github.com/user-attachments/assets/cb3f40d2-d21f-464e-8561-0a1777068b69)
+ ![Image](https://github.com/user-attachments/assets/cb3f40d2-d21f-464e-8561-0a1777068b69)
 2.	**Secure Development Lifecycle (SDLC)**: Aplicar medidas de seguridad en cada fase del ciclo de vida del software.
-![Image](https://github.com/user-attachments/assets/f27d9e41-c3b1-48e1-929b-4258a7001a89)
+ ![Image](https://github.com/user-attachments/assets/f27d9e41-c3b1-48e1-929b-4258a7001a89)
 3.	**Bug Bounties**: Programas donde se recompensa a hackers éticos por encontrar vulnerabilidades.
 
 ![Image](https://github.com/user-attachments/assets/b0773266-22e6-49e8-b964-2073d012cb84)
 
 4.	**Web, Mobile, Cloud AppSec**: Asegurar aplicaciones web, móviles y en la nube.
+  ![Image](https://github.com/user-attachments/assets/4a473f24-9b48-4fe4-830a-bbcd7043eeff)
 ### **Cloud Computing (Computación en la Nube)**
 Trata sobre cómo asegurar la infraestructura y los servicios que se ejecutan en la nube:
 
