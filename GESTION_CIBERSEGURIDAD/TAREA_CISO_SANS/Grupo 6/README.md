@@ -7,7 +7,7 @@ La gobernanza es un pilar fundamental de la responsabilidad del CISO, se utiliza
 ## Strategy (Estrategia):
 Implica la formulación de objetivos de seguridad a largo plazo y la planificación de las acciones necesarias para alcanzar esos objetivos, considerando el contexto del negocio y los riesgos.
 La estrategia es otro pilar fundamental de la responsabilidad del CISO. Se utiliza para alinear la seguridad de la información con los objetivos del negocio, identificar y priorizar los riesgos, y desarrollar una hoja de ruta (Roadmap Development) para mejorar la postura de seguridad de la organización.
-
+<p align="center">
 ![strategic](http://if-institute.org/wp-content/uploads/2017/01/servicestrategy-300x200.jpg)
 
 ## Business Alignment (Alineación con el Negocio):
