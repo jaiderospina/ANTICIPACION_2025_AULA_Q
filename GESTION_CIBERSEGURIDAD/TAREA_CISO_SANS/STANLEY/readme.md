@@ -89,3 +89,13 @@ Es importante tener en cuenta que estos puntos están interconectados y trabajan
 
  ![enter image description here](https://wirexsystems.com/wp-content/uploads/2023/01/unnamed-768x512.jpg)
 
+**¿Qué es la respuesta a incidentes?**
+La respuesta a incidentes es el proceso estructurado de: 
+
+* Identificar
+* Gestionar
+* Mitigar
+
+Efectos de los incidentes de ciberseguridad para minimizar los daños, recuperar las operaciones y prevenir futuros incidentes, por lo cual, es un componente fundamental de la estrategia de ciberseguridad de una organización, permitiendo una respuesta rápida y eficiente ante brechas de seguridad, ataques de malware, robo de datos y otras amenazas. La respuesta a incidentes implica la coordinación de esfuerzos de equipos especializados y el uso de marcos, herramientas y procesos diseñados para abordar eficazmente los eventos de seguridad.
+
+
