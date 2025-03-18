@@ -35,6 +35,9 @@ Analiza el riesgo en procesos de compra o fusión de empresas:
 ### Threat Intelligence (Inteligencia de Amenazas)
 La Inteligencia de Amenazas es el proceso de recopilación, análisis e interpretación de datos relacionados con posibles amenazas de ciberseguridad. Su objetivo es ayudar a las organizaciones a anticipar, prevenir y responder de manera efectiva a ataques cibernéticos.
 
+
+![](https://github.com/jaiderospina/ANTICIPACION_2025_AULA_Q/blob/main/GESTION_CIBERSEGURIDAD/TAREA_CISO_SANS/GRUPO3/Imagenes/Imagen%202.png)
+
 ### Open-Source Resources (Recursos de Código Abierto)
 Se refiere a fuentes de información accesibles públicamente que pueden ser utilizadas para recopilar datos sobre amenazas. Ejemplos incluyen foros de seguridad, bases de datos de vulnerabilidades, reportes de seguridad y redes sociales.
 
