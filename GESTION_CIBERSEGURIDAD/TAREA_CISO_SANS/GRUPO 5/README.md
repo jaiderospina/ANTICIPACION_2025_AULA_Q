@@ -1,4 +1,4 @@
-# LEADERSHIP SKILLS
+**<p align="center"> # LEADERSHIP SKILLS (Leadership Skills)</p>**
 
 <p align="center">
   <img src="IMAGES/Imagen1.png">
