@@ -22,21 +22,21 @@ Estas habilidades abarcan diversas áreas clave para el liderazgo efectivo en en
 </tr>
 </thead>
 <tbody>
-<th>Estrategia empresarial (MITM)</th>
+<th>Estrategia empresarial </th>
 <th> Plan para alcanzar objetivos organizacionales.</th>
-<th> Alinear ciberseguridad con los objetivos de negocio. (XSS)</th>
+<th> Alinear ciberseguridad con los objetivos de negocio. </th>
 </tr>
 </thead>
 <tbody>
-<th> Conocimiento de la industria (MITM)</th>
+<th> Conocimiento de la industria </th>
 <th> Entender tendencias, regulaciones y riesgos.</th>
-<th> Anticipar amenazas y regulaciones del sector. (XSS)</th>
+<th> Anticipar amenazas y regulaciones del sector. </th>
 </tr>
 </thead>
 <tbody>
-<th> Perspicacia empresarial (MITM)</th>
+<th> Perspicacia empresarial </th>
 <th> Habilidad para tomar decisiones estratégicas.</th>
-<th> Equilibrar seguridad con rentabilidad y crecimiento. (XSS)</th>
+<th> Equilibrar seguridad con rentabilidad y crecimiento.</th>
 
 # <p align="center"> SOC - COMMAND CENTER </p>
 El Command Center es un componente clave dentro del Security Operations Center (SOC) y tiene un rol esencial en la gestión y coordinación de incidentes de seguridad.
