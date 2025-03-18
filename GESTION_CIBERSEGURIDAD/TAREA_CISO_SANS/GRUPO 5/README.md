@@ -2,7 +2,7 @@
 
 </p>
 
-**<p align="center">MY. CARLOS AUGUSTO URIBE VERGARA -- CC. DANNY LEOMAR SÁNCHEZ ROPERO -- CC. JOSÉ JOHAN MARTÍNEZ ROJAS</p>**
+**<p align="center"> MY. CARLOS AUGUSTO URIBE VERGARA -- CC. DANNY LEOMAR SÁNCHEZ ROPERO -- CC. JOSÉ JOHAN MARTÍNEZ ROJAS</p>**
 
 <p align="center">
   <img src="IMAGES/imagen2.png">
@@ -88,9 +88,13 @@ El Command Center es un componente clave dentro del Security Operations Center (
 </p>
 El Command Center actúa como el cerebro operativo durante las operaciones de seguridad y, sobre todo, en la respuesta a incidentes.
 Se subdivide o se representa a traves de tres lineas:
+</p>
 1. Soporte tecnico
+</p>
 2. Aplicacion de la ley
+</p>
 3. El publico
+</p>
 <p align="center">
   <img src="IMAGES/C2.png">
 </p>
