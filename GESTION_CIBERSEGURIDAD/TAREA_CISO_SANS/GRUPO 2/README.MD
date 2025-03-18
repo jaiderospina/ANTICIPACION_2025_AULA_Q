@@ -23,14 +23,14 @@ Es un estándar de seguridad contractual impuesto por las principales marcas de 
 
 Ley de EE.UU. para la seguridad de la información financiera de empresas públicas. Exige controles estrictos para evitar fraudes financieros y manipulación de datos.
 
-![Image](https://github.com/user-attachments/assets/96fa4d96-ad37-40b7-8082-c9c69f15f797)
+![Image](https://github.com/user-attachments/assets/98a46594-5ca4-4938-8876-2506f123f3ee)
 
 
 
 
 
 
-
+![Image](https://github.com/user-attachments/assets/98a46594-5ca4-4938-8876-2506f123f3ee)
 
 **Cómo funciona (controles preventivos):**
 
