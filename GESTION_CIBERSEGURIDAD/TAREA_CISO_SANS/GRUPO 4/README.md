@@ -45,7 +45,9 @@ Un Identity Store es un repositorio donde se almacenan las identidades de los us
 Cada uno de estos componentes es fundamental para asegurar el acceso adecuado a los sistemas y proteger los datos sensibles de una organización, reduciendo así el riesgo de accesos no autorizados y mejores prácticas de ciberseguridad. Si necesitas más detalles sobre alguno de estos temas o elementos, no dudes en preguntar.
 
 # Security Operations Center (SOC) Essential Functions
-AUTOEVALUEACION
+
+# AUTOEVALUACION
+
 Es un proceso interno que permite a una organización evaluar sus propias políticas, procedimientos y controles de seguridad. Este proceso ayuda a identificar áreas de mejora y a garantizar que se están cumpliendo las mejores prácticas.
 
 ## MONITOREO DE CONFIGURACION
@@ -54,10 +56,12 @@ Es un proceso interno que permite a una organización evaluar sus propias polít
 
 Proceso de supervisar y gestionar las configuraciones de sistemas y redes para detectar y registrar cambios. Propósito: Asegurar que las configuraciones se mantengan dentro de los estándares de seguridad y para identificar posibles amenazas o desviacione
 
-Crear lineas de base
+### ***Crear lineas de base***
+
 Establecer un punto de referencia para la configuración del sistema y sus componentes. Esto implica documentar la configuración actual y aceptable de los recursos IT, para poder identificar cualquier desviación futura que pueda indicar un problema de seguridad.
 
 Identificar cambios de configuracion
+
 La práctica de revisar y supervisar las configuraciones de los sistemas y redes para detectar cualquier modificación. Esta actividad es crucial para la seguridad, ya que los cambios no autorizados pueden ser indicativos de un ataque o de una violación de la política de seguridad.
 
 Mantener sistemas
