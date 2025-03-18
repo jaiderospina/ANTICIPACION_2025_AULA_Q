@@ -23,7 +23,6 @@ Estas habilidades abarcan diversas áreas clave para el liderazgo efectivo en en
 </tr>
 </thead>
 <tbody>
-<tr>
 <th> Plan para alcanzar objetivos organizacionales.</th>
 <th> Alinear ciberseguridad con los objetivos de negocio. (XSS)</th>
 
