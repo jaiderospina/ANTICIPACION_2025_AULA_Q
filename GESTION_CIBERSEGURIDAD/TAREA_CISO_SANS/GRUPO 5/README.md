@@ -53,7 +53,7 @@ Soporte tecnico, aplicacion de la ley, el publico. </p>
 Centraliza la comunicación durante incidentes críticos, incluyendo manejo de crisis y coordinación con stakeholders externos (por ejemplo, entes regulatorios, clientes, proveedores, autoridades).</p>
 
 ## 2. Aplicacion de la ley:
-El término Law Enforcement (Aplicación de la Ley o Autoridades Policiales) aparece como una parte clave dentro de las funciones del Security Operations Center (SOC), específicamente relacionado con la gestión de incidentes y respuesta a eventos de seguridad graves.
+El término Law Enforcement (Aplicación de la Ley o Autoridades Policiales) aparece como una parte clave dentro de las funciones del Security Operations Center (SOC), específicamente relacionado con la gestión de incidentes y respuesta a eventos de seguridad graves.</p>
 a.	Reporte de Actividad Ilegal:
 •	Reportar actividades sospechosas o ilegales detectadas en la red o sistemas.
 •	Coordinar con la policía o agencias gubernamentales para compartir pruebas.
