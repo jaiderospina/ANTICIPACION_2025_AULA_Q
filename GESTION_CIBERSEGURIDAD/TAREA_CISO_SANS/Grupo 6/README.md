@@ -16,11 +16,13 @@ La estrategia es otro pilar fundamental de la responsabilidad del CISO. Se utili
 Implica asegurar que las iniciativas y los objetivos de seguridad de la información estén en consonancia y apoyen las metas y prioridades generales del negocio.
 Dentro del pilar de Estrategia, la alineación con el negocio es esencial para que la seguridad no se perciba como un obstáculo, sino como un habilitador que protege los activos y la continuidad del negocio.
 
-
+![Business](https://www.dataprise.com/wp-content/uploads/bb-plugin/cache/4-Tips-to-Achieve-Business-and-IT-Alignment-square-7830aaedf81068be37949bf84714e93b-x1fvmbud560l.png)
 
 ## Risk Management (Gestión de Riesgos):
 Es el proceso de identificar, evaluar, tratar y monitorear los riesgos de seguridad de la información para minimizar su impacto en la organización.
 La gestión de riesgos es un elemento central del pilar de Estrategia  y se utiliza en todas las áreas de la seguridad para tomar decisiones informadas sobre las inversiones y las acciones a seguir. Incluye metodologías como FAIR, NIST RMF, OCTAVE y TARA.
+
+![Risk](https://ipkeys.com/wp-content/uploads/2022/08/RMF-7-Steps.jpeg)
 
 ## Program Frameworks (Marcos de Programas):
 Son estructuras o conjuntos de directrices que ayudan a las organizaciones a establecer, implementar y mejorar sus programas de seguridad de la información.
@@ -28,19 +30,31 @@ Dentro del pilar de Estrategia, los marcos de programas como NIST CSF e ISO 2700
     • **NIST CSF (National Institute of Standards and Technology Cybersecurity Framework)**: Un marco voluntario que consiste en estándares, directrices y mejores prácticas para gestionar los riesgos de ciberseguridad. Se utiliza para comprender, comunicar y gestionar el riesgo cibernético.
     • **ISO 27000**: Una familia de estándares internacionales que abordan la seguridad de la información. Incluye el ISO 27001, que especifica los requisitos para un sistema de gestión de la seguridad de la información (SGSI).
 
+![strategic](https://media.licdn.com/dms/image/v2/D4D12AQEaLWuzTCni3w/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709559736278?e=2147483647&v=beta&t=Gilo8Uct4Z4JA16q_J7tZBx4wNCvw6fNsksmfDA6i5w)
+
+![strategic](https://static.wixstatic.com/media/532745_7ae1a283e22341fe8fa503ae65e87bf2~mv2.webp/v1/fill/w_796,h_454,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/532745_7ae1a283e22341fe8fa503ae65e87bf2~mv2.webp)
+
+![strategic](https://media.licdn.com/dms/image/v2/D4E12AQGjtfQ7DhXUjg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1722494739361?e=2147483647&v=beta&t=K6_-gBHFpxxfi9GbUb2wvUiBPRtOPplj0Wvd7eQB-HI)
+
 ## Control Frameworks (Marcos de Control):
 Son conjuntos estructurados de controles de seguridad que una organización puede implementar para mitigar riesgos específicos y cumplir con requisitos regulatorios.
 Dentro del pilar de Gobernanza, los marcos de control como NIST 800-53 y CIS Controls proporcionan listas detalladas de controles recomendados.
     • **NIST 800-53**: Un catálogo de controles de seguridad y privacidad que las agencias federales de EE. UU. y otras organizaciones pueden seleccionar e implementar para proteger sus sistemas de información y datos. También se utiliza ampliamente en el sector privado.
     • **CIS Controls (Center for Internet Security Controls)**: Un conjunto de acciones de seguridad prioritarias y probadas que las organizaciones pueden implementar para mejorar su postura de ciberseguridad. Están organizados por orden de efectividad para mitigar los ataques más comunes.
 
+![strategic](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzat7t5A5lPNHPOQd0dDmE8Pe8cvjyFljQ3A&s)
+
 ## Program Structure (Estructura del Programa):
 Se refiere a la organización y los componentes clave del programa de seguridad de la información, incluyendo sus diferentes áreas, proyectos e iniciativas.
 Dentro del pilar de Gobernanza, definir una estructura clara del programa ayuda a gestionar la complejidad y asegurar que todos los aspectos de la seguridad estén cubiertos de manera organizada.
 
+![strategic](https://www.future-processing.com/blog/wp-content/uploads/2024/07/governance-structure-main-principles.jpg)
+
 ## Program Management (Gestión de Programas):
 Se refiere a la planificación, ejecución, seguimiento y control de los múltiples proyectos e iniciativas que componen el programa de seguridad de la información, asegurando que se cumplan los objetivos y se gestionen los riesgos.
 Dentro del pilar de Gobernanza, la gestión de programas es crucial para coordinar las diferentes actividades de seguridad y asegurar su coherencia y eficacia.
+
+![strategic](https://www.icertglobal.com/images/program-management-word-cloud-business-concept-60485177.jpg)
 
 ## Communications Plan (Plan de Comunicaciones):
 Es un documento que describe cómo, cuándo y con quién se comunicará la información relacionada con la seguridad de la información, incluyendo políticas, incidentes, métricas y otras actualizaciones relevantes.
