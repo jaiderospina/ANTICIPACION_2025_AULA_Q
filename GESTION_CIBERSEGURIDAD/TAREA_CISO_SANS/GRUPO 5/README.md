@@ -19,7 +19,7 @@ Estas habilidades abarcan diversas áreas clave para el liderazgo efectivo en en
 <th> HABILIDAD</th>
 <th>DEFINICIÓN</th>
 <th>IMPORTANCIA PARA UN CISO (DoS)</th>
-<th style="text-align: left">Estrategia empresarial (MITM)</th>
+<th>Estrategia empresarial (MITM)</th>
 </tr>
 </thead>
 <tbody>
