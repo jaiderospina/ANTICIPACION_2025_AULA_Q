@@ -21,6 +21,10 @@ Es un estándar de seguridad contractual impuesto por las principales marcas de 
 
 ### ***2	SOX: (Sarbanes-Oxley Act)***
 
+Ley de EE.UU. para la seguridad de la información financiera de empresas públicas. Exige controles estrictos para evitar fraudes financieros y manipulación de datos.
+
+![Image](https://github.com/user-attachments/assets/96fa4d96-ad37-40b7-8082-c9c69f15f797)
+
 
 
 
