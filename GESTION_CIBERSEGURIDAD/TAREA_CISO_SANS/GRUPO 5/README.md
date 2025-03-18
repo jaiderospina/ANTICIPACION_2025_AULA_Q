@@ -95,3 +95,5 @@ Se subdivide o se representa a traves de tres lineas:
 <p align="center">
   <img src="IMAGES/C2.png">
 </p>
+
+**1. Soporte tecnico:** Centraliza la comunicación durante incidentes críticos, incluyendo manejo de crisis y coordinación con stakeholders externos (por ejemplo, entes regulatorios, clientes, proveedores, autoridades).</p>
