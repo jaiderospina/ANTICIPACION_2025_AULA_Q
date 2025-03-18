@@ -1,4 +1,5 @@
-![tema 5 RBAC](https://github.com/user-attachments/assets/d6b31fec-0bb9-46da-b937-2927c945d92f)# GRUPO # 4 – SIRURGICAL ATTACK – CISO MIND MAP
+# GRUPO # 4 – SIRURGICAL ATTACK – CISO MIND MAP
+
 ![titulo del tema del primer slash](https://github.com/user-attachments/assets/cb0385c2-fa5b-4316-b258-b67d96e51daf)
 
 ## GESTION DE IDENTIDAD Y ACCESO
