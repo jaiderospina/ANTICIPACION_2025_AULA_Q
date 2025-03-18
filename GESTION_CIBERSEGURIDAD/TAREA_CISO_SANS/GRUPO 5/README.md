@@ -81,3 +81,16 @@ Estas habilidades abarcan diversas áreas clave para el liderazgo efectivo en en
 </p>
 </p>
 Estas habilidades son fundamentales para el éxito en el entorno empresarial moderno. Desde la estrategia y la planificación hasta la comunicación y el liderazgo, cada una aporta al crecimiento organizacional y la toma de decisiones efectivas. Desarrollarlas permite a los profesionales enfrentar desafíos, impulsar la innovación y garantizar la sostenibilidad de sus empresas en un mundo competitivo.
+
+
+# <p align="center"> SOC - COMMAND CENTER </p>
+El Command Center es un componente clave dentro del Security Operations Center (SOC) y tiene un rol esencial en la gestión y coordinación de incidentes de seguridad.
+</p>
+El Command Center actúa como el cerebro operativo durante las operaciones de seguridad y, sobre todo, en la respuesta a incidentes.
+Se subdivide o se representa a traves de tres lineas:
+1. Soporte tecnico
+2. Aplicacion de la ley
+3. El publico
+<p align="center">
+  <img src="IMAGES/C2.png">
+</p>
