@@ -101,12 +101,63 @@ La respuesta a incidentes es el proceso estructurado quw trabaja con otras funci
 
 Efectos de los incidentes de ciberseguridad **para minimizar los daños, recuperar las operaciones y prevenir futuros incidentes**. A su vez, es un componente fundamental de la estrategia de ciberseguridad de una organización, permitiendo una respuesta rápida y eficiente ante brechas de seguridad, ataques de malware, robo de datos y otras amenazas. La respuesta a incidentes implica la coordinación de esfuerzos de equipos especializados y el uso de marcos, herramientas y procesos diseñados para abordar eficazmente los eventos de seguridad.
 
-La importancia de la respuesta a incidentes radica en su capacidad para:
+### 2. La importancia de la respuesta a incidentes radica en su capacidad para:
+
 * **Minimizar el tiempo de inactividad :** La contención y resolución rápidas reducen las interrupciones operativas.
 * **Limite las pérdidas financieras :** Evita daños monetarios extensos por robo de datos, demandas de ransomware o multas regulatorias.
 * **Preservar la reputación :** Demuestra un compromiso con la seguridad y fomenta la confianza entre las partes interesadas.
 * **Garantizar el cumplimiento :** Satisface los requisitos reglamentarios como GDPR, HIPAA o PCI DSS.
 * **Mejorar la preparación :** Ayuda a las organizaciones a adaptarse a las amenazas cambiantes identificando debilidades y mejorando las defensas.
+
+### 3. Tipos de incidentes de seguridad
+
+Las ciberamenazas se presentan de diversas formas, desde infecciones de malware hasta ataques de denegación de servicio (DoS) a gran escala. Comprender los diferentes tipos de incidentes de seguridad ayuda a las organizaciones a prepararse ante las amenazas, implementar medidas preventivas y responder eficazmente ante un ataque. La respuesta a incidentes aborda una amplia gama de amenazas a la seguridad, entre las que se incluyen:
+
+* **Ataques de malware**
+•	Ransomware, spyware y virus que comprometen los sistemas.
+
+* **Ataques de phishing**
+•	Correos electrónicos o mensajes fraudulentos diseñados para robar información confidencial.
+
+* **Violaciones de datos**
+•	Acceso no autorizado a datos confidenciales o de propiedad privada.
+
+* **Ataques de denegación de servicio (DoS)**
+•	Sobrecargar los sistemas para interrumpir las operaciones normales.
+
+### 3. Componentes de un plan de respuesta a incidentes eficaz
+
+Un plan de respuesta a incidentes eficaz contiene pasos claramente definidos que guían a la organización en la identificación, contención, erradicación y recuperación. Establecer un enfoque estructurado permite a los equipos de seguridad mitigar las amenazas y, al mismo tiempo, mejorar continuamente sus capacidades.
+Un plan de respuesta a incidentes eficaz consta de varios componentes clave:
+
+![enter image description here](https://wirexsystems.com/wp-content/uploads/2023/01/unnamed-20-768x432.png)
+
+**1. Preparación**
+•	Establecer un equipo de respuesta a incidentes y definir sus roles.
+•	Desarrollar políticas, manuales y protocolos para distintos tipos de incidentes.
+•	Realizar capacitaciones y simulaciones.
+
+**2. Identificación**
+•	Detectar posibles anomalías mediante herramientas de monitorización e informes de usuarios.
+•	Analizar alertas, registros y otros datos para determinar si ocurrió un incidente de seguridad y clasificar su gravedad.
+•	Determinar el alcance, el impacto y la naturaleza de la amenaza.
+
+**3. Contención**
+•	Limite la propagación de la amenaza aislando los sistemas afectados.
+•	Implementar estrategias de contención a corto y largo plazo.
+•	Minimizar los daños ocasionados por la infracción.
+
+**4. Erradicación**
+•	Elimine elementos maliciosos, restablezca cuentas comprometidas y corrija vulnerabilidades en sistemas y redes afectados.
+•	Realizar un análisis de causa raíz para evitar que vuelva a ocurrir.
+
+**5. Recuperación**
+•	Restaure los sistemas, datos, archivos y configuraciones afectados al funcionamiento normal mediante copias de seguridad.
+•	Monitorizar si hay señales de amenazas o vulnerabilidades residuales.
+
+**6. Lecciones aprendidas**
+•	Realizar revisiones posteriores a los incidentes para identificar áreas de mejora y documentar qué salió bien y qué se podría mejorar para futuras respuestas.
+•	Actualizar políticas, procedimientos, planes de comunicación y tecnologías en función de los conocimientos adquiridos.
 
 
 
