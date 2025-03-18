@@ -11,7 +11,7 @@
 ## INTRODUCCION
 ![Image](https://github.com/user-attachments/assets/914dd9b7-6296-405a-a2ec-893a6095dbfc)
 
-Según el póster, la sección de "Security Operations" (Operaciones de Seguridad) dentro del "CISO Mind Map" (Mapa Mental del CISO) abarca una serie de puntos interconectados que son cruciales para mantener la seguridad de una organización. A continuación, se detalla qué son y cómo funcionan estos puntos, según la información proporcionada:
+En un mundo digital lleno de amenazas y regulaciones, el CISO (Chief Information Security Officer) tiene la tarea de proteger la información y garantizar que las empresas cumplan con las normativas. Este documento resume los principales estándares de seguridad, leyes de privacidad y auditorías que deben seguirse para evitar sanciones y riesgos legales. Desde proteger datos financieros y médicos hasta garantizar la seguridad en bancos y empresas tecnológicas, el cumplimiento normativo es clave para operar con confianza en el mundo digital.
 
 ![enter image description here]([enter link description here](https://www.google.com/url?sa=i&url=https://pii-tools.com/the-basics-of-the-pci-what-makes-it-different/&psig=AOvVaw0Jvo2kQBKqetZolqF1Os2B&ust=1742417528476000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOj5h6vBlIwDFQAAAAAdAAAAABAJ))
 ***
