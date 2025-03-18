@@ -20,7 +20,7 @@ Estas habilidades abarcan diversas áreas clave para el liderazgo efectivo en en
 <tr>
 <th> HABILIDAD</th>
 <th>DEFINICIÓN</th>
-<th>IMPORTANCIA PARA UN CISO (DoS)</th>
+<th>IMPORTANCIA PARA UN CISO </th>
 </tr>
 </thead>
 <tbody>
@@ -39,6 +39,26 @@ Estas habilidades abarcan diversas áreas clave para el liderazgo efectivo en en
 <th> Perspicacia empresarial </th>
 <th> Habilidad para tomar decisiones estratégicas.</th>
 <th> Equilibrar seguridad con rentabilidad y crecimiento.</th>
+</tr>
+</thead>
+<tbody>
+<th> Habilidades de comunicación </th>
+<th> Transmitir información de manera efectiva.</th>
+<th> Explicar riesgos técnicos a la alta dirección.</th>
+</tr>
+</thead>
+<tbody>
+<th> Habilidades de presentación </th>
+<th> Exponer ideas de forma clara y persuasiva.</th>
+<th> Justificar inversiones en seguridad de manera clara.</th>
+</tr>
+</thead>
+<tbody>
+<th> Planificación estratégica </th>
+<th> Diseño de acciones para cumplir objetivos.</th>
+<th> Establecer planes de seguridad a largo plazo..</th>
+
+
 
 </p>
 
