@@ -28,6 +28,8 @@ Según el póster, la sección de "Security Operations" (Operaciones de Segurida
 * **Encryption, PKI, TLS:** La encriptación es el proceso de codificar la información para que solo las partes autorizadas puedan leerla. La infraestructura de clave pública (PKI) es un sistema para gestionar certificados digitales, utilizados para la autenticación y el cifrado. El protocolo TLS (Transport Layer Security) es un protocolo criptográfico para asegurar las comunicaciones a través de redes de ordenadores.
 * **Secure Development Lifecycle:** El ciclo de vida de desarrollo seguro (SDLC) es un proceso para integrar la seguridad en todas las etapas del desarrollo de software, desde el diseño hasta la implementación.
 
+---
+
 ### 2. Detección
 
 **Qué es:** La detección implica la capacidad de identificar y reconocer incidentes de seguridad que están ocurriendo o que ya han ocurrido. El objetivo es obtener visibilidad de las actividades maliciosas y anómalas en la red y los sistemas.
@@ -41,6 +43,8 @@ Según el póster, la sección de "Security Operations" (Operaciones de Segurida
 * **Threat Hunting:** La caza de amenazas es un proceso proactivo de búsqueda de amenazas que pueden evadir los sistemas de seguridad automatizados. Los cazadores de amenazas utilizan su conocimiento y experiencia para buscar indicadores de compromiso y comportamientos sospechosos.
 * **Continuous Monitoring:** El monitoreo continuo implica la evaluación continua de los controles de seguridad y el estado de seguridad de un sistema o red.
 * **Vulnerability Scanning:** El escaneo de vulnerabilidades implica el uso de herramientas automatizadas para identificar debilidades de seguridad en sistemas, redes y aplicaciones.
+
+---
 
 ### 3. Cumplimiento
 
@@ -60,6 +64,8 @@ Según el póster, la sección de "Security Operations" (Operaciones de Segurida
 * **NIST SP 800-53A:** La Publicación Especial 800-53A del NIST proporciona orientación para evaluar la eficacia de los controles de seguridad.
 * **FISMA y FedRAMP:** La Ley Federal de Gestión de Seguridad de la Información (FISMA) es una ley de los Estados Unidos que requiere que las agencias federales protejan sus sistemas de información. El Programa Federal de Gestión de Autorizaciones y Riesgos (FedRAMP) es un programa del gobierno de los Estados Unidos que proporciona un enfoque estandarizado para la evaluación de seguridad, autorización y monitoreo continuo de productos y servicios en la nube.
 * **SOC 2:** SOC 2 es un informe de control interno que certifica que una organización gestiona los datos de los clientes de forma segura.
+
+---
 
 ### 4. Respuesta
 
