@@ -1,12 +1,24 @@
 # <p align="center"> LEADERSHIP SKILLS </p>
 
-</p>
+<h2 style="color: blue; text-align: center;">Integrantes Grupo 5</h2>
 
 **<p align="center"> MY. CARLOS AUGUSTO URIBE VERGARA -- CC. DANNY LEOMAR SÁNCHEZ ROPERO -- CC. JOSÉ JOHAN MARTÍNEZ ROJAS</p>**
 
-<p align="center">
-  <img src="IMAGES/imagen2.png">
-</p>
+<table align="center" border="1">
+  <tr>
+    <th>Liderazgo Organizacional</th>
+    <th>Habilidades de la Organización</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="IMAGES/Imagen1.png" width="300">
+    </td>
+    <td align="center">
+      <img src="IMAGES/imagen2.png" width=300">
+    </td>
+  </tr>
+</table>
+
 
 **<p align="center"> Habilidades de liderazgo (Leadership Skills)</p>**
 
@@ -139,6 +151,11 @@ Estas habilidades abarcan diversas áreas clave para el liderazgo efectivo en en
     </tbody>
 </table>
 
+<p style="color: red; text-align: center; font-weight: bold;">
+  Para un CISO, estas habilidades son clave para proteger la organización y fomentar su crecimiento. 
+  La combinación de liderazgo, visión estratégica y conocimiento técnico permite gestionar riesgos, 
+  comunicar prioridades y fortalecer una cultura de seguridad.
+</p>
 
 # <p align="center"> SOC - COMMAND CENTER </p>
 El Command Center es un componente clave dentro del Security Operations Center (SOC) y tiene un rol esencial en la gestión y coordinación de incidentes de seguridad.
