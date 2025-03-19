@@ -85,5 +85,39 @@ Las auditorías verifican que las empresas cumplan con las regulaciones y que su
 
 Estándar de auditoría para evaluar controles de seguridad y operativos en empresas.
 
+![Image](https://github.com/user-attachments/assets/2fff1a0a-4b3c-4e7d-b2f2-a4e31ed333f0)
 
+### ***B) SOC 2 (Service Organization Control 2) ))***
+Informe de auditoría que demuestra que una empresa maneja datos de clientes con altos estándares de seguridad.
 
+IMAGEN
+
+### ***C)	ISO 27001 ***
+
+Certificación internacional para la gestión de seguridad de la información.
+
+IMAGEN 
+
+### ***D)	FISMA (Federal Information Security Management Act) & FedRAMP (Federal Risk and Authorization Management Program)***
+
+Regulaciones de seguridad para agencias del gobierno de EE.UU. y proveedores de tecnología
+
+IMAGEN
+
+### ***E)	FISMA (Federal Information Security Management Act) & FedRAMP (Federal Risk and Authorization Management Program)***
+
+Regulaciones de seguridad para agencias del gobierno de EE.UU. y proveedores de tecnología
+
+IMAGEN
+
+### ***F)	NIST SP 800-53A ***
+
+Guía para evaluar la efectividad de los controles de seguridad en agencias gubernamentales.
+
+IMAGEN
+
+### ***G)	COSO (Committee of Sponsoring Organizations of the Treadway Commission)***
+
+Marco de control interno usado para auditorías financieras y de seguridad.
+
+IMAGEN
