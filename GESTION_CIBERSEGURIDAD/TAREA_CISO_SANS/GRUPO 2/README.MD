@@ -152,7 +152,7 @@ Prevención del robo de patentes, marcas y secretos industriales.
 # - **SOC**
                                           
 ---
-##**Funciones esenciales del Centro de Operaciones de Seguridad**
+## - **Funciones esenciales del Centro de Operaciones de Seguridad**
 
 Esquema de Monitoreo de Seguridad en Redes herramientas para detectar, analizar y mitigar amenazas cibernéticas
 
