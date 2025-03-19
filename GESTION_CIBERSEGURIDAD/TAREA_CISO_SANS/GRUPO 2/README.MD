@@ -108,10 +108,47 @@ Regulaciones de seguridad para agencias del gobierno de EE.UU. y proveedores de 
 
 Guía para evaluar la efectividad de los controles de seguridad en agencias gubernamentales.
 
-IMAGEN
+![Image](https://github.com/user-attachments/assets/155902b3-726a-41a8-923b-5d8aea69b5ff)
+
 
 ### ***F)	COSO (Committee of Sponsoring Organizations of the Treadway Commission)***
 
 Marco de control interno usado para auditorías financieras y de seguridad.
 
+![Image](https://github.com/user-attachments/assets/54161ddf-affb-475c-9eb3-2802512d6e5d)
+
+---
+
+## 4.	Investigaciones
+
+Las investigaciones forenses y la protección de la propiedad intelectual ayudan a proteger información y responder a delitos digitales.
+
+### ***A) eDiscovery***
+
+Búsqueda y recuperación de datos digitales para investigaciones legales.
+
 IMAGEN
+
+### ***B)	FORENSE DIGITAL)***
+
+Análisis de dispositivos y registros digitales después de un ciberataque.
+
+IMAGEN
+
+---
+
+## 5.	Protección de la Propiedad Intelectual: (IP Protection) 
+
+Prevención del robo de patentes, marcas y secretos industriales.
+
+## 6.	Revisión del contrato: Asegurar que acuerdos comerciales cumplan con regulaciones de seguridad
+
+## 7.	Requisitos del cliente: Empresas que manejan datos de clientes deben cumplir con sus exigencias de seguridad.
+
+## 8.	Riesgo de demanda: Reducción del riesgo legal ante fugas de datos
+
+---
+
+## 	CONCLUSIONES 
+
+El cumplimiento normativo protege a las empresas de sanciones y refuerza su reputación. La privacidad de los datos es clave, con regulaciones como GDPR y HIPAA. Las auditorías aseguran estándares de seguridad, mientras que la forensia digital permite responder eficazmente a incidentes. El CISO debe gestionar riesgos de forma proactiva, adaptándose a un entorno de amenazas en constante evolución
