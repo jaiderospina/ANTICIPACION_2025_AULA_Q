@@ -15,7 +15,7 @@
       <img src="IMAGES/Imagen1.png" width="350">
     </td>
     <td align="center">
-      <img src="IMAGES/flecha.png" width="200">
+      <img src="IMAGES/flecha2.png" width="200">
     </td>
     <td align="center">
       <img src="IMAGES/imagen2.png" width="350">
