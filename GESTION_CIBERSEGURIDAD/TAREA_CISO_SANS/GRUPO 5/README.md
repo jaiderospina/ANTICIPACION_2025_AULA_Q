@@ -387,3 +387,10 @@ Las funciones del SOC relacionadas con el Público son:
     </tr>
   </tbody>
 </table>
+
+**<p style="color: red; text-align: center; font-weight: bold;">**
+  **El Centro de Comando es clave en la gestión de incidentes, integrando soporte técnico, coordinación con autoridades y comunicación efectiva. Su rápida respuesta minimiza riesgos, refuerza la seguridad y protege la reputación organizacional.</p>**
+
+
+
+ ## GRACIAS !!
