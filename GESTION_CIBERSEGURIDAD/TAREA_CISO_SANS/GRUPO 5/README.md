@@ -163,6 +163,11 @@ Estas habilidades abarcan diversas áreas clave para el liderazgo efectivo en en
             <td style="text-align: justify;">Colaboración para alcanzar metas.</td>
             <td style="text-align: justify;">Colaborar con todas las áreas de la empresa.</td>
         </tr>
+        <tr>
+            <td><strong>Mentoria</strong></td>
+            <td style="text-align: justify;">Formacion y guia a nuevos talentos.</td>
+            <td style="text-align: justify;">Formar a futuros lideres en ciberseguridad.</td>
+        </tr>
     </tbody>
 </table>
 
