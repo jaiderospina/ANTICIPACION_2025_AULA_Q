@@ -148,7 +148,10 @@ Prevención del robo de patentes, marcas y secretos industriales.
 ## 8.	Riesgo de demanda: Reducción del riesgo legal ante fugas de datos.
 
 --------
-                                                            # - **SOC**
+# - **SOC**
+
+font-size: 50px; /* SOC */
+            color: #333;
                                      
 ## - **Funciones esenciales del Centro de Operaciones de Seguridad**
 
