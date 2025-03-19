@@ -38,8 +38,8 @@ La gestión de riesgos es un elemento central del pilar de Estrategia  y se util
 
 ## Program Frameworks (Marcos de Programas):
 Son estructuras o conjuntos de directrices que ayudan a las organizaciones a establecer, implementar y mejorar sus programas de seguridad de la información.
-Los marcos de programas como NIST CSF e ISO 27000 proporcionan una base estructurada para la gestión de la seguridad.<br>
-    • **NIST CSF (National Institute of Standards and Technology Cybersecurity Framework)**: Un marco voluntario que consiste en estándares, directrices y mejores prácticas para gestionar los riesgos de ciberseguridad. Se utiliza para comprender, comunicar y gestionar el riesgo cibernético.<br>
+Los marcos de programas como NIST CSF e ISO 27000 proporcionan una base estructurada para la gestión de la seguridad.<br><br>
+    • **NIST CSF (National Institute of Standards and Technology Cybersecurity Framework)**: Un marco voluntario que consiste en estándares, directrices y mejores prácticas para gestionar los riesgos de ciberseguridad. Se utiliza para comprender, comunicar y gestionar el riesgo cibernético.<br><br>
     • **ISO 27000**: Una familia de estándares internacionales que abordan la seguridad de la información. Incluye el ISO 27001, que especifica los requisitos para un sistema de gestión de la seguridad de la información (SGSI).
 
 <p align="center">
@@ -48,8 +48,8 @@ Los marcos de programas como NIST CSF e ISO 27000 proporcionan una base estructu
 
 ## Control Frameworks (Marcos de Control):
 Son conjuntos estructurados de controles de seguridad que una organización puede implementar para mitigar riesgos específicos y cumplir con requisitos regulatorios.
-Los marcos de control como NIST 800-53 y CIS Controls proporcionan listas detalladas de controles recomendados.
-    • **NIST 800-53**: Un catálogo de controles de seguridad y privacidad que las agencias federales de EE. UU. y otras organizaciones pueden seleccionar e implementar para proteger sus sistemas de información y datos. También se utiliza ampliamente en el sector privado.
+Los marcos de control como NIST 800-53 y CIS Controls proporcionan listas detalladas de controles recomendados.<br><br>
+    • **NIST 800-53**: Un catálogo de controles de seguridad y privacidad que las agencias federales de EE. UU. y otras organizaciones pueden seleccionar e implementar para proteger sus sistemas de información y datos. También se utiliza ampliamente en el sector privado.<br><br>
     • **CIS Controls (Center for Internet Security Controls)**: Un conjunto de acciones de seguridad prioritarias y probadas que las organizaciones pueden implementar para mejorar su postura de ciberseguridad. Están organizados por orden de efectividad para mitigar los ataques más comunes.
 
 <p align="center">
