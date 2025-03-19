@@ -129,7 +129,7 @@ Búsqueda y recuperación de datos digitales para investigaciones legales.
 
 ![Image](https://github.com/user-attachments/assets/be8a0e8c-7dde-477f-9fdf-1dac978d7fe3)
 
-### ***B)	FORENSE DIGITAL)***
+### ***B)	FORENSE DIGITAL***
 
 Análisis de dispositivos y registros digitales después de un ciberataque.
 
@@ -141,14 +141,14 @@ Análisis de dispositivos y registros digitales después de un ciberataque.
 
 Prevención del robo de patentes, marcas y secretos industriales.
 
-## 6.	Revisión del contrato: Asegurar que acuerdos comerciales cumplan con regulaciones de seguridad
+## 6.	Revisión del contrato: Asegurar que acuerdos comerciales cumplan con regulaciones de seguridad.
 
 ## 7.	Requisitos del cliente: Empresas que manejan datos de clientes deben cumplir con sus exigencias de seguridad.
 
-## 8.	Riesgo de demanda: Reducción del riesgo legal ante fugas de datos
+## 8.	Riesgo de demanda: Reducción del riesgo legal ante fugas de datos.
 
 ---
 
 ## 	***CONCLUSIONES*** 
 
-El cumplimiento normativo protege a las empresas de sanciones y refuerza su reputación. La privacidad de los datos es clave, con regulaciones como GDPR y HIPAA. Las auditorías aseguran estándares de seguridad, mientras que la forensia digital permite responder eficazmente a incidentes. El CISO debe gestionar riesgos de forma proactiva, adaptándose a un entorno de amenazas en constante evolución
+El cumplimiento normativo protege a las empresas de sanciones y refuerza su reputación. La privacidad de los datos es clave, con regulaciones como GDPR y HIPAA. Las auditorías aseguran estándares de seguridad, mientras que la forensia digital permite responder eficazmente a incidentes. El CISO debe gestionar riesgos de forma proactiva, adaptándose a un entorno de amenazas en constante evolución.
