@@ -155,14 +155,14 @@ Prevención del robo de patentes, marcas y secretos industriales.
 
 Esquema de Monitoreo de Seguridad en Redes herramientas para detectar, analizar y mitigar amenazas cibernéticas
 
-1. ## ** ELEMENTOS CLAVES**
+ ## ** 1 ELEMENTOS CLAVES**
 
-A. ### ***Honeypots (Sistemas trampa)***
+### A. ***Honeypots (Sistemas trampa)***
 servidores que atraen atacantes y recopilan información sobre sus tácticas técnicas y procedimientos.
 
 IMAGEN 
 
-B. ### ***IDS – Intrusion Detection Systems (Sistemas de detección de intrusos)***
+### B. ***IDS – Intrusion Detection Systems (Sistemas de detección de intrusos)***
 Herramienta que permite monitorear, detectar, analizar e identificar.
 
 IMAGEN
