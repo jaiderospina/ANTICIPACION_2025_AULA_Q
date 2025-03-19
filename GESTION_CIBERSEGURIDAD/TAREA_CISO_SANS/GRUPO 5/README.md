@@ -1,9 +1,9 @@
 ------
-# <p align="center"> LEADERSHIP SKILLS </p>
+
 **<p align="center">INTEGRANTES GRUPO 5</p>**
 
 **<p align="center"> MY. CARLOS AUGUSTO URIBE VERGARA -- CC. DANNY LEOMAR SÁNCHEZ ROPERO -- CC. JOSÉ JOHAN MARTÍNEZ ROJAS</p>**
-
+# <p align="center"> LEADERSHIP SKILLS </p>
 <table align="center" border="1">
   <tr>
     <th>Liderazgo Organizacional</th>
