@@ -73,7 +73,7 @@ Es importante tener en cuenta que estos puntos están interconectados y trabajan
 
 ### 1. ¿Qué es la respuesta a incidentes?
 
-La respuesta a incidentes es el proceso estructurado quw trabaja con otras funciones del SOC para obtener apoyo y análisis, así como para informar sobre el estado y los resultados, a su vez, pemite: 
+La respuesta a incidentes es el proceso estructurado que trabaja con otras funciones del SOC para obtener apoyo y análisis, así como para informar sobre el estado y los resultados, a su vez, pemite: 
 
 * Identificar
 * Gestionar
