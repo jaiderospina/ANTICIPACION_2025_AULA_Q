@@ -9,7 +9,7 @@
 
 ------
 ------
-# <p align="center"> LEADERSHIP SKILLS </p>
+<p align="center"> LEADERSHIP SKILLS </p>
 <table align="center" border="1">
   <tr>
     <th>Liderazgo Organizacional</th>
