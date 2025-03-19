@@ -149,7 +149,7 @@ Prevención del robo de patentes, marcas y secretos industriales.
 
 ---
 
-# - **SOC**
+# -- **SOC**
                                           
 ---
 ## - **Funciones esenciales del Centro de Operaciones de Seguridad**
