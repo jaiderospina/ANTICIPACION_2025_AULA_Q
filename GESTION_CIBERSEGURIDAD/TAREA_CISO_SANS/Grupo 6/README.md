@@ -73,6 +73,9 @@ La gestión de programas es crucial para coordinar las diferentes actividades de
 Es un documento que describe cómo, cuándo y con quién se comunicará la información relacionada con la seguridad de la información, incluyendo políticas, incidentes, métricas y otras actualizaciones relevantes.
 Un plan de comunicaciones efectivo asegura que la información de seguridad llegue a las audiencias adecuadas de manera oportuna y clara.
 
+![plan](https://www.slideteam.net/media/catalog/product/cache/1280x720/d/a/data_governance_framework_with_strategic_communication_methods_slide01.jpg)
+
+
 ## Roles and Responsibilities (Roles y Responsabilidades):
 Se refiere a la asignación clara de tareas, deberes y rendición de cuentas a individuos o equipos dentro de la organización en relación con la seguridad de la información.
 La definición de roles y responsabilidades es crucial para asegurar que cada aspecto de la seguridad de la información sea abordado por personal apropiado, evitando lagunas y duplicidades.
@@ -83,21 +86,24 @@ La definición de roles y responsabilidades es crucial para asegurar que cada as
 Se refiere al proceso de identificar las necesidades de personal en seguridad de la información, incluyendo las habilidades, la cantidad y el momento en que se requieren.
 La planificación de la fuerza laboral es necesaria para asegurar que se cuente con el personal adecuado y capacitado para implementar y gestionar los programas de seguridad.
 
-![strategic](https://www.icertglobal.com/images/program-management-word-cloud-business-concept-60485177.jpg)
+![strategic](https://e7f71d4a.rocketcdn.me/wp-content/uploads/sites/20/2023/11/The-Workforce-Planning-Process-or-Cycle.png)
 
 ## Resource Management (Gestión de Recursos):
 Se refiere a la planificación, asignación y supervisión eficiente de los recursos necesarios para implementar y mantener los programas de seguridad, incluyendo presupuesto (Budgeting), personal, tecnología e infraestructura2 .
 La gestión de recursos asegura que las iniciativas de seguridad cuenten con los medios necesarios para su ejecución.
-![strategic](https://www.icertglobal.com/images/program-management-word-cloud-business-concept-60485177.jpg)
+
+![strategic](https://images.shiksha.com/mediadata/ugcDocuments/images/wordpressImages/2022_11_What-is-Resource-Management.jpg)
 
 ## Data Classification (Clasificación de Datos):
 Es el proceso de categorizar los datos de la organización en función de su sensibilidad, valor y requisitos regulatorios, para aplicar controles de seguridad apropiados.
 La clasificación de datos es fundamental para determinar el nivel de protección que se requiere para cada tipo de información.
 
-![strategic](https://www.icertglobal.com/images/program-management-word-cloud-business-concept-60485177.jpg)
+![strategic](https://www.ignyteplatform.com/wp-content/uploads/2024/03/Data-Classification-Levels.jpg)
 
 ## Security Policy (Política de Seguridad):
-![strategic](https://www.icertglobal.com/images/program-management-word-cloud-business-concept-60485177.jpg)
+
+![strategic](https://www.bizzsecure.com/wp-content/uploads/2020/01/65-Design-Information-Security-Policies-the-Right-Way-850x460.png)
+
 Son documentos que establecen las reglas, directrices y comportamientos esperados para proteger los activos de información de una organización.
 La política de seguridad proporciona un marco normativo para todas las actividades relacionadas con la seguridad de la información.
 
@@ -105,7 +111,7 @@ La política de seguridad proporciona un marco normativo para todas las activida
 Se refiere al proceso de fomentar una conciencia y una comprensión compartida de la importancia de la seguridad de la información en toda la organización, donde los empleados comprenden los riesgos y adoptan comportamientos seguros.
 Crear una cultura de seguridad es esencial para lograr que la seguridad sea una responsabilidad compartida y no solo del departamento de TI o seguridad.
 
-![strategic](https://www.icertglobal.com/images/program-management-word-cloud-business-concept-60485177.jpg)
+![strategic](https://sprinto.com/wp-content/uploads/2023/10/Copy-of-Blog_330_How-to-create-a-strong-company-culture-04-scaled.jpg)
 
 ## Security Training (Entrenamiento en Seguridad):
 Se refiere a las actividades diseñadas para educar a los empleados y otras partes interesadas sobre los riesgos de seguridad de la información y las mejores prácticas para mitigarlos.
@@ -113,23 +119,25 @@ El entrenamiento en seguridad es fundamental para crear conciencia y desarrollar
     • **Awareness Training (Entrenamiento de Concientización)**: Un tipo de entrenamiento en seguridad que se enfoca en sensibilizar a los usuarios sobre las amenazas de seguridad y las políticas de seguridad de la organización.
     • **Role-Based Training (Entrenamiento Basado en Roles)**: Un tipo de entrenamiento en seguridad que está diseñado específicamente para las responsabilidades y los riesgos asociados con los diferentes roles dentro de la organización.
 
-![strategic](https://www.icertglobal.com/images/program-management-word-cloud-business-concept-60485177.jpg)
+![strategic](https://www.ecsbiztech.com/wp-content/uploads/2020/12/cyber-awarenes-1280x658.jpeg)
 
 ## Metrics and Reporting (Métricas e Informes):
 Implica la definición y recopilación de datos cuantificables sobre el estado y la efectividad de los controles de seguridad, así como la comunicación de estos datos a las partes interesadas a través de informes.
 Las métricas y los informes son esenciales para medir el progreso, identificar áreas de mejora y comunicar el valor de las inversiones en seguridad.
 
-![strategic](https://www.icertglobal.com/images/program-management-word-cloud-business-concept-60485177.jpg)
+![strategic](https://docket.acc.com/sites/default/files/inline-images/cr1HlXO9XsjcCEqkDVNvGDJheXFPiLBPubei9mpw0LOdBCf2ax.jpg)
 
 ## IT Portfolio Management (Gestión del Portafolio de TI):
 Es el proceso de gestionar centralizadamente el conjunto de proyectos, activos y recursos de TI de una organización, incluyendo las inversiones en seguridad, para asegurar que estén alineados con los objetivos estratégicos y proporcionen el máximo valor.
 La gestión del portafolio de TI ayuda a priorizar las inversiones en seguridad en relación con otras necesidades de TI del negocio.
-![strategic](https://www.icertglobal.com/images/program-management-word-cloud-business-concept-60485177.jpg)
+
+![strategic](https://jaro-website.s3.ap-south-1.amazonaws.com/2024/03/Portfolio-Management-Insights-and-Strategies.jpg)
 
 ## Change Management (Gestión del Cambio):
 Es el proceso de gestionar la transición de la organización o partes de ella a un nuevo estado, asegurando que los cambios en la infraestructura, las aplicaciones o los procesos de seguridad se realicen de manera controlada y minimizando los riesgos.
 La gestión del cambio es fundamental para implementar nuevas medidas de seguridad o modificar las existentes sin interrumpir las operaciones del negocio ni introducir nuevas vulnerabilidades.
-![strategic](https://www.icertglobal.com/images/program-management-word-cloud-business-concept-60485177.jpg)
+
+![strategic](https://eu-images.contentstack.com/v3/assets/blt69509c9116440be8/blt9ecd1d43bc866925/6669f9cb2c656f72a946e9bb/changemanagement_NicoElNino-AlamyStockPhoto.jpg?width=1280&auto=webp&quality=95&format=jpg&disable=upscale)
 
 ## Board Communications (Comunicaciones con la Junta Directiva):
 Se refiere a la comunicación formal e informal entre el CISO y la junta directiva de la organización sobre el estado de la seguridad de la información, los riesgos clave, las iniciativas importantes y el rendimiento del programa de seguridad.
