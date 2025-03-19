@@ -12,13 +12,13 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="IMAGES/Imagen1.png" width="300">
+      <img src="IMAGES/Imagen1.png" width="350">
     </td>
     <td align="center">
-      <img src="IMAGES/flecha.png" width="100">
+      <img src="IMAGES/flecha.png" width="200">
     </td>
     <td align="center">
-      <img src="IMAGES/imagen2.png" width="300">
+      <img src="IMAGES/imagen2.png" width="350">
     </td>
   </tr>
 </table>
@@ -398,3 +398,4 @@ Las funciones del SOC relacionadas con el Público son:
 
 
  ## GRACIAS !!
+ ------------
