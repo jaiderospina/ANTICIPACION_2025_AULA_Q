@@ -149,7 +149,7 @@ Prevención del robo de patentes, marcas y secretos industriales.
 
 ---
 
-                                           # - **SOC**
+# - **SOC**
                                           
 ---
 ##**Funciones esenciales del Centro de Operaciones de Seguridad**
@@ -181,7 +181,7 @@ evalua y analiza y permite correlacionar  alertas de seguridad para identificar 
 IMAGEN 
 
 
-### E***Logs (Registros de Seguridad) ***
+### E ***Logs (Registros de Seguridad) ***
 herramientas que nos permite identificar trafico de red, seguridad de dispositivos y registro de actividades.
 
 IMAGEN 
