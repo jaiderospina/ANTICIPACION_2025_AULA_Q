@@ -158,7 +158,7 @@ Una comunicación efectiva con la junta directiva es crucial para asegurar el ap
 En el contexto de un Centro de Operaciones de Seguridad (SOC), involucra la adquisición, análisis y presentación de evidencia digital para entender incidentes de seguridad y responder a ellos.
 
 <p align="center">
-  <img src="Imagenes/1.jpeg">
+  <img src="Imagenes/Forensics.png">
 </p>
 
 ## 1. Adquisición de Evidencia: 
@@ -176,8 +176,7 @@ Adquisición de memoria y disco de sistemas internos comprometidos.
 ## 2. Análisis: 
 Una vez que se adquiere la evidencia, se procede con el análisis para entender qué sucedió, cómo sucedió y quién estuvo involucrado. Esto puede implicar:<br>
 
-Correlación de alertas y entradas de registro (logs) con datos brutos.<br>
-
+• Correlación de alertas y entradas de registro (logs) con datos brutos.<br>
 • Evaluación histórica con nuevos Indicadores de Compromiso (IOCs).<br>
 • Análisis de activos comprometidos.
 • Mantenimiento de la cadena de custodia para asegurar la integridad de la evidencia.<br>
