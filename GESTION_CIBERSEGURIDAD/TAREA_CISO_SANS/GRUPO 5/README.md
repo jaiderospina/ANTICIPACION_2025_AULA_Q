@@ -1,13 +1,11 @@
 ------
-
+------
 **<p align="center">INTEGRANTES GRUPO 5</p>**
 
 
 <p align="center">
   <img src="IMAGES/GRUPO 5.png">
 </p>
-
-------
 
 ------
 
