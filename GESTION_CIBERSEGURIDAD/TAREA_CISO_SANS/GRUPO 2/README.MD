@@ -186,7 +186,8 @@ IMAGEN
 
 herramientas que nos permite identificar trafico de red, seguridad de dispositivos y registro de actividades.
 
-IMAGEN 
+![Image](https://github.com/user-attachments/assets/f3661034-7f9c-4602-ba9c-65a4c3742a00)
+
 ---
 # - **PROCESO DE MONITOREO**
 
@@ -194,6 +195,8 @@ Recoleccion datos
 Analiza y correlaciona en el SIEM
 Evalúa y detecta amenazas
 Respuesta y mitigación 
+
+
 
 
 
