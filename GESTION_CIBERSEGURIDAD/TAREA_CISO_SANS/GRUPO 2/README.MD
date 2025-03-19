@@ -90,7 +90,7 @@ Estándar de auditoría para evaluar controles de seguridad y operativos en empr
 ### ***B) SOC 2 (Service Organization Control 2) ))***
 Informe de auditoría que demuestra que una empresa maneja datos de clientes con altos estándares de seguridad.
 
-IMAGEN
+![Image](https://github.com/user-attachments/assets/38903908-9cba-4645-9ee7-7ab32738255b)
 
 ### ***C)	ISO 27001 ***
 
