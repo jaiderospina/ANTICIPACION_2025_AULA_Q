@@ -9,10 +9,10 @@
 
 ![MAP](https://github.com/user-attachments/assets/b534f2ee-1ead-4a26-b69d-c4635c262052)
 
+## GESTION DE IDENTIDAD Y ACCESO
 
 ![titulo del tema del primer slash](https://github.com/user-attachments/assets/cb0385c2-fa5b-4316-b258-b67d96e51daf)
 
-## GESTION DE IDENTIDAD Y ACCESO
 Se refiere a las políticas, tecnologías y prácticas que aseguran que las personas adecuadas tengan acceso a los recursos adecuados en el momento adecuado y por las razones correctas.
 
 ### ***Aprovisionamiento / Desaprovisionamiento***
