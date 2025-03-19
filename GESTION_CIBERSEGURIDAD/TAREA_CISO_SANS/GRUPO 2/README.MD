@@ -186,7 +186,7 @@ herramientas que nos permite identificar trafico de red, seguridad de dispositiv
 
 IMAGEN 
 ---
-# 2. - ##**ESO DE MONITOREO**
+# - **PROCESO DE MONITOREO**
 
 Recoleccion datos
 Analiza y correlaciona en el SIEM
