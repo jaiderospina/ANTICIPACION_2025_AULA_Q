@@ -161,18 +161,20 @@ Esquema de Monitoreo de Seguridad en Redes herramientas para detectar, analiza
 ### A. ***Honeypots (Sistemas trampa)***
 servidores que atraen atacantes y recopilan información sobre sus tácticas técnicas y procedimientos.
 
-IMAGEN 
+![Image](https://github.com/user-attachments/assets/181bc4a3-6a3a-4c28-879a-c2549c5e15bf)
 
 ### B. ***IDS – Intrusion Detection Systems (Sistemas de detección de intrusos)***
 Herramienta que permite monitorear, detectar, analizar e identificar.
 
-IMAGEN
+![Image](https://github.com/user-attachments/assets/024dfe2a-e91b-4155-8f85-1bcbfd78800f)
 
 ### C. ***SIEM (Security Information and Event Management)***
 
 recibe y analiza información para detectar amenazas.
 
 IMAGEN 
+
+![Image](https://github.com/user-attachments/assets/d522c458-f3db-405d-bb96-48dbde094151)
 
 ### D ***Full PCAP (Captura completa de paquetes)***
 
