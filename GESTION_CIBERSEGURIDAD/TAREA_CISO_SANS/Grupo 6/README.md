@@ -96,7 +96,9 @@ La planificación de la fuerza laboral es necesaria para asegurar que se cuente 
 Se refiere a la planificación, asignación y supervisión eficiente de los recursos necesarios para implementar y mantener los programas de seguridad, incluyendo presupuesto (Budgeting), personal, tecnología e infraestructura2 .
 La gestión de recursos asegura que las iniciativas de seguridad cuenten con los medios necesarios para su ejecución.
 
-![strategic](https://images.shiksha.com/mediadata/ugcDocuments/images/wordpressImages/2022_11_What-is-Resource-Management.jpg)
+<p align="center">
+  <img src="Imagenes/resource.png">
+</p>
 
 ## Data Classification (Clasificación de Datos):
 Es el proceso de categorizar los datos de la organización en función de su sensibilidad, valor y requisitos regulatorios, para aplicar controles de seguridad apropiados.
