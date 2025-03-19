@@ -133,7 +133,7 @@ Búsqueda y recuperación de datos digitales para investigaciones legales.
 
 Análisis de dispositivos y registros digitales después de un ciberataque.
 
-![Image](https://github.com/user-attachments/assets/be8a0e8c-7dde-477f-9fdf-1dac978d7fe3))
+![Image](https://github.com/user-attachments/assets/ebb39690-9d2c-47a6-b190-b175fce2ede5)
 
 ---
 
