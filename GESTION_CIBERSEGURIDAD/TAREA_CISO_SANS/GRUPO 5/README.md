@@ -176,6 +176,11 @@ Soporte tecnico, aplicacion de la ley, el publico. </p>
       </tr>
 </table>
 
+
+
+## 1. SOPORTE TÉCNICO:
+Es el primer nivel de respuesta ante incidentes críticos. Su función principal es gestionar la comunicación con stakeholders clave, como entes regulatorios, clientes, proveedores y autoridades.</p>
+
 <table border="1" style="width:100%; border-collapse: collapse; text-align: left; font-family: Arial, sans-serif;">
   <thead>
     <tr style="background-color: #f2f2f2; text-align: center; font-weight: bold;">
@@ -184,13 +189,7 @@ Soporte tecnico, aplicacion de la ley, el publico. </p>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td style="font-weight: bold; padding: 12px; background-color: #e6f7ff;">Soporte Técnico</td>
-      <td style="padding: 12px;">
-        Es el primer nivel de respuesta ante incidentes críticos. Su función principal es gestionar la comunicación con stakeholders clave, como entes regulatorios, clientes, proveedores y autoridades.
-      </td>
-    </tr>
-    <tr>
+      <tr>
       <td style="font-weight: bold; padding: 12px; background-color: #e6f7ff;">Primer Punto de Contacto</td>
       <td style="padding: 12px;">
         <ul>
