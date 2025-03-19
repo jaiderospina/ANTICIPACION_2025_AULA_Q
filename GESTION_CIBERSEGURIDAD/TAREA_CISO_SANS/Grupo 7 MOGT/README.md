@@ -10,7 +10,7 @@ En el siguiente ejercicio se destacarán las trece 13 subespecialidades para la 
 - [X] MY. LUIS MILLÁN
 - [X] MY. YEFERSON OBANDO
 
-<img width="783" alt="grupo MOGT" src="https://github.com/user-attachments/assets/f0fbcde1-6d36-4dc6-b6b8-8bda5b99ba3c" />
+<img width="718" alt="xxxy" src="https://github.com/user-attachments/assets/7dd77737-32a5-4a03-935c-1224e01d2161" />
 
 ![Cyber](https://i.gifer.com/origin/91/9152bb748a33392db9312e689ba62e1a_w200.webp) 
 ![Cyber](https://i.gifer.com/origin/46/46400cbacaf8eb1b36a89cdcd7da6740_w200.webp)
