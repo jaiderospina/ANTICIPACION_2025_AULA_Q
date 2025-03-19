@@ -7,6 +7,7 @@
 <table align="center" border="1">
   <tr>
     <th>Liderazgo Organizacional</th>
+    <th>INTERCONEXIÓN</th>
     <th>Habilidades de la Organización</th>
   </tr>
   <tr>
@@ -14,7 +15,10 @@
       <img src="IMAGES/Imagen1.png" width="300">
     </td>
     <td align="center">
-      <img src="IMAGES/imagen2.png" width=300">
+      <img src="IMAGES/flecha.png" width="100">
+    </td>
+    <td align="center">
+      <img src="IMAGES/imagen2.png" width="300">
     </td>
   </tr>
 </table>
