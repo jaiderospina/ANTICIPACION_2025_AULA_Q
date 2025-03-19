@@ -135,4 +135,6 @@ La gestión del cambio es fundamental para implementar nuevas medidas de segurid
 Se refiere a la comunicación formal e informal entre el CISO y la junta directiva de la organización sobre el estado de la seguridad de la información, los riesgos clave, las iniciativas importantes y el rendimiento del programa de seguridad.
 Una comunicación efectiva con la junta directiva es crucial para asegurar el apoyo de la alta dirección a las iniciativas de seguridad y para mantenerlos informados sobre los riesgos que enfrenta la organización.
 
-![board comunication](1.jpeg)
+<p align="center">
+  <img src="Imagenes/1.jpeg">
+</p>
