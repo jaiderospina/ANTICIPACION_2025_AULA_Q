@@ -173,7 +173,7 @@ El Command Center es un componente clave dentro del Security Operations Center (
 El Command Center actúa como el cerebro operativo durante las operaciones de seguridad y, sobre todo, en la respuesta a incidentes.
 Se subdivide o se representa a traves de tres lineas:
 </p>
-Soporte tecnico, aplicacion de la ley, el publico. </p>
+Soporte tecnico, aplicacion de la ley y el publico. </p>
 
 <table align="center" border="1">
   <tr>
