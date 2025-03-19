@@ -95,11 +95,14 @@ En qué consiste?
 
 Su objetivo es determinar el impacto financiero, operativo y reputacional de una interrupción, permitiendo a la organización desarrollar estrategias de mitigación y recuperación. Dentro del marco de la continuidad de negocio, conocer este potencial impacto permite priorizar los productos y servicios, así como los procedimientos, actividades y dependencias para minimizar el potencial impacto a través de diferentes estrategias.
 
+
+
 PASOS DEL PROCESO BIA
 
 *  Identificación de procesos críticos 
 *  Evaluación del impacto 
-*  Determinación de tiempos de recuperación: Establecer métricas clave como: 
+*  Determinación de tiempos de recuperación: Establecer métricas clave como:
+*  MTPD (Maximum Tolerable Period of Disruption) 
 *	 RTO (Recovery Time Objective)
 *	 RPO (Recovery Point Objective)
 *  Identificación de dependencias y recursos
