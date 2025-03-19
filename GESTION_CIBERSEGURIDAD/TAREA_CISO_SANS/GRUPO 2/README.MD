@@ -96,27 +96,21 @@ Informe de auditoría que demuestra que una empresa maneja datos de clientes con
 
 Certificación internacional para la gestión de seguridad de la información.
 
-IMAGEN 
+![Image](https://github.com/user-attachments/assets/cabe0867-4ea6-4622-a288-50ccd09a6105)
 
 ### ***D)	FISMA (Federal Information Security Management Act) & FedRAMP (Federal Risk and Authorization Management Program)***
 
 Regulaciones de seguridad para agencias del gobierno de EE.UU. y proveedores de tecnología
 
-IMAGEN
+![Image](https://github.com/user-attachments/assets/c3619c76-bbdb-43a7-888b-7c3bb23af960)
 
-### ***E)	FISMA (Federal Information Security Management Act) & FedRAMP (Federal Risk and Authorization Management Program)***
-
-Regulaciones de seguridad para agencias del gobierno de EE.UU. y proveedores de tecnología
-
-IMAGEN
-
-### ***F)	NIST SP 800-53A ***
+### ***E)	NIST SP 800-53A ***
 
 Guía para evaluar la efectividad de los controles de seguridad en agencias gubernamentales.
 
 IMAGEN
 
-### ***G)	COSO (Committee of Sponsoring Organizations of the Treadway Commission)***
+### ***F)	COSO (Committee of Sponsoring Organizations of the Treadway Commission)***
 
 Marco de control interno usado para auditorías financieras y de seguridad.
 
