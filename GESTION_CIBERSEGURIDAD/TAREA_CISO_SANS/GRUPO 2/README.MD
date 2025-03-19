@@ -4,7 +4,7 @@
 ##  **Garnica Torres Miguel**
 ##  **Rincon Solano Ruben**
 
-# **LEGAL AND REGULATORY** 
+                                              # **LEGAL AND REGULATORY** 
 
 --------------------------
 ![Image](https://github.com/user-attachments/assets/349e7d5d-a905-4f65-a705-619c8ff35c50)
@@ -148,6 +148,65 @@ Prevención del robo de patentes, marcas y secretos industriales.
 ## 8.	Riesgo de demanda: Reducción del riesgo legal ante fugas de datos.
 
 ---
+                                           # - **SOC**
+
+---
+##**Funciones esenciales del Centro de Operaciones de Seguridad**
+
+Esquema de Monitoreo de Seguridad en Redes herramientas para detectar, analizar y mitigar amenazas cibernéticas
+
+1. ## ** ELEMENTOS CLAVES**
+
+A. ### ***Honeypots (Sistemas trampa)***
+servidores que atraen atacantes y recopilan información sobre sus tácticas técnicas y procedimientos.
+
+IMAGEN 
+
+B. ### ***IDS – Intrusion Detection Systems (Sistemas de detección de intrusos)***
+Herramienta que permite monitorear, detectar, analizar e identificar.
+
+IMAGEN
+
+C. ### ***SIEM (Security Information and Event Management)***
+
+recibe y analiza información para detectar amenazas.
+
+IMAGEN 
+
+D. ### ***Full PCAP (Captura completa de paquetes)***
+
+evalua y analiza y permite correlacionar  alertas de seguridad para identificar ataques avanzados.
+
+IMAGEN 
+
+
+E. ### ***Logs (Registros de Seguridad) ***
+herramientas que nos permite identificar trafico de red, seguridad de dispositivos y registro de actividades.
+
+IMAGEN 
+---
+2. ##**ESO DE MONITOREO**
+
+Recoleccion datos
+Analiza y correlaciona en el SIEM
+Evalúa y detecta amenazas
+Respuesta y mitigación 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 	***CONCLUSIONES*** 
 
