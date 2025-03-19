@@ -30,8 +30,6 @@ La alineación con el negocio es esencial para que la seguridad no se perciba co
   <img src="Imagenes/business alignment.png">
 </p>
 
-![Business](https://www.dataprise.com/wp-content/uploads/bb-plugin/cache/4-Tips-to-Achieve-Business-and-IT-Alignment-square-7830aaedf81068be37949bf84714e93b-x1fvmbud560l.png)
-
 ## Risk Management (Gestión de Riesgos):
 Es el proceso de identificar, evaluar, tratar y monitorear los riesgos de seguridad de la información para minimizar su impacto en la organización.
 La gestión de riesgos es un elemento central del pilar de Estrategia  y se utiliza en todas las áreas de la seguridad para tomar decisiones informadas sobre las inversiones y las acciones a seguir. Incluye metodologías como FAIR, NIST RMF, OCTAVE y TARA.
@@ -54,7 +52,9 @@ Los marcos de control como NIST 800-53 y CIS Controls proporcionan listas detall
     • **NIST 800-53**: Un catálogo de controles de seguridad y privacidad que las agencias federales de EE. UU. y otras organizaciones pueden seleccionar e implementar para proteger sus sistemas de información y datos. También se utiliza ampliamente en el sector privado.
     • **CIS Controls (Center for Internet Security Controls)**: Un conjunto de acciones de seguridad prioritarias y probadas que las organizaciones pueden implementar para mejorar su postura de ciberseguridad. Están organizados por orden de efectividad para mitigar los ataques más comunes.
 
-![strategic](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzat7t5A5lPNHPOQd0dDmE8Pe8cvjyFljQ3A&s)
+<p align="center">
+  <img src="Imagenes/control framework.jpeg">
+</p>
 
 ## Program Structure (Estructura del Programa):
 Se refiere a la organización y los componentes clave del programa de seguridad de la información, incluyendo sus diferentes áreas, proyectos e iniciativas.
