@@ -75,11 +75,15 @@ Ley de protección de datos de la Unión Europea obliga a las empresas a:
 ![Image](https://github.com/user-attachments/assets/be21b296-8def-412c-af64-eef9f6381f48)
 
 
+---
 
+# 3.	Auditoria
 
+Las auditorías verifican que las empresas cumplan con las regulaciones y que sus sistemas sean seguros.
 
+### ***A) SSAE 16 (Statement on Standards for Attestation Engagements 16))***
 
-
+Estándar de auditoría para evaluar controles de seguridad y operativos en empresas.
 
 
 
