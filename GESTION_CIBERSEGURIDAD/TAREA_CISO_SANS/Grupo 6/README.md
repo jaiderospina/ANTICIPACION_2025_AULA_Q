@@ -157,8 +157,9 @@ Una comunicación efectiva con la junta directiva es crucial para asegurar el ap
 
 En el contexto de un Centro de Operaciones de Seguridad (SOC), involucra la adquisición, análisis y presentación de evidencia digital para entender incidentes de seguridad y responder a ellos.
 
-
-
+<p align="center">
+  <img src="Imagenes/1.jpeg">
+</p>
 
 ## 1. Adquisición de Evidencia: 
 El proceso de forensics comienza con la adquisición de activos relevantes que puedan contener evidencia relacionada con un incidente de seguridad4 . Esto puede incluir:
@@ -177,30 +178,23 @@ Una vez que se adquiere la evidencia, se procede con el análisis para entender 
 
 Correlación de alertas y entradas de registro (logs) con datos brutos.<br>
 
-Evaluación histórica con nuevos Indicadores de Compromiso (IOCs).<br>
-Análisis de activos comprometidos.
-Mantenimiento de la cadena de custodia para asegurar la integridad de la evidencia4 .
-◦
-Análisis de alto valor informativo y análisis a largo plazo, incluyendo minería de datos y estudio de interacciones4 .
-◦
-Búsqueda de amenazas (Threat Hunting), utilizando información de fuentes internas y externas5 .
-◦
-Ingeniería inversa de software o código malicioso2 .
-◦
-Correlación de eventos con actores de amenazas y retención de sus características5 .
+• Evaluación histórica con nuevos Indicadores de Compromiso (IOCs).<br>
+• Análisis de activos comprometidos.
+• Mantenimiento de la cadena de custodia para asegurar la integridad de la evidencia.<br>
+• Análisis de alto valor informativo y análisis a largo plazo, incluyendo minería de datos y estudio de interacciones.<br>
+• Búsqueda de amenazas (Threat Hunting), utilizando información de fuentes internas y externas.<br>
+• Ingeniería inversa de software o código malicioso.<br>
+• Correlación de eventos con actores de amenazas y retención de sus características.<br>
 
 ## 3. Respuesta: 
 La información obtenida del análisis forense es crucial para la fase de respuesta a incidentes3 .... Forensics trabaja con otras funciones del SOC para:
-◦
-Obtener soporte y análisis adicional6 .
-◦
-Proporcionar estado e informes sobre el incidente5 ....
-◦
-Apoyar en la erradicación de las causas del incidente6 .
-◦
-Ayudar a barrer la empresa en busca de otros posibles compromisos6 .
-•
-## 4. Aspectos Legales y Regulatorios: 
-El proceso de forensics también está ligado a aspectos legales y regulatorios, incluyendo investigaciones, descubrimiento electrónico (eDiscovery) y la protección de la propiedad intelectual2 .
 
-En resumen, el proceso de forensics es una parte esencial de la gestión de la seguridad, especialmente dentro de un SOC, que permite investigar incidentes de seguridad de manera metódica, recolectar y analizar evidencia digital, y apoyar las acciones de respuesta necesarias2 
+• Obtener soporte y análisis adicional.<br>
+• Proporcionar estado e informes sobre el incidente.<br>
+• Apoyar en la erradicación de las causas del incidente.<br>
+• Ayudar a barrer la empresa en busca de otros posibles compromisos.<br>
+
+## 4. Aspectos Legales y Regulatorios: 
+El proceso de forensics también está ligado a aspectos legales y regulatorios, incluyendo investigaciones, descubrimiento electrónico (eDiscovery) y la protección de la propiedad intelectual.
+
+En resumen, el proceso de forensics es una parte esencial de la gestión de la seguridad, especialmente dentro de un SOC, que permite investigar incidentes de seguridad de manera metódica, recolectar y analizar evidencia digital, y apoyar las acciones de respuesta necesarias.
