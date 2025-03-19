@@ -8,10 +8,13 @@
 </p>
 
 ------
+***
 
 <p align="center">
   <img src="IMAGES/LEADERSHIP.png">
 </p>
+
+***
 
 <table align="center" border="1">
   <tr>
