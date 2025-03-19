@@ -134,4 +134,4 @@ La gestión del cambio es fundamental para implementar nuevas medidas de segurid
 ## Board Communications (Comunicaciones con la Junta Directiva):
 Se refiere a la comunicación formal e informal entre el CISO y la junta directiva de la organización sobre el estado de la seguridad de la información, los riesgos clave, las iniciativas importantes y el rendimiento del programa de seguridad.
 Una comunicación efectiva con la junta directiva es crucial para asegurar el apoyo de la alta dirección a las iniciativas de seguridad y para mantenerlos informados sobre los riesgos que enfrenta la organización.
-![strategic](https://www.icertglobal.com/images/program-management-word-cloud-business-concept-60485177.jpg)
+![strategic](1.jpeg)
