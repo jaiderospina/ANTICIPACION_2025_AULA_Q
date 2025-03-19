@@ -9,7 +9,10 @@
 
 ------
 
-# <p align="center";color:"red"> LEADERSHIP SKILLS </p>
+<p align="center">
+  <img src="IMAGES/LEADERSHIP.JPG">
+</p>
+
 <table align="center" border="1">
   <tr>
     <th>Liderazgo Organizacional</th>
