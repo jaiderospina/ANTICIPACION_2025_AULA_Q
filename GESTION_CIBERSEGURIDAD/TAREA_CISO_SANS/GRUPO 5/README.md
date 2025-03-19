@@ -18,7 +18,7 @@
 <table align="center" border="1">
   <tr>
     <th>Liderazgo Organizacional</th>
-    <th>INTERCONEXIÓN</th>
+    <th>Interconexion</th>
     <th>Habilidades de la Organización</th>
   </tr>
   <tr>
