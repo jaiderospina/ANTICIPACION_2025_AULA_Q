@@ -340,46 +340,6 @@ Las funciones del SOC relacionadas con el Público son:
   </thead>
   <tbody>
     <tr>
-      <td style="font-weight: bold; padding: 12px; background-color: #e6f7ff;">Reporte de Actividad Ilegal</td>
-      <td style="padding: 12px;">
-        <ul>
-          <li>Reportar actividades sospechosas o ilegales detectadas en la red o sistemas.</li>
-          <li>Coordinar con la policía o agencias gubernamentales para compartir pruebas.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="font-weight: bold; padding: 12px; background-color: #e6f7ff;">Preservación de Evidencia</td>
-      <td style="padding: 12px;">
-        <ul>
-          <li>Preservar la cadena de custodia de los activos afectados.</li>
-          <li>Asegurar la integridad de la evidencia digital (forense) para que sea válida ante procesos legales.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="font-weight: bold; padding: 12px; background-color: #e6f7ff;">Comunicación Controlada</td>
-      <td style="padding: 12px;">
-        <ul>
-          <li>La interacción con Law Enforcement debe ser cuidadosamente planificada y aprobada por la dirección y el equipo legal.</li>
-          <li>En muchos casos, también involucra la comunicación con clientes o el público, especialmente si el incidente tiene un impacto significativo.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="font-weight: bold; padding: 12px; background-color: #e6f7ff;">¿Qué Agencias de Law Enforcement suelen participar?</td>
-      <td style="padding: 12px;">
-        <ul>
-          <li>Dependiendo del país, pueden incluir:</li>
-          <ul>
-            <li>Policía Nacional o Local (Delitos tecnológicos).</li>
-            <li>Agencias especializadas como: FBI Cyber Division (EE. UU.), Europol EC3 (Europa), INTERPOL.</li>
-            <li>Organismos regulatorios en casos de incumplimiento (como GDPR, PCI DSS, etc.).</li>
-          </ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td style="font-weight: bold; padding: 12px; background-color: #e6f7ff;">Comunicación y Transparencia</td>
       <td style="padding: 12px;">
         <ul>
