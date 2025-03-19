@@ -21,8 +21,8 @@ Según el póster, la sección de "Security Operations" (Operaciones de Segurida
 **Qué es:** La prevención se refiere a las medidas proactivas que se implementan para evitar que ocurran incidentes de seguridad. El objetivo es reducir la probabilidad de que las amenazas se materialicen y causen daño.
 
 **Cómo funciona (controles preventivos):**
-
-* ![Image](https://github.com/user-attachments/assets/edd17ffe-1dfa-4f43-a5c0-950b6f52c5c3)**Firewall, IDS/IPS, Proxy Filtering:** Estas son tecnologías de seguridad de red que actúan como barreras. Los firewalls controlan el tráfico de red según reglas predefinidas, los sistemas de detección/prevención de intrusiones (IDS/IPS) identifican y bloquean actividades maliciosas en la red, y los filtros proxy controlan el acceso a sitios web, evitando conexiones a fuentes maliciosas.
+![Image](https://github.com/user-attachments/assets/edd17ffe-1dfa-4f43-a5c0-950b6f52c5c3)
+* **Firewall, IDS/IPS, Proxy Filtering:** Estas son tecnologías de seguridad de red que actúan como barreras. Los firewalls controlan el tráfico de red según reglas predefinidas, los sistemas de detección/prevención de intrusiones (IDS/IPS) identifican y bloquean actividades maliciosas en la red, y los filtros proxy controlan el acceso a sitios web, evitando conexiones a fuentes maliciosas.
 * **VPN, Security Gateway:** Las redes privadas virtuales (VPN) cifran la conexión a la red, proporcionando un canal seguro para la transmisión de datos, especialmente a través de redes no seguras como Internet. Los Security Gateways combinan varias funciones de seguridad, como firewalls, IPS y VPN, en un solo dispositivo.
 * **DDoS Protection:** La protección contra ataques de denegación de servicio distribuido (DDoS) implica técnicas y tecnologías para mitigar los ataques que intentan sobrecargar un sistema o red con tráfico malicioso, haciéndolo inaccesible.
 * **Email Security:** La seguridad del correo electrónico se refiere a las medidas tomadas para proteger los sistemas de correo electrónico de amenazas como spam, phishing, malware y ataques de ingeniería social.
