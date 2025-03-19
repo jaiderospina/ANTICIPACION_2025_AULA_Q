@@ -180,12 +180,13 @@ evalua y analiza y permite correlacionar  alertas de seguridad para identificar 
 
 IMAGEN 
 
-### E ***Logs (Registros de Seguridad) ***
+### E ***Logs (Registros de Seguridad)***
+
 herramientas que nos permite identificar trafico de red, seguridad de dispositivos y registro de actividades.
 
 IMAGEN 
 ---
-2. - ##**ESO DE MONITOREO**
+# 2. - ##**ESO DE MONITOREO**
 
 Recoleccion datos
 Analiza y correlaciona en el SIEM
