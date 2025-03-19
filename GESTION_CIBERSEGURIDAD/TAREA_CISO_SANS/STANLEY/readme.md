@@ -1,6 +1,6 @@
 # **INTEGRANTES DEL GRUPO**
 ## - **Manuel Ricardo Rey Rios**
-## - **Mahecha Virguez Arturo Alexander**
+## - **Arturo Alexander Mahecha Virguez**
 ## - **Fabian Esteban Cano Jaime**
 ## - **Rubén Dario Contreras Caballero**
 
