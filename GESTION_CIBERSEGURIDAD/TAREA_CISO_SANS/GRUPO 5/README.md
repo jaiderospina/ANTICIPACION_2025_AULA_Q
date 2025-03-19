@@ -171,9 +171,11 @@ Estas habilidades abarcan diversas áreas clave para el liderazgo efectivo en en
 
 -------
 
-##<p align="center">
+<p align="center">
   <img src="IMAGES/SOC.png">
 </p>
+
+***
 
 El Command Center es un componente clave dentro del Security Operations Center (SOC) y tiene un rol esencial en la gestión y coordinación de incidentes de seguridad.
 
