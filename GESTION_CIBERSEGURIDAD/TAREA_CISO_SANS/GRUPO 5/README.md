@@ -8,7 +8,6 @@
 </p>
 
 ------
-***
 
 <p align="center">
   <img src="IMAGES/LEADERSHIP.png">
