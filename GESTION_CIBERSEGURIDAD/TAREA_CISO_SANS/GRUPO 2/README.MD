@@ -127,13 +127,13 @@ Las investigaciones forenses y la protección de la propiedad intelectual ayudan
 
 Búsqueda y recuperación de datos digitales para investigaciones legales.
 
-IMAGEN
+![Image](https://github.com/user-attachments/assets/be8a0e8c-7dde-477f-9fdf-1dac978d7fe3)
 
 ### ***B)	FORENSE DIGITAL)***
 
 Análisis de dispositivos y registros digitales después de un ciberataque.
 
-IMAGEN
+![Image](https://github.com/user-attachments/assets/b2fa082a-2383-4f03-afb8-c23d7ed09e36)
 
 ---
 
@@ -149,6 +149,6 @@ Prevención del robo de patentes, marcas y secretos industriales.
 
 ---
 
-## 	CONCLUSIONES 
+## 	***CONCLUSIONES*** 
 
 El cumplimiento normativo protege a las empresas de sanciones y refuerza su reputación. La privacidad de los datos es clave, con regulaciones como GDPR y HIPAA. Las auditorías aseguran estándares de seguridad, mientras que la forensia digital permite responder eficazmente a incidentes. El CISO debe gestionar riesgos de forma proactiva, adaptándose a un entorno de amenazas en constante evolución
