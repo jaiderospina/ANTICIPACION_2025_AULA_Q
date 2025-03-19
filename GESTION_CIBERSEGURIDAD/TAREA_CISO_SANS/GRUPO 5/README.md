@@ -9,6 +9,7 @@
 
 ------
 ------
+
 # <p align="center"> LEADERSHIP SKILLS </p>
 <table align="center" border="1">
   <tr>
