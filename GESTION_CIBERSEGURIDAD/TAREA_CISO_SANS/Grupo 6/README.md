@@ -164,23 +164,21 @@ En el contexto de un Centro de Operaciones de Seguridad (SOC), involucra la adqu
 El proceso de forensics comienza con la adquisición de activos relevantes que puedan contener evidencia relacionada con un incidente de seguridad4 . Esto puede incluir:
 
 ### 1.1. Host Forensics: 
-Adquisición de memoria y disco de sistemas internos comprometidos2 .
+Adquisición de memoria y disco de sistemas internos comprometidos.
 
 ### 1.2. Network Forensics: 
 
-• Adquisición de registros (logs), información de eventos y captura de paquetes de red (PCAP)2 .
-• Adquisición de Dispositivos, Software o Código: Obtención de los elementos necesarios para su análisis4 .
-• Artefactos de Red Relacionados: Incluyendo registros del servidor y captura completa de paquetes de red (Full PCAP)4 .
+• Adquisición de registros (logs), información de eventos y captura de paquetes de red (PCAP).<br>
+• Adquisición de Dispositivos, Software o Código: Obtención de los elementos necesarios para su análisis.<br>
+• Artefactos de Red Relacionados: Incluyendo registros del servidor y captura completa de paquetes de red (Full PCAP).
 
 ## 2. Análisis: 
-Una vez que se adquiere la evidencia, se procede con el análisis para entender qué sucedió, cómo sucedió y quién estuvo involucrado. Esto puede implicar:
-◦
-Correlación de alertas y entradas de registro (logs) con datos brutos4 .
-◦
-Evaluación histórica con nuevos Indicadores de Compromiso (IOCs)4 .
-◦
-Análisis de activos comprometidos4 .
-◦
+Una vez que se adquiere la evidencia, se procede con el análisis para entender qué sucedió, cómo sucedió y quién estuvo involucrado. Esto puede implicar:<br>
+
+Correlación de alertas y entradas de registro (logs) con datos brutos.<br>
+
+Evaluación histórica con nuevos Indicadores de Compromiso (IOCs).<br>
+Análisis de activos comprometidos.
 Mantenimiento de la cadena de custodia para asegurar la integridad de la evidencia4 .
 ◦
 Análisis de alto valor informativo y análisis a largo plazo, incluyendo minería de datos y estudio de interacciones4 .
