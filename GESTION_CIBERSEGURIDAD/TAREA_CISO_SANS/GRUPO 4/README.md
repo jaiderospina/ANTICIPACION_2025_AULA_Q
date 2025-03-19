@@ -1,3 +1,8 @@
+## MY. IVÁN D. FONSECA RODRÍGUEZ
+## MY. DORLANDY A. PEÑA PARRALES
+## MY. RICHARD DURAN VILLANUEVA
+## MY. JHON KEVIN NOYA DUARTE
+
 # GRUPO # 4 – SIRURGICAL ATTACK – CISO MIND MAP
 
 ![titulo del tema del primer slash](https://github.com/user-attachments/assets/cb0385c2-fa5b-4316-b258-b67d96e51daf)
