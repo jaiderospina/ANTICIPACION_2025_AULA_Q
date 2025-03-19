@@ -73,8 +73,9 @@ La gestión de programas es crucial para coordinar las diferentes actividades de
 Es un documento que describe cómo, cuándo y con quién se comunicará la información relacionada con la seguridad de la información, incluyendo políticas, incidentes, métricas y otras actualizaciones relevantes.
 Un plan de comunicaciones efectivo asegura que la información de seguridad llegue a las audiencias adecuadas de manera oportuna y clara.
 
-![plan](Imagenes/Communications Plan.png)
-
+<p align="center">
+  <img src="Imagenes/Communications Plan.png">
+</p>
 
 ## Roles and Responsibilities (Roles y Responsabilidades):
 Se refiere a la asignación clara de tareas, deberes y rendición de cuentas a individuos o equipos dentro de la organización en relación con la seguridad de la información.
