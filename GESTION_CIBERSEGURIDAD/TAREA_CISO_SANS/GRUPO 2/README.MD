@@ -51,4 +51,5 @@ Estándares de seguridad para agencias gubernamentales en EE.UU.
 NIST 800-37 define cómo evaluar y gestionar riesgos de seguridad.
 NIST 800-53 establece controles de seguridad para proteger la información.
 
+![Image](https://github.com/user-attachments/assets/d557dbcf-c857-43cd-8638-8338b634656b)
 
