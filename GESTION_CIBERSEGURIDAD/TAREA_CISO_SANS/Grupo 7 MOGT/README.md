@@ -79,12 +79,11 @@ Este modelo define entonces 4 escenarios dependiendo de si estas variables tiene
 El Risk Assessment Methodology (RAM) es un enfoque sistemático para identificar, analizar y evaluar los riesgos asociados a activos digitales, procesos y sistemas dentro de una organización. Su objetivo es proporcionar una visión clara de las amenazas, vulnerabilidades y el impacto potencial de los incidentes de seguridad.
 ¿En qué consiste?
 El proceso de evaluación de riesgos sigue una serie de pasos estructurados:
-1.	Identificación de activos
-2.	Identificación de amenazas y vulnerabilidades
-3.	Análisis del impacto
-4.	Cálculo del riesgo
-5.	Gestión y mitigación del riesgo
-6.	Monitoreo y revisión
+1.	Identificación del riesgo
+2.	Análisis del riesgo
+3.	Valoración del riesgo
+4.	Tratamiento del riesgo
+5.	Monitoreo y revisión
 
 ***
 
