@@ -1,13 +1,12 @@
   <h1>CYBERDRAGON</h1>
  </header>
  
-1. **CASALLAS TORRES DIEGO FERNANDO**
-2. **CALDERON ARIAS JOSE ANTONIO**
+1. **CALDERON ARIAS JOSE ANTONIO**
+2. **CASALLAS TORRES DIEGO FERNANDO**
 3. **CASTRO BEDOYA YURLEWINSON**
 4. **CONTRERAS LOBATON JOAN SEBASTIAN**
    
 ![imagen crossite](https://i.gifer.com/7v54.gif)
-
 
 # GOVERNANCE
 Se refiere al sistema de reglas, prácticas y procesos mediante los cuales se dirige y controla una organización en relación con la seguridad de la información. Implica la definición de responsabilidades, la toma de decisiones y la rendición de cuentas para asegurar que los objetivos de seguridad se cumplan.
