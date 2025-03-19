@@ -186,7 +186,7 @@ Una vez que se adquiere la evidencia, se procede con el análisis para entender 
 • Correlación de eventos con actores de amenazas y retención de sus características.<br>
 
 ## 3. Respuesta: 
-La información obtenida del análisis forense es crucial para la fase de respuesta a incidentes3 .... Forensics trabaja con otras funciones del SOC para:
+La información obtenida del análisis forense es crucial para la fase de respuesta a incidentes. Forensics trabaja con otras funciones del SOC para:
 
 • Obtener soporte y análisis adicional.<br>
 • Proporcionar estado e informes sobre el incidente.<br>
