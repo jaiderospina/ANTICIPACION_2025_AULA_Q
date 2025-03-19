@@ -148,14 +148,15 @@ Prevención del robo de patentes, marcas y secretos industriales.
 ## 8.	Riesgo de demanda: Reducción del riesgo legal ante fugas de datos.
 
 ---
-                                           # - **SOC**
 
+                                           # - **SOC**
+                                          
 ---
 ##**Funciones esenciales del Centro de Operaciones de Seguridad**
 
 Esquema de Monitoreo de Seguridad en Redes herramientas para detectar, analizar y mitigar amenazas cibernéticas
 
- ## ** 1 ELEMENTOS CLAVES**
+ ## 1 **ELEMENTOS CLAVES**
 
 ### A. ***Honeypots (Sistemas trampa)***
 servidores que atraen atacantes y recopilan información sobre sus tácticas técnicas y procedimientos.
@@ -167,20 +168,20 @@ Herramienta que permite monitorear, detectar, analizar e identificar.
 
 IMAGEN
 
-C. ### ***SIEM (Security Information and Event Management)***
+### C. ***SIEM (Security Information and Event Management)***
 
 recibe y analiza información para detectar amenazas.
 
 IMAGEN 
 
-D. ### ***Full PCAP (Captura completa de paquetes)***
+### D ***Full PCAP (Captura completa de paquetes)***
 
 evalua y analiza y permite correlacionar  alertas de seguridad para identificar ataques avanzados.
 
 IMAGEN 
 
 
-E. ### ***Logs (Registros de Seguridad) ***
+### E***Logs (Registros de Seguridad) ***
 herramientas que nos permite identificar trafico de red, seguridad de dispositivos y registro de actividades.
 
 IMAGEN 
