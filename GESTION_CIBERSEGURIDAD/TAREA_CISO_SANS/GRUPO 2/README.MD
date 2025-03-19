@@ -45,4 +45,10 @@ Regulación de seguridad para la infraestructura eléctrica en EE.UU, Obliga a c
 
 ![Image](https://github.com/user-attachments/assets/a8bebdf3-8211-40c6-9205-b54da55c640c)
 
+### ***6 NIST SP 800-37 y 800-53)***
+
+Estándares de seguridad para agencias gubernamentales en EE.UU.
+NIST 800-37 define cómo evaluar y gestionar riesgos de seguridad.
+NIST 800-53 establece controles de seguridad para proteger la información.
+
 
