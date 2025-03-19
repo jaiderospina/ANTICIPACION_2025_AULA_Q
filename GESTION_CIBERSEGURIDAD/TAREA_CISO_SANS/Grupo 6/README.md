@@ -81,7 +81,10 @@ Un plan de comunicaciones efectivo asegura que la información de seguridad lleg
 Se refiere a la asignación clara de tareas, deberes y rendición de cuentas a individuos o equipos dentro de la organización en relación con la seguridad de la información.
 La definición de roles y responsabilidades es crucial para asegurar que cada aspecto de la seguridad de la información sea abordado por personal apropiado, evitando lagunas y duplicidades.
 
-![strategic]([https://www.icertglobal.com/images/program-management-word-cloud-business-concept-60485177.jpg](https://dqops.com/wp-content/uploads/2024/09/2024-09-01-data-governance-roles-and-responsibilities-1536x1375.gif))
+<p align="center">
+  <img src="Imagenes/Roles and Responsibilities.jpeg">
+</p>
+
 
 ## Workforce Planning (Planificación de la Fuerza Laboral):
 Se refiere al proceso de identificar las necesidades de personal en seguridad de la información, incluyendo las habilidades, la cantidad y el momento en que se requieren.
