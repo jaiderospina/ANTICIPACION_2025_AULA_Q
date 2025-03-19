@@ -49,6 +49,31 @@ Estas habilidades abarcan diversas áreas clave para el liderazgo efectivo en en
     </thead>
     <tbody>
         <tr>
+            <td><strong>Habilidades de comunicación</strong></td>
+            <td style="text-align: justify;">Transmitir información de manera efectiva.</td>
+            <td style="text-align: justify;">Explicar riesgos técnicos a la alta dirección.</td>
+        </tr>
+        <tr>
+            <td><strong>Habilidades de presentación</strong></td>
+            <td style="text-align: justify;">Exponer ideas de forma clara y persuasiva.</td>
+            <td style="text-align: justify;">Justificar inversiones en seguridad de manera clara.</td>
+        </tr>
+        <tr>
+            <td><strong>Gestión de partes interesadas</strong></td>
+            <td style="text-align: justify;">Coordinación con actores clave en la empresa.</td>
+            <td style="text-align: justify;">Coordinar con directivos y proveedores clave.</td>
+        </tr>
+        <tr>
+            <td><strong>Negociaciones</strong></td>
+            <td style="text-align: justify;">Proceso para obtener acuerdos favorables.</td>
+            <td style="text-align: justify;">Obtener recursos y acuerdos de seguridad adecuados.</td>
+        </tr>
+        <tr>
+            <td><strong>Relaciones con clientes</strong></td>
+            <td style="text-align: justify;">Gestión de la experiencia del cliente.</td>
+            <td style="text-align: justify;">Fortalecer la confianza con medidas de seguridad.</td>
+        </tr>
+        <tr>
             <td><strong>Estrategia empresarial</strong></td>
             <td style="text-align: justify;">Plan para alcanzar objetivos organizacionales.</td>
             <td style="text-align: justify;">Alinear ciberseguridad con los objetivos de negocio.</td>
@@ -64,49 +89,9 @@ Estas habilidades abarcan diversas áreas clave para el liderazgo efectivo en en
             <td style="text-align: justify;">Equilibrar seguridad con rentabilidad y crecimiento.</td>
         </tr>
         <tr>
-            <td><strong>Habilidades de comunicación</strong></td>
-            <td style="text-align: justify;">Transmitir información de manera efectiva.</td>
-            <td style="text-align: justify;">Explicar riesgos técnicos a la alta dirección.</td>
-        </tr>
-        <tr>
-            <td><strong>Habilidades de presentación</strong></td>
-            <td style="text-align: justify;">Exponer ideas de forma clara y persuasiva.</td>
-            <td style="text-align: justify;">Justificar inversiones en seguridad de manera clara.</td>
-        </tr>
-        <tr>
             <td><strong>Planificación estratégica</strong></td>
             <td style="text-align: justify;">Diseño de acciones para cumplir objetivos.</td>
             <td style="text-align: justify;">Establecer planes de seguridad a largo plazo.</td>
-        </tr>
-        <tr>
-            <td><strong>Liderazgo técnico</strong></td>
-            <td style="text-align: justify;">Capacidad para dirigir equipos especializados.</td>
-            <td style="text-align: justify;">Guiar equipos en la implementación de seguridad.</td>
-        </tr>
-        <tr>
-            <td><strong>Consultoría en seguridad</strong></td>
-            <td style="text-align: justify;">Asesoría en riesgos y soluciones de seguridad.</td>
-            <td style="text-align: justify;">Asesorar sobre riesgos emergentes.</td>
-        </tr>
-        <tr>
-            <td><strong>Gestión de partes interesadas</strong></td>
-            <td style="text-align: justify;">Coordinación con actores clave en la empresa.</td>
-            <td style="text-align: justify;">Coordinar con directivos y proveedores clave.</td>
-        </tr>
-        <tr>
-            <td><strong>Negociaciones</strong></td>
-            <td style="text-align: justify;">Proceso para obtener acuerdos favorables.</td>
-            <td style="text-align: justify;">Obtener recursos y acuerdos de seguridad adecuados.</td>
-        </tr>
-        <tr>
-            <td><strong>Misión y visión</strong></td>
-            <td style="text-align: justify;">Propósito y proyección a futuro.</td>
-            <td style="text-align: justify;">Definir el rol de la seguridad en la organización.</td>
-        </tr>
-        <tr>
-            <td><strong>Valores y cultura</strong></td>
-            <td style="text-align: justify;">Principios que rigen el ambiente organizacional.</td>
-            <td style="text-align: justify;">Fomentar una cultura organizacional de ciberseguridad.</td>
         </tr>
         <tr>
             <td><strong>Desarrollo de hoja de ruta</strong></td>
@@ -117,16 +102,6 @@ Estas habilidades abarcan diversas áreas clave para el liderazgo efectivo en en
             <td><strong>Desarrollo de casos de negocio</strong></td>
             <td style="text-align: justify;">Justificación financiera de proyectos.</td>
             <td style="text-align: justify;">Justificar proyectos de seguridad ante la dirección.</td>
-        </tr>
-        <tr>
-            <td><strong>Gestión de proyectos</strong></td>
-            <td style="text-align: justify;">Planificación y ejecución de iniciativas.</td>
-            <td style="text-align: justify;">Garantizar la ejecución eficiente de estrategias.</td>
-        </tr>
-        <tr>
-            <td><strong>Desarrollo de empleados</strong></td>
-            <td style="text-align: justify;">Formación y crecimiento del talento humano.</td>
-            <td style="text-align: justify;">Capacitar y retener talento en seguridad.</td>
         </tr>
         <tr>
             <td><strong>Planificación financiera</strong></td>
@@ -149,14 +124,29 @@ Estas habilidades abarcan diversas áreas clave para el liderazgo efectivo en en
             <td style="text-align: justify;">Posicionar la seguridad como ventaja competitiva.</td>
         </tr>
         <tr>
+            <td><strong>Misión y visión</strong></td>
+            <td style="text-align: justify;">Propósito y proyección a futuro.</td>
+            <td style="text-align: justify;">Definir el rol de la seguridad en la organización.</td>
+        </tr>
+        <tr>
+            <td><strong>Valores y cultura</strong></td>
+            <td style="text-align: justify;">Principios que rigen el ambiente organizacional.</td>
+            <td style="text-align: justify;">Fomentar una cultura organizacional de ciberseguridad.</td>
+        </tr>
+        <tr>
+            <td><strong>Gestión de proyectos</strong></td>
+            <td style="text-align: justify;">Planificación y ejecución de iniciativas.</td>
+            <td style="text-align: justify;">Garantizar la ejecución eficiente de estrategias.</td>
+        </tr>
+        <tr>
+            <td><strong>Desarrollo de empleados</strong></td>
+            <td style="text-align: justify;">Formación y crecimiento del talento humano.</td>
+            <td style="text-align: justify;">Capacitar y retener talento en seguridad.</td>
+        </tr>
+        <tr>
             <td><strong>Liderar el cambio</strong></td>
             <td style="text-align: justify;">Implementación de nuevas estrategias.</td>
             <td style="text-align: justify;">Implementar nuevas políticas sin fricción.</td>
-        </tr>
-        <tr>
-            <td><strong>Relaciones con clientes</strong></td>
-            <td style="text-align: justify;">Gestión de la experiencia del cliente.</td>
-            <td style="text-align: justify;">Fortalecer la confianza con medidas de seguridad.</td>
         </tr>
         <tr>
             <td><strong>Trabajo en equipo</strong></td>
@@ -164,12 +154,23 @@ Estas habilidades abarcan diversas áreas clave para el liderazgo efectivo en en
             <td style="text-align: justify;">Colaborar con todas las áreas de la empresa.</td>
         </tr>
         <tr>
-            <td><strong>Mentoria</strong></td>
-            <td style="text-align: justify;">Formacion y guia a nuevos talentos.</td>
-            <td style="text-align: justify;">Formar a futuros lideres en ciberseguridad.</td>
+            <td><strong>Mentoría</strong></td>
+            <td style="text-align: justify;">Formación y guía a nuevos talentos.</td>
+            <td style="text-align: justify;">Formar a futuros líderes en ciberseguridad.</td>
+        </tr>
+        <tr>
+            <td><strong>Liderazgo técnico</strong></td>
+            <td style="text-align: justify;">Capacidad para dirigir equipos especializados.</td>
+            <td style="text-align: justify;">Guiar equipos en la implementación de seguridad.</td>
+        </tr>
+        <tr>
+            <td><strong>Consultoría en seguridad</strong></td>
+            <td style="text-align: justify;">Asesoría en riesgos y soluciones de seguridad.</td>
+            <td style="text-align: justify;">Asesorar sobre riesgos emergentes.</td>
         </tr>
     </tbody>
 </table>
+
 
 **<p style="color: red; text-align: center; font-weight: bold;">**
   **Para un CISO, estas habilidades son clave para proteger la organización y fomentar su crecimiento. 
