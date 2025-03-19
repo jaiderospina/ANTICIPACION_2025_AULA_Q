@@ -38,13 +38,12 @@ La gestión de riesgos es un elemento central del pilar de Estrategia  y se util
 
 ## Program Frameworks (Marcos de Programas):
 Son estructuras o conjuntos de directrices que ayudan a las organizaciones a establecer, implementar y mejorar sus programas de seguridad de la información.
-Los marcos de programas como NIST CSF e ISO 27000 proporcionan una base estructurada para la gestión de la seguridad.<br><br>
-        • **NIST CSF (National Institute of Standards and Technology Cybersecurity Framework)**: Un marco             voluntario que consiste en estándares, directrices y mejores prácticas para gestionar los riesgos            de ciberseguridad. Se utiliza para comprender, comunicar y gestionar el riesgo cibernético.<br><br>
-        • **ISO 27000**: Una familia de estándares internacionales que abordan la seguridad de la                     información. Incluye el ISO 27001, que especifica los requisitos para un sistema de gestión de la            seguridad de la información (SGSI).
+Los marcos de programas como NIST CSF e ISO 27000 proporcionan una base estructurada para la gestión de la seguridad.<br>
 
-      Los ataques de phishing consisten en engañar a la víctima para que realice 
-      alguna acción que beneficie al atacante. Estos ataques pueden ser simples o 
-      complejos, y se pueden detectar con la vigilancia adecuada.  
+      • **NIST CSF (National Institute of Standards and Technology Cybersecurity Framework)**: Un marco             voluntario que consiste en estándares, directrices y mejores prácticas para gestionar los riesgos            de ciberseguridad. Se utiliza para comprender, comunicar y gestionar el riesgo cibernético.
+
+      • **ISO 27000**: Una familia de estándares internacionales que abordan la seguridad de la                     información. Incluye el ISO 27001, que especifica los requisitos para un sistema de gestión de la            seguridad de la información (SGSI).
+      
 <p align="center">
   <img src="Imagenes/program framework.png">
 </p>
