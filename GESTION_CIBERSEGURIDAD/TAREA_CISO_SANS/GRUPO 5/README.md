@@ -10,7 +10,7 @@
 ------
 
 <p align="center">
-  <img src="IMAGES/LEADERSHIP.JPG">
+  <img src="IMAGES/LEADERSHIP.PNG">
 </p>
 
 <table align="center" border="1">
