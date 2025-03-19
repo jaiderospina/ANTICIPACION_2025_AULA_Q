@@ -44,7 +44,9 @@ Los marcos de programas como NIST CSF e ISO 27000 proporcionan una base estructu
     • **NIST CSF (National Institute of Standards and Technology Cybersecurity Framework)**: Un marco voluntario que consiste en estándares, directrices y mejores prácticas para gestionar los riesgos de ciberseguridad. Se utiliza para comprender, comunicar y gestionar el riesgo cibernético.
     • **ISO 27000**: Una familia de estándares internacionales que abordan la seguridad de la información. Incluye el ISO 27001, que especifica los requisitos para un sistema de gestión de la seguridad de la información (SGSI).
 
-![strategic](https://media.licdn.com/dms/image/v2/D4D12AQEaLWuzTCni3w/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709559736278?e=2147483647&v=beta&t=Gilo8Uct4Z4JA16q_J7tZBx4wNCvw6fNsksmfDA6i5w)
+<p align="center">
+  <img src="Imagenes/program framework.png">
+</p>
 
 ## Control Frameworks (Marcos de Control):
 Son conjuntos estructurados de controles de seguridad que una organización puede implementar para mitigar riesgos específicos y cumplir con requisitos regulatorios.
