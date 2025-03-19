@@ -49,7 +49,7 @@ RBAC es un método de administración de acceso que asigna permisos basados en l
 
 Un Identity Store es un repositorio donde se almacenan las identidades de los usuarios y sus atributos. LDAP (Lightweight Directory Access Protocol) y Active Directory son ejemplos de servicios que permiten gestionar usuarios, grupos y otros recursos de identidad en una red.
 
-Cada uno de estos componentes es fundamental para asegurar el acceso adecuado a los sistemas y proteger los datos sensibles de una organización, reduciendo así el riesgo de accesos no autorizados y mejores prácticas de ciberseguridad. Si necesitas más detalles sobre alguno de estos temas o elementos, no dudes en preguntar.
+Cada uno de estos componentes es fundamental para asegurar el acceso adecuado a los sistemas y proteger los datos sensibles de una organización, reduciendo así el riesgo de accesos no autorizados y mejores prácticas de ciberseguridad.
 
 # Security Operations Center (SOC) Essential Functions
 
