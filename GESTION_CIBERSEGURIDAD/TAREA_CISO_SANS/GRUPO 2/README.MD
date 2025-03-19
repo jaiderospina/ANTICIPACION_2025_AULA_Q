@@ -19,19 +19,19 @@ Es un estándar de seguridad contractual impuesto por las principales marcas de 
 
 ![Image](https://github.com/user-attachments/assets/914dd9b7-6296-405a-a2ec-893a6095dbfc)
 
-### ***2	SOX: (Sarbanes-Oxley Act)***
+### ***A	SOX: (Sarbanes-Oxley Act)***
 
 Ley de EE.UU. para la seguridad de la información financiera de empresas públicas. Exige controles estrictos para evitar fraudes financieros y manipulación de datos.
 
 ![Image](https://github.com/user-attachments/assets/98a46594-5ca4-4938-8876-2506f123f3ee)
 
-### ***3	FFIEC: (Federal Financial Institutions Examination Council) & CAT (Cybersecurity Assessment Tool)***
+### ***B	FFIEC: (Federal Financial Institutions Examination Council) & CAT (Cybersecurity Assessment Tool)***
 
 Regulaciones para bancos y entidades financieras en EE.UU, Obligan a las instituciones financieras a tener controles de seguridad contra fraudes y ciberataques
 
 ![Image](https://github.com/user-attachments/assets/2d0bf31f-a2af-4a5b-b4db-d19657aa720b)
 
-### ***4	FERPA: (Family Educational Rights and Privacy Act)***
+### ***C	FERPA: (Family Educational Rights and Privacy Act)***
 
 •	FERPA: (Family Educational Rights and Privacy Act) 
 
@@ -39,17 +39,25 @@ Protege la privacidad de los registros educativos de estudiantes en EE.UU, Impid
 
 ![Image](https://github.com/user-attachments/assets/8d008cf0-3f91-4038-bf9f-a936b710603c)
 
-### ***5 NERC CIP: (North American Electric Reliability Corporation - Critical Infrastructure Protection)***
+### ***D NERC CIP: (North American Electric Reliability Corporation - Critical Infrastructure Protection)***
 
 Regulación de seguridad para la infraestructura eléctrica en EE.UU, Obliga a compañías eléctricas a proteger sus sistemas contra ciberataques.
 
 ![Image](https://github.com/user-attachments/assets/a8bebdf3-8211-40c6-9205-b54da55c640c)
 
-### ***6 NIST SP 800-37 y 800-53)***
+### ***E NIST SP 800-37 y 800-53)***
 
 Estándares de seguridad para agencias gubernamentales en EE.UU.
 NIST 800-37 define cómo evaluar y gestionar riesgos de seguridad.
 NIST 800-53 establece controles de seguridad para proteger la información.
 
 ![Image](https://github.com/user-attachments/assets/d557dbcf-c857-43cd-8638-8338b634656b)
+
+---
+
+# 2.	Privacidad
+
+Las leyes de privacidad protegen los datos personales y establecen cómo deben ser recopilados, almacenados y compartidos
+
+### ***A NIST SP 800-37 y 800-53)***
 
