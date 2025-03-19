@@ -8,13 +8,13 @@
    
 ![imagen crossite](https://i.gifer.com/7v54.gif)
 
-# GOVERNANCE
+# PART I. GOVERNANCE
 Se refiere al sistema de reglas, prácticas y procesos mediante los cuales se dirige y controla una organización en relación con la seguridad de la información. Implica la definición de responsabilidades, la toma de decisiones y la rendición de cuentas para asegurar que los objetivos de seguridad se cumplan.
 La gobernanza es un pilar fundamental de la responsabilidad del CISO, se utiliza para establecer la dirección estratégica de la seguridad, supervisar la implementación de los programas de seguridad, asegurar el cumplimiento normativo y legal, y comunicar el estado de la seguridad a las partes interesadas.
 
 ![Governance](https://mnasserlaw.com/wp-content/uploads/2023/11/corporate-Governance.jpg)
 
-## Strategy (Estrategia):
+## 1. Strategy (Estrategia):
 Implica la formulación de objetivos de seguridad a largo plazo y la planificación de las acciones necesarias para alcanzar esos objetivos, considerando el contexto del negocio y los riesgos.
 La estrategia de gobernanza es una responsabilidad fundamental del CISO. Se utiliza para alinear la seguridad de la información con los objetivos del negocio, identificar y priorizar los riesgos, y desarrollar una hoja de ruta (Roadmap Development) para mejorar la postura de seguridad de la organización.
 
@@ -22,7 +22,7 @@ La estrategia de gobernanza es una responsabilidad fundamental del CISO. Se util
   <img src="Imagenes/strategic.jpeg">
 </p>
 
-## Business Alignment (Alineación con el Negocio):
+## 2. Business Alignment (Alineación con el Negocio):
 Implica asegurar que las iniciativas y los objetivos de seguridad de la información estén en consonancia y apoyen las metas y prioridades generales del negocio.
 La alineación con el negocio es esencial para que la seguridad no se perciba como un obstáculo, sino como un habilitador que protege los activos y la continuidad del negocio.
 
@@ -30,13 +30,13 @@ La alineación con el negocio es esencial para que la seguridad no se perciba co
   <img src="Imagenes/business alignment.png">
 </p>
 
-## Risk Management (Gestión de Riesgos):
+## 3. Risk Management (Gestión de Riesgos):
 Es el proceso de identificar, evaluar, tratar y monitorear los riesgos de seguridad de la información para minimizar su impacto en la organización.
 La gestión de riesgos es un elemento central del pilar de Estrategia  y se utiliza en todas las áreas de la seguridad para tomar decisiones informadas sobre las inversiones y las acciones a seguir. Incluye metodologías como FAIR, NIST RMF, OCTAVE y TARA.
 
 ![Risk](https://ipkeys.com/wp-content/uploads/2022/08/RMF-7-Steps.jpeg)
 
-## Program Frameworks (Marcos de Programas):
+## 4. Program Frameworks (Marcos de Programas):
 Son estructuras o conjuntos de directrices que ayudan a las organizaciones a establecer, implementar y mejorar sus programas de seguridad de la información.
 Los marcos de programas como NIST CSF e ISO 27000 proporcionan una base estructurada para la gestión de la seguridad.<br><br>
  • **NIST CSF (National Institute of Standards and Technology Cybersecurity Framework)**: Un marco             voluntario que consiste en estándares, directrices y mejores prácticas para gestionar los riesgos            de ciberseguridad. Se utiliza para comprender, comunicar y gestionar el riesgo cibernético.
@@ -47,7 +47,7 @@ Los marcos de programas como NIST CSF e ISO 27000 proporcionan una base estructu
   <img src="Imagenes/program framework.png">
 </p>
 
-## Control Frameworks (Marcos de Control):
+## 5. Control Frameworks (Marcos de Control):
 Son conjuntos estructurados de controles de seguridad que una organización puede implementar para mitigar riesgos específicos y cumplir con requisitos regulatorios.
 Los marcos de control como NIST 800-53 y CIS Controls proporcionan listas detalladas de controles recomendados.<br><br>
     • **NIST 800-53**: Un catálogo de controles de seguridad y privacidad que las agencias federales de EE. UU. y otras organizaciones pueden seleccionar e implementar para proteger sus sistemas de información y datos. También se utiliza ampliamente en el sector privado.<br><br>
@@ -57,19 +57,19 @@ Los marcos de control como NIST 800-53 y CIS Controls proporcionan listas detall
   <img src="Imagenes/control framework.jpeg">
 </p>
 
-## Program Structure (Estructura del Programa):
+## 6. Program Structure (Estructura del Programa):
 Se refiere a la organización y los componentes clave del programa de seguridad de la información, incluyendo sus diferentes áreas, proyectos e iniciativas.
 Definir una estructura clara del programa ayuda a gestionar la complejidad y asegurar que todos los aspectos de la seguridad estén cubiertos de manera organizada.
 
 ![strategic](https://www.future-processing.com/blog/wp-content/uploads/2024/07/governance-structure-main-principles.jpg)
 
-## Program Management (Gestión de Programas):
+## 7. Program Management (Gestión de Programas):
 Se refiere a la planificación, ejecución, seguimiento y control de los múltiples proyectos e iniciativas que componen el programa de seguridad de la información, asegurando que se cumplan los objetivos y se gestionen los riesgos.
 La gestión de programas es crucial para coordinar las diferentes actividades de seguridad y asegurar su coherencia y eficacia.
 
 ![strategic](https://www.icertglobal.com/images/program-management-word-cloud-business-concept-60485177.jpg)
 
-## Communications Plan (Plan de Comunicaciones):
+## 8. Communications Plan (Plan de Comunicaciones):
 Es un documento que describe cómo, cuándo y con quién se comunicará la información relacionada con la seguridad de la información, incluyendo políticas, incidentes, métricas y otras actualizaciones relevantes.
 Un plan de comunicaciones efectivo asegura que la información de seguridad llegue a las audiencias adecuadas de manera oportuna y clara.
 
@@ -77,7 +77,7 @@ Un plan de comunicaciones efectivo asegura que la información de seguridad lleg
   <img src="Imagenes/Communications Plan.png">
 </p>
 
-## Roles and Responsibilities (Roles y Responsabilidades):
+## 9. Roles and Responsibilities (Roles y Responsabilidades):
 Se refiere a la asignación clara de tareas, deberes y rendición de cuentas a individuos o equipos dentro de la organización en relación con la seguridad de la información.
 La definición de roles y responsabilidades es crucial para asegurar que cada aspecto de la seguridad de la información sea abordado por personal apropiado, evitando lagunas y duplicidades.
 
@@ -85,14 +85,13 @@ La definición de roles y responsabilidades es crucial para asegurar que cada as
   <img src="Imagenes/Roles and Responsibilities.jpeg">
 </p>
 
-
-## Workforce Planning (Planificación de la Fuerza Laboral):
+## 10. Workforce Planning (Planificación de la Fuerza Laboral):
 Se refiere al proceso de identificar las necesidades de personal en seguridad de la información, incluyendo las habilidades, la cantidad y el momento en que se requieren.
 La planificación de la fuerza laboral es necesaria para asegurar que se cuente con el personal adecuado y capacitado para implementar y gestionar los programas de seguridad.
 
 ![strategic](https://e7f71d4a.rocketcdn.me/wp-content/uploads/sites/20/2023/11/The-Workforce-Planning-Process-or-Cycle.png)
 
-## Resource Management (Gestión de Recursos):
+## 11. Resource Management (Gestión de Recursos):
 Se refiere a la planificación, asignación y supervisión eficiente de los recursos necesarios para implementar y mantener los programas de seguridad, incluyendo presupuesto (Budgeting), personal, tecnología e infraestructura2 .
 La gestión de recursos asegura que las iniciativas de seguridad cuenten con los medios necesarios para su ejecución.
 
@@ -100,26 +99,26 @@ La gestión de recursos asegura que las iniciativas de seguridad cuenten con los
   <img src="Imagenes/resource.png">
 </p>
 
-## Data Classification (Clasificación de Datos):
+## 12. Data Classification (Clasificación de Datos):
 Es el proceso de categorizar los datos de la organización en función de su sensibilidad, valor y requisitos regulatorios, para aplicar controles de seguridad apropiados.
 La clasificación de datos es fundamental para determinar el nivel de protección que se requiere para cada tipo de información.
 
 ![strategic](https://www.ignyteplatform.com/wp-content/uploads/2024/03/Data-Classification-Levels.jpg)
 
-## Security Policy (Política de Seguridad):
+## 13. Security Policy (Política de Seguridad):
 
 ![strategic](https://www.bizzsecure.com/wp-content/uploads/2020/01/65-Design-Information-Security-Policies-the-Right-Way-850x460.png)
 
 Son documentos que establecen las reglas, directrices y comportamientos esperados para proteger los activos de información de una organización.
 La política de seguridad proporciona un marco normativo para todas las actividades relacionadas con la seguridad de la información.
 
-## Creating a Security Culture (Creación de una Cultura de Seguridad):
+## 14. Creating a Security Culture (Creación de una Cultura de Seguridad):
 Se refiere al proceso de fomentar una conciencia y una comprensión compartida de la importancia de la seguridad de la información en toda la organización, donde los empleados comprenden los riesgos y adoptan comportamientos seguros.
 Crear una cultura de seguridad es esencial para lograr que la seguridad sea una responsabilidad compartida y no solo del departamento de TI o seguridad.
 
 ![strategic](https://sprinto.com/wp-content/uploads/2023/10/Copy-of-Blog_330_How-to-create-a-strong-company-culture-04-scaled.jpg)
 
-## Security Training (Entrenamiento en Seguridad):
+## 15. Security Training (Entrenamiento en Seguridad):
 Se refiere a las actividades diseñadas para educar a los empleados y otras partes interesadas sobre los riesgos de seguridad de la información y las mejores prácticas para mitigarlos.
 El entrenamiento en seguridad es fundamental para crear conciencia y desarrollar las habilidades necesarias para mantener un entorno seguro.
     • **Awareness Training (Entrenamiento de Concientización)**: Un tipo de entrenamiento en seguridad que se enfoca en sensibilizar a los usuarios sobre las amenazas de seguridad y las políticas de seguridad de la organización.
@@ -127,28 +126,83 @@ El entrenamiento en seguridad es fundamental para crear conciencia y desarrollar
 
 ![strategic](https://www.ecsbiztech.com/wp-content/uploads/2020/12/cyber-awarenes-1280x658.jpeg)
 
-## Metrics and Reporting (Métricas e Informes):
+## 16. Metrics and Reporting (Métricas e Informes):
 Implica la definición y recopilación de datos cuantificables sobre el estado y la efectividad de los controles de seguridad, así como la comunicación de estos datos a las partes interesadas a través de informes.
 Las métricas y los informes son esenciales para medir el progreso, identificar áreas de mejora y comunicar el valor de las inversiones en seguridad.
 
 ![strategic](https://docket.acc.com/sites/default/files/inline-images/cr1HlXO9XsjcCEqkDVNvGDJheXFPiLBPubei9mpw0LOdBCf2ax.jpg)
 
-## IT Portfolio Management (Gestión del Portafolio de TI):
+## 17. IT Portfolio Management (Gestión del Portafolio de TI):
 Es el proceso de gestionar centralizadamente el conjunto de proyectos, activos y recursos de TI de una organización, incluyendo las inversiones en seguridad, para asegurar que estén alineados con los objetivos estratégicos y proporcionen el máximo valor.
 La gestión del portafolio de TI ayuda a priorizar las inversiones en seguridad en relación con otras necesidades de TI del negocio.
 
 ![strategic](https://jaro-website.s3.ap-south-1.amazonaws.com/2024/03/Portfolio-Management-Insights-and-Strategies.jpg)
 
-## Change Management (Gestión del Cambio):
+## 18. Change Management (Gestión del Cambio):
 Es el proceso de gestionar la transición de la organización o partes de ella a un nuevo estado, asegurando que los cambios en la infraestructura, las aplicaciones o los procesos de seguridad se realicen de manera controlada y minimizando los riesgos.
 La gestión del cambio es fundamental para implementar nuevas medidas de seguridad o modificar las existentes sin interrumpir las operaciones del negocio ni introducir nuevas vulnerabilidades.
 
 ![strategic](https://eu-images.contentstack.com/v3/assets/blt69509c9116440be8/blt9ecd1d43bc866925/6669f9cb2c656f72a946e9bb/changemanagement_NicoElNino-AlamyStockPhoto.jpg?width=1280&auto=webp&quality=95&format=jpg&disable=upscale)
 
-## Board Communications (Comunicaciones con la Junta Directiva):
+## 19. Board Communications (Comunicaciones con la Junta Directiva):
 Se refiere a la comunicación formal e informal entre el CISO y la junta directiva de la organización sobre el estado de la seguridad de la información, los riesgos clave, las iniciativas importantes y el rendimiento del programa de seguridad.
 Una comunicación efectiva con la junta directiva es crucial para asegurar el apoyo de la alta dirección a las iniciativas de seguridad y para mantenerlos informados sobre los riesgos que enfrenta la organización.
 
 <p align="center">
   <img src="Imagenes/1.jpeg">
 </p>
+
+
+# PART II. FORENSICS
+
+En el contexto de un Centro de Operaciones de Seguridad (SOC), involucra la adquisición, análisis y presentación de evidencia digital para entender incidentes de seguridad y responder a ellos.
+
+
+
+
+## 1. Adquisición de Evidencia: 
+El proceso de forensics comienza con la adquisición de activos relevantes que puedan contener evidencia relacionada con un incidente de seguridad4 . Esto puede incluir:
+
+### 1.1. Host Forensics: 
+Adquisición de memoria y disco de sistemas internos comprometidos2 .
+
+### 1.2. Network Forensics: 
+
+• Adquisición de registros (logs), información de eventos y captura de paquetes de red (PCAP)2 .
+• Adquisición de Dispositivos, Software o Código: Obtención de los elementos necesarios para su análisis4 .
+• Artefactos de Red Relacionados: Incluyendo registros del servidor y captura completa de paquetes de red (Full PCAP)4 .
+
+## 2. Análisis: 
+Una vez que se adquiere la evidencia, se procede con el análisis para entender qué sucedió, cómo sucedió y quién estuvo involucrado. Esto puede implicar:
+◦
+Correlación de alertas y entradas de registro (logs) con datos brutos4 .
+◦
+Evaluación histórica con nuevos Indicadores de Compromiso (IOCs)4 .
+◦
+Análisis de activos comprometidos4 .
+◦
+Mantenimiento de la cadena de custodia para asegurar la integridad de la evidencia4 .
+◦
+Análisis de alto valor informativo y análisis a largo plazo, incluyendo minería de datos y estudio de interacciones4 .
+◦
+Búsqueda de amenazas (Threat Hunting), utilizando información de fuentes internas y externas5 .
+◦
+Ingeniería inversa de software o código malicioso2 .
+◦
+Correlación de eventos con actores de amenazas y retención de sus características5 .
+
+## 3. Respuesta: 
+La información obtenida del análisis forense es crucial para la fase de respuesta a incidentes3 .... Forensics trabaja con otras funciones del SOC para:
+◦
+Obtener soporte y análisis adicional6 .
+◦
+Proporcionar estado e informes sobre el incidente5 ....
+◦
+Apoyar en la erradicación de las causas del incidente6 .
+◦
+Ayudar a barrer la empresa en busca de otros posibles compromisos6 .
+•
+## 4. Aspectos Legales y Regulatorios: 
+El proceso de forensics también está ligado a aspectos legales y regulatorios, incluyendo investigaciones, descubrimiento electrónico (eDiscovery) y la protección de la propiedad intelectual2 .
+
+En resumen, el proceso de forensics es una parte esencial de la gestión de la seguridad, especialmente dentro de un SOC, que permite investigar incidentes de seguridad de manera metódica, recolectar y analizar evidencia digital, y apoyar las acciones de respuesta necesarias2 
