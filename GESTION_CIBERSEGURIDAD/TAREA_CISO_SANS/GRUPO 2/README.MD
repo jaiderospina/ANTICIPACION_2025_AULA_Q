@@ -190,7 +190,7 @@ herramientas que nos permite identificar trafico de red, seguridad de dispositiv
 # - **PROCESO DE MONITOREO**
 
 Recoleccion datos
-#-Analiza y correlaciona en el SIEM
+-Analiza y correlaciona en el SIEM
 #-Evalúa y detecta amenazas
 #-Respuesta y mitigación 
 
