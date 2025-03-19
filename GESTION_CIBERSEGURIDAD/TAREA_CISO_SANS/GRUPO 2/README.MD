@@ -4,7 +4,7 @@
 ##  **Garnica Torres Miguel**
 ##  **Rincon Solano Ruben**
 
-                                              # **LEGAL AND REGULATORY** 
+                                              # -**LEGAL AND REGULATORY**- 
 
 --------------------------
 ![Image](https://github.com/user-attachments/assets/349e7d5d-a905-4f65-a705-619c8ff35c50)
