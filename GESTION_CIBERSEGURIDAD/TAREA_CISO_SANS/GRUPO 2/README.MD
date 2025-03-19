@@ -72,3 +72,14 @@ Ley de protección de datos de la Unión Europea obliga a las empresas a:
 	Informar a los usuarios sobre el uso de sus datos.
 	Permitir que los usuarios eliminen sus datos ("derecho al olvido").
 
+![Image](https://github.com/user-attachments/assets/be21b296-8def-412c-af64-eef9f6381f48)
+
+
+
+
+
+
+
+
+
+
