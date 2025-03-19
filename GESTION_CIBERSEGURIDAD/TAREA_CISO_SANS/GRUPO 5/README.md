@@ -243,42 +243,147 @@ Es el primer nivel de respuesta ante incidentes críticos. Su función principal
 
 
 
-## 2. Aplicacion de la ley:
+## 2. APLICACIÓN DE LA LEY:
 El término Law Enforcement (Aplicación de la Ley o Autoridades Policiales) aparece como una parte clave dentro de las funciones del Security Operations Center (SOC), específicamente relacionado con la gestión de incidentes y respuesta a eventos de seguridad graves.</p>
 
-**a.	Reporte de Actividad Ilegal:**
-•	Reportar actividades sospechosas o ilegales detectadas en la red o sistemas.
-•	Coordinar con la policía o agencias gubernamentales para compartir pruebas.
+<table border="1" style="width:100%; border-collapse: collapse; text-align: left; font-family: Arial, sans-serif;">
+  <thead>
+    <tr style="background-color: #f2f2f2; text-align: center; font-weight: bold;">
+      <th style="padding: 12px; width: 25%;">SECCIÓN</th>
+      <th style="padding: 12px; width: 75%;">DESCRIPCIÓN</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="font-weight: bold; padding: 12px; background-color: #e6f7ff;">Reporte de Actividad Ilegal</td>
+      <td style="padding: 12px;">
+        <ul>
+          <li>Reportar actividades sospechosas o ilegales detectadas en la red o sistemas.</li>
+          <li>Coordinar con la policía o agencias gubernamentales para compartir pruebas.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; padding: 12px; background-color: #e6f7ff;">Preservación de Evidencia</td>
+      <td style="padding: 12px;">
+        <ul>
+          <li>Preservar la cadena de custodia de los activos afectados.</li>
+          <li>Asegurar la integridad de la evidencia digital (forense) para que sea válida ante procesos legales.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; padding: 12px; background-color: #e6f7ff;">Comunicación Controlada</td>
+      <td style="padding: 12px;">
+        <ul>
+          <li>La interacción con Law Enforcement debe ser cuidadosamente planificada y aprobada por la dirección y el equipo legal.</li>
+          <li>En muchos casos, también involucra la comunicación con clientes o el público, especialmente si el incidente tiene un impacto significativo.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; padding: 12px; background-color: #e6f7ff;">Agencias de Law Enforcement</td>
+      <td style="padding: 12px;">
+        <p>Dependiendo del país, pueden incluir:</p>
+        <ul>
+          <li>Policía Nacional o Local (Delitos tecnológicos).</li>
+          <li>Agencias especializadas como:
+            <ul>
+              <li>FBI Cyber Division (EE. UU.).</li>
+              <li>Europol EC3 (Europa).</li>
+              <li>INTERPOL.</li>
+              <li>Organismos regulatorios en casos de incumplimiento (GDPR, PCI DSS, etc.).</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-**b.	Preservación de Evidencia:**
-•	Preservar la cadena de custodia de los activos afectados.
-•	Asegurar la integridad de la evidencia digital (forense) para que sea válida ante procesos legales.
-
-**c.	Comunicación Controlada:**
-•	La interacción con Law Enforcement debe ser cuidadosamente planificada y aprobada por la dirección y el equipo legal.
-•	En muchos casos, también involucra la comunicación con clientes o el público, especialmente si el incidente tiene un impacto significativo.
-
-**d.	¿Qué Agencias de Law Enforcement suelen participar?**
-Dependiendo del país, pueden incluir:
-•	Policía Nacional o Local (Delitos tecnológicos).
-•	Agencias especializadas como: FBI Cyber Division (EE. UU.), Europol EC3 (Europa), INTERPOL, Organismos regulatorios en casos de incumplimiento (como GDPR, PCI DSS, etc.).
-
-## 3. El publico:
+## 3. EL PÚBLICO:
 Aunque el público general no es parte activa de la operación técnica del SOC, sí es un actor clave en la gestión de comunicación y percepción externa en casos de incidentes importantes (por ejemplo, brechas de datos, ataques mediáticos, interrupciones de servicio, etc.).
-
 Las funciones del SOC relacionadas con el Público son:
 
-**a.	Comunicación y Transparencia:**
-•	Emisión de comunicados públicos en caso de incidentes que afecten a clientes, usuarios o stakeholders externos.
-•	Publicación de status reports, avisos de seguridad, y actualizaciones.
-•	Control de crisis comunicacional para preservar la reputación de la organización.
-
-**b.	Concienciación y Educación:**
-•	Programas de concienciación pública sobre ciberseguridad (por ejemplo, alertas de phishing, mejores prácticas para contraseñas, etc.).
-•	Participación en campañas públicas para aumentar la seguridad general (muy relacionado con el área de Security Awareness).
-
-**c.	Relación con Clientes y Socios:**
-•	Brindar atención al público afectado por incidentes: 
-o	Notificación de brechas que involucren datos personales.
-o	Proporcionar canales de soporte y preguntas frecuentes.
-o	Informar sobre pasos preventivos o correctivos.
+<table border="1" style="width:100%; border-collapse: collapse; text-align: left; font-family: Arial, sans-serif;">
+  <thead>
+    <tr style="background-color: #f2f2f2; text-align: center; font-weight: bold;">
+      <th style="padding: 12px; width: 25%;">SECCIÓN</th>
+      <th style="padding: 12px; width: 75%;">DESCRIPCIÓN</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="font-weight: bold; padding: 12px; background-color: #e6f7ff;">Reporte de Actividad Ilegal</td>
+      <td style="padding: 12px;">
+        <ul>
+          <li>Reportar actividades sospechosas o ilegales detectadas en la red o sistemas.</li>
+          <li>Coordinar con la policía o agencias gubernamentales para compartir pruebas.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; padding: 12px; background-color: #e6f7ff;">Preservación de Evidencia</td>
+      <td style="padding: 12px;">
+        <ul>
+          <li>Preservar la cadena de custodia de los activos afectados.</li>
+          <li>Asegurar la integridad de la evidencia digital (forense) para que sea válida ante procesos legales.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; padding: 12px; background-color: #e6f7ff;">Comunicación Controlada</td>
+      <td style="padding: 12px;">
+        <ul>
+          <li>La interacción con Law Enforcement debe ser cuidadosamente planificada y aprobada por la dirección y el equipo legal.</li>
+          <li>En muchos casos, también involucra la comunicación con clientes o el público, especialmente si el incidente tiene un impacto significativo.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; padding: 12px; background-color: #e6f7ff;">¿Qué Agencias de Law Enforcement suelen participar?</td>
+      <td style="padding: 12px;">
+        <ul>
+          <li>Dependiendo del país, pueden incluir:</li>
+          <ul>
+            <li>Policía Nacional o Local (Delitos tecnológicos).</li>
+            <li>Agencias especializadas como: FBI Cyber Division (EE. UU.), Europol EC3 (Europa), INTERPOL.</li>
+            <li>Organismos regulatorios en casos de incumplimiento (como GDPR, PCI DSS, etc.).</li>
+          </ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; padding: 12px; background-color: #e6f7ff;">Comunicación y Transparencia</td>
+      <td style="padding: 12px;">
+        <ul>
+          <li>Emisión de comunicados públicos en caso de incidentes que afecten a clientes, usuarios o stakeholders externos.</li>
+          <li>Publicación de status reports, avisos de seguridad, y actualizaciones.</li>
+          <li>Control de crisis comunicacional para preservar la reputación de la organización.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; padding: 12px; background-color: #e6f7ff;">Concienciación y Educación</td>
+      <td style="padding: 12px;">
+        <ul>
+          <li>Programas de concienciación pública sobre ciberseguridad (por ejemplo, alertas de phishing, mejores prácticas para contraseñas, etc.).</li>
+          <li>Participación en campañas públicas para aumentar la seguridad general (muy relacionado con el área de Security Awareness).</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; padding: 12px; background-color: #e6f7ff;">Relación con Clientes y Socios</td>
+      <td style="padding: 12px;">
+        <ul>
+          <li>Brindar atención al público afectado por incidentes:</li>
+          <ul>
+            <li>Notificación de brechas que involucren datos personales.</li>
+            <li>Proporcionar canales de soporte y preguntas frecuentes.</li>
+            <li>Informar sobre pasos preventivos o correctivos.</li>
+          </ul>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
