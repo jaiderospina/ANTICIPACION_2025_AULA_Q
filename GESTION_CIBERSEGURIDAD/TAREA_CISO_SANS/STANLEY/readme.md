@@ -49,28 +49,7 @@ Según el póster, la sección de "Security Operations" (Operaciones de Segurida
 
 ---
 
-### 3. Cumplimiento
-
-**Qué es:** El cumplimiento se refiere a la adhesión a las leyes, regulaciones, estándares y políticas de seguridad relevantes. El objetivo es garantizar que la organización cumpla con sus obligaciones legales y regulatorias y que se sigan las mejores prácticas de seguridad.
-
-**Cómo funciona (controles de cumplimiento):**
-
-* **PCI DSS:** El Estándar de Seguridad de Datos de la Industria de Tarjetas de Pago (PCI DSS) es un estándar de seguridad para organizaciones que manejan información de tarjetas de crédito.
-* **HIPAA:** La Ley de Portabilidad y Responsabilidad de Seguros de Salud (HIPAA) es una ley de los Estados Unidos que protege la información médica confidencial de los pacientes.
-* **SOX:** La Ley Sarbanes-Oxley (SOX) es una ley de los Estados Unidos que establece estándares para la información financiera de las empresas públicas.
-* **EU GDPR:** El Reglamento General de Protección de Datos (GDPR) es un reglamento de la Unión Europea sobre la privacidad y la protección de datos.
-* **FFIEC, CAT:** El Consejo Federal de Examen de Instituciones Financieras (FFIEC) y la Herramienta de Evaluación Cibernética (CAT) proporcionan orientación y herramientas para evaluar la ciberseguridad en las instituciones financieras.
-* **SSAE 16:** Las Declaraciones sobre Normas para Encargos de Atestiguamiento (SSAE 16) son un conjunto de normas para los informes de control interno de las organizaciones de servicios.
-* **ISO 27001:** ISO 27001 es un estándar internacional para la gestión de la seguridad de la información.
-* **NIST SP 800-37:** La Publicación Especial 800-37 del NIST (Instituto Nacional de Estándares y Tecnología) proporciona directrices para la gestión del riesgo de seguridad de la información.
-* **NIST SP 800-53:** La Publicación Especial 800-53 del NIST proporciona un catálogo de controles de seguridad para los sistemas de información federales de los Estados Unidos.
-* **NIST SP 800-53A:** La Publicación Especial 800-53A del NIST proporciona orientación para evaluar la eficacia de los controles de seguridad.
-* **FISMA y FedRAMP:** La Ley Federal de Gestión de Seguridad de la Información (FISMA) es una ley de los Estados Unidos que requiere que las agencias federales protejan sus sistemas de información. El Programa Federal de Gestión de Autorizaciones y Riesgos (FedRAMP) es un programa del gobierno de los Estados Unidos que proporciona un enfoque estandarizado para la evaluación de seguridad, autorización y monitoreo continuo de productos y servicios en la nube.
-* **SOC 2:** SOC 2 es un informe de control interno que certifica que una organización gestiona los datos de los clientes de forma segura.
-
----
-
-### 4. Respuesta
+### 3. Respuesta
 
 **Qué es:** La respuesta se refiere a las acciones tomadas después de que ocurre un incidente de seguridad. El objetivo es contener el incidente, erradicar la causa raíz, recuperar los sistemas y restaurar las operaciones normales.
 
