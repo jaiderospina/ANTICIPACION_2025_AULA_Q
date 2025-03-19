@@ -171,7 +171,7 @@ Estas habilidades abarcan diversas áreas clave para el liderazgo efectivo en en
 
 -------
 
-<p align="center">
+##<p align="center">
   <img src="IMAGES/SOC.png">
 </p>
 
