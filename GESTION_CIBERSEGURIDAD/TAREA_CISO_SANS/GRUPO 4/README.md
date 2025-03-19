@@ -56,6 +56,9 @@ Cada uno de estos componentes es fundamental para asegurar el acceso adecuado a 
 
 # Security Operations Center (SOC) Essential Functions
 
+![SOC](https://github.com/user-attachments/assets/eaf3312b-60f2-430e-b840-5769caf4ce85)
+
+
 # AUTOEVALUACION
 
 Es un proceso interno que permite a una organización evaluar sus propias políticas, procedimientos y controles de seguridad. Este proceso ayuda a identificar áreas de mejora y a garantizar que se están cumpliendo las mejores prácticas.
