@@ -35,7 +35,7 @@ Según el póster, la sección de "Security Operations" (Operaciones de Segurida
 
 ### 2. Detección
 
-
+![Image](https://github.com/user-attachments/assets/27d2bea9-353e-4062-bd9d-1e1e21964cd2)
 
 **Qué es:** La detección implica la capacidad de identificar y reconocer incidentes de seguridad que están ocurriendo o que ya han ocurrido. El objetivo es obtener visibilidad de las actividades maliciosas y anómalas en la red y los sistemas.
 
