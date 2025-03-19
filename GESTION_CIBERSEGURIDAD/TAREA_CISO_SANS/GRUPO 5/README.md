@@ -1,6 +1,6 @@
 # <p align="center"> LEADERSHIP SKILLS </p>
 <p align="center">
-  <img src="IMAGES/CISO.JPG">
+  <img src="GESTION_CIBERSEGURIDAD/TAREA_CISO_SANS/GRUPO 5/IMAGES/CISO.jpg">
 </p>
 **<p align="center">INTEGRANTES GRUPO 5</p>**
 
