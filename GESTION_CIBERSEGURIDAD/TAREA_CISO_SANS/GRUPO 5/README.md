@@ -4,19 +4,6 @@
 
 **<p align="center"> MY. CARLOS AUGUSTO URIBE VERGARA -- CC. DANNY LEOMAR SÁNCHEZ ROPERO -- CC. JOSÉ JOHAN MARTÍNEZ ROJAS</p>**
 
-<table align="center" border="1">
-  <tr>
-    <td align="center">
-      <img src="IMAGES/Imagen1.png" width="350">
-    </td>
-    <td align="center">
-      <img src="IMAGES/flecha2.png" width="200">
-    </td>
-    <td align="center">
-      <img src="IMAGES/imagen2.png" width="350">
-    </td>
-  </tr>
-</table>
 
 ------
 # <p align="center"> LEADERSHIP SKILLS </p>
