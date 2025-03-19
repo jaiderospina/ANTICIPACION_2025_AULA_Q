@@ -39,4 +39,10 @@ Protege la privacidad de los registros educativos de estudiantes en EE.UU, Impid
 
 ![Image](https://github.com/user-attachments/assets/8d008cf0-3f91-4038-bf9f-a936b710603c)
 
+### ***5 NERC CIP: (North American Electric Reliability Corporation - Critical Infrastructure Protection)***
+
+Regulación de seguridad para la infraestructura eléctrica en EE.UU, Obliga a compañías eléctricas a proteger sus sistemas contra ciberataques.
+
+![Image](https://github.com/user-attachments/assets/a8bebdf3-8211-40c6-9205-b54da55c640c)
+
 
