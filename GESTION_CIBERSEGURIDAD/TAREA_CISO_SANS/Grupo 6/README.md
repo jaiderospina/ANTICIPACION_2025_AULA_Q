@@ -1,3 +1,12 @@
+  <h1>CYBERDRAGON</h1>
+ </header>
+1. **CASALLAS TORRES DIEGO FERNANDO**
+2. **CALDERON ARIAS JOSE ANTONIO**
+3. **CASTRO BEDOYA YURLEWINSON**
+4. **CONTRERAS LOBATON JOAN SEBASTIAN**
+![imagen crossite](https://i.gifer.com/7v54.gif)
+
+
 # GOVERNANCE
 Se refiere al sistema de reglas, prácticas y procesos mediante los cuales se dirige y controla una organización en relación con la seguridad de la información. Implica la definición de responsabilidades, la toma de decisiones y la rendición de cuentas para asegurar que los objetivos de seguridad se cumplan.
 La gobernanza es un pilar fundamental de la responsabilidad del CISO, se utiliza para establecer la dirección estratégica de la seguridad, supervisar la implementación de los programas de seguridad, asegurar el cumplimiento normativo y legal, y comunicar el estado de la seguridad a las partes interesadas.
