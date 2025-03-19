@@ -73,7 +73,7 @@ La gestión de programas es crucial para coordinar las diferentes actividades de
 Es un documento que describe cómo, cuándo y con quién se comunicará la información relacionada con la seguridad de la información, incluyendo políticas, incidentes, métricas y otras actualizaciones relevantes.
 Un plan de comunicaciones efectivo asegura que la información de seguridad llegue a las audiencias adecuadas de manera oportuna y clara.
 
-![plan](https://www.slideteam.net/media/catalog/product/cache/1280x720/d/a/data_governance_framework_with_strategic_communication_methods_slide01.jpg)
+![plan](Imagenes/Communications Plan.png)
 
 
 ## Roles and Responsibilities (Roles y Responsabilidades):
