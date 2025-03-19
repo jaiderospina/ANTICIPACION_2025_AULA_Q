@@ -19,6 +19,15 @@ En el siguiente ejercicio se destacarán las trece 13 subespecialidades para la 
 
 ## 1. RISK FRAMEWORKS
 
+Un marco de gestión de riesgos (RMF- Risk Framework Management) es un conjunto de prácticas, procesos y tecnologías que permiten a una organización identificar, evaluar y analizar los riesgos para gestionarlos dentro de su organización. Un marco de gestión de riesgos es un elemento fundamental para cualquier programa de cumplimiento sólido y generalmente sigue estos pasos:
+
+*	Identificar
+*	Evaluar
+*	Analizar
+*	Determinar la tolerancia al riesgo
+*	Implementar controles
+*	Monitorear y actualizar
+
 ### 1.1 FAIR:
 ![FAIR](https://www.fairinstitute.org/hs-fs/hubfs/Group%2034.jpg?width=832&height=812&name=Group%2034.jpg)
 (Factor Analysis of Information Risk) El Análisis Factorial del Riesgo de la Información (FAIR™) es un modelo cuantitativo estándar internacional para la seguridad de la información y el riesgo operacional.
@@ -28,15 +37,6 @@ Construye una base para desarrollar un enfoque sólido para la gestión de riesg
 
 ### 1.2 NIST RFM:
 ![NIST RFM](https://csrc.nist.gov/CSRC/media/Projects/risk-management/images-media/RMF%20Logos/PNG%20Format/NIST%20RMF%20Graphc.png)
-
-Un marco de gestión de riesgos (RMF- Risk Framework Management) es un conjunto de prácticas, procesos y tecnologías que permiten a una organización identificar, evaluar y analizar los riesgos para gestionarlos dentro de su organización. Un marco de gestión de riesgos es un elemento fundamental para cualquier programa de cumplimiento sólido y generalmente sigue estos pasos:
-
-*	Identificar
-*	Evaluar
-*	Analizar
-*	Determinar la tolerancia al riesgo
-*	Implementar controles
-*	Monitorear y actualizar
 
 El Marco de Gestión de Riesgos del Instituto Nacional de Estándares y Tecnología (NIST) establece un enfoque basado en riesgos para la gestión de la seguridad, la privacidad y los riesgos cibernéticos en la cadena de suministro. El Marco de Gestión de Riesgos del NIST consta de los siguientes siete pasos:
 
