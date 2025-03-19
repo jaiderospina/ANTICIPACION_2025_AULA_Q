@@ -1,7 +1,4 @@
 # <p align="center"> LEADERSHIP SKILLS </p>
-<p align="center">
-  <img src="IMAGES/CISO.jpg">
-</p>
 **<p align="center">INTEGRANTES GRUPO 5</p>**
 
 **<p align="center"> MY. CARLOS AUGUSTO URIBE VERGARA -- CC. DANNY LEOMAR SÁNCHEZ ROPERO -- CC. JOSÉ JOHAN MARTÍNEZ ROJAS</p>**
