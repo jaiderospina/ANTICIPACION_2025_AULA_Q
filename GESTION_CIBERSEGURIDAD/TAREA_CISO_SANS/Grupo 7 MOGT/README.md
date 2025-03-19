@@ -181,7 +181,7 @@ Los objetivos son:
 
 Disaster Recovery Plan (DRP) - Plan de Recuperación ante Desastres
 
-El Disaster Recovery Plan (DRP) es un conjunto de procedimientos documentados que permiten a una organización recuperar sus sistemas de TI y datos críticos después de un incidente disruptivo. Su objetivo es minimizar el tiempo de inactividad, reducir la pérdida de datos y asegurar la continuidad operativa tras eventos como ciberataques, fallos de hardware, desastres naturales o errores humanos.
+El Disaster Recovery Plan (DRP) es un conjunto de procedimientos documentados que permiten a una organización recuperar (RESTAURAR) sus sistemas de TI y datos críticos después de un incidente disruptivo. Su objetivo es minimizar el tiempo de inactividad, reducir la pérdida de datos y asegurar la continuidad operativa tras eventos como ciberataques, fallos de hardware, desastres naturales o errores humanos.
 
 El DRP abarca varios elementos clave para garantizar una recuperación efectiva:
 
@@ -206,7 +206,7 @@ La continuidad de negocio es una especialidad dentro de la gestión de riesgos q
 En qué consiste?
 
 Consiste en identificar las actividades prioritarias, y el impacto que su paralización podría tener, para poder decidir qué estrategia seguir en caso de que esos riesgos se materialicen.
-Lo que buscan las políticas de continuidad de negocio es reducir esta paralización y ofrecer un nivel de producción mínimo de cara a mitigar algunas de las consecuencias que se agravan con el tiempo.
+Lo que buscan las políticas de continuidad de negocio es reducir esta paralización y ofrecer un nivel de producción mínimo de cara a mitigar algunas de las consecuencias que se agravan con el tiempo. (ASEGURAR QUE LAS OPERACIONES CRÍTICAS DEL NEGOCIO CONTINUEN)
 
 Principales normas: ISO 22301:2020 y su familia.
 
