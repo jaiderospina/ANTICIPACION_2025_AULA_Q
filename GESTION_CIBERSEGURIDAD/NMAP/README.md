@@ -135,7 +135,8 @@ Nmap es una herramienta poderosa para diagnóstico de redes y seguridad. Dominar
 7. Menciona dos scripts comunes de **NSE (Nmap Scripting Engine)** y su utilidad.  
 8. ¿Qué significa el modo de temporización `-T4` en Nmap y en qué situaciones se recomienda usarlo?  
 9. ¿Cómo guardarías los resultados de un escaneo en formato de texto con el nombre `resultado.txt`?  
-10. ¿Por qué es importante obtener autorización antes de usar Nmap en una red ajena?  
+10. ¿Por qué es importante obtener autorización antes de usar Nmap en una red ajena?
+11. Identifique y justifique en que fases del ciber kill chain NMAP es aplicable, referencia de ayuda (https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html).
 
 ---
 **Nota:**  
