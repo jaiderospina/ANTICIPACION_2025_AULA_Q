@@ -260,4 +260,4 @@ El script `ssh-hostkey` de nmap es una **primera línea de reconocimiento** úti
 - Detectar dispositivos con claves predeterminadas.
 - Generar un inventario de servicios SSH en la red.
 
-En un pentest ético, esta información se usa para **priorizar vulnerabilidades** y recomendar hardening (ej: deshabilitar algoritmos obsoletos). ¿Quieres profundizar en algún punto? 🔍
+En un pentest ético, esta información se usa para **priorizar vulnerabilidades** y recomendar hardening (ej: deshabilitar algoritmos obsoletos). ¿Quieres profundizar en algún punto? 
