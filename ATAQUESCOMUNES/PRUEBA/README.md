@@ -1,10 +1,9 @@
-![image](https://github.com/user-attachments/assets/a82c909d-e9e4-42f6-8d1a-d9ef9473c611) 
-**:imp:DEFENSA EN PROFUNDIDAD: FORTALEZA DIGITAL DE TECHSOLUTIONS CORP.:imp:**
+***:imp:DEFENSA EN PROFUNDIDAD: FORTALEZA DIGITAL DE TECHSOLUTIONS CORP.:imp:***
 ![EQUIPO DE HACKING ÉTICO MGOT](https://media.licdn.com/dms/image/v2/D4E12AQGtgZUaecTDtg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1704959664316?e=2147483647&v=beta&t=PovZR5gg6Mznz1sZ-ErCfzXwaOfQl0qAr_ZpUeM_YBM)
 
 Grupo **AULAQ CYBERTEAM**.
 
-A lo largo del siguiente trabajo, exploraremos un enfoque integral para fortalecer nuestra postura de seguridad digital mediante capas superpuestas de protección.![image](https://github.com/user-attachments/assets/61047dcd-d0a5-46b3-ba93-f97d94a1c7e4)
+A lo largo del siguiente trabajo, exploraremos un enfoque integral para fortalecer nuestra postura de seguridad digital mediante capas superpuestas de protección.
 
 - [X] MY. CARLOS URIBE
 - [X] MY. MARIO GÓMEZ
