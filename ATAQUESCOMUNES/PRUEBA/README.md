@@ -1,4 +1,5 @@
-***:imp:DEFENSA EN PROFUNDIDAD: FORTALEZA DIGITAL DE TECHSOLUTIONS CORP.:imp:***
+# :imp::rotating_light::skull: DEFENSA EN PROFUNDIDAD: FORTALEZA DIGITAL DE TECHSOLUTIONS CORP. :skull::rotating_light::imp: 
+
 ![EQUIPO DE HACKING ÉTICO MGOT](https://media.licdn.com/dms/image/v2/D4E12AQGtgZUaecTDtg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1704959664316?e=2147483647&v=beta&t=PovZR5gg6Mznz1sZ-ErCfzXwaOfQl0qAr_ZpUeM_YBM)
 
 Grupo **AULAQ CYBERTEAM**.
