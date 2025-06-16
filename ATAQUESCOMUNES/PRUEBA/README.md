@@ -8,7 +8,7 @@ A lo largo del siguiente trabajo, exploraremos un enfoque integral para fortalec
 - [X] MY. CARLOS URIBE
 - [X] MY. MARIO GÓMEZ
 - [X] MY. DANIEL TORRES
-- [X] MY. JOHAN MARTINEZ
+- [X] CC. JOHAN MARTINEZ
 - [X] CC. RUBEN CONTRERAS
 - [X] MY. MANUEL REY
 - [X] MY. ARTURO MAHECHA
