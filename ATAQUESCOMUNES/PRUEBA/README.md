@@ -10,8 +10,8 @@ A lo largo del siguiente trabajo, exploraremos un enfoque integral para fortalec
 - [X] MY. DANIEL TORRES :airplane:
 - [X] CC. JOHAN MARTINEZ :anchor:
 - [X] CC. RUBEN CONTRERAS :anchor:
-- [X] MY. MANUEL REY :military_truck:
-- [X] MY. ARTURO MAHECHA :tank:
+- [X] MY. MANUEL REY :military_medal:
+- [X] MY. ARTURO MAHECHA :military_medal:
 
 ![Cyber](https://i.gifer.com/origin/91/9152bb748a33392db9312e689ba62e1a_w200.webp) 
 ![Cyber](https://i.gifer.com/origin/46/46400cbacaf8eb1b36a89cdcd7da6740_w200.webp)
