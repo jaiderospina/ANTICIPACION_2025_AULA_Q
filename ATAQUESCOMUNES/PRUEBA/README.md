@@ -5,13 +5,13 @@ Grupo **AULAQ CYBERTEAM**.
 
 A lo largo del siguiente trabajo, exploraremos un enfoque integral para fortalecer nuestra postura de seguridad digital mediante capas superpuestas de protección.
 
-- [X] MY. CARLOS URIBE
-- [X] MY. MARIO GÓMEZ
-- [X] MY. DANIEL TORRES
-- [X] CC. JOHAN MARTINEZ
-- [X] CC. RUBEN CONTRERAS
-- [X] MY. MANUEL REY
-- [X] MY. ARTURO MAHECHA
+- [X] MY. CARLOS URIBE :airplane:
+- [X] MY. MARIO GÓMEZ :airplane:
+- [X] MY. DANIEL TORRES :airplane:
+- [X] CC. JOHAN MARTINEZ :anchor:
+- [X] CC. RUBEN CONTRERAS :anchor:
+- [X] MY. MANUEL REY :military_truck:
+- [X] MY. ARTURO MAHECHA :tank:
 
 ![Cyber](https://i.gifer.com/origin/91/9152bb748a33392db9312e689ba62e1a_w200.webp) 
 ![Cyber](https://i.gifer.com/origin/46/46400cbacaf8eb1b36a89cdcd7da6740_w200.webp)
