@@ -605,31 +605,26 @@ flowchart TD
     A[Inicio]
     B[Descargar laboratorio y copiar a Kali Linux (scp)]
     C[Instalar Docker (si no está instalado)]
-    D[Descomprimir el archivo del laboratorio]
-    E[Ejecutar script de despliegue]
-    F[Revisar interfaz red y segmento]
+    D[Descomprimir archivo del laboratorio]
+    E[Ejecutar script de despliegue (`./auto_deploy.sh`)]
+    F[Revisar interfaz de red y segmento (`ip add`)]
     G[Escanear red con netdiscover]
-    H[Identificar IP contenedor]
+    H[Identificar IP del contenedor objetivo]
     I[Escanear puertos y servicios con nmap]
-    J[Revisar servicio web 80]
-    K[Realizar fuzzing con gobuster]
-    L[Identificar usuarios]
-    M[Brute SSH con hydra]
-    N[Acceso SSH como carlota]
-    O[Navegar a imagen.jpg]
+    J[Revisar servicio web del puerto 80 en el navegador]
+    K[Realizar fuzzing/directorio con gobuster]
+    L[Identificar usuarios potenciales (carlota, juan)]
+    M[Ataque por fuerza bruta SSH con hydra (usuario carlota)]
+    N[Acceso exitoso por SSH como carlota]
+    O[Navegar a /home/carlota/Desktop/fotos/vacaciones e identificar imagen.jpg]
     P[Descargar imagen con scp]
-    Q[Analizar imagen]
-    R[Extraer datos con steghide]
+    Q[Analizar tipo de archivo de la imagen]
+    R[Extraer datos ocultos con steghide]
     S[Decodificar contraseña con base64]
-    T[Cambiar a usuario oscar]
-    U[Elevar privilegios con Ruby]
-    V[Validar root con whoami]
+    T[Cambiar a usuario oscar con su oscar]
+    U[Ver permisos de sudo y elevar privilegios con Ruby]
+    V[Validar acceso root con whoami]
     F1[Fin]
 
     A --> B --> C --> D --> E --> F --> G --> H --> I --> J --> K --> L --> M --> N --> O --> P --> Q --> R --> S --> T --> U --> V --> F1
-
-
-
-
-
 
