@@ -605,31 +605,36 @@ Investigación forense para determinar actividades sospechosas realizadas con cu
 
 
 ```mermaid
-graph TD
-    A[Inicio]
-    B[Descargar laboratorio y copiar a Kali Linux (scp)]
-    C[Instalar Docker (si no está instalado)]
-    D[Descomprimir archivo del laboratorio]
-    E[Ejecutar script de despliegue (`./auto_deploy.sh`)]
-    F[Revisar interfaz de red y segmento (`ip add`)]
-    G[Escanear red con netdiscover]
-    H[Identificar IP del contenedor objetivo]
-    I[Escanear puertos y servicios con nmap]
-    J[Revisar servicio web del puerto 80 en el navegador]
-    K[Realizar fuzzing/directorio con gobuster]
-    L[Identificar usuarios potenciales (carlota, juan)]
-    M[Ataque por fuerza bruta SSH con hydra (usuario carlota)]
-    N[Acceso exitoso por SSH como carlota]
-    O[Navegar a /home/carlota/Desktop/fotos/vacaciones e identificar imagen.jpg]
-    P[Descargar imagen con scp]
-    Q[Analizar tipo de archivo de la imagen]
-    R[Extraer datos ocultos con steghide]
-    S[Decodificar contraseña con base64]
-    T[Cambiar a usuario oscar con su oscar]
-    U[Ver permisos de sudo y elevar privilegios con Ruby]
-    V[Validar acceso root con whoami]
-    F1[Fin]
+flowchart TD
+    A[Inicio: Acceder a DockerLabs.es]
+    B[Descargar el reto 'Amor']
+    C[Copiar laboratorio a Kali con SCP]
+    D{¿Docker instalado?}
+    E[Instalar Docker (si es necesario)]
+    F[Desplegar con ./auto_deploy.sh]
+    G[Máquina creada en 172.17.0.2]
+    H[Revisar interfaces con ip add]
+    I[Detectar hosts con netdiscover]
+    J[Escanear puertos con nmap]
+    K[Puertos abiertos: 22 y 80]
+    L[Acceso web en puerto 80]
+    M[Fuzzing con gobuster]
+    N[Usuarios encontrados: carlota y juan]
+    O[Bruteforce SSH con hydra]
+    P[Credenciales encontradas]
+    Q[Descargar imagen.jpg con scp]
+    R[Analizar imagen con steghide]
+    S[Extraer datos con base64 -d]
+    T[Nuevas credenciales]
+    U[Cambiar a usuario oscar]
+    V[Verificar sudo con sudo -l]
+    W[Escalar privilegios con sudo ruby]
+    X[Obtener root con whoami]
+    Y[Fin]
 
-    A --> B --> C --> D --> E --> F --> G --> H --> I --> J --> K --> L --> M --> N --> O --> P --> Q --> R --> S --> T --> U --> V --> F1
+    A --> B --> C --> D
+    D -- No --> E --> F
+    D -- Sí --> F
+    F --> G --> H --> I --> J --> K --> L --> M --> N --> O --> P --> Q --> R --> S --> T --> U --> V --> W --> X --> Y
 ```
 
