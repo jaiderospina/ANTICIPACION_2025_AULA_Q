@@ -610,7 +610,7 @@ graph TD
     B[Descargar el reto 'Amor']
     C[Copiar laboratorio a Kali con SCP]
     D{¿Docker instalado?}
-    E[Instalar Docker (si es necesario)]
+    E[Instalar Docker si es necesario]
     F[Desplegar con ./auto_deploy.sh]
     G[Máquina creada en 172.17.0.2]
     H[Revisar interfaces con ip add]
