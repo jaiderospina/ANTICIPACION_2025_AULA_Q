@@ -676,7 +676,7 @@ T --> U[🔍 Verificar tipo: file imagen.jpg]
 U --> V[🕵️ Análisis esteganografía:<br/>steghide --extract -sf imagen.jpg]
 V --> W[📄 Archivo extraído: secret.txt]
 W --> X[🔤 Contenido Base64: ZXNsYWNhc2FkZXBpbnlwb24=]
-X --> Y[🔓 Decodificar:<br/>echo 'ZXNsYWNhc2FkZXBpbnlwb24=' | base64 -d]
+X --> Y[🔓 Decodificar: ZXNsYWNhc2FkZXBpbnlwb24 | base64 -d]
 Y --> Z[🔑 Password revelada: eslacasadepinypon]
 
 %% Fase 7: Escalada de Privilegios
