@@ -683,7 +683,7 @@ Y --> Z[🔑 Password revelada: eslacasadepinypon]
 Z --> AA[👤 Escalada horizontal: su oscar]
 AA --> BB[🔍 Auditoría permisos: sudo -l]
 BB --> CC[⚠️ Configuración insegura:<br/> root NOPASSWD: /usr/bin/ruby]
-CC --> DD[🚀 Escalada vertical:<br/>sudo /usr/bin/ruby -e 'exec "/bin/bash"']
+CC --> DD[🚀 Escalada vertical:<br/>sudo /usr/bin/ruby -e]
 DD --> EE[👑 Verificación final: whoami → root]
 EE --> FF[🎉 ÉXITO: Compromiso total del sistema]
 
