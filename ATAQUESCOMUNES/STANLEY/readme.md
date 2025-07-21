@@ -605,7 +605,7 @@ Investigación forense para determinar actividades sospechosas realizadas con cu
 
 
 ```mermaid
-flowchart TD
+graph TD
     A[Inicio: Acceder a DockerLabs.es]
     B[Descargar el reto 'Amor']
     C[Copiar laboratorio a Kali con SCP]
