@@ -497,6 +497,7 @@ Protegerse contra ciberataques requiere una combinación de buenas prácticas, h
 
 ## DESARROLLO
 1.	**HERRAMIENTAS EMPLEADAS**
+   
 | Herramienta | Definición | Funcionalidad | Casos de uso relevantes |
 |-------------|-----------|--------------|-------------------------|
 | **Docker** | Plataforma open-source de contenedores que aísla aplicaciones y sus dependencias | Empaqueta software en contenedores portátiles y reproducibles | Desarrollo ágil, despliegue continuo, pruebas consistentes |
@@ -509,6 +510,7 @@ Protegerse contra ciberataques requiere una combinación de buenas prácticas, h
 | **su / sudo** | Comandos de cambio de usuario y elevación de privilegios | Ejecuta órdenes como otro usuario o como root | Administración del sistema, escalada controlada de privilegios |
 
 2.	**COMANDOS EMPLEADOS**
+   
 a) netdiscover
 Comando usado:
 Text: sudo netdiscover -i docker0 -r 172.17.0.0/24
@@ -666,6 +668,7 @@ Investigación forense para determinar actividades sospechosas realizadas con cu
     |
     v
 23. **Fin**
+
 
 
 
