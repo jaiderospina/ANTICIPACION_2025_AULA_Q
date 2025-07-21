@@ -604,7 +604,8 @@ Investigación forense para determinar actividades sospechosas realizadas con cu
 
 
 
-flowchart TD
+```mermaid
+graph TD
     A[Inicio]
     B[Descargar laboratorio y copiar a Kali Linux (scp)]
     C[Instalar Docker (si no está instalado)]
@@ -630,4 +631,5 @@ flowchart TD
     F1[Fin]
 
     A --> B --> C --> D --> E --> F --> G --> H --> I --> J --> K --> L --> M --> N --> O --> P --> Q --> R --> S --> T --> U --> V --> F1
+```
 
