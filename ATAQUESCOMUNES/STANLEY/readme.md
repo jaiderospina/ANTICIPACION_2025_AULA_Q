@@ -601,73 +601,32 @@ Investigación forense para determinar actividades sospechosas realizadas con cu
 
 3.	** DIAGRAMA DE FLUJO DEL EJERCICIO**
 
-1. **Inicio**
-    |
-    v
-2. Descargar laboratorio y copiar a Kali Linux (scp)
-    |
-    v
-3. Instalar Docker (si no está instalado)
-    |
-    v
-4. Descomprimir el archivo del laboratorio
-    |
-    v
-5. Otorgar permisos y ejecutar el script de despliegue (`./auto_deploy.sh`)
-    |
-    v
-6. Revisar interfaz de red y segmento con `ip add`
-    |
-    v
-7. Escanear la red con `netdiscover -i docker0 -r 172.17.0.0/24`
-    |
-    v
-8. Identificar IP del contenedor objetivo
-    |
-    v
-9. Escanear puertos y servicios del contenedor con `nmap`
-    |
-    v
-10. Revisar el servicio web del puerto 80 en el navegador
-    |
-    v
-11. Realizar fuzzing/directorio con `gobuster`
-    |
-    v
-12. Identificar usuarios potenciales (carlota, juan)
-    |
-    v
-13. Ataque por fuerza bruta SSH con `hydra` para usuario carlota
-    |
-    v
-14. Acceso exitoso por SSH como carlota
-    |
-    v
-15. Navegar a `/home/carlota/Desktop/fotos/vacaciones` y localizar `imagen.jpg`
-    |
-    v
-16. Descargar imagen con `scp`
-    |
-    v
-17. Analizar imagen (tipo de archivo, sospecha de esteganografía)
-    |
-    v
-18. Extraer datos ocultos usando `steghide`
-    |
-    v
-19. Decodificar contraseña con comando `base64`
-    |
-    v
-20. Cambiar a usuario oscar con `su oscar`
-    |
-    v
-21. Ver permisos de sudo y elevar privilegios con Ruby (`sudo /usr/bin/ruby -e 'exec "/bin/bash"'`)
-    |
-    v
-22. Validar acceso root con `whoami`
-    |
-    v
-23. **Fin**
+flowchart TD
+    A[Inicio]
+    B[Descargar laboratorio y copiar a Kali Linux (scp)]
+    C[Instalar Docker (si no está instalado)]
+    D[Descomprimir el archivo del laboratorio]
+    E[Ejecutar script de despliegue]
+    F[Revisar interfaz red y segmento]
+    G[Escanear red con netdiscover]
+    H[Identificar IP contenedor]
+    I[Escanear puertos y servicios con nmap]
+    J[Revisar servicio web 80]
+    K[Realizar fuzzing con gobuster]
+    L[Identificar usuarios]
+    M[Brute SSH con hydra]
+    N[Acceso SSH como carlota]
+    O[Navegar a imagen.jpg]
+    P[Descargar imagen con scp]
+    Q[Analizar imagen]
+    R[Extraer datos con steghide]
+    S[Decodificar contraseña con base64]
+    T[Cambiar a usuario oscar]
+    U[Elevar privilegios con Ruby]
+    V[Validar root con whoami]
+    F1[Fin]
+
+    A --> B --> C --> D --> E --> F --> G --> H --> I --> J --> K --> L --> M --> N --> O --> P --> Q --> R --> S --> T --> U --> V --> F1
 
 
 
