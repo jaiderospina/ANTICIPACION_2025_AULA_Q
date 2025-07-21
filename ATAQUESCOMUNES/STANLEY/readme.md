@@ -601,7 +601,7 @@ Investigación forense para determinar actividades sospechosas realizadas con cu
 
 3.	** DIAGRAMA DE FLUJO DEL EJERCICIO**
 
-flowchart TD
+```mermaid flowchart TD
     A[Inicio]
     B[Descargar laboratorio y copiar a Kali Linux (scp)]
     C[Instalar Docker (si no está instalado)]
@@ -626,4 +626,4 @@ flowchart TD
     V[Validar acceso root con whoami]
     F1[Fin]
 
-    A --> B --> C --> D --> E --> F --> G --> H --> I --> J --> K --> L --> M --> N --> O --> P --> Q --> R --> S --> T --> U --> V --> F1
+    A --> B --> C --> D --> E --> F --> G --> H --> I --> J --> K --> L --> M --> N --> O --> P --> Q --> R --> S --> T --> U --> V --> F1```
